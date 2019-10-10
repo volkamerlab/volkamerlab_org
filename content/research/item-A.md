@@ -1,7 +1,7 @@
 ---
 title: Item A
-date: 2017-03-23
-publishdate: 2017-03-24
+date: 2019-10-10
+publishdate: 2019-10-10
 menu:
     main:
         parent: Research
