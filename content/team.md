@@ -9,6 +9,7 @@ leader:
   role: Team leader
   image: /images/team/andreavolkamer.jpg
   links:
+  # `icon` refers to a FontAwesome v4 icon, sans the prefix `fa-`.
     - icon: envelope
       text: andrea.volkamer@charite.de
       url: mailto:andrea.volkamer@charite.de
