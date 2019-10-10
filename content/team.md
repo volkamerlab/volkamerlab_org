@@ -26,7 +26,7 @@ members:
 - name: Dr. Jaime Rodríguez-Guerra
   role: Postdoc
   project: Scalable alchemical free energy calculations and machine learning for drug discovery
-  image: /images/team/jrg.jpg
+  image: /images/team/jaimerodriguezguerra.jpg
   links:
     - icon: envelope
       text: jaime.rodriguez@charite.de
@@ -43,9 +43,12 @@ members:
     - icon: info-circle
       text: ORCiD
       url: https://orcid.org/0000-0001-8974-1566
+    - icon: globe
+      text: Website
+      url: https://rjai.me
 - name: Andrea-Lilian Morger
   role: PhD candidate
-  image:
+  image: /images/team/andreamorger.jpg
   project:
   links:
     - icon: envelope
@@ -59,7 +62,7 @@ members:
       url: https://orcid.org/0000-0003-4774-6291
 - name: Dominique Sydow
   role: PhD candidate
-  image:
+  image: /images/team/dominiquesydow.jpg
   project:
   links:
     - icon: envelope
@@ -74,7 +77,7 @@ members:
 - name: Talia Kimber
   role: PhD candidate
   project: Scalable alchemical free energy calculations and machine learning for drug discovery
-  image:
+  image: /images/team/taliakimber.jpg
   links:
     - icon: envelope
       text: talia-kimber@charite.de
@@ -85,8 +88,9 @@ members:
     - icon: info-circle
       text: ORCiD
       url: https://orcid.org/0000-0002-8881-920X
-- name: Paula Schmielt
+- name: Paula Schmiel
   role: Master student
+  image: /images/team/paulaschmiel.jpg
   project:
   links:
     - icon: github
