@@ -1,0 +1,76 @@
+{{ define "main" }}
+<section id="banner">
+    <div class="content">
+        <article>
+            <header class="major">
+                <h1>{{ .Title }}</h1>
+            </header>
+            {{ .Content }}
+            {{ if .Params.leader }}
+            {{ $member := .Params.leader }}
+            <section>
+                <header><h2>Team Leader</h2></header>
+                <div class="posts">
+                    <article>
+                        <h3><strong>{{ $member.name }}</strong></h3>
+                        {{ if $member.image }}
+                        <span class="image right"><img src="{{ $member.image }}"/></span>
+                        {{ end }}
+                        <p><strong>{{ $member.role }}</strong><br />{{ $member.project }}</p>
+                        {{ if $member.links }}
+                            <ul class="icons" style="margin-bottom: 0">
+                                {{ range $link := $member.links }}
+                                    <li>
+                                        <a href="{{ $link.url }}" target="_blank" class="icon fa-{{ $link.icon }}" title="{{ $link.text }}">
+                                            <span class="label">{{ $link.text }}</span>
+                                        </a>
+                                    </li>
+                                {{ end }}
+                            </ul>
+                        {{ end }}
+                    </article>
+                </div>
+            </section>
+            {{ if .Params.members }}
+            <section>
+                <header><h2>Members</h2></header>
+                <div class="posts">
+                {{ range $member := .Params.members }}
+                    <article>
+                        <h3>{{ $member.name }}</h3>
+                        {{ if $member.image }}
+                        <span class="image right"><img src="{{ $member.image }}"/></span>
+                        {{ end }}
+                        <p><strong>{{ $member.role }}</strong><br />{{ $member.project }}</p>
+                        {{ if $member.links }}
+                            <ul class="icons">
+                                {{ range $link := $member.links}}
+                                    <li>
+                                        <a href="{{ $link.url }}" target="_blank" class="icon fa-{{ $link.icon }}" title="{{ $link.text }}">
+                                            <span class="label">{{ $link.text }}</span>
+                                        </a>
+                                    </li>
+                                {{ end }}
+                            </ul>
+                        {{ end }}
+                    </article>
+                {{ end }}
+                </div>
+            </section>
+            {{ end }}
+            {{ end }}
+            {{ if .Params.alumni }}
+            <section>
+                <header><h2>Alumni</h2></header>
+                <ul>
+                    {{ range $member := .Params.alumni }}
+                    <li><strong>{{ $member.name }}</strong> ({{ $member.role }})<br />
+                        {{ $member.project }}</li>
+                        {{ end }}
+                </ul>
+            </section>
+            {{ end }}
+        </article>
+    </div>
+</section>
+{{ end }}

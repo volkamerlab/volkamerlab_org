@@ -1,0 +1,24 @@
+{{ define "main" }}
+<section id="banner">
+    <div class="content">
+        <article>
+            <header class="major">
+                <h1>{{ .Title }}</h1>
+            </header>
+            {{ if isset .Params "author"}}
+                <p class="small">By {{ .Params.author }}</p>
+            {{end}}
+            {{ .Content }}
+            {{ if .Params.nav }}
+                <hr />
+                {{ if .NextInSection }}
+                    <a href="{{.NextInSection.Permalink}}" title="{{.NextInSection.Title}}">&lt; Prev Post</a>
+                {{ end }}
+                {{ if .PrevInSection }}
+                    <a href="{{.PrevInSection.Permalink}}" title="{{.PrevInSection.Title}}">Next Post &gt;</a>
+                {{ end }}
+            {{ end }}
+        </article>
+    </div>
+</section>
+{{ end }}

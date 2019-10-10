@@ -1,0 +1,125 @@
+---
+title: The Team
+date: 2017-03-23
+publishdate: 2017-03-24
+menu: "main"
+layout: "team"
+leader:
+  name: JProf. Dr. Andrea Volkamer
+  role: Team leader
+  image: /images/team/andreavolkamer.jpg
+  links:
+    - icon: envelope
+      text: andrea.volkamer@charite.de
+      url: mailto:andrea.volkamer@charite.de
+    - icon: linkedin
+      text: LinkedIn
+      url: https://de.linkedin.com/in/andrea-volkamer-a7b74867
+    - icon: github
+      text: GitHub
+      url: https://github.com/andreavolkamer
+    - icon: info-circle
+      text: ORCiD
+      url: http://orcid.org/0000-0002-3760-580X
+members:
+- name: Dr. Jaime Rodríguez-Guerra
+  role: Postdoc
+  project: Scalable alchemical free energy calculations and machine learning for drug discovery
+  image: /images/team/jrg.jpg
+  links:
+    - icon: envelope
+      text: jaime.rodriguez@charite.de
+      url: mailto:jaime.rodriguez@charite.de
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/jaimergp/
+    - icon: github
+      text: GitHub
+      url: https://github.com/jaimergp
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?user=imKyayEAAAAJ
+    - icon: info-circle
+      text: ORCiD
+      url: https://orcid.org/0000-0001-8974-1566
+- name: Andrea-Lilian Morger
+  role: PhD candidate
+  image:
+  project:
+  links:
+    - icon: envelope
+      text: andrea-lilian.morger@charite.de
+      url: mailto:andrea-lilian.morger@charite.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/morgeral
+    - icon: info-circle
+      text: ORCiD
+      url: https://orcid.org/0000-0003-4774-6291
+- name: Dominique Sydow
+  role: PhD candidate
+  image:
+  project:
+  links:
+    - icon: envelope
+      text: dominique.sydow@charite.de
+      url: mailto:dominique.sydow@charite.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/dominiquesydow
+    - icon: info-circle
+      text: ORCiD
+      url: https://orcid.org/0000-0003-4205-8705
+- name: Talia Kimber
+  role: PhD candidate
+  project: Scalable alchemical free energy calculations and machine learning for drug discovery
+  image:
+  links:
+    - icon: envelope
+      text: talia-kimber@charite.de
+      url: mailto:talia-kimber@charite.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/t-kimber
+    - icon: info-circle
+      text: ORCiD
+      url: https://orcid.org/0000-0002-8881-920X
+- name: Paula Schmielt
+  role: Master student
+  project:
+  links:
+    - icon: github
+      text: GitHub
+      url: https://github.com/paulaju
+alumni:
+- name: Lisa Chiara Gosch
+  role: PhD candidate
+  project:
+  date:
+- name: Henry Webel
+  role: Scientist
+  project: Predicting cytotoxicity using deep neural networks
+  date:
+- name: Dr. Jérémie Mortier
+  role: Scientist
+  project: Truly target-focused pharmacophore modeling (T2F-Pharm)
+  date:
+- name: Shalini Muralikumar
+  role: Intern
+  project: In silico investigation of protein-protein interactions during sumoylation of Smyd1
+  date:
+- name: Pratik Dhakal
+  role: Student assistant + master thesis
+  project: Truly target-focused (dynamic) pharmacophore modeling (T2F-Pharm and T2F-Flex)
+  date:
+- name: Eva Aßmann
+  role: Bachelor thesis
+  project: Predicting kinase similarity using a novel fingerprint-based binding site comparison method
+  date:
+- name: Jacob Gora
+  role: Student assistant / Master thesis with Novartis
+  project: Machine learning for kinase activity prediction / Active learning for compound optimization
+  date:
+---
+
+Hello! My name is Andrea Volkamer and this is my team!

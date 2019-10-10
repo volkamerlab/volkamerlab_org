@@ -1,0 +1,33 @@
+<!-- Menu -->
+<nav id="menu">
+    <header class="major">
+        <h2>Menu</h2>
+    </header>
+    <ul>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+            {{ $isCurrent := $currentPage.IsMenuCurrent "main" . }}
+            {{ $hasCurrent := $currentPage.HasMenuCurrent "main" . }}
+            <li>
+                {{ if .HasChildren }}
+                <span class="opener {{if ($isCurrent) or ($hasCurrent) }}active{{end}}" href="{{.URL}}">{{ .Name }}</span>
+                <ul>
+                    <li{{if ($isCurrent) or ($hasCurrent) }} class="current" {{end}}>
+                            <a href="{{.URL}}">Index</a>
+                    </li>
+                    {{ range .Children }}
+                    <li{{if ($isCurrent) or ($hasCurrent) }} class="current" {{end}}>
+                        <a href="{{.URL}}"> {{ .Name }} </a>
+                    </li>
+                    {{ end }}
+                </ul>
+                {{ else }}
+                <a {{if $isCurrent}}class="current"{{end}} href="{{.URL}}">{{ .Name }}</a>
+                {{ end }}
+            </li>
+        {{ end }}
+        <li>
+            <a target="_blank" href="#https://scholar.google.es/citations?user=XXXXXXXX">Publications</a>
+        </li>
+    </ul>
+</nav>
