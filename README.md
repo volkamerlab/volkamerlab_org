@@ -14,9 +14,8 @@ Contents for this website, built with Hugo, a static site generator, and deploye
 ### Menu
 
 - __Welcome__: `content/_index.md`
-- __Research__: `content/research/_index.md/. Subitems in the menu are in the corresponding `*.md` files.
-- __The team__: `content/team.md`. Almost everything is encoded in the YAML headers. Adding more members is a matter
-of editing the lists. Responsible code for orchestrating the layout is in `layouts/_default/team.html`.
+- __Research__: `content/research/_index.md/`. Subitems in the menu are in the corresponding `*.md` files.
+- __The team__: `content/team/_index.md` (intro text) + `data/team/team.yaml` (member info). Almost everything is encoded in the YAML file. Adding more members is a matter of editing the lists. Responsible code for orchestrating the layout is in `layouts/section/team.html`; each individual member is rendered through `layouts/partials/person.html`.
 - __Publications__: This link is harcoded in `partials/menu.html`
 
 ### Get in touch

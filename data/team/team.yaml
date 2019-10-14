@@ -1,11 +1,5 @@
----
-title: The Team
-date: 2019-10-10
-publishdate: 2019-10-10
-menu: "main"
-layout: "team"
-leader:
-  name: JProf. Dr. Andrea Volkamer
+members:
+- name: JProf. Dr. Andrea Volkamer
   role: Team leader
   image: /images/team/andreavolkamer.jpg
   links:
@@ -22,7 +16,6 @@ leader:
     - icon: info-circle
       text: ORCiD
       url: http://orcid.org/0000-0002-3760-580X
-members:
 - name: Dr. Jaime Rodríguez-Guerra
   role: Postdoc
   project: Scalable alchemical free energy calculations and machine learning for drug discovery
@@ -125,6 +118,3 @@ alumni:
   role: Student assistant / Master thesis with Novartis
   project: Machine learning for kinase activity prediction / Active learning for compound optimization
   date:
----
-
-Hello! My name is Andrea Volkamer and this is my team!
