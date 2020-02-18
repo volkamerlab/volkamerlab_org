@@ -73,11 +73,17 @@ members:
   image: /images/team/taliakimber.jpg
   links:
     - icon: envelope
-      text: talia-kimber@charite.de
-      url: mailto:talia-kimber@charite.de
+      text: talia.kimber@charite.de
+      url: mailto:talia.kimber@charite.de
     - icon: github
       text: GitHub
       url: https://github.com/t-kimber
+    - icon: twitter
+      text: Twitter
+      url: https://twitter.com/taliakimber
+    - icon: linkedin
+      text: Linkedin
+      url: www.linkedin.com/in/taliakimber
     - icon: info-circle
       text: ORCiD
       url: https://orcid.org/0000-0002-8881-920X
