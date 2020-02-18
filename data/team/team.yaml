@@ -36,6 +36,9 @@ members:
     - icon: info-circle
       text: ORCiD
       url: https://orcid.org/0000-0001-8974-1566
+    - icon: twitter
+      text: Twitter
+      url: https://twitter.com/jaime_rgp
     - icon: globe
       text: Website
       url: https://rjai.me
