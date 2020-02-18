@@ -72,7 +72,7 @@ members:
       url: https://orcid.org/0000-0003-4205-8705
 - name: Talia Kimber
   role: PhD candidate
-  project: Scalable alchemical free energy calculations and machine learning for drug discovery
+  project: Machine learning for kinase drug discovery
   image: /images/team/taliakimber.jpg
   links:
     - icon: envelope
@@ -86,7 +86,7 @@ members:
       url: https://twitter.com/taliakimber
     - icon: linkedin
       text: Linkedin
-      url: www.linkedin.com/in/taliakimber
+      url: https://www.linkedin.com/in/taliakimber
     - icon: info-circle
       text: ORCiD
       url: https://orcid.org/0000-0002-8881-920X
