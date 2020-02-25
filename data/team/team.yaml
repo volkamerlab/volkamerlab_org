@@ -84,7 +84,7 @@ members:
 - name: Paula Schmiel
   role: Master student
   image: /images/team/paulaschmiel.jpg
-  project: Exploring the chemical space of kinase inhibitors: Subpocket-based fragmentation for data-driven recombination
+  project: Subpocket-based fragmentation and recombination of kinase inhibitors
   links:
     - icon: github
       text: GitHub
