@@ -42,17 +42,14 @@ members:
     - icon: globe
       text: Website
       url: https://rjai.me
-- name: Andrea-Lilian Morger
+- name: Andrea Morger
   role: PhD candidate
   image: /images/team/andreamorger.jpg
-  project:
+  project: In silico toxicity prediction and application to external data
   links:
     - icon: envelope
       text: andrea-lilian.morger@charite.de
       url: mailto:andrea-lilian.morger@charite.de
-    - icon: github
-      text: GitHub
-      url: https://github.com/morgeral
     - icon: info-circle
       text: ORCiD
       url: https://orcid.org/0000-0003-4774-6291
