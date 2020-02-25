@@ -56,7 +56,7 @@ members:
 - name: Dominique Sydow
   role: PhD candidate
   image: /images/team/dominiquesydow.jpg
-  project:
+  project: Binding site comparison for off-target prediction and polypharmacology
   links:
     - icon: envelope
       text: dominique.sydow@charite.de
