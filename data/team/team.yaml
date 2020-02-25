@@ -59,7 +59,7 @@ members:
 - name: Dominique Sydow
   role: PhD candidate
   image: /images/team/dominiquesydow.jpg
-  project:
+  project: Binding site comparison for off-target and polypharmacology prediction
   links:
     - icon: envelope
       text: dominique.sydow@charite.de
@@ -93,7 +93,7 @@ members:
 - name: Paula Schmiel
   role: Master student
   image: /images/team/paulaschmiel.jpg
-  project:
+  project: Subpocket-based fragmentation and recombination of kinase inhibitors
   links:
     - icon: github
       text: GitHub
