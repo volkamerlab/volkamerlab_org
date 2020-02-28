@@ -98,6 +98,20 @@ members:
     - icon: github
       text: GitHub
       url: https://github.com/paulaju
+- name: Yonghui Chen
+  role: PhD candidate
+  project: Virtual screening and deep learning for drug discovery.
+  image: /images/team/yonghuichen.jpg
+  links:
+    - icon: envelope
+      text: yonghui.chen@charite.de
+      url: mailto:yonghui.chen@charite.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/yonghui-cc
+    - icon: info-circle
+      text: ORCiD
+      url: https://orcid.org/0000-0002-8201-2894
 alumni:
 - name: Lisa Chiara Gosch
   role: PhD candidate
