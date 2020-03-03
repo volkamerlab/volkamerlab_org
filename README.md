@@ -5,7 +5,7 @@ Contents for this website, built with Hugo, a static site generator, and deploye
 ## Request changes
 
 1. Fork and create a branch on your fork.
-2. Install `hugo` and run `hugo serve` on this directory while editing. It will autoreload changes on `localhost:1313`.
+2. Install `hugo` ([v0.65.3](https://github.com/gohugoio/hugo/releases/tag/v0.65.3)) and run `hugo serve` on this directory while editing. It will autoreload changes on `localhost:1313`.
 3. Add, commit, push and submit PR. Netlify will create a deploy preview for you on the PR.
 4. Wait for review.
 
