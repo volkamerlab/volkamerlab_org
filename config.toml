@@ -2,3 +2,7 @@ baseURL = "http://volkamerlab.org/"
 languageCode = "en-us"
 title = "Volkamer Lab"
 author = "Volkamer Lab"
+
+# This is needed to allow HTML in our markdown files
+[markup.goldmark.renderer]
+unsafe = true
