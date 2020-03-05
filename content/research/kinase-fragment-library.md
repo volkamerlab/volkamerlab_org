@@ -9,4 +9,4 @@ weight: 10
 nav: false
 ---
 
-Import here /content/projects/kinfraglib.md.
+{{% content "projects/kinfraglib.md" %}}

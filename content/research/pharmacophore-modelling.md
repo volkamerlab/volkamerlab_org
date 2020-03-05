@@ -35,11 +35,11 @@ for static and dynamic target-based pharmacophore modeling, respectively.
 
 ### T²F-Pharm
 
-Import here /content/projects/t2f-pharm.md.
+{{% content "projects/t2f-pharm.md" %}}
 
 
 ## Dynamic target-based pharmacophores
 
 ### T²F-Flex
 
-Import here /content/projects/t2f-flex.md.
+{{% content "projects/t2f-flex.md" %}}

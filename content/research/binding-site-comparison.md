@@ -35,11 +35,11 @@ as potential off-targets or polypharmacologic targets.
 
 ### Read-Across the Targetome (ratar)
 
-Import here /content/projects/ratar.md.
+{{% content "projects/ratar.md" %}}
 
 
 ## Kinome-wide binding site comparison
 
 ### Kinase Structrure Similarity (kissim)
 
-Import here /content/projects/kissim.md.
+{{% content "projects/kissim.md" %}}
