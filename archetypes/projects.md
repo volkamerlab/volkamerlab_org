@@ -1,12 +1,30 @@
 ---
-title: Project Title
-date: 2020-03-03
-publishdate: 2020-03-03
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
+date: {{ .Date }}
 menu:
     main:
         parent: Projects
-weight: 10
 nav: false
+draft: true
+# Uncomment sections below to enable them in your project
+# external_resources:
+# - name: Software name
+#   link: https://github.com/volkamerlab/KinFragLib
+#   icon: fa-github
+# people:
+# - dominique.sydow
+# - jaime.rodriguez
+# collaborators:
+# - name: Firstname Lastname
+#   link: http://university.website
+#   more: (Department X this is free text)
+# funding:
+# - name: Funding institution, id=XXXXX
+#   link: external website
+#   more: free text
+# publications:
+# - doi_a
+# - doi_b
 ---
 
 ##### PROJECT DESCRIPTION
