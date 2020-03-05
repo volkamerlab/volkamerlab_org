@@ -24,7 +24,7 @@ This fragment library enables an in-depth analysis of the chemical space of know
 and is used to recombine fragments in order to generate novel potential inhibitors.
 
 <span class="image object">
-    <img src="/images/research/kinfraglib.png" alt="Protein" />
+    <img src="/images/research/kinfraglib.png" alt="KinFragLib" />
 </span>
 
 ##### RESOURCES
@@ -36,10 +36,10 @@ and is used to recombine fragments in order to generate novel potential inhibito
 [**Paula Schmiel**](link) (master student) \
 [**Dominique Sydow**](link) (PhD student) \
 [**Jérémie Mortier**](link) (postdoc) \
-[**Andrea Volkamer**](link) (group leader)
+[**Andrea Volkamer**](link) (PI)
 
 
 ##### FUNDING
 
-Funding institution, 
-Grant ID: <a href="link" target="_blank">123456789</a> \
+* Bundesministerium für Bildung und Forschung, grant ID 031A262C \
+* Deutsche Forschungsgemeinschaft (DFG), grant ID VO 2353 / 1-1 \

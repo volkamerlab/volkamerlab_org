@@ -1,5 +1,5 @@
 ---
-title: Research title
+title: Template
 date: 2020-03-03
 publishdate: 2020-03-03
 menu:
@@ -37,6 +37,7 @@ Project description (3-6 sentences).
 
 ##### PEOPLE
 
+[**Firstname Lastname**](link) (PI) \
 [**Firstname Lastname**](link) (postdoc) \
 [**Firstname Lastname**](link) (PhD student) \
 [**Firstname Lastname**](link) (master student) \
@@ -57,8 +58,7 @@ J. Chem. Inf. Model. 59:5, 2019.
 
 ##### FUNDING
 
-Funding institution, 
-Grant ID: <a href="link" target="_blank">123456789</a> \
+* Funding institution, grant ID <a href="link" target="_blank">123456789</a> \
 
 ## Project 2
 

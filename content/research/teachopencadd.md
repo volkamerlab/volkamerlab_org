@@ -10,7 +10,7 @@ nav: false
 ---
 
 <span class="image object">
-    <img src="/images/research/teachopencadd.png" alt="Protein" height="1" width="1"/>
+    <img src="/images/research/teachopencadd.png" alt="TeachOpenCADD logo"/>
 </span>
 
 ##### TEACHOPENCADD
@@ -25,8 +25,8 @@ due to the lack of application examples combining different toolkits.
 TeachOpenCADD is a teaching platform offering tutorials on central topics in cheminformatics and structural bioinformatics. 
 The tutorials contain theoretical background and practical implementations using open source data and software. 
 Implementations are available in two formats. 
-On the one hand, interactive Jupyter notebooks demonstrate how to set up code-based pipelines. 
-On the other hand, the same topics are transformed into KNIME workflows, an alternative to code-based workflows. 
+On the one hand, interactive *Jupyter notebooks* demonstrate how to set up code-based pipelines (python). 
+On the other hand, the same topics are transformed into *KNIME workflows*, an alternative to code-based workflows. 
 Here, an intuitive, drag-and-drop style graphical interface is used to string together pre-implemented code units 
 (nodes) with standardized functionalities.
 TeachOpenCADD is suitable for self-study training and classroom teaching, but can also serve as a starting point in 
@@ -34,7 +34,7 @@ research projects.
 The platform is freely available on GitHub and open to contributions from the community.
 
 
-##### SOFTWARE/RESOURCES
+##### RESOURCES
 
 [**TeachOpenCADD Jupyter notebooks**](https://github.com/volkamerlab/TeachOpenCADD)
  - Jupyter notebooks on computer-aided drug design tasks using open resources \
@@ -47,24 +47,30 @@ The platform is freely available on GitHub and open to contributions from the co
 [**Jaime Rodríguez-Guerra**](link) (postdoc) \
 [**Andrea Morger**](link) (PhD student) \
 [**Maximilian Driller**](link) (master student) \
-[**Andrea Volkamer**](link) (group leader)
+[**Andrea Volkamer**](link) (PI)
 
-##### COLLABORATORS
-
-[**Firstname Lastname**](link) (University X) \
-[**Firstname Lastname**](link) (Company X)
 
 ##### PUBLICATIONS
 
 [TeachOpenCADD: a teaching platform for computer-aided drug design using open source packages and data](link-to-publication-page) \
 Dominique Sydow, Andrea Morger, Maximilian Driller, Andrea Volkamer. \
 J. Cheminf. 11:29, 2019. 
-[DOI](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0351-x) 
-[PDF](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.8b00832)
+[DOI](https://doi.org/10.1186/s13321-019-0351-x) 
+[PDF](https://jcheminf.biomedcentral.com/track/pdf/10.1186/s13321-019-0351-x)
+
+[TeachOpenCADD-KNIME: A Teaching Platform for Computer-Aided Drug Design Using KNIME Workflows](link-to-publication-page) \
+Dominique Sydow, Michele Wichmann, Jaime Rodríguez-Guerra, Daria Goldmann, Gregory Landrum, Andrea Volkamer. \
+J. Chem. Inf. Model. 59:10, 2019.
+[DOI](https://doi.org/10.1021/acs.jcim.9b00662)
+[PDF](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.9b00662)
 
 ##### FUNDING
 
-Funding institution, 
-Grant ID: <a href="link" target="_blank">123456789</a> \
+* Bundesministerium für Bildung und Forschung, grant ID 031A262C \
+* Deutsche Forschungsgemeinschaft (DFG), grant ID VO 2353 / 1-1 \
+* HaVo-Stiftung, Ludwig-shafen, Germany \
+* Open Access Publication Fund of Charité – Universitätsmedizin Berlin \
+* Stiftung Charité (Einstein BIH Visiting Fellow Project) \
+* “SUPPORT für die Lehre” program (Förderung innovativer Lehrvorhaben) of Freie Universität Berlin.
 
 
