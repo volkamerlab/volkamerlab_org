@@ -1,7 +1,7 @@
 ---
 title: struc2drug
-date: 2020-06-03
-publishdate: 2020-06-03
+date: 2020-03-06
+publishdate: 2020-03-06
 menu:
     main:
         parent: Events
