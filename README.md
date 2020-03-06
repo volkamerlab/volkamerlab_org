@@ -66,3 +66,8 @@ menu:
 
 * HTML5 Editorial [sample content](https://html5up.net/uploads/demos/editorial/elements.html): Check out content options.
 * Hugo [shortcodes](https://gohugo.io/content-management/shortcodes/): Use shortcodes instead of HTML in markdown content.
+
+
+## FAQ
+
+* You added a new markdown content file `/content/folder/file.md` but the file content does not show up on the website's menu? Check if the `publishdate` in your file is in the future. If so, you will only be able to see the page when rendering the website using `hugo serve -F`.
