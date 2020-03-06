@@ -1,5 +1,5 @@
 ---
-title: Binding site comparison
+title: Binding Site Comparison
 date: 2020-03-03
 publishdate: 2020-03-03
 menu:
@@ -33,66 +33,13 @@ as potential off-targets or polypharmacologic targets.
 
 ## Targetome-wide binding site comparison
 
-##### READ-ACROSS THE TARGETOME - RATAR
+### Read-Across the Targetome (ratar)
 
-How to probe and validate a potential target remains one of the key questions in basic research in life sciences. 
-In the DFG project "read-across the targetome" (*ratar*), we will use binding site similarity to predict off-targets and 
-to extrapolate compound information from one target to another. 
-This similarity-based knowledge transfer can suggest tool compounds (chemical probes) and 
-off-targets for proteins of interest using the ever-growing amount of available target and compound data.
-
-##### PEOPLE
-
-[**Dominique Sydow**](link) (PhD student) \
-[**Andrea Volkamer**](link) (PI) \
-  
-##### PUBLICATIONS
-
-[Advances and Challenges in Computational Target Prediction](link-to-publication-page) \
-Dominique Sydow, Lindsey Burggraaff, Angelika Szengel, Herman W. T. van Vlijmen, Adriaan P. IJzerman, 
-Gerard J. P. van Westen, Andrea Volkamer. \
-J. Chem. Inf. Model. 59:5, 2019. 
-[DOI](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00832) 
-[PDF](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.8b00832)
-
-##### FUNDING
-
-* Bundesministerium für Bildung und Forschung, grant ID 031A262C \
-* Deutsche Forschungsgemeinschaft (DFG), 
-grant ID <a href="https://gepris.dfg.de/gepris/projekt/391684253?language=en&the=" target="_blank">VO 2353 / 1-1</a> \
+Import here /content/projects/ratar.md.
 
 
 ## Kinome-wide binding site comparison
 
-##### KINASE STRUCTURE SIMILARITY - KISSIM
+### Kinase Structrure Similarity (kissim)
 
-Kinases are important and well studied drug targets for cancer and inflammatory diseases. 
-Due to the highly conserved structure of kinases, especially at the ATP binding site, 
-the main challenge when developing kinase inhibitors is achieving selectivity, 
-which requires a comprehensive understanding of kinase similarity.
-In our *kissim* project, we developed a subpocket-focused kinase fingerprint to investigate kinome-wide pocket similarity. 
-The *kissim* fingerprint is based on the KLIFS pocket alignment, which defines 85 pocket residues for all kinase structures. 
-This enables a residue-by-residue comparison of spatial and physicochemical features 
-without the need for a computationally expensive alignment step. 
-We aim to use the *kissim* method 
-(i) to detect potential promiscuities and off-targets at an early stage of inhibitor design and 
-(ii) to conduct structure-informed polypharmacology studies.
-
-##### PEOPLE
-
-[**Dominique Sydow**](link) (PhD student) \
-[**Eva Aßmann**](link) (Bachelor student) \
-[**Andrea Volkamer**](link) (PI) \
-
-##### COLLABORATORS
-
-[**Albert Koistraa**](https://drug.ku.dk/employees/?pure=en/persons/612712) (University of Copenhagen) \
-**Friedrich Rippmann** (Merck)
-
-##### FUNDING
-
-* Bundesministerium für Bildung und Forschung, grant ID 031A262C \
-* Deutsche Forschungsgemeinschaft (DFG), grant ID VO 2353 / 1-1\
-
-
-
+Import here /content/projects/kissim.md.
