@@ -9,4 +9,4 @@ weight: 10
 nav: false
 ---
 
-{{% content "projects/teachopencadd.md" %}}
+{{% content "projects/teachopencadd-platform.md" %}}
