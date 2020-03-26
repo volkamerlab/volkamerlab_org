@@ -12,6 +12,8 @@ weight: -10
 
 The group of JProf. Volkamer is working on novel methods for in-silico toxicology predictions.
 
+> Breaking news: join us in our collective effort to understand Covid-19 better
+
 The project is part of the BMBF-funded BB3R initiative. One major goal of the BB3R initiative is the establishment of alternative methods for preclinical drug development and basic research. To assess the toxicity of novel chemical entities, regulatory agencies require in-vivo testing for several toxic endpoints. In 2010, roughly 2.9 million laboratory animals have been deployed in Germany, with an increase of 6% since 2008. Thus, the establishment of alternative methods, and with it the reduction of animal testing, is of utmost importance. Determining the toxicity of compounds is vital to identify their harmful effects on humans, animals, plants and the environment.
 
 The focus of the AG Volkamer is the development of structure-based methods to come closer to the vision of transforming toxicology into a predictive science and reducing the number of animal testing. The group strongly focuses on computer-aided prediction of off-target effects as well as the identification of novel 'toxicophores' and toxicity targets (targets associated with adverse drug reactions) using ligand- as well as protein-based structural and physicochemical information.
