@@ -109,6 +109,23 @@ members:
     - icon: info-circle
       text: ORCiD
       url: https://orcid.org/0000-0002-8201-2894
+- name: David Schaller
+  role: Postdoc
+  project: Free energy calculations and machine learning for kinase drug discovery
+  image: /images/team/davidschaller.jpg
+  links:
+    - icon: envelope
+      text: david.schaller@charite.de
+      url: mailto:david.schaller@charite.de
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/david-schaller-2a68b2133/
+    - icon: github
+      text: GitHub
+      url: https://github.com/schallerdavid
+    - icon: info-circle
+      text: ORCiD
+      url: https://orcid.org/0000-0002-1881-4518
 alumni:
 - name: Lisa Chiara Gosch
   role: PhD candidate
