@@ -1,5 +1,5 @@
 ---
-title: TeachOpenCADD
+title: TeachOpenCADD platform
 date: 2020-03-03
 publishdate: 2020-03-03
 menu:

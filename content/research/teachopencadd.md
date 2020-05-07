@@ -9,5 +9,4 @@ weight: 10
 nav: false
 ---
 
-
-Import here /content/projects/teachopencadd.md.
+{{% content "projects/teachopencadd-platform.md" %}}
