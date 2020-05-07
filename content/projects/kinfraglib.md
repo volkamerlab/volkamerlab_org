@@ -11,17 +11,17 @@ nav: false
 
 ##### PROJECT DESCRIPTION
 
-Protein kinases play a crucial role in many cell signaling processes, making them one of the most important families 
-of drug targets. 
-Fragment-based drug design has proven useful as an approach to develop novel kinase inhibitors. 
-However, fragment-based methods are usually limited to a knowledge-driven approach of optimizing 
-a focused set of fragments. 
-Here, we present a data-driven fragmentation and recombination approach instead. 
-A novel computational fragmentation method was implemented, 
-which splits known kinase inhibitors into fragments with respect to the subpockets that they occupy. 
-Thereby, a fragment library with several pools, representing the subpockets, is created. 
-This fragment library enables an in-depth analysis of the chemical space of known kinase inhibitors, 
-and is used to recombine fragments in order to generate novel potential inhibitors.
+The KinFragLib project allows to explore and extend the chemical space of kinase inhibitors using 
+data-driven fragmentation and recombination, built on available structural kinome data from the KLIFS database 
+for over 2,500 kinase complexes. The computational fragmentation method splits known non-covalent 
+kinase inhibitors into fragments with respect to their 3D proximity to six predefined subpockets relevant for binding. 
+The resulting fragment library consists of six subpocket fragment pools with over 7,000 fragments and 
+offers two main applications: 
+(i) In-depth analyses of the chemical space of known kinase inhibitors allow to investigate 
+subpocket characteristics and connections. 
+(ii) Subpocket-informed recombination of fragments enumerates new combinations of known fragments 
+in order to generate potential novel inhibitors.
+
 
 <span class="image object">
     <img src="/images/research/kinfraglib.png" alt="KinFragLib" />
