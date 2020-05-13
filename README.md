@@ -27,11 +27,17 @@ Notice how the path is relative to `/content`. Hugo will guess that you are crea
 
 ## Insert a page inside another
 
-You can use _shortcodes_ along your normal markdown for this. Path is relative to `/content`:
+You can use _shortcodes_ along your normal markdown for this. Path is relative to `/content`. Notice the `{{% %}}` syntax!
 
 ```
 {{% content "path/to/page/to/be/inserted.md" %}}
 ```
+
+## Project pages vs Research pages
+
+Every project is described at `/content/projects/project_name.md`. The frontmatter define most of the metadata you need. The markdown content after the frontmatter is free text and can be considered the "abstract" of the project.
+
+Research pages live at `/content/research/research_line.md`. They provide overviews of the different research fields of the group, and can embed _project pages_ thanks to the `{{% content %}}` shortcode. The `content` shortcode will only embed the Markdown text, though! It does provide a link to the project page for more information.
 
 
 ## Where to look for modifications
@@ -40,8 +46,8 @@ You can use _shortcodes_ along your normal markdown for this. Path is relative t
 
 - __Welcome__: `content/_index.md`
 - __Research__: `content/research/_index.md/`. Subitems in the menu are in the corresponding `*.md` files.
-- __The team__: `content/team/_index.md` (intro text) + `data/team/team.yaml` (member info). Almost everything is encoded in the YAML file. Adding more members is a matter of editing the lists. Responsible code for orchestrating the layout is in `layouts/section/team.html`; each individual member is rendered through `layouts/partials/person.html`.
-- __Publications__: This link is harcoded in `partials/menu.html`
+- __The team__: `content/team/_index.md` (intro text) + `data/team/members.yaml` (member info). Almost everything is encoded in the YAML file. Adding more members is a matter of editing the lists. Responsible code for orchestrating the layout is in `layouts/section/team.html`; each individual member is rendered through `layouts/partials/person.html`.
+- __Publications__: `content/publications/_index.md` (intro text) + `data/publications/publications.yaml` (database). Read the comments at the top of the YAML file for more info.
 
 ### Get in touch
 
@@ -80,7 +86,7 @@ menu:
 
 ## Resources
 
-### Content management 
+### Content management
 
 * HTML5 Editorial [sample content](https://html5up.net/uploads/demos/editorial/elements.html): Check out content options.
 * Hugo [shortcodes](https://gohugo.io/content-management/shortcodes/): Use shortcodes instead of HTML in markdown content. We can create more if needed (check `/layouts/shortcodes`), so let us know if you need something extra.
@@ -88,6 +94,6 @@ menu:
 
 ## FAQ
 
-* You added a new markdown content file `/content/folder/file.md` but the file content does not show up on the website's menu or a section? 
+* You added a new markdown content file `/content/folder/file.md` but the file content does not show up on the website's menu or a section?
     * Check if the `publishdate` in your file is in the future. If so, you will only be able to see the page when rendering the website using `hugo serve -F`.
     * Check if `draft: true`. If that's the case, these will only be rendered with `hugo serve -D`. Remember to set `draft: false` when the content is ready to be published (or remove that line entirely).
