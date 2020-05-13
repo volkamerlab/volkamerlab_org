@@ -153,6 +153,13 @@
     - icon: github
       text: GitHub
       url: https://github.com/paulaju
+- name: Michele Wichmann
+  prefix:
+  key: michele.wichmann
+  role: Master student
+  status: member
+  image:
+  project: Subpocket-based fragmentation and recombination of kinase inhibitors
 # --ALUMNI--
 - name: Lisa Chiara Gosch
   prefix:
@@ -196,3 +203,8 @@
   status: alumni
   role: Student assistant / Master thesis with Novartis
   project: Machine learning for kinase activity prediction / Active learning for compound optimization
+- name: Maximilian Driller
+  key: maximilian.driller
+  status: alumni
+  role: Student
+  project:

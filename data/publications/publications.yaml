@@ -21,6 +21,42 @@
 #     image:
 #     pdf:
 
+teachopencadd:
+  title: "TeachOpenCADD: a teaching platform for computer-aided drug design using open source packages and data"
+  authors:
+    - dominique.sydow
+    - andrea-lilian.morger
+    - Maximilian Driller
+    - andrea.volkamer
+  journal: J. Cheminf
+  volume: 11
+  issue: 29
+  pages:
+  year: 2019
+  date: 2019-03-27
+  doi: "10.1186/s13321-019-0351-x"
+  image: ""
+  pdf: ""
+
+teachopencaddknime:
+  title: "TeachOpenCADD-KNIME: A Teaching Platform for Computer-Aided Drug Design Using KNIME Workflows"
+  authors:
+    - dominique.sydow
+    - michele.wichmann
+    - jaime.rodriguez
+    - Daria Goldmann
+    - Gregory Landrum
+    - andrea.volkamer
+  journal: J. Chem. Inf. Model
+  volume: 59
+  issue: 10
+  pages: 4083-4086
+  year: 2019
+  date: 2019-02-28
+  doi: "10.1021/acs.jcim.9b00662"
+  image: ""
+  pdf: ""
+
 sydow2019:
   title: "Advances and Challenges in Computational Target Prediction"
   authors:
