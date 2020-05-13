@@ -161,8 +161,8 @@
   key: lisa.chiara
   project:
 - name: Henry Webel
-  prefix: henry.webel
-  key:
+  prefix:
+  key: henry.webel
   status: alumni
   role: Scientist
   project: Predicting cytotoxicity using deep neural networks
@@ -179,14 +179,14 @@
   role: Intern
   project: In silico investigation of protein-protein interactions during sumoylation of Smyd1
 - name: Pratik Dhakal
-  prefix: pratik.dhakal
-  key:
+  prefix:
+  key: pratik.dhakal
   status: alumni
   role: Student assistant + master thesis
   project: Truly target-focused (dynamic) pharmacophore modeling (T2F-Pharm and T2F-Flex)
 - name: Eva Aßmann
-  prefix: eva.assmann
-  key:
+  prefix:
+  key: eva.assmann
   status: alumni
   role: Bachelor thesis
   project: Predicting kinase similarity using a novel fingerprint-based binding site comparison method

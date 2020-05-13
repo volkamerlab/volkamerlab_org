@@ -14,10 +14,10 @@
                 </header>
                 <ul>
                     {{ range . }}
-                        <li>
-                            {{ partial "personlink" (dict "data" $data "person" .key ) }}
-                            {{ with .more}} &middot; {{ . }}{{end}}
-                        </li>
+                    <li>
+                        {{ partial "personlink" (dict "data" $data "person" .key ) }}
+                        {{ with .more}} &middot; {{ . }}{{end}}
+                    </li>
                     {{ end }}
                 </ul>
             </section>
@@ -70,7 +70,7 @@
                     <li>
                         <a class="icon fa-{{- .icon -}}" href="{{ .link }}" target="_blank" title="{{ .name }}">
                             <span>{{ .name }}</span>
-                        </a>
+                        </a>{{ with .more}} &middot; {{ . }}{{end}}
                     </li>
                     {{ end }}
                 </ul>
