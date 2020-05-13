@@ -15,11 +15,10 @@ Long description with several paragraphs.
 
 Long description with several paragraphs.Long description with several paragraphs.
 
-<span class="image object">
-    <img src="/images/research/binding_site_comparison.png" alt="Binding site comparison" />
-</span>
+{{< figure src="/images/research/binding_site_comparison.png" title="Example" >}}
+
 
 ## Projects overview
 
-{{% content "projects/kinopoly.md" "h3" %}}
+{{% content "projects/kinopoly.md" %}}
 

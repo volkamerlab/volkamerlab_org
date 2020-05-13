@@ -24,5 +24,4 @@ chemical probes are used to check for pharmacophoric features. Resulting feature
 summarized into a single pharmacophore model. This method allows to generate pharmacophores in the absence of ligand
 or interaction information and provides a feature-based description of protein binding sites.
 
-
-[Figure]
+{{< figure src="/images/research/teachopencadd.png" title="Example" >}}

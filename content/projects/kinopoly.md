@@ -35,6 +35,4 @@ publications:
 
 Project description (3-6 sentences).
 
-<span class="object">
-    <img src="/images/research/teachopencadd.png" alt="Example image" />
-</span>
+{{< figure src="/images/research/teachopencadd.png" title="Example" >}}

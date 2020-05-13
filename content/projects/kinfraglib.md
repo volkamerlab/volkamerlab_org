@@ -36,6 +36,4 @@ subpocket characteristics and connections.
 in order to generate potential novel inhibitors.
 
 
-<span class="image object">
-    <img src="/images/research/kinfraglib.png" alt="KinFragLib" />
-</span>
+{{< figure src="/images/research/kinfraglib.png" title="KinFragLib" >}}

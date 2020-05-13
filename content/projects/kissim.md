@@ -41,3 +41,5 @@ without the need for a computationally expensive alignment step.
 We aim to use the *kissim* method
 (i) to detect potential promiscuities and off-targets at an early stage of inhibitor design and
 (ii) to conduct structure-informed polypharmacology studies.
+
+{{< figure src="/images/research/teachopencadd.png" title="Example" >}}

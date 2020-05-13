@@ -35,6 +35,5 @@ This method represents an extremely valuable instrument for drug design in a sit
 available, but also in the case of underexplored therapeutic targets,
 as well as to investigate protein allosteric pockets and protein-protein interactions.
 
-<span class="image object">
-    <img src="/images/research/t2fpharm.png" alt="T2F-Pharm" />
-</span>
+
+{{< figure src="/images/research/t2fpharm.png" title="T2F-Pharm" >}}
