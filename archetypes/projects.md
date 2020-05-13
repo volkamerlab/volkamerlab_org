@@ -10,8 +10,8 @@ draft: true
 # external_resources:
 # - name: Software name
 #   link: https://github.com/volkamerlab/KinFragLib
-#   icon: github (use fa-* FontAwesome icons)
-# people:
+#   icon: github # (use fa-* FontAwesome icons)
+# people:  # take from /data/team/members.yml (`key` entry)
 # - key: dominique.sydow
 #   more: Some free text that will be added after the link
 # - key: jaime.rodriguez
@@ -24,12 +24,10 @@ draft: true
 # - name: Funding institution, id=XXXXX
 #   link: external website
 #   more: free text
-# publications:
+# publications:  # take from (or add to) /data/publications/publications.yml
 # - citation_key
 # - citation_key
 ---
-
-##### PROJECT DESCRIPTION
 
 Project description (3-6 sentences).
 
