@@ -5,61 +5,36 @@ menu:
     main:
         parent: Projects
 nav: false
-draft: true
+draft: false
 # Uncomment sections below to enable them in your project
-# external_resources:
-# - name: Software name
-#   link: https://github.com/volkamerlab/KinFragLib
-#   icon: fa-github
-# people:
-# - dominique.sydow
-# - jaime.rodriguez
-# collaborators:
-# - name: Firstname Lastname
-#   link: http://university.website
-#   more: (Department X this is free text)
-# funding:
-# - name: Funding institution, id=XXXXX
-#   link: external website
-#   more: free text
-# publications:
-# - doi_a
-# - doi_b
+external_resources:
+- name: KinoML
+  link: https://github.com/openkinome/kinoml
+  icon: github
+people:
+- key: jaime.rodriguez
+  more:
+- key: talia.kimber
+  more:
+- key: david.schaller
+  more:
+- key: andrea.volkamer
+  more:
+collaborators:
+- name: John D. Chodera
+  link: http://choderalab.org
+  more: (MSK)
+funding:
+- name: BIH Einstein
+  link: https://www.einsteinfoundation.de/en/programmes/einstein-bih-visiting-fellow/
+  more: free text
+publications:
+- proteinsplus2017
 ---
 
-##### PROJECT DESCRIPTION
 
 Project description (3-6 sentences).
 
 <span class="object">
     <img src="/images/research/teachopencadd.png" alt="Example image" />
 </span>
-
-##### SOFTWARE/RESOURCES
-
-<a href="https://github.com/volkamerlab/KinFragLib" target="_blank">**software name**</a> - 
-software description (one liner) \
-<a href="https://github.com/volkamerlab/KinFragLib" target="_blank">**resource name**</a> - 
-resource description (one liner)
-
-##### PEOPLE
-
-[**Firstname Lastname**](link) \
-[**Firstname Lastname**](link)  
-
-##### COLLABORATORS
-
-[**Firstname Lastname**](link) (University X) \
-[**Firstname Lastname**](link) (Company X)
-
-##### PUBLICATIONS
-
-[Publication title](link-to-publication-page) \
-Firstname Lastname, Firstname Lastname, Firstname Lastname. \
-J. Chem. Inf. Model. 59:5, 2019. 
-[DOI](https://pubs.acs.org/doi/10.1021/acs.jcim.8b00832) 
-[PDF](https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.8b00832)
-
-##### FUNDING
-
-* Funding institution, grant ID <a href="link" target="_blank">123456789</a>

@@ -1,2 +1,12 @@
-{{$file := .Get 0}}
-{{ with .Site.GetPage "page" $file }}{{ .Content | markdownify }}{{ end }}
+{{ $file := .Get 0 }}
+{{ with .Site.GetPage "page" $file }}
+
+<h2><a href="{{.Permalink}}">{{ .Title }}</a></h2>
+
+{{ .Content | markdownify }}
+
+<p>
+    <a href="{{.Permalink}}">More info &gt;&gt;</a>
+</p>
+
+{{ end }}

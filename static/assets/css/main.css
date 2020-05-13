@@ -4069,3 +4069,20 @@
 			margin-top: 0;
 			padding-top: 0;
 		}
+
+ul.separate-by-commas {
+	display: inline;
+	list-style: none;
+	padding: 0px;
+}
+
+	ul.separate-by-commas li {
+		display: inline;
+		padding: 0;
+	}
+	ul.separate-by-commas li::after {
+		content: ", ";
+	}
+	ul.separate-by-commas li:last-child::after {
+		content: "";
+	}

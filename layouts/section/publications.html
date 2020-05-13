@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ $data := .Site.Data }}
 <section id="banner">
     <div class="content">
         <article>
@@ -6,37 +7,13 @@
                 <h1>{{ .Title }}</h1>
             </header>
             {{ .Content }}
-            <section>
-                <header><h2>Team Leader</h2></header>
-                <div class="posts">
-                {{ range .Site.Data.team.team.members }}
-                    {{ if eq .role "Team leader" }}
-                        {{ partial "person" . }}
-                    {{ end }}
+            <ol reversed>
+                {{ range sort .Site.Data.publications.publications ".date" }}
+                <li>{{ partial "publication-li" (dict "data" $data "pub" . )}}</li>
                 {{ end }}
-                </div>
-            </section>
-            <section>
-                <header><h2>Members</h2></header>
-                <div class="posts">
-                {{ range .Site.Data.team.team.members }}
-                    {{ if ne .role "Team leader" }}
-                        {{ partial "person" . }}
-                    {{ end }}
-                {{ end }}
-                </div>
-            </section>
-            {{ if .Site.Data.team.team.alumni }}
-            <section>
-                <header><h2>Alumni</h2></header>
-                <ul>
-                    {{ range $.Site.Data.team.team.alumni }}
-                    <li><strong>{{ .name }}</strong> ({{ .role }})<br />
-                        {{ .project }}</li>
-                    {{ end }}
-                </ul>
-            </section>
-            {{ end }}
+            </ol>
+
+
         </article>
     </div>
 </section>

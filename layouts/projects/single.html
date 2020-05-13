@@ -1,0 +1,82 @@
+{{ define "main" }}
+{{ $data := .Site.Data}}
+<section id="banner">
+    <div class="content">
+        <article>
+            <header class="major">
+                <h1>{{ .Title }}</h1>
+            </header>
+            {{ .Content }}
+            {{ with .Page.Params.people }}
+            <section>
+                <header>
+                    <h3>People</h3>
+                </header>
+                <ul>
+                    {{ range . }}
+                        <li>
+                            {{ partial "personlink" (dict "data" $data "person" .key ) }}
+                            {{ with .more}} &middot; {{ . }}{{end}}
+                        </li>
+                    {{ end }}
+                </ul>
+            </section>
+            {{ end }}
+            {{ with .Page.Params.collaborators }}
+            <section>
+                <header>
+                    <h3>Collaborators</h3>
+                </header>
+                <ul>
+                    {{ range . }}
+                    <li><a href="{{ .link }}" target="_blank">{{ .name}}</a>{{ with .more}} &middot; {{ . }}{{end}}</li>
+                    {{ end }}
+                </ul>
+            </section>
+            {{ end }}
+            {{ with .Page.Params.funding }}
+            <section>
+                <header>
+                    <h3>Funding</h3>
+                </header>
+                <ul>
+                    {{ range . }}
+                    <li><a href="{{ .link }}" target="_blank">{{ .name}}</a>{{ with .more}} &middot; {{ . }}{{end}}</li>
+                    {{ end }}
+                </ul>
+            </section>
+            {{ end }}
+            {{ with .Page.Params.publications }}
+            <section>
+                <header>
+                    <h3>Publications</h3>
+                </header>
+                <ol reversed>
+                    {{ range . }}
+                    <li>
+                        {{ partial "publication-li" (dict "data" $data "pub" (index $data.publications.publications .) ) }}
+                    </li>
+                    {{ end }}
+                </ol>
+            </section>
+            {{ end }}
+            {{ with .Page.Params.external_resources }}
+            <section>
+                <header>
+                    <h3>External resources</h3>
+                </header>
+                <ul>
+                    {{ range . }}
+                    <li>
+                        <a class="icon fa-{{- .icon -}}" href="{{ .link }}" target="_blank" title="{{ .name }}">
+                            <span>{{ .name }}</span>
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </section>
+            {{ end }}
+        </article>
+    </div>
+</section>
+{{ end }}

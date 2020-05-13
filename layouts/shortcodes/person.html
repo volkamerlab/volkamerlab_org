@@ -1,0 +1,4 @@
+{{ $personkey := .Get 0 }}
+{{- range where .Page.Site.Data.team.members ".key" $personkey -}}
+<a href="#" title="Go to {{ .name -}}'s profile">{{- .name -}}</a>
+{{- end -}}

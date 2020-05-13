@@ -1,0 +1,14 @@
+{{ $members := .members }}
+{{ range .authors }}
+    {{ $author := . }}
+    {{ $is_member := "false" }}
+    {{ range $members }}
+        {{ if eq .key $author }}
+            <li><span>{{ partial "authorlink" . }}</span></li>
+            {{ $is_member = "true" }}
+        {{ end}}
+    {{ end }}
+    {{ if eq $is_member "false" }}
+        <li><span>{{ $author }}</span></li>
+    {{ end }}
+{{ end }}

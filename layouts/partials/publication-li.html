@@ -1,0 +1,10 @@
+{{ $data := .data }}
+{{ $pub := .pub }}
+
+<ul class="separate-by-commas">
+    {{ partial "publication-authors" (dict "authors" $pub.authors "members" $data.team.members) }}
+</ul>
+<!-- year -->
+<span> ({{ $pub.year }}). <strong>{{ $pub.title }}</strong>. <em>{{ $pub.journal }}</em>,
+    {{ $pub.volume }}{{ with $pub.issue}}({{ . }}){{ end }}{{ with $pub.pages }}:{{ . }}{{ end }}.{{ with $pub.doi}}
+    DOI: <a href="https://dx.doi.org/{{ . }}" target="_blank">{{ . }}</a>.{{ end }}</span>

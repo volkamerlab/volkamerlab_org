@@ -1,0 +1,58 @@
+# -- Publication schema --
+#
+# Mainly a bibtex to yaml conversion
+# Each publication is a dictionary
+# Dictionary key is the citation key
+# Dictionary value contains all the key-value pairs in a bibtex entry
+# Authors can be either a key in site.data.team or a full name
+# Schema::
+# CITATIONKEY:
+#     title:
+#     authors:
+#       - External Full Author Name
+#       - andrea.volkamer
+#     journal: Full Journal Name
+#     volume:
+#     issue:
+#     pages:
+#     year: yyyy
+#     date: yyyy--mm-dd
+#     doi: "10.1186/s12859-016-1433-7"
+#     image:
+
+kinmap2017:
+  title: "KinMap: a web-based tool for interactive navigation through human kinome data"
+  authors:
+    - Sameh Eid
+    - Samo Turk
+    - andrea.volkamer
+    - Friedrich Rippmann
+    - Simone Fulle
+  journal: BMC Bioinformatics
+  volume: 18
+  issue: 16
+  pages:
+  year: 2017
+  date: 2017-01-05
+  doi: "10.1186/s12859-016-1433-7"
+  image:
+
+proteinsplus2017:
+  title: "ProteinsPlus: a web portal for structure analysis of macromolecules"
+  authors:
+    - Rainer Fährrolfes
+    - Stefan Bietz
+    - Florian Flachsenberg
+    - Agnes Meyder
+    - Eva Nittinger
+    - Thomas Otto
+    - andrea.volkamer
+    - Matthias Rarey
+  journal: Nucleic Acids Research
+  volume: 45
+  issue: W1
+  pages: W337-W343
+  year: 2017
+  date: 2017-05-02
+  doi: "10.1093/nar/gkx333"
+  image:

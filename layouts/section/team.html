@@ -7,36 +7,36 @@
             </header>
             {{ .Content }}
             <section>
-                <header><h2>Team Leader</h2></header>
+                <header>
+                    <h2>Team Leader</h2>
+                </header>
                 <div class="posts">
-                {{ range .Site.Data.team.team.members }}
-                    {{ if eq .role "Team leader" }}
+                    {{ range where .Site.Data.team.members ".status" "teamleader" }}
                         {{ partial "person" . }}
                     {{ end }}
-                {{ end }}
                 </div>
             </section>
             <section>
-                <header><h2>Members</h2></header>
+                <header>
+                    <h2>Members</h2>
+                </header>
                 <div class="posts">
-                {{ range .Site.Data.team.team.members }}
-                    {{ if ne .role "Team leader" }}
+                    {{ range where .Site.Data.team.members ".status" "member" }}
                         {{ partial "person" . }}
                     {{ end }}
-                {{ end }}
                 </div>
             </section>
-            {{ if .Site.Data.team.team.alumni }}
             <section>
-                <header><h2>Alumni</h2></header>
+                <header>
+                    <h2>Alumni</h2>
+                </header>
                 <ul>
-                    {{ range $.Site.Data.team.team.alumni }}
+                    {{ range where $.Site.Data.team.members ".status" "alumni" }}
                     <li><strong>{{ .name }}</strong> ({{ .role }})<br />
                         {{ .project }}</li>
                     {{ end }}
                 </ul>
             </section>
-            {{ end }}
         </article>
     </div>
 </section>
