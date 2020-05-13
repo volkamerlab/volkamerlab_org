@@ -8,12 +8,10 @@
             </header>
             {{ .Content }}
             <ol reversed>
-                {{ range sort .Site.Data.publications.publications ".date" }}
+                {{ range sort $data.publications.publications ".date" "desc" }}
                 <li>{{ partial "publication-li" (dict "data" $data "pub" . )}}</li>
                 {{ end }}
             </ol>
-
-
         </article>
     </div>
 </section>

@@ -19,23 +19,43 @@
 #     date: yyyy--mm-dd
 #     doi: "10.1186/s12859-016-1433-7"
 #     image:
+#     pdf:
 
-kinmap2017:
-  title: "KinMap: a web-based tool for interactive navigation through human kinome data"
+sydow2019:
+  title: "Advances and Challenges in Computational Target Prediction"
   authors:
-    - Sameh Eid
-    - Samo Turk
+    - dominique.sydow
+    - Lindsey Burggraaff
+    - Angelika Szengel
+    - Herman W. T. van Vlijmen
+    - Adriaan P. IJzerman
+    - Gerard J. P. van Westen
     - andrea.volkamer
-    - Friedrich Rippmann
-    - Simone Fulle
-  journal: BMC Bioinformatics
-  volume: 18
-  issue: 16
-  pages:
-  year: 2017
-  date: 2017-01-05
-  doi: "10.1186/s12859-016-1433-7"
-  image:
+  journal: J. Chem. Inf. Model
+  volume: 59
+  issue: 5
+  pages: 1728-1742
+  year: 2019
+  date: 2019-02-28
+  doi: "10.1021/acs.jcim.8b00832"
+  image: ""
+  pdf: ""
+
+t2f2018:
+  title: "Truly Target-Focused Pharmacophore Modeling: A Novel Tool for Mapping Intermolecular Surfaces"
+  authors:
+    - jeremie.mortier
+    - pratik.dhakal
+    - andrea.volkamer
+  journal: Molecules
+  volume: 23
+  issue: 8
+  pages: 1959
+  year: 2018
+  date: 2018-07-28
+  doi: "10.3390/molecules23081959"
+  image: ""
+  pdf: ""
 
 proteinsplus2017:
   title: "ProteinsPlus: a web portal for structure analysis of macromolecules"
@@ -55,4 +75,22 @@ proteinsplus2017:
   year: 2017
   date: 2017-05-02
   doi: "10.1093/nar/gkx333"
+  image: ""
+  pdf: ""
+
+kinmap2017:
+  title: "KinMap: a web-based tool for interactive navigation through human kinome data"
+  authors:
+    - Sameh Eid
+    - Samo Turk
+    - andrea.volkamer
+    - Friedrich Rippmann
+    - Simone Fulle
+  journal: BMC Bioinformatics
+  volume: 18
+  issue: 16
+  pages:
+  year: 2017
+  date: 2017-01-05
+  doi: "10.1186/s12859-016-1433-7"
   image:
