@@ -11,11 +11,6 @@ people:
 - key: pratik.dhakal
 - key: jeremie.mortier
 - key: andrea.volkamer
-external_resources:
-- name: ratar
-  link: https://github.com/volkamerlab/ratar
-  icon: github
-  more: Binding site comparison tool (WIP)
 funding:
 - name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
   link: "#"
@@ -36,4 +31,4 @@ available, but also in the case of underexplored therapeutic targets,
 as well as to investigate protein allosteric pockets and protein-protein interactions.
 
 
-{{< figure src="/images/research/t2fpharm.png" title="T2F-Pharm" >}}
+{{< xfigure src="/images/research/t2fpharm.png" caption="T2F-Pharm" >}}

@@ -33,6 +33,14 @@ You can use _shortcodes_ along your normal markdown for this. Path is relative t
 {{% content "path/to/page/to/be/inserted.md" %}}
 ```
 
+## Available shortcodes
+
+In addition to the [default shortcodes](https://gohugo.io/content-management/shortcodes/), we provide:
+
+* `{{< xfigure ... >}}`: derived from [`figure`](https://gohugo.io/content-management/shortcodes/#figure), but using the theme image wrappers for responsiveness. Also accepts an `imgclass` attribute to define [custom fittings](https://html5up.net/uploads/demos/editorial/elements.html) (look for the _Image_ section and `right-click> Inspect` to see the last class attribute).
+* `{{% content ... %}}`: insert a markdown content in another article.
+* `{{% person ... %}}`: link to a person profile using their person key (check `/data/team/members.yaml`).
+
 ## Project pages vs Research pages
 
 Every project is described at `/content/projects/project_name.md`. The frontmatter define most of the metadata you need. The markdown content after the frontmatter is free text and can be considered the "abstract" of the project.

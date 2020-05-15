@@ -10,13 +10,6 @@ nav: false
 people:
 - key: dominique.sydow
 - key: andrea.volkamer
-collaborators:
-- name: Albert Koistraa
-  link: https://drug.ku.dk/employees/?pure=en/persons/612712
-  more: (University of Copenhagen)
-- name: Friedrich Rippmann
-  link: "#"
-  more: (Merck)
 external_resources:
 - name: ratar
   link: https://github.com/volkamerlab/ratar
@@ -31,10 +24,12 @@ publications:
 - sydow2019
 ---
 
+
+
 How to probe and validate a potential target remains one of the key questions in basic research in life sciences.
 In the DFG project "Read-Across the Targetome" (*ratar*), we will use binding site similarity to predict off-targets and
 to extrapolate compound information from one target to another.
 This similarity-based knowledge transfer can suggest tool compounds (chemical probes) and
 off-targets for proteins of interest using the ever-growing amount of available target and compound data.
 
-{{< figure src="/images/research/teachopencadd.png" title="Example" >}}
+{{< xfigure src="/images/research/ratar.png" caption="ratar" >}}

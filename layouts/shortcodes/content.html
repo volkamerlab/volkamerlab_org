@@ -3,10 +3,10 @@
 
 <h3><a href="{{.Permalink}}">{{ .Title }}</a></h3>
 
-{{ .Content | markdownify }}
+{{ .Content  }}
 
 <p>
-    <a href="{{.Permalink}}">More info &gt;&gt;</a>
+    <a class="button icon fa-angle-double-right" href="{{.Permalink}}">Read more</a>
 </p>
 
 {{ end }}
