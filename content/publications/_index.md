@@ -6,4 +6,4 @@ menu: "main"
 section: publications
 ---
 
-List of research articles published within Volkamer Lab during the time at Charité. For additional/earlier publications refer to the teams individual pages.
+List of research articles published within Volkamer Lab during the time at Charité. For additional/earlier publications refer to the [teams](/team) individual pages.
