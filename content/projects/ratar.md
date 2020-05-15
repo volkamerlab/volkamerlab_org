@@ -30,4 +30,4 @@ to extrapolate compound information from one target to another.
 This similarity-based knowledge transfer can suggest tool compounds (chemical probes) and
 off-targets for proteins of interest using the ever-growing amount of available target and compound data.
 
-{{< figure src="/images/research/ratar.png" title="Example" >}}
+{{< figure src="/images/research/ratar.png" title="ratar" >}}
