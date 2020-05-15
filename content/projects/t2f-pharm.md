@@ -11,11 +11,6 @@ people:
 - key: pratik.dhakal
 - key: jeremie.mortier
 - key: andrea.volkamer
-external_resources:
-- name: ratar
-  link: https://github.com/volkamerlab/ratar
-  icon: github
-  more: Binding site comparison tool (WIP)
 funding:
 - name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
   link: "#"
