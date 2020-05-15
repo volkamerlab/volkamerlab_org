@@ -31,6 +31,6 @@ draft: true
 
 Project description (3-6 sentences).
 
-{{< figure src="/images/research/teachopencadd.png" title="Example caption" >}}
+{{< xfigure src="/images/research/teachopencadd.png" caption="Example caption" >}}
 
 

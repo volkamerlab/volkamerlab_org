@@ -34,4 +34,5 @@ publications:
 
 In this project, we aim to combine structure-enabled machine learning and alchemical free energy calculations to develop a predictive quantitative model to rapidly assess kinase inhibitor affinity and selectivity, design ligands with desired selectivity profiles, assess the impact of clinical point mutations on inhibitor binding and kinase activation, and determine the likelihood of different inhibitors to elicit mutational resistance.
 
-{{< figure src="/images/research/kinopoly.png" title="Affinity prediction on the kinome tree." >}}
+{{< xfigure src="/images/research/kinopoly.png" caption="Affinity prediction on the kinome tree." imgclass="image" >}}
+

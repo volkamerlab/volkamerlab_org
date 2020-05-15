@@ -15,7 +15,7 @@ Long description with several paragraphs.
 
 Long description with several paragraphs.Long description with several paragraphs.
 
-{{< figure src="/images/research/binding_site_comparison.png" title="Example" >}}
+{{< xfigure src="/images/research/binding_site_comparison.png" caption="Example" >}}
 
 
 ## Projects overview

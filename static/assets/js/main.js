@@ -267,7 +267,7 @@
 					$this.on('click', function(event) {
 
 						// Prevent default.
-							event.preventDefault();
+						//	event.preventDefault();
 
 						// Toggle.
 							$menu_openers.not($this).removeClass('active');
