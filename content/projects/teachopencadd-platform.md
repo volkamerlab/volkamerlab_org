@@ -70,7 +70,7 @@ TeachOpenCADD is suitable for self-study training and classroom teaching, but ca
 research projects.
 The platform is freely available on GitHub and open to contributions from the community.
 
-{{< figure src="/images/research/teachopencadd.png" title="TeachOpenCADD logo" >}}
+{{< xfigure src="/images/research/teachopencadd.png" caption="TeachOpenCADD logo" >}}
 
 
 ##### TEACHOPENCADD TOPICS
@@ -98,9 +98,9 @@ TeachOpenCADD offers teaching material on common tasks in computer-aided drug de
   c. Visualizing the results and comparing against known data
 
 
-{{< figure src="/images/research/teachopencadd_topics1-10.png" title="Topics 1-10" >}}
+{{< xfigure src="/images/research/teachopencadd_topics1-10.png" caption="Topics 1-10" >}}
 
-{{< figure src="/images/research/teachopencadd_topics11.png" title="Topic 11" >}}
+{{< xfigure src="/images/research/teachopencadd_topics11.png" caption="Topic 11" >}}
 
 Topics 1-11 are available as Python-based Jupyter notebooks and topics 1-8 can additionally be used in the form of
 KNIME workflows.

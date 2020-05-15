@@ -31,4 +31,4 @@ available, but also in the case of underexplored therapeutic targets,
 as well as to investigate protein allosteric pockets and protein-protein interactions.
 
 
-{{< figure src="/images/research/t2fpharm.png" title="T2F-Pharm" >}}
+{{< xfigure src="/images/research/t2fpharm.png" caption="T2F-Pharm" >}}
