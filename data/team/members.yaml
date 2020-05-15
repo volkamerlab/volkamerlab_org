@@ -159,8 +159,14 @@
   role: Master student
   status: member
   image:
-  project: Subpocket-based fragmentation and recombination of kinase inhibitors
+  project: T2F-Flex - refactoring and improving grid merge/clustering
 # --ALUMNI--
+- name: Robert Strothmann
+  prefix:
+  role: Bachelor student
+  status: alumni
+  key: robert.strothmann
+  project: Automatic generation of T2F-Flex pharmacophores based on MD simulations
 - name: Lisa Chiara Gosch
   prefix:
   role: PhD candidate
@@ -206,5 +212,5 @@
 - name: Maximilian Driller
   key: maximilian.driller
   status: alumni
-  role: Student
-  project:
+  role: Master student
+  project: Computer-aided drug design - an interactive python pipeline (TeachOpenCADD)
