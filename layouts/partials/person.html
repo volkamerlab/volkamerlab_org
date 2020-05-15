@@ -1,18 +1,18 @@
 <article>
-    <h3><strong>{{ with .prefix }}{{- . -}} {{ end }}{{ .name }}</strong></h3>
+    <h3><strong>{{ with .prefix }}{{- . }} {{ end }}{{ .name }}</strong></h3>
     {{ if .image }}
-        <span class="image right"><img src="{{ .image }}"/></span>
+    <span class="image right"><img src="{{ .image }}" /></span>
     {{ end }}
     <p><strong>{{ .role }}</strong><br />{{ .project }}</p>
     {{ if .links }}
-        <ul class="icons" style="margin-bottom: 0">
-            {{ range .links }}
-                <li>
-                    <a href="{{ .url }}" target="_blank" class="icon fa-{{ .icon }}" title="{{ .text }}">
-                        <span class="label">{{ .text }}</span>
-                    </a>
-                </li>
-            {{ end }}
-        </ul>
+    <ul class="icons" style="margin-bottom: 0">
+        {{ range .links }}
+        <li>
+            <a href="{{ .url }}" target="_blank" class="icon fa-{{ .icon }}" title="{{ .text }}">
+                <span class="label">{{ .text }}</span>
+            </a>
+        </li>
+        {{ end }}
+    </ul>
     {{ end }}
 </article>
