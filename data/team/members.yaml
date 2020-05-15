@@ -142,37 +142,51 @@
       text: ORCiD
       url: https://orcid.org/0000-0002-8201-2894
 # --MASTERS--
+- name: Michele Wichmann
+  prefix:
+  key: michele.wichmann
+  role: Master student
+  status: studentmember
+  image:
+  project: Subpocket-based fragmentation and recombination of kinase inhibitors
+- name: Allen Dumler
+  prefix:
+  key: allen.dumler
+  role: Bachelor student
+  status: studentmember
+  image:
+  project: Standardization pipelines in computer-aided drug design
+
+  # --ALUMNI--
 - name: Paula Schmiel
   prefix:
   key: paula.schmiel
-  role: Master student
-  status: member
+  role: Master student and short term scientist
+  status: alumni
   image: /images/team/paulaschmiel.jpg
   project: Subpocket-based fragmentation and recombination of kinase inhibitors
   links:
     - icon: github
       text: GitHub
       url: https://github.com/paulaju
-- name: Michele Wichmann
-  prefix:
-  key: michele.wichmann
-  role: Master student
-  status: member
-  image:
-  project: Subpocket-based fragmentation and recombination of kinase inhibitors
-# --ALUMNI--
 - name: Lisa Chiara Gosch
   prefix:
-  role: PhD candidate
+  role: Dr. med. candidate
   status: alumni
-  key: lisa.chiara
-  project:
+  key: chiara.gosch
+  project: Computational and experimental testing of novel EGFR and HDAC inhibitors
 - name: Henry Webel
   prefix:
   key: henry.webel
   status: alumni
   role: Scientist
   project: Predicting cytotoxicity using deep neural networks
+- name: Boran Adas
+  prefix:
+  key: boran.adas
+  status: alumni
+  role: Master thesis and GoogleSummerOfCode
+  project: Robust machine learning pipeline for classification problems in chemo-informatics
 - name: Jérémie Mortier
   prefix: Dr.
   key: jeremie.mortier
@@ -189,7 +203,7 @@
   prefix:
   key: pratik.dhakal
   status: alumni
-  role: Student assistant + master thesis
+  role: Student assistant and Master thesis
   project: Truly target-focused (dynamic) pharmacophore modeling (T2F-Pharm and T2F-Flex)
 - name: Eva Aßmann
   prefix:
@@ -201,10 +215,15 @@
   prefix:
   key: jacob.gora
   status: alumni
-  role: Student assistant / Master thesis with Novartis
+  role: Student assistant and Master thesis with Novartis
   project: Machine learning for kinase activity prediction / Active learning for compound optimization
 - name: Maximilian Driller
   key: maximilian.driller
   status: alumni
-  role: Student
-  project:
+  role: Student project work
+  project: Research in the context of TeachOpenCADD
+- name: Angelika Szengel
+  key: angelika.szengel
+  status: alumni
+  role: Student project work
+  project: Research in the context of target prediction
