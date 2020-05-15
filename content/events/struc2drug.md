@@ -15,10 +15,10 @@ nav: false
 ### Integrative Structural Biology and Drug Design
 
 Drug design is a complex and lengthly process that can only yield successful results using a plethora of different
-experimental and computational methods. Many researchers work in Berlin at universities, research facilities and 
+experimental and computational methods. Many researchers work in Berlin at universities, research facilities and
 industry in the field of drug design or in neighboring disciplines.
 
-*struc2drug* is a bimonthly seminar series promoting the exchange between researchers in the interdisciplinary field 
+*struc2drug* is a bimonthly seminar series promoting the exchange between researchers in the interdisciplinary field
 of structural biology and drug development in Berlin.
 
 ##### AIM
@@ -29,8 +29,8 @@ of structural biology and drug development in Berlin.
 
 ##### MAILINGLIST
 
-Sign up for our mailing list to be notified on upcoming events:
-https://mailman.charite.de/mailman/listinfo/struc2drug
+Sign up for [our mailing list](https://mailman.charite.de/mailman/listinfo/struc2drug) to be notified on upcoming events.
+
 
 
 ###### UPCOMING SEMINAR
@@ -42,7 +42,7 @@ TBA
 20200116
 * **Speakers**: Jérémie Mortier & Floriane Montanari (Bayer)
 * **Title**: Computational Chemistry in Industry
-* **Abstract**: Computational methods are employed in numerous ways in early drug development. In this seminar, we present two examples of how such methods are applied at Bayer to develop novel drugs. First, Jérémie Mortier will present an early synergistic research project applying computational molecular design to medicinal chemistry, in order to find drugs for KRAS. Since the discovery of the druggable allosteric binding site containing the G12C mutation, KRAS has attracted a lot of attention in oncology research and is now one of the most-studied anticancer targets. In the second talk, Floriane Montanari will explain how pharmacokinetic properties are predicted as part of the routine toolbox at Bayer. She discusses the continuous and reversible representation of compounds as SMILES and the application of deep learning methods to effectively predict physico-chemical properties of compounds in a multitask fashion. 
+* **Abstract**: Computational methods are employed in numerous ways in early drug development. In this seminar, we present two examples of how such methods are applied at Bayer to develop novel drugs. First, Jérémie Mortier will present an early synergistic research project applying computational molecular design to medicinal chemistry, in order to find drugs for KRAS. Since the discovery of the druggable allosteric binding site containing the G12C mutation, KRAS has attracted a lot of attention in oncology research and is now one of the most-studied anticancer targets. In the second talk, Floriane Montanari will explain how pharmacokinetic properties are predicted as part of the routine toolbox at Bayer. She discusses the continuous and reversible representation of compounds as SMILES and the application of deep learning methods to effectively predict physico-chemical properties of compounds in a multitask fashion.
 
 
 20191114
@@ -63,7 +63,7 @@ TBA
 20190509
 * **Speakers**: Sasa Petrovic (MDC) & Ferdinand Krupp (Charité)
 * **Title**: Structure Elucidation: X-ray Crystallography & Cryo Electron Microscopy
-* **Abstract**: Structural determination is an important step during drug development, allowing the characterization of target proteins,  protein-ligand complexes and forming the basis for CADD methods. In this lecture, we will introduce two major methods and discuss their advantages, disadvantages and complementarity. In the first part,  X-ray crystallography is presented as the major method to solve protein structures in a high-throughput manner. In the second part, cryo electron microscopy is highlighted, which is used to elucidate structures of large and flexible biomolecules. 
+* **Abstract**: Structural determination is an important step during drug development, allowing the characterization of target proteins,  protein-ligand complexes and forming the basis for CADD methods. In this lecture, we will introduce two major methods and discuss their advantages, disadvantages and complementarity. In the first part,  X-ray crystallography is presented as the major method to solve protein structures in a high-throughput manner. In the second part, cryo electron microscopy is highlighted, which is used to elucidate structures of large and flexible biomolecules.
 
 20190314
 * **Speakers**: Yelena Mostinski (FMP Berlin) & Marcel Bermudez (FU Berlin)
@@ -74,4 +74,4 @@ TBA
 20190110
 * **Speakers**: Ferdinand Krupp (Charité, AG Spahn) & Dominique Sydow (Charité, AG Volkamer)
 * **Title**: Drug Development: Past, Present & Future
-* **Abstract**: The first use of drugs for medical and recreational reasons reaches back to the roots of humans. In this first talk of our seminar series struc2drug, we will give a brief overview of the usage of healing substances ranging from ancient Egypt, over the first identification of active compounds in the 18th century to modern drug discovery strategies. We will introduce the main steps of drug development, including computa- tional and experimental methods, which will serve as topics for future talks in this seminar series. Additionally, we invite you to discuss with us your expectations and interests regarding topics and methods to be covered.  
+* **Abstract**: The first use of drugs for medical and recreational reasons reaches back to the roots of humans. In this first talk of our seminar series struc2drug, we will give a brief overview of the usage of healing substances ranging from ancient Egypt, over the first identification of active compounds in the 18th century to modern drug discovery strategies. We will introduce the main steps of drug development, including computa- tional and experimental methods, which will serve as topics for future talks in this seminar series. Additionally, we invite you to discuss with us your expectations and interests regarding topics and methods to be covered.
