@@ -16,10 +16,191 @@
 #     issue:
 #     pages:
 #     year: yyyy
-#     date: yyyy--mm-dd
+#     date: yyyy-mm-dd
 #     doi: "10.1186/s12859-016-1433-7"
 #     image:
 #     pdf:
+
+#  Books
+
+volkamer_2018_activesites:
+  title: "Prediction, Analysis and Comparison of Active Sites"
+  authors:
+    - andrea.volkamer
+    - Mathias M. von Behren
+    - Stefan Bietz
+    - Matthias Rarey
+  journal: Applied Cheminformatics - Achievements and Future Opportunities. Wiley
+  volume: 2
+  issue: 
+  pages: 
+  year: 2018
+  date: 2018-06-01
+  doi: "https://doi.org/10.1016/bs.armc.2017.08.001"
+  image:
+  pdf:
+
+
+kooistra_2017_kinases:
+  title: "Kinase-Centric Computational Drug Development"
+  authors:
+    - Albert J. Kooistra
+    - andrea.volkamer
+  journal: "Annual Reports in Medicinal Chemistry (Elsevier)"
+  # Platform Technologies in Drug Discovery and Target Validation
+  volume: 50
+  issue: 
+  pages: 197 - 236
+  year: 2017
+  date: 2017-06-01
+  doi: "https://doi.org/10.1016/bs.armc.2017.08.001"
+  image:
+  pdf:
+
+
+# Manuscripts
+
+schmitt_2019_hdacs:
+  title: "Oxazole-Bridged Combretastatin A-4 Derivatives with Tethered Hydroxamic Acids: Structure–Activity Relations of New Inhibitors of HDAC and/or Tubulin Function."
+  authors:
+    - Flroian Schmitt
+    - Lisa C. Gosch
+    - Alexandra Dittmer
+    - Matthias Rothemund
+    - Thomas Mueller
+    - Rainer Schobert
+    - Bernhard Biersack
+    - andrea.volkamer
+    - Michael Höpfner
+  journal: International Journal of Molecular Sciences
+  volume: 20
+  issue: 2
+  pages: 338
+  year: 2019
+  date: 2017-01-17
+  doi: "https://doi.org/10.3390/ijms20020383"
+  image:
+  pdf:
+
+bietz_2017_proteinsplus:
+  title: "From cheminformatics to structure-based design: Web services and desktop applications based on the NAOMI library"
+  authors:
+    - Stefan Bietz
+    - Therese Inhester
+    - Florian Lauck
+    - Kai Sommer
+    - Mathias M. von Behren 
+    - Rainer Fährrolfes 
+    - Florian Flachsenberg 
+    - Agnes Meyder 
+    - Eva Nittinger 
+    - Thomas Otto
+    - Matthias Hilbig
+    - Karen T. Schomburg
+    - andrea.volkamer
+    - Matthias Rarey
+  journal: Journal of Biotechnology
+  volume: 261
+  issue: 10
+  pages: 207 - 214
+  year: 2017
+  date: 2017-11-01
+  doi: "https://doi.org/10.14573/altex.1712031"
+  image:
+  pdf:
+
+lang_2017_insilicotox:
+  title: "In silico methods – Computational alternatives to animal testing" 
+  authors:
+    - Annemarie Lang
+    - andrea.volkamer
+    - Laura Behm
+    - Susanna Röblitz
+    - Rainald Ehrig
+    - Marlon Schneider
+    - Liesbet Geris
+    - Joerg Wichard
+    - Frank Buttgereit
+  journal: ALTEX - Alternatives to animal experimentation
+  volume: 35
+  issue: 1
+  pages: 126-128
+  year: 2017
+  date: 2017-01-17
+  doi: "https://doi.org/10.14573/altex.1712031"
+  image:
+  pdf:
+
+volkamer_2018_academiaperspective:
+  title: "Transition from Academia to Industry and Back" 
+  authors:
+    - andrea.volkamer
+    - Sereina, Riniker
+  journal: Journal of Chemical Information and Modeling
+  volume: 58
+  issue: 8
+  pages: 1469 - 1472
+  year: 2018
+  date: 2018-08-27
+  doi: "doi: 10.1021/acs.jcim.8b00459"
+  image:
+  pdf:
+
+ernst_2019_tempdepend:
+  title: "Computation of temperature-dependent dissociation rates of metastable protein-ligand complexes"
+  authors:
+    - Natalia Ernst
+    - Konstantin Fackeldey
+    - andrea.volkamer
+    - Oliver Opatz
+    - Marcus Weber
+  journal: Molecular Simulation
+  volume: 45
+  issue: 11
+  pages: 904 - 911
+  year: 2019
+  date: 2019-05-05
+  doi: "https://doi.org/10.1080/08927022.2019.1610949"
+  image:
+  pdf:
+
+schoene_2019_sgk1:
+    title: "Probing 2H-Indazoles as Template for SGK1, Tie2 and SRC Kinase Inhibitors" 
+    authors:
+      - Jens Schoene
+      - Thais Gazzi
+      - Peter Lindemann
+      - Mathias Christmann
+      - andrea.volkamer
+      - Marc Nazaré
+    journal: ChemMedChem
+    volume: 14
+    issue: 16
+    pages: 1514 - 1527
+    year: 2019
+    date: 2019-07-01
+    doi: "https://doi.org/10.1002/cmdc.201900328"
+    image:
+    pdf:
+
+webel_2019_cytotox:
+    title: "Revealing cytotoxic substructures in molecules using deep learning" 
+    authors:
+      - Henry Webel
+      - talia.kimber
+      - Silke Radetzki
+      - Martin Neuenschwander
+      - Marc Nazaré
+      - andrea.volkamer
+    journal: Journal of Computer-Aided Molecular Design
+    volume: 
+    issue:
+    pages: 
+    year: 2020
+    date: 2020-04-16
+    doi: "https://doi.org/10.1007/s10822-020-00310-4"
+    image:
+    pdf:
 
 teachopencadd:
   title: "TeachOpenCADD: a teaching platform for computer-aided drug design using open source packages and data"
