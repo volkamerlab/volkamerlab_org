@@ -11,11 +11,11 @@ funding:
 - name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
   url: "#"
 people:
-- key: Pratik Dhakal
-- key: Michele Wichmann
-- key: Dominique Sydow
-- key: Robert Strothmann
-- key: Andrea Volkamer
+- key: pratik.dhakal
+- key: michele.wichmann
+- key: dominique.sydow
+- key: robert.strothmann
+- key: andrea.volkamer
 ---
 
 T2F-Flex offers pharmacophore modeling from MD simulations of apo structures, i.e. empty binding sites.
