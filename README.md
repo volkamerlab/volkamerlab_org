@@ -37,7 +37,7 @@ You can use _shortcodes_ along your normal markdown for this. Path is relative t
 
 In addition to the [default shortcodes](https://gohugo.io/content-management/shortcodes/), we provide:
 
-* `{{< xfigure ... >}}`: derived from [`figure`](https://gohugo.io/content-management/shortcodes/#figure), but using the theme image wrappers for responsiveness. Also accepts an `imgclass` attribute to define [custom fittings](https://html5up.net/uploads/demos/editorial/elements.html) (look for the _Image_ section and `right-click> Inspect` to see the last class attribute).
+* `{{< xfigure ... >}}`: derived from [`figure`](https://gohugo.io/content-management/shortcodes/#figure), but using the theme image wrappers for responsiveness. Also accepts an `imageclass` attribute to define [custom fittings](https://html5up.net/uploads/demos/editorial/elements.html): `fit`, `left`, `right`.
 * `{{% content ... %}}`: insert a markdown content in another article.
 * `{{% person ... %}}`: link to a person profile using their person key (check `/data/team/members.yaml`).
 
