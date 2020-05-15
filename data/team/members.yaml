@@ -169,6 +169,12 @@
     - icon: github
       text: GitHub
       url: https://github.com/paulaju
+- name: Robert Strothmann
+  prefix:
+  role: Bachelor student
+  status: alumni
+  key: robert.strothmann
+  project: Automatic generation of T2F-Flex pharmacophores based on MD simulations
 - name: Lisa Chiara Gosch
   prefix:
   role: Dr. med. candidate
@@ -220,10 +226,10 @@
 - name: Maximilian Driller
   key: maximilian.driller
   status: alumni
-  role: Student project work
-  project: Research in the context of TeachOpenCADD
+  role: Master student project work
+  project: Computer-aided drug design - an interactive python pipeline (TeachOpenCADD)
 - name: Angelika Szengel
   key: angelika.szengel
   status: alumni
-  role: Student project work
-  project: Research in the context of target prediction
+  role: Master student project work
+  project: Structure-based computaional target prediction (review)

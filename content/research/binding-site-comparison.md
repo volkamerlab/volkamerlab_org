@@ -22,8 +22,6 @@ structurally available macromolecules, and
 (iii) the most similar binding sites (ranked by a scoring function) are proposed
 as potential off-targets or polypharmacologic targets.
 
-{{< figure src="/images/research/binding_site_comparison.png" title="Binding site comparison" >}}
-
 ## Projects overview
 
 [Targetome-wide binding site comparison](#targetome-wide-binding-site-comparison) \
