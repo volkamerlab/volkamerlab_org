@@ -112,18 +112,21 @@
     - icon: envelope
       text: talia.kimber@charite.de
       url: mailto:talia.kimber@charite.de
-    - icon: github
-      text: GitHub
-      url: https://github.com/t-kimber
-    - icon: twitter
-      text: Twitter
-      url: https://twitter.com/taliakimber
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/taliakimber
+    - icon: github
+      text: GitHub
+      url: https://github.com/t-kimber
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?user=i3sMZ-cAAAAJ&hl=en&oi=ao
     - icon: info-circle
       text: ORCiD
       url: https://orcid.org/0000-0002-8881-920X
+    - icon: twitter
+      text: Twitter
+      url: https://twitter.com/taliakimber
 - name: Yonghui Chen
   prefix:
   key: yonghui.chen
