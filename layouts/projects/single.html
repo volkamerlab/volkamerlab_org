@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ $data := .Site.Data}}
-<section id="banner">
+<section {{ with .Params.mainSectionId}}id="{{.}}" {{end}}>
     <div class="content">
         <article>
             <header class="major">

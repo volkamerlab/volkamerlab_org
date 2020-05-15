@@ -1,5 +1,5 @@
 {{ $imageclass := .Get "imgclass" | default "fit" }}
-<span class="image {{$imageclass}}">
+<div class="image {{$imageclass}}">
     <figure {{ with .Get "class" }}class="{{- . -}}" {{ end }}>
         {{- if .Get "link" -}}
         <a href="{{ .Get "link" }}" {{ with .Get "target" }} target="{{ . }}" {{ end }}{{ with .Get "rel" }}
@@ -28,4 +28,4 @@
         </figcaption>
         {{- end }}
     </figure>
-</span>
+</div>

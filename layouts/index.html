@@ -1,5 +1,5 @@
 {{ define "main" }}
-<section id="banner">
+<section {{ with .Params.mainSectionId}}id="{{.}}" {{end}}>
     {{ .Content }}
 </section>
 {{ end }}
