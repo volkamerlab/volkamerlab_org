@@ -20,6 +20,7 @@
 #     doi: "10.1186/s12859-016-1433-7"
 #     image:
 #     pdf:
+#     kind: article, review, book 
 
 #  Books
 
@@ -39,6 +40,7 @@ volkamer_2018_activesites:
   doi: "https://doi.org/10.1016/bs.armc.2017.08.001"
   image:
   pdf:
+  kind: book
 
 
 kooistra_2017_kinases:
@@ -56,6 +58,7 @@ kooistra_2017_kinases:
   doi: "https://doi.org/10.1016/bs.armc.2017.08.001"
   image:
   pdf:
+  kind: book
 
 
 # Manuscripts
@@ -81,6 +84,7 @@ schmitt_2019_hdacs:
   doi: "https://doi.org/10.3390/ijms20020383"
   image:
   pdf:
+  kind: article
 
 bietz_2017_proteinsplus:
   title: "From cheminformatics to structure-based design: Web services and desktop applications based on the NAOMI library"
@@ -108,6 +112,7 @@ bietz_2017_proteinsplus:
   doi: "https://doi.org/10.14573/altex.1712031"
   image:
   pdf:
+  kind: article
 
 lang_2017_insilicotox:
   title: "In silico methods – Computational alternatives to animal testing" 
@@ -130,6 +135,7 @@ lang_2017_insilicotox:
   doi: "https://doi.org/10.14573/altex.1712031"
   image:
   pdf:
+  kind: article
 
 volkamer_2018_academiaperspective:
   title: "Transition from Academia to Industry and Back" 
@@ -145,6 +151,7 @@ volkamer_2018_academiaperspective:
   doi: "doi: 10.1021/acs.jcim.8b00459"
   image:
   pdf:
+  kind: article
 
 ernst_2019_tempdepend:
   title: "Computation of temperature-dependent dissociation rates of metastable protein-ligand complexes"
@@ -163,6 +170,7 @@ ernst_2019_tempdepend:
   doi: "https://doi.org/10.1080/08927022.2019.1610949"
   image:
   pdf:
+  kind: article
 
 schoene_2019_sgk1:
     title: "Probing 2H-Indazoles as Template for SGK1, Tie2 and SRC Kinase Inhibitors" 
@@ -182,6 +190,7 @@ schoene_2019_sgk1:
     doi: "https://doi.org/10.1002/cmdc.201900328"
     image:
     pdf:
+    kind: article
 
 webel_2019_cytotox:
     title: "Revealing cytotoxic substructures in molecules using deep learning" 
@@ -201,6 +210,7 @@ webel_2019_cytotox:
     doi: "https://doi.org/10.1007/s10822-020-00310-4"
     image:
     pdf:
+    kind: article
 
 teachopencadd:
   title: "TeachOpenCADD: a teaching platform for computer-aided drug design using open source packages and data"
@@ -218,6 +228,7 @@ teachopencadd:
   doi: "10.1186/s13321-019-0351-x"
   image: ""
   pdf: ""
+  kind: article
 
 teachopencaddknime:
   title: "TeachOpenCADD-KNIME: A Teaching Platform for Computer-Aided Drug Design Using KNIME Workflows"
@@ -237,6 +248,7 @@ teachopencaddknime:
   doi: "10.1021/acs.jcim.9b00662"
   image: ""
   pdf: ""
+  kind: article
 
 sydow2019:
   title: "Advances and Challenges in Computational Target Prediction"
@@ -257,6 +269,7 @@ sydow2019:
   doi: "10.1021/acs.jcim.8b00832"
   image: ""
   pdf: ""
+  kind: review
 
 t2f2018:
   title: "Truly Target-Focused Pharmacophore Modeling: A Novel Tool for Mapping Intermolecular Surfaces"
@@ -273,6 +286,7 @@ t2f2018:
   doi: "10.3390/molecules23081959"
   image: ""
   pdf: ""
+  kind: article
 
 proteinsplus2017:
   title: "ProteinsPlus: a web portal for structure analysis of macromolecules"
@@ -294,6 +308,7 @@ proteinsplus2017:
   doi: "10.1093/nar/gkx333"
   image: ""
   pdf: ""
+  kind: article
 
 kinmap2017:
   title: "KinMap: a web-based tool for interactive navigation through human kinome data"
@@ -311,3 +326,5 @@ kinmap2017:
   date: 2017-01-05
   doi: "10.1186/s12859-016-1433-7"
   image:
+  pdf: 
+  kind: article
