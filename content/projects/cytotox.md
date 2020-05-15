@@ -5,7 +5,7 @@ menu:
     main:
         parent: Projects
 nav: false
-draft: true
+draft: false
 people:
 - key: talia.kimber
 - key: henry.webel
