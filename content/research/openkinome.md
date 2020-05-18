@@ -9,6 +9,8 @@ weight: 10
 nav: false
 ---
 
+{{< box "🚧 This section is under construction 🚧" >}}
+
 Long description with several paragraphs.
 Long description with several paragraphs.
 Long description with several paragraphs.

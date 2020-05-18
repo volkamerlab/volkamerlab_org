@@ -2633,6 +2633,27 @@
 			transform: scale(1.075);
 		}
 
+	@media screen{
+
+		.image {
+			max-width: 70%;
+		}
+	}
+
+	@media screen and (max-width: 1680px) {
+
+		.image {
+			max-width: 85%;
+		}
+	}
+
+	@media screen and (max-width: 1280px) {
+
+		.image {
+			max-width: 100%;
+		}
+	}
+
 /* List */
 
 	ol {
