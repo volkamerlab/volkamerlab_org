@@ -1,5 +1,5 @@
 <article>
-    <h3><strong>{{ with .prefix }}{{- . }} {{ end }}{{ .name }}</strong></h3>
+    <h3 id="{{.key}}"><strong>{{ with .prefix }}{{- . }} {{ end }}{{ .name }}</strong></h3>
     {{ if .image }}
     <span class="image right"><img src="{{ .image }}" /></span>
     {{ end }}

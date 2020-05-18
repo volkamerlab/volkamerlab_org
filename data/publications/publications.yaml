@@ -20,7 +20,7 @@
 #     doi: "10.1186/s12859-016-1433-7"
 #     image:
 #     pdf:
-#     kind: article, review, book 
+#     kind: article, review, book
 
 #  Books
 
@@ -33,15 +33,14 @@ volkamer_2018_activesites:
     - Matthias Rarey
   journal: Applied Cheminformatics - Achievements and Future Opportunities. Wiley
   volume: 2
-  issue: 
-  pages: 
+  issue:
+  pages:
   year: 2018
   date: 2018-06-01
   doi: "https://doi.org/10.1016/bs.armc.2017.08.001"
   image:
   pdf:
   kind: book
-
 
 kooistra_2017_kinases:
   title: "Kinase-Centric Computational Drug Development"
@@ -51,7 +50,7 @@ kooistra_2017_kinases:
   journal: "Annual Reports in Medicinal Chemistry (Elsevier)"
   # Platform Technologies in Drug Discovery and Target Validation
   volume: 50
-  issue: 
+  issue:
   pages: 197 - 236
   year: 2017
   date: 2017-06-01
@@ -59,7 +58,6 @@ kooistra_2017_kinases:
   image:
   pdf:
   kind: book
-
 
 # Manuscripts
 
@@ -93,11 +91,11 @@ bietz_2017_proteinsplus:
     - Therese Inhester
     - Florian Lauck
     - Kai Sommer
-    - Mathias M. von Behren 
-    - Rainer Fährrolfes 
-    - Florian Flachsenberg 
-    - Agnes Meyder 
-    - Eva Nittinger 
+    - Mathias M. von Behren
+    - Rainer Fährrolfes
+    - Florian Flachsenberg
+    - Agnes Meyder
+    - Eva Nittinger
     - Thomas Otto
     - Matthias Hilbig
     - Karen T. Schomburg
@@ -115,7 +113,7 @@ bietz_2017_proteinsplus:
   kind: article
 
 lang_2017_insilicotox:
-  title: "In silico methods – Computational alternatives to animal testing" 
+  title: "In silico methods – Computational alternatives to animal testing"
   authors:
     - Annemarie Lang
     - andrea.volkamer
@@ -138,7 +136,7 @@ lang_2017_insilicotox:
   kind: article
 
 volkamer_2018_academiaperspective:
-  title: "Transition from Academia to Industry and Back" 
+  title: "Transition from Academia to Industry and Back"
   authors:
     - andrea.volkamer
     - Sereina, Riniker
@@ -173,46 +171,26 @@ ernst_2019_tempdepend:
   kind: article
 
 schoene_2019_sgk1:
-    title: "Probing 2H-Indazoles as Template for SGK1, Tie2 and SRC Kinase Inhibitors" 
-    authors:
-      - Jens Schoene
-      - Thais Gazzi
-      - Peter Lindemann
-      - Mathias Christmann
-      - andrea.volkamer
-      - Marc Nazaré
-    journal: ChemMedChem
-    volume: 14
-    issue: 16
-    pages: 1514 - 1527
-    year: 2019
-    date: 2019-07-01
-    doi: "https://doi.org/10.1002/cmdc.201900328"
-    image:
-    pdf:
-    kind: article
+  title: "Probing 2H-Indazoles as Template for SGK1, Tie2 and SRC Kinase Inhibitors"
+  authors:
+    - Jens Schoene
+    - Thais Gazzi
+    - Peter Lindemann
+    - Mathias Christmann
+    - andrea.volkamer
+    - Marc Nazaré
+  journal: ChemMedChem
+  volume: 14
+  issue: 16
+  pages: 1514 - 1527
+  year: 2019
+  date: 2019-07-01
+  doi: "https://doi.org/10.1002/cmdc.201900328"
+  image:
+  pdf:
+  kind: article
 
 webel_2019_cytotox:
-    title: "Revealing cytotoxic substructures in molecules using deep learning" 
-    authors:
-      - henry.webel
-      - talia.kimber
-      - Silke Radetzki
-      - Martin Neuenschwander
-      - Marc Nazaré
-      - andrea.volkamer
-    journal: Journal of Computer-Aided Molecular Design
-    volume: 
-    issue:
-    pages: 
-    year: 2020
-    date: 2020-04-16
-    doi: "https://doi.org/10.1007/s10822-020-00310-4"
-    image:
-    pdf:
-    kind: article
-
-cytotoxicity:
   title: "Revealing cytotoxic substructures in molecules using deep learning"
   authors:
     - henry.webel
@@ -227,9 +205,10 @@ cytotoxicity:
   pages:
   year: 2020
   date: 2020-04-16
-  doi: "10.1007/s10822-020-00310-4"
-  image: ""
-  pdf: ""
+  doi: "https://doi.org/10.1007/s10822-020-00310-4"
+  image:
+  pdf:
+  kind: article
 
 teachopencadd:
   title: "TeachOpenCADD: a teaching platform for computer-aided drug design using open source packages and data"
@@ -345,5 +324,5 @@ kinmap2017:
   date: 2017-01-05
   doi: "10.1186/s12859-016-1433-7"
   image:
-  pdf: 
+  pdf:
   kind: article

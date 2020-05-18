@@ -6,4 +6,4 @@ menu: "main"
 section: team
 ---
 
-Welcome to the Volkamer lab members. 
+These are the Volkamer lab members.
