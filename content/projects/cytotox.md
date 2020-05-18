@@ -24,7 +24,7 @@ funding:
 - name: Bundesministerium für Bildung und Forschung, Grant 031A262C
 - name: Stiftung Charité (Einstein BIH Visiting Fellow Project)
 publications:
-- cytotoxicity
+- webel_2019_cytotox
 ---
 
 In this project, cytotoxicity prediction, one of the earliest handles in drug discovery, is investigated using a deep learning approach trained on a highly consistent in-house data set of over 34,000 compounds from the FMP.

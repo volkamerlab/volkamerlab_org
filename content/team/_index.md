@@ -6,4 +6,4 @@ menu: "main"
 section: team
 ---
 
-Hello! My name is Andrea Volkamer and this is my team!
+These are the Volkamer lab members.
