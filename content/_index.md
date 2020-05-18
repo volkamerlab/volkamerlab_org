@@ -2,6 +2,7 @@
 title: Welcome
 menu: "main"
 weight: -10
+mainSectionId: banner
 ---
 
 <div class="content">

@@ -1,5 +1,5 @@
 {{ define "main" }}
-<section id="banner">
+<section>
     <div class="content">
         <article>
             <header class="major">
@@ -12,7 +12,7 @@
                 </header>
                 <div class="posts">
                     {{ range where .Site.Data.team.members ".status" "teamleader" }}
-                        {{ partial "person" . }}
+                    {{ partial "person" . }}
                     {{ end }}
                 </div>
             </section>
@@ -22,7 +22,7 @@
                 </header>
                 <div class="posts">
                     {{ range where .Site.Data.team.members ".status" "member" }}
-                        {{ partial "person" . }}
+                    {{ partial "person" . }}
                     {{ end }}
                 </div>
             </section>
