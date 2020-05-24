@@ -5,22 +5,24 @@ publishdate: 2020-03-03
 menu:
     main:
         parent: Research
-weight: 10
+weight: 30
 nav: false
 ---
 
-{{< box "🚧 This section is under construction 🚧" >}}
-
-Long description with several paragraphs.
-Long description with several paragraphs.
-Long description with several paragraphs.
-
-Long description with several paragraphs.Long description with several paragraphs.
-
-{{< xfigure src="/images/research/binding_site_comparison.png" caption="Example" >}}
+The OpenKinome initiative is an ongoing collaboration with [Dr. John Chodera's lab](http://www.choderalab.org/).
 
 
-## Projects overview
+## KinoML
 
-{{% content "projects/kinopoly.md" %}}
+{{< box "MISSING" >}}
+
+## MIAME
+
+{{< box "MISSING" >}}
+
+***
+
+## See also
+
+{{< box "MISSING" >}}
 

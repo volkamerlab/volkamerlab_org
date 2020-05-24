@@ -1,16 +1,60 @@
 ---
 title: Research
-menu: main
+menu:
+  main:
+    Pre: graduation-cap
 weight: 10
 nav: false
 ---
 
-{{< box "🚧 This section is under construction 🚧" >}}
+At the Volkamer Lab, we develop novel methods at the interface between structural bioinformatics and cheminformatics, mostly applied in the context of computer-aided drug design. Here, the individual [projects](/projects/) are grouped into the following research lines. For more information click on the individual topics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse blandit tortor tristique, rhoncus tellus ut, efficitur ex. Donec a neque a lorem posuere laoreet. Nulla ligula erat, volutpat id blandit non, rutrum accumsan nibh. Sed tempus nibh eu eros venenatis maximus. Duis accumsan erat ligula, in sollicitudin urna euismod a. Proin a lacus nec diam aliquet sagittis. Suspendisse fringilla porttitor ante id iaculis. Curabitur in accumsan risus.
+## Research lines
 
-Sed facilisis imperdiet sapien, at bibendum risus volutpat ac. Nulla nec sem lacus. Phasellus nec ipsum purus. Praesent sagittis feugiat nisi, eu laoreet sapien accumsan quis. Integer volutpat tortor elit, sed hendrerit dolor bibendum eget. Etiam a volutpat neque. Aenean nisl est, fringilla quis tellus at, egestas hendrerit leo. Maecenas fringilla convallis eros in fringilla. Phasellus ex erat, dictum id est at, condimentum fermentum lacus. Fusce vitae consequat neque. Praesent semper tempor mauris ut interdum. Suspendisse potenti. Sed luctus semper risus, feugiat tempus mauris auctor a.
+### Structure-based (binding site centric) approaches
 
-Etiam ut pellentesque erat. In velit ex, ultrices a vehicula vitae, sollicitudin ut libero. Quisque ut pharetra urna, vel vulputate mauris. Curabitur finibus eget diam at commodo. Nullam semper orci a fermentum porttitor. Nullam ut ipsum est. Aenean enim metus, auctor ac risus eu, pellentesque sollicitudin purus. Donec sit amet accumsan dolor, vitae dapibus enim. Nulla convallis risus et dui ornare, quis sollicitudin ex vehicula. Duis orci purus, mattis quis elit a, tincidunt suscipit tellus. Maecenas mi lacus, vestibulum vitae maximus id, euismod nec sapien. Cras quis libero elit. In auctor vulputate sagittis. Praesent blandit varius sapien, quis efficitur lacus. Quisque lacus neque, imperdiet vel molestie eleifend, iaculis accumsan nulla. Phasellus ac risus nec ex malesuada ullamcorper.
+* Binding-site comparison
+  * Targetome-wide binding site comparison
+  * Kinome-wide binding site comparison
+* Pharmacophore modelling
+  * Static target-based pharmacophores
+  * Dynamic target-based pharmacophores
+* Kinase-focused
+  * Kinase-fragment library
+  * `klifs_utils`
+* Protein-ligand interaction fingerprints
 
-Aenean vitae velit et sapien egestas luctus. Maecenas pulvinar tortor vel nisl hendrerit condimentum. Integer commodo, tellus a elementum blandit, elit leo feugiat justo, eget tristique augue quam non risus. Suspendisse potenti. Sed turpis eros, malesuada vel tempor hendrerit, tempus in quam. Sed felis augue, sodales quis facilisis vel, dignissim quis tortor. Sed metus arcu, maximus ut urna non, sodales mollis quam.
+### Machine learning based methods
+
+* ML-based toxic endpoint prediction
+  * KnowTox
+  * CP_Tox21
+  * Cytotoxicity
+* DL-based VS
+
+### OpenKinome
+* KinoML(kinopoly?)
+* MIAME
+* More kinase related work (link to KiSSim and KinFragLib, maybe even to applications)
+
+### Other studies
+
+These projects are usually about compound design, rationalization or molecular optimization. Some recent examples:
+
+<!-- Link directly -->
+
+* COVID-19: see repo and Plipify
+* HDAC(chiara) - published -docking
+* EGFR(chiara)  - (about to be) published - docking
+* SGK1(andrea) - published - docking
+* [SMYD1(shalini)] - MD simulations
+* [iNOS(andrea)] - docking
+
+
+## Collaborations
+
+{{< box "MISSING" >}}
+
+## Funding
+
+{{< box "MISSING" >}}

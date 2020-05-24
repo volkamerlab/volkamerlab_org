@@ -1,10 +1,7 @@
 ---
-title: Binding Site Comparison
+title: Binding-site comparison
 date: 2020-03-03
 publishdate: 2020-03-03
-menu:
-    main:
-        parent: Research
 weight: 10
 nav: false
 ---
@@ -22,16 +19,20 @@ structurally available macromolecules, and
 (iii) the most similar binding sites (ranked by a scoring function) are proposed
 as potential off-targets or polypharmacologic targets.
 
-## Projects overview
+### Projects overview
 
-[Targetome-wide binding site comparison](#targetome-wide-binding-site-comparison) \
-[Kinome-wide binding site comparison](#kinome-wide-binding-site-comparison)
+1. [Targetome-wide binding site comparison](#targetome-wide-binding-site-comparison) \
+2. [Kinome-wide binding site comparison](#kinome-wide-binding-site-comparison)
 
-## Targetome-wide binding site comparison
+#### Targetome-wide binding site comparison
 
 {{% content "projects/ratar.md" %}}
 
 
-## Kinome-wide binding site comparison
+#### Kinome-wide binding site comparison
 
 {{% content "projects/kissim.md" %}}
+
+***
+
+[Back to structure-based research](/research/structure-based/)

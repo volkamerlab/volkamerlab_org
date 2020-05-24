@@ -1,9 +1,6 @@
 ---
-title: "Kinopoly"
+title: "KinoML"
 date: 2020-03-05T22:14:45+01:00
-menu:
-    main:
-        parent: Projects
 nav: false
 draft: false
 # Uncomment sections below to enable them in your project

@@ -2285,7 +2285,7 @@
 	header.major > :last-child {
 		border-bottom: solid 3px #37abac;
 		display: inline-block;
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 		padding: 0 0.75em 0.5em 0;
 	}
 
@@ -3530,7 +3530,7 @@
 		}
 
 			#main > .inner > section {
-				padding: 6em 0 4em 0 ;
+				padding: 3em 0 4em 0 ;
 				border-top: solid 2px rgba(210, 215, 217, 0.75);
 			}
 
@@ -3545,7 +3545,7 @@
 			}
 
 				#main > .inner > section {
-					padding: 5em 0 3em 0 ;
+					padding: 2.5em 0 3em 0 ;
 				}
 
 		}
@@ -3557,7 +3557,7 @@
 			}
 
 				#main > .inner > section {
-					padding: 4em 0 2em 0 ;
+					padding: 2em 0 2em 0 ;
 				}
 
 		}
@@ -3569,7 +3569,7 @@
 			}
 
 				#main > .inner > section {
-					padding: 3em 0 1em 0 ;
+					padding: 1.5em 0 1em 0 ;
 				}
 
 		}
@@ -3833,7 +3833,7 @@
 		display: -ms-flex;
 		display: flex;
 		border-bottom: solid 5px #37abac;
-		padding: 6em 0 1em 0;
+		padding: 2em 0 1em 0;
 		position: relative;
 	}
 
@@ -4016,14 +4016,17 @@
 		padding: 0;
 		text-transform: uppercase;
 	}
+		#menu ul span{
+			padding: 0.625em 0;
+			font-size: 0.9em;
+		}
 
 		#menu ul a, #menu ul span {
 			border-bottom: 0;
 			color: inherit;
 			cursor: pointer;
 			display: block;
-			font-size: 0.9em;
-			padding: 0.625em 0;
+
 		}
 
 			#menu ul a:hover, #menu ul span:hover {
@@ -4096,6 +4099,7 @@
 
 			#menu > ul > li > ul a, #menu > ul > li > ul span {
 				font-size: 0.8em;
+				margin: 0.25em 0;
 			}
 
 			#menu > ul > li > ul > li {

@@ -1,6 +1,8 @@
 ---
 title: Welcome
-menu: "main"
+menu:
+    main:
+        Pre: star
 weight: -10
 mainSectionId: banner
 ---
@@ -11,24 +13,28 @@ mainSectionId: banner
         <p>In silico toxicology and structural bioinformatics</p>
     </header>
 
-The group of JProf. Volkamer is working on novel methods for in-silico toxicology predictions.
+At Volkamer Lab, we develop methods at the interface between structural bioinformatics and cheminformatics, mostly applied in the context of computer-aided drug design.
 
-> Breaking news: join us in our [collective effort](https://github.com/volkamerlab/covid19-SBapproach) to understand Covid-19 better
+One one hand, we investigate structure-based methods for active site assessment, e.g. [binding site comparison](/research/binding-site-comparison/), [pharmacophore elucidation](/research/pharmacophore-modelling/) and [off-target prediction](/research/kinase-fragment-library/), as well as [deep learning enhanced virtual screening pipelines](/projects/deeplearning-vs/).
 
+On the other hand, we study ligand-based methods, e.g. similarity search, QSAR, machine learning for activity and toxicity prediction ([link]() projects AM); and apply them in translational projects to guide the design of more active, selective and less toxic compounds ([link]() BASF project, [[link]() BfR project, tbd]]). Special focus is set on integrating novel techniques taking the applicability and reliability into account ([link]()  to CP), investigating novel descriptors (biological fps, tbd project with BASF) as well as the interpretability of deep learning methods ([link]() cytotoxicity project).  Our major goal here is the establishment of alternative (in silico) methods to determine the risk of compounds and their harmful effects on humans, animals, plants and environment ([link]() BB3R).
 
-The project is part of the BMBF-funded BB3R initiative. One major goal of the BB3R initiative is the establishment of alternative methods for preclinical drug development and basic research. To assess the toxicity of novel chemical entities, regulatory agencies require in-vivo testing for several toxic endpoints. In 2010, roughly 2.9 million laboratory animals have been deployed in Germany, with an increase of 6% since 2008. Thus, the establishment of alternative methods, and with it the reduction of animal testing, is of utmost importance. Determining the toxicity of compounds is vital to identify their harmful effects on humans, animals, plants and the environment.
+Additionally, we continuously work on the integration of the two research areas of structure- and ligand-centered projects, i.e., focusing on [structure-informed machine learning approaches](/projects/kinoml/). In this attempt, we are also integrating the physical aspects into molecular modelling (e.g. molecular dynamics simulations and free energy calculations) to better sample the drug target interactions. One main application area of our methods in this regard are [kinases, one of the major classes of therapeutic targets](/research/openkinome/).
 
-The focus of the AG Volkamer is the development of structure-based methods to come closer to the vision of transforming toxicology into a predictive science and reducing the number of animal testing. The group strongly focuses on computer-aided prediction of off-target effects as well as the identification of novel 'toxicophores' and toxicity targets (targets associated with adverse drug reactions) using ligand- as well as protein-based structural and physicochemical information.
-
-Structure-based (binding site assessment and comparison, pharmacophore elucidation, structure-function relationship) and ligand-based (screening, QSAR, machine learning) methods are investigated to guide the design of more selective and less toxic compounds.
-
-The group is looking forward to new challenges and new collaborations with computational and experimental partners to jointly apply the novel methods to acute questions.
 
 <ul class="actions">
-    <li><a href="/research" class="button big">Learn more about my research</a></li>
+    <li><a href="/research" class="button big">Learn more about our research</a></li>
 </ul>
 
+
+## Latest news
+
+* 2020.05.01: Join us in our [collective effort](https://github.com/volkamerlab/covid19-SBapproach) to understand Covid-19 better.
+
+
 </div>
+
 <span class="image object">
     <img src="/images/benzothiazine.png" alt="Protein" />
 </span>
+

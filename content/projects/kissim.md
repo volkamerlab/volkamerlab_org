@@ -2,9 +2,6 @@
 title: kissim
 date: 2020-03-03
 publishdate: 2020-03-03
-menu:
-    main:
-        parent: Projects
 weight: 10
 nav: false
 people:

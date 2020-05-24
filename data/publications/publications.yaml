@@ -37,7 +37,7 @@ volkamer_2018_activesites:
   pages:
   year: 2018
   date: 2018-06-01
-  doi: "https://doi.org/10.1016/bs.armc.2017.08.001"
+  doi: "10.1016/bs.armc.2017.08.001"
   image:
   pdf:
   kind: book
@@ -54,7 +54,7 @@ kooistra_2017_kinases:
   pages: 197 - 236
   year: 2017
   date: 2017-06-01
-  doi: "https://doi.org/10.1016/bs.armc.2017.08.001"
+  doi: "10.1016/bs.armc.2017.08.001"
   image:
   pdf:
   kind: book
@@ -79,7 +79,7 @@ schmitt_2019_hdacs:
   pages: 338
   year: 2019
   date: 2017-01-17
-  doi: "https://doi.org/10.3390/ijms20020383"
+  doi: "10.3390/ijms20020383"
   image:
   pdf:
   kind: article
@@ -107,7 +107,7 @@ bietz_2017_proteinsplus:
   pages: 207 - 214
   year: 2017
   date: 2017-11-01
-  doi: "https://doi.org/10.14573/altex.1712031"
+  doi: "10.14573/altex.1712031"
   image:
   pdf:
   kind: article
@@ -130,7 +130,7 @@ lang_2017_insilicotox:
   pages: 126-128
   year: 2017
   date: 2017-01-17
-  doi: "https://doi.org/10.14573/altex.1712031"
+  doi: "10.14573/altex.1712031"
   image:
   pdf:
   kind: article
@@ -165,7 +165,7 @@ ernst_2019_tempdepend:
   pages: 904 - 911
   year: 2019
   date: 2019-05-05
-  doi: "https://doi.org/10.1080/08927022.2019.1610949"
+  doi: "10.1080/08927022.2019.1610949"
   image:
   pdf:
   kind: article
@@ -185,7 +185,7 @@ schoene_2019_sgk1:
   pages: 1514 - 1527
   year: 2019
   date: 2019-07-01
-  doi: "https://doi.org/10.1002/cmdc.201900328"
+  doi: "10.1002/cmdc.201900328"
   image:
   pdf:
   kind: article
@@ -205,7 +205,7 @@ webel_2019_cytotox:
   pages:
   year: 2020
   date: 2020-04-16
-  doi: "https://doi.org/10.1007/s10822-020-00310-4"
+  doi: "10.1007/s10822-020-00310-4"
   image:
   pdf:
   kind: article

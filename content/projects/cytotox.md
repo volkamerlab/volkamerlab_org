@@ -1,9 +1,6 @@
 ---
 title: "Cytotoxicity"
 date: 2020-05-14T16:55:38+02:00
-menu:
-    main:
-        parent: Projects
 nav: false
 draft: false
 people:
