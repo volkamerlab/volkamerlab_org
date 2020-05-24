@@ -6,12 +6,18 @@ weight: 10
 nav: false
 ---
 
-{{% content "projects/kinfraglib.md" %}}
+{{< box MISSING >}}
+
+## More details
+
+{{% intro "projects/kinfraglib.md" %}}
 
 
 * `klifs_utils`
 
+## See also
 
+* [OpenKinome Initiative](/research/openkinome/)
 
 ***
 

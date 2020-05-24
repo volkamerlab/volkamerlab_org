@@ -4,7 +4,7 @@ date: 2020-03-03
 publishdate: 2020-03-03
 menu:
     main:
-        parent: Outreach
+        parent: Education
 weight: 10
 nav: false
 ---

@@ -4,20 +4,19 @@ date: 2020-03-06
 publishdate: 2020-03-06
 menu:
     main:
-        parent: Outreach
+        parent: Education
         name: Struc2drug
 weight: 100
 nav: false
 ---
 
-## Integrative Structural Biology and Drug Design
+*Struc2drug* is a bimonthly seminar series promoting the exchange between researchers in the interdisciplinary field
+of structural biology and drug development in Berlin.
 
 Drug design is a complex and lengthly process that can only yield successful results using a plethora of different
 experimental and computational methods. Many researchers work in Berlin at universities, research facilities and
 industry in the field of drug design or in neighboring disciplines.
 
-*Struc2drug* is a bimonthly seminar series promoting the exchange between researchers in the interdisciplinary field
-of structural biology and drug development in Berlin.
 
 ### Aim
 

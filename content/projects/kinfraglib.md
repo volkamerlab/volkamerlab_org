@@ -27,9 +27,10 @@ for over 2,500 kinase complexes. The computational fragmentation method splits k
 kinase inhibitors into fragments with respect to their 3D proximity to six predefined subpockets relevant for binding.
 The resulting fragment library consists of six subpocket fragment pools with over 7,000 fragments and
 offers two main applications:
-(i) In-depth analyses of the chemical space of known kinase inhibitors allow to investigate
+
+1. In-depth analyses of the chemical space of known kinase inhibitors allow to investigate
 subpocket characteristics and connections.
-(ii) Subpocket-informed recombination of fragments enumerates new combinations of known fragments
+2. Subpocket-informed recombination of fragments enumerates new combinations of known fragments
 in order to generate potential novel inhibitors.
 
 

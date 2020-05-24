@@ -12,9 +12,9 @@ nav: false
 The OpenKinome initiative is an ongoing collaboration with [Dr. John Chodera's lab](http://www.choderalab.org/).
 
 
-## KinoML
+## [KinoML](/projects/kinoml/)
 
-{{< box "MISSING" >}}
+{{% intro "projects/kinoml.md" %}}
 
 ## MIAME
 
@@ -24,5 +24,5 @@ The OpenKinome initiative is an ongoing collaboration with [Dr. John Chodera's l
 
 ## See also
 
-{{< box "MISSING" >}}
+* [Kinase-centric structure-based projects](/research/structure-based/kinases/)
 

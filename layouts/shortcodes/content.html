@@ -3,7 +3,7 @@
 
 <h3><a href="{{.Permalink}}">{{ .Title }}</a></h3>
 
-{{ .Content  }}
+{{ .Content | safeHTML }}
 
 <p>
     <a class="button icon fa-angle-double-right" href="{{.Permalink}}">Read more</a>
