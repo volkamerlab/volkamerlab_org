@@ -8,7 +8,7 @@ This website is based on the [HTML5 Editorial](https://html5up.net/editorial) te
 
 1. Fork and create a branch on your fork.
 2. Install `hugo` from package file on GitHub ([v0.65.3](https://github.com/gohugoio/hugo/releases/tag/v0.65.3)).
-   - Ubuntu: `hugo_extended_0.65.3_Linux-64bit.deb`
+   - Ubuntu: `hugo_extended_0.65.3_Linux-64bit.deb` (e.g. run `wget https://github.com/gohugoio/hugo/releases/download/v0.65.3/hugo_0.65.3_Linux-64bit.deb`)
    - Windows: `hugo_extended_0.65.3_Windows-64bit.zip`
    - macOS: `hugo_extended_0.65.3_macOS-64bit.tar.gz`
 3. Run `hugo serve` on this directory while editing. It will autoreload changes on `localhost:1313`.
