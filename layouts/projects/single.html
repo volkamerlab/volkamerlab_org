@@ -29,7 +29,14 @@
                 </header>
                 <ul>
                     {{ range . }}
-                    <li><a href="{{ .link }}" target="_blank">{{ .name}}</a>{{ with .more}} &middot; {{ . }}{{end}}</li>
+                    <li>
+                        {{ with .link }}
+                            <a href="{{ . }}" target="_blank">
+                        {{ end }}
+                        {{ .name}}
+                        {{ with .link }}</a>{{ end }}
+                        {{ with .more}} &middot; {{ . }}{{end}}
+                    </li>
                     {{ end }}
                 </ul>
             </section>
@@ -41,7 +48,14 @@
                 </header>
                 <ul>
                     {{ range . }}
-                    <li><a href="{{ .link }}" target="_blank">{{ .name}}</a>{{ with .more}} &middot; {{ . }}{{end}}</li>
+                    <li>
+                        {{ with .link }}
+                            <a href="{{ . }}" target="_blank">
+                        {{ end }}
+                        {{ .name}}
+                        {{ with .link }}</a>{{ end }}
+                        {{ with .more}} &middot; {{ . }}{{end}}
+                    </li>
                     {{ end }}
                 </ul>
             </section>
@@ -51,13 +65,13 @@
                 <header>
                     <h3>Publications</h3>
                 </header>
-                <ol reversed>
+                <ul>
                     {{ range . }}
                     <li>
                         {{ partial "publication-li" (dict "data" $data "pub" (index $data.publications.publications .) ) }}
                     </li>
                     {{ end }}
-                </ol>
+                </ul>
             </section>
             {{ end }}
             {{ with .Page.Params.external_resources }}

@@ -24,24 +24,16 @@ people:
 - key: andrea.volkamer
 collaborators:
 - name: Gregory Landrum
-  link: "#"
   more: (KNIME AG)
 - name: Daria Goldmann
-  link: "#"
   more: (KNIME GmbH)
 funding:
 - name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
-  link: "#"
 - name: Deutsche Forschungsgemeinschaft (DFG), grant ID VO 2353 / 1-1
-  link: "#"
 - name: HaVo-Stiftung, Ludwig-shafen, Germany
-  link: "#"
 - name: Open Access Publication Fund of Charité – Universitätsmedizin Berlin
-  link: "#"
 - name: Stiftung Charité (Einstein BIH Visiting Fellow Project)
-  link: "#"
 - name: “SUPPORT für die Lehre” program (Förderung innovativer Lehrvorhaben) of Freie Universität Berlin.
-  link: "#"
 publications:
 - teachopencaddknime
 - teachopencadd

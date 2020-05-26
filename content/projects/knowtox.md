@@ -36,9 +36,7 @@ external_resources:
 
 funding:
 - name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
-  link: "#"
 - name: HaVo-Stiftung
-  link: "#"
 ---
 
 KnowTox is a novel pipeline that combines three different in silico toxicology approaches to allow for confident

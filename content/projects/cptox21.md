@@ -12,7 +12,6 @@ collaborators:
 - name: Ola Spjuth
   link: https://katalog.uu.se/profile?id=N2-878
 - name: Ulf Norinder
-  link: "#"
 - name: Fredrik Svensson
   link: https://iris.ucl.ac.uk/iris/browse/profile?upi=FSVEN25
 - name: Niharika Gauraha
@@ -24,7 +23,6 @@ funding:
 - name: FUBright Mobility Allowance for Research Stay
   link: "https://www.fu-berlin.de/en/sites/drs/international/fubright/fubright-mobilitaet/index.html"
 - name: HaVo-Stiftung
-  link: "#"
 ---
 
 <!-- ((Move this part to the research page 'machine learning' or 'conformal prediction' - including the figure:)) -->

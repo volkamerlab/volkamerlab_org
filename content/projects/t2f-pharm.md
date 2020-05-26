@@ -10,7 +10,6 @@ people:
 - key: andrea.volkamer
 funding:
 - name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
-  link: "#"
 publications:
 - t2f2018
 ---
