@@ -82,8 +82,9 @@
                 <ul>
                     {{ range . }}
                     <li>
-                        <a class="icon fa-{{- .icon -}}" href="{{ .link }}" target="_blank" title="{{ .name }}">
-                            <span>{{ .name }}</span>
+                        <a href="{{ .link }}" target="_blank" title="{{ .name }}">
+                            {{ with .icon }}<i class="icon fa-{{ . }}"></i>{{ end }}
+                            {{ .name }}
                         </a>{{ with .more}} &middot; {{ . }}{{end}}
                     </li>
                     {{ end }}

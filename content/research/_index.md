@@ -2,7 +2,7 @@
 title: Research
 menu:
   main:
-    Pre: graduation-cap
+    Pre: flask
 weight: 10
 nav: false
 ---
