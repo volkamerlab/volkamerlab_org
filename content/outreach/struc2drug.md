@@ -26,7 +26,7 @@ industry in the field of drug design or in neighboring disciplines.
 
 ### Mailing list
 
-Sign up for [our mailing list](https://mailman.charite.de/mailman/listinfo/struc2drug) to be notified on upcoming events.
+Sign up to <a href="https://mailman.charite.de/mailman/listinfo/struc2drug" target="_blank"><i class="icon fa-envelope"></i> our mailing list</a> to be notified on upcoming events.
 
 
 ## Upcoming dates

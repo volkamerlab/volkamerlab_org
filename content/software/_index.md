@@ -11,8 +11,8 @@ Being a computational research lab, we develop an increasingly diverse portfolio
 
 ## TeachOpenCADD
 
-{{< box "MISSING" >}}
+{{< intro "projects/teachopencadd.md" >}}
 
 ## KinoML
 
-{{< box "MISSING" >}}
+{{< intro "projects/kinoml.md" >}}

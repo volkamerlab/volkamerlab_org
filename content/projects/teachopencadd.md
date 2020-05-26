@@ -1,9 +1,12 @@
 ---
-title: TeachOpenCADD platform
+title: TeachOpenCADD
 date: 2020-03-03
 publishdate: 2020-03-03
-weight: 10
 nav: false
+weight: 1
+menu:
+    main:
+        parent: Education
 external_resources:
 - name: TeachOpenCADD for Jupyter
   link: https://github.com/volkamerlab/TeachOpenCADD
@@ -21,27 +24,19 @@ people:
 - key: andrea.volkamer
 collaborators:
 - name: Gregory Landrum
-  link: "#"
   more: (KNIME AG)
 - name: Daria Goldmann
-  link: "#"
   more: (KNIME GmbH)
 funding:
 - name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
-  link: "#"
 - name: Deutsche Forschungsgemeinschaft (DFG), grant ID VO 2353 / 1-1
-  link: "#"
 - name: HaVo-Stiftung, Ludwig-shafen, Germany
-  link: "#"
 - name: Open Access Publication Fund of Charité – Universitätsmedizin Berlin
-  link: "#"
 - name: Stiftung Charité (Einstein BIH Visiting Fellow Project)
-  link: "#"
 - name: “SUPPORT für die Lehre” program (Förderung innovativer Lehrvorhaben) of Freie Universität Berlin.
-  link: "#"
 publications:
-- teachopencadd
 - teachopencaddknime
+- teachopencadd
 ---
 
 Open source data and software are increasingly generated, developed and used in computer-aided drug design (CADD).

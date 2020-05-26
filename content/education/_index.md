@@ -11,19 +11,17 @@ nav: false
 {{< box "Small description needed here" >}}
 
 
-### [TeachOpenCADD](/education/teachopencadd/)
+### [TeachOpenCADD](/projects/teachopencadd/)
 
-TeachOpenCADD is a teaching platform offering tutorials on central topics in cheminformatics and structural bioinformatics. The tutorials contain theoretical background and practical implementations using open source data and software. Implementations are available in two formats.
+{{% intro "projects/teachopencadd.md" %}}
 
-{{< readmore "/education/teachopencadd/" >}}
+### [CADD Seminar & Block course @ FU](/education/cadd-seminar/)
 
-### CADD Seminar & Block course @ FU
+{{% intro "education/cadd-seminar.md" %}}
 
-{{< box "Missing" >}}
+### [AI in Medicine @ Charité](/education/ai-in-medicine/)
 
-### ML in Medicine @ Charité
-
-{{< box "Missing" >}}
+{{% intro "education/ai-in-medicine.md" %}}
 
 ***
 

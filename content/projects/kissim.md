@@ -13,7 +13,6 @@ collaborators:
   link: https://drug.ku.dk/employees/?pure=en/persons/612712
   more: (University of Copenhagen)
 - name: Friedrich Rippmann
-  link: "#"
   more: (Merck)
 external_resources:
 - name: kissim
@@ -22,7 +21,6 @@ external_resources:
   more: Subpocket-based fingerprint for structural kinase comparison (WIP)
 funding:
 - name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
-  link: "#"
 - name: Deutsche Forschungsgemeinschaft (DFG), grant ID VO 2353 / 1-1
   link: "https://gepris.dfg.de/gepris/projekt/391684253?language=en&the="
 ---
