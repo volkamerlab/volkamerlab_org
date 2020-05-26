@@ -1,9 +1,12 @@
 ---
-title: TeachOpenCADD platform
+title: TeachOpenCADD
 date: 2020-03-03
 publishdate: 2020-03-03
-weight: 10
 nav: false
+weight: 1
+menu:
+    main:
+        parent: Education
 external_resources:
 - name: TeachOpenCADD for Jupyter
   link: https://github.com/volkamerlab/TeachOpenCADD
@@ -40,8 +43,8 @@ funding:
 - name: “SUPPORT für die Lehre” program (Förderung innovativer Lehrvorhaben) of Freie Universität Berlin.
   link: "#"
 publications:
-- teachopencadd
 - teachopencaddknime
+- teachopencadd
 ---
 
 Open source data and software are increasingly generated, developed and used in computer-aided drug design (CADD).

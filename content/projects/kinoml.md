@@ -5,9 +5,12 @@ nav: false
 draft: false
 # Uncomment sections below to enable them in your project
 external_resources:
-- name: KinoML
+- name: KinoML repository
   link: https://github.com/openkinome/kinoml
   icon: github
+- name: KinoML documentation
+  link: https://openkinome.github.io/kinoml/
+  icon: book
 people:
 - key: jaime.rodriguez
   more:
@@ -20,11 +23,10 @@ people:
 collaborators:
 - name: John D. Chodera
   link: http://choderalab.org
-  more: (MSK)
+  more: MSK, Einstein BIH Visiting Fellow
 funding:
-- name: BIH Einstein
+- name: BIH Einstein & Stiftung Charité
   link: https://www.einsteinfoundation.de/en/programmes/einstein-bih-visiting-fellow/
-  more: free text
 publications:
 # - proteinsplus2017
 ---
