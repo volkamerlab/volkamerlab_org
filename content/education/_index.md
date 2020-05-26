@@ -19,9 +19,9 @@ nav: false
 
 {{% intro "education/cadd-seminar.md" %}}
 
-### [ML in Medicine @ Charité](/education/ml-in-medicine/)
+### [AI in Medicine @ Charité](/education/ai-in-medicine/)
 
-{{% intro "education/ml-in-medicine.md" %}}
+{{% intro "education/ai-in-medicine.md" %}}
 
 ***
 
