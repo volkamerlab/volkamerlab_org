@@ -30,4 +30,7 @@ jobs:
       - name: Build & check
         run: |
           hugo serve &
-          npx broken-link-checker http://localhost:1313/ --ordered --recursive
+          npx broken-link-checker http://localhost:1313/ --ordered --recursive \
+            --exclude linkedin.com \
+            --exclude html5up.net \
+            --exclude "https://github.com/volkamerlab/CADD*"
