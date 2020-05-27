@@ -1,0 +1,33 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - "master"
+  pull_request:
+    branches:
+      - "master"
+      # TODO: Remove once launch is merged
+      - "launch"
+  schedule:
+    # Nightly tests run on master by default:
+    #   Scheduled workflows run on the latest commit on the default or base branch.
+    #   (from https://help.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events-schedule)
+    - cron: "0 0 * * *"
+
+jobs:
+  broken-links:
+    name: Check 404s
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.65.3"
+          extended: true
+      - name: Build & check
+        run: |
+          hugo serve &
+          npx broken-link-checker http://localhost:1313/ --ordered --recursive
