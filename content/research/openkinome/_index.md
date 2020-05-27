@@ -9,7 +9,7 @@ weight: 30
 nav: false
 ---
 
-The OpenKinome initiative is an ongoing collaboration with [Dr. John Chodera's lab](http://www.choderalab.org/).
+The OpenKinome initiative is an ongoing collaboration with <a href="http://www.choderalab.org/" target="_blank" class="external">Dr. John Chodera's lab</a>.
 
 
 ## [KinoML](/projects/kinoml/)

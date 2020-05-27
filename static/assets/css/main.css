@@ -2121,6 +2121,15 @@
 				color: inherit;
 			}
 
+		a[target=_blank].external::after {
+			content: " \f08e";
+			-moz-osx-font-smoothing: grayscale;
+			-webkit-font-smoothing: antialiased;
+			font-family: FontAwesome;
+			font-style: normal;
+			font-weight: normal;
+			text-transform: none !important;
+		}
 	strong, b {
 		color: #3d4449;
 		font-weight: 600;
