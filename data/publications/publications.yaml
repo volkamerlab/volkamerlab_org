@@ -62,9 +62,9 @@ kooistra_2017_kinases:
 # Manuscripts
 
 schmitt_2019_hdacs:
-  title: "Oxazole-Bridged Combretastatin A-4 Derivatives with Tethered Hydroxamic Acids: Structure–Activity Relations of New Inhibitors of HDAC and/or Tubulin Function."
+  title: "Oxazole-Bridged Combretastatin A-4 Derivatives with Tethered Hydroxamic Acids: Structure–Activity Relations of New Inhibitors of HDAC and/or Tubulin Function"
   authors:
-    - Flroian Schmitt
+    - Florian Schmitt
     - chiara.gosch
     - Alexandra Dittmer
     - Matthias Rothemund
@@ -78,7 +78,7 @@ schmitt_2019_hdacs:
   issue: 2
   pages: 338
   year: 2019
-  date: 2017-01-17
+  date: 2019-01-17
   doi: "10.3390/ijms20020383"
   image:
   pdf:
@@ -139,14 +139,14 @@ volkamer_2018_academiaperspective:
   title: "Transition from Academia to Industry and Back"
   authors:
     - andrea.volkamer
-    - Sereina, Riniker
+    - Sereina Riniker
   journal: Journal of Chemical Information and Modeling
   volume: 58
   issue: 8
-  pages: 1469 - 1472
+  pages: 1469-1472
   year: 2018
   date: 2018-08-27
-  doi: "doi: 10.1021/acs.jcim.8b00459"
+  doi: "10.1021/acs.jcim.8b00459"
   image:
   pdf:
   kind: article
@@ -162,7 +162,7 @@ ernst_2019_tempdepend:
   journal: Molecular Simulation
   volume: 45
   issue: 11
-  pages: 904 - 911
+  pages: 904-911
   year: 2019
   date: 2019-05-05
   doi: "10.1080/08927022.2019.1610949"
@@ -182,7 +182,7 @@ schoene_2019_sgk1:
   journal: ChemMedChem
   volume: 14
   issue: 16
-  pages: 1514 - 1527
+  pages: 1514-1527
   year: 2019
   date: 2019-07-01
   doi: "10.1002/cmdc.201900328"
@@ -207,7 +207,7 @@ morger_2020_knowtox:
   pages:
   year: 2020
   date: 2020-04-14
-  doi: "https://doi.org/10.1186/s13321-020-00422-x"
+  doi: "10.1186/s13321-020-00422-x"
   image:
   pdf:
   kind: article
@@ -239,7 +239,7 @@ teachopencadd:
     - andrea-lilian.morger
     - maximilian.driller
     - andrea.volkamer
-  journal: J. Cheminf.
+  journal: Journal of Cheminformatics
   volume: 11
   issue: 29
   pages:
@@ -259,7 +259,7 @@ teachopencaddknime:
     - Daria Goldmann
     - Gregory Landrum
     - andrea.volkamer
-  journal: J. Chem. Inf. Model
+  journal: Journal of Chemical Information and Modeling
   volume: 59
   issue: 10
   pages: 4083-4086
@@ -280,7 +280,7 @@ sydow2019:
     - Adriaan P. IJzerman
     - Gerard J. P. van Westen
     - andrea.volkamer
-  journal: J. Chem. Inf. Model
+  journal: Journal of Chemical Information and Modeling
   volume: 59
   issue: 5
   pages: 1728-1742
