@@ -25,7 +25,7 @@ Being a computational research lab, we develop an increasingly diverse portfolio
 
 ## KinFragLib
 
-* <a href="https://github.com/volkamerlab/KinFragLib" target="_blank" class="icon fa-github"> KinFragLib repository</a>name: KinFragLib
+* <a href="https://github.com/volkamerlab/KinFragLib" target="_blank" class="icon fa-github"> KinFragLib repository</a>
  
 {{< intro "projects/kinfraglib.md" >}}
 
