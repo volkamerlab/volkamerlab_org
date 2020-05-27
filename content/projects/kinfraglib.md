@@ -25,7 +25,7 @@ data-driven fragmentation and recombination, built on available structural kinom
 for over 2,500 kinase complexes. The computational fragmentation method splits known non-covalent
 kinase inhibitors into fragments with respect to their 3D proximity to six predefined subpockets relevant for binding.
 The resulting fragment library consists of six subpocket fragment pools with over 7,000 fragments and
-offers two main applications:
+offers two main applications: fragment analysis and recombination.
 
 1. In-depth analyses of the chemical space of known kinase inhibitors allow to investigate
 subpocket characteristics and connections.
