@@ -11,22 +11,17 @@ Being a computational research lab, we develop an increasingly diverse portfolio
 
 ## TeachOpenCADD
 
-* <a href="https://github.com/volkamerlab/TeachOpenCADD" target="_blank" class="icon fa-github"> TeachOpenCADD for Jupyter</a> 
-* <a href="https://hub.knime.com/volkamerlab/spaces/Public/latest/TeachOpenCADD/TeachOpenCADD" target="_blank" class="external">TeachOpenCADD for KNIME</a>
-
+{{< resources "projects/teachopencadd.md">}}
 {{< intro "projects/teachopencadd.md" >}}
 
 ## KinoML
 
-* <a href="https://github.com/openkinome/kinoml" target="_blank" class="icon fa-github"> KinoML repository</a>
-* <a href="https://openkinome.github.io/kinoml/" target="_blank" class="icon fa-book"> KinoML documentation</a>
-
+{{< resources "projects/kinoml.md">}}
 {{< intro "projects/kinoml.md" >}}
 
 ## KinFragLib
 
-* <a href="https://github.com/volkamerlab/KinFragLib" target="_blank" class="icon fa-github"> KinFragLib repository</a>
- 
+{{< resources "projects/kinfraglib.md">}}
 {{< intro "projects/kinfraglib.md" >}}
 
 ## more coming ...

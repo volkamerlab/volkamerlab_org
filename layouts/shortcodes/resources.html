@@ -1,0 +1,16 @@
+{{ $file := .Get 0 }}
+{{ with .Site.GetPage "page" $file }}
+
+{{ with .Params.external_resources }}
+<ul>
+    {{ range . }}
+    <li>
+        <a href="{{ .link }}" target="_blank" title="{{ .name }}">
+            {{ with .icon }}<i class="icon fa-{{ . }}"></i>{{ end }}
+            {{ .name }}
+        </a>{{ with .more}} &middot; {{ . }}{{end}}
+    </li>
+    {{ end }}
+</ul>
+{{ end }}
+{{ end }}
