@@ -16,9 +16,9 @@ The OpenKinome initiative is an ongoing collaboration with [Dr. John Chodera's l
 
 {{% intro "projects/kinoml.md" %}}
 
-## MIAME
+## [MIAME](/projects/miame/)
 
-{{< box "MISSING" >}}
+{{% intro "projects/miame.md" %}}
 
 ***
 
