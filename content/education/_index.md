@@ -15,7 +15,7 @@ nav: false
 
 {{% intro "projects/teachopencadd.md" %}}
 
-### [CADD Seminar & Block course @ FU](/education/cadd-seminar/)
+### [CADD Courses & Seminars @ FU](/education/cadd-seminar/)
 
 {{% intro "education/cadd-seminar.md" %}}
 
