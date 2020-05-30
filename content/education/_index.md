@@ -8,7 +8,7 @@ weight: 30
 nav: false
 ---
 
-{{< box "Small description needed here" >}}
+This page summarizes our main educational activities, including our open teaching platform, the main courses taught at FU and Charité, as well as other miscellaneous activities (_Outreach_).
 
 
 ### [TeachOpenCADD](/projects/teachopencadd/)

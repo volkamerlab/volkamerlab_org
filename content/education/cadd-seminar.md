@@ -13,6 +13,7 @@ nav: false
 We teach diverse courses and seminars (Bachelor and Master level) in the [Bioinformatics program at the Freie Universität Berlin (FU)](https://www.mi.fu-berlin.de/en/bioinf/index.html) and supervise students in different individual projects. 
 
 <!--more-->
+
 Our courses and supervisions cover computer-aided drug design (CADD) with focus on method development and application in cheminformatics and structural bioinformatics. 
 
 * SS2020 - Seminar (60101711): [Computer-Aided Drug Design - Methods and Application](https://mycampus.imp.fu-berlin.de/evento/vv/course/597249?locale=en)
