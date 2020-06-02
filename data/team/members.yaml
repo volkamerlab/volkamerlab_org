@@ -190,7 +190,7 @@
   role: Bachelor student
   status: alumni
   key: robert.strothmann
-  project: Automatic generation of T2F-Flex pharmacophores based on MD simulations
+  project: Automatic generation of T²F-Flex pharmacophores based on MD simulations
 - name: Henry Webel
   prefix:
   key: henry.webel
@@ -202,13 +202,13 @@
   key: boran.adas
   status: alumni
   role: Master thesis and GoogleSummerOfCode
-  project: Robust machine learning pipeline for classification problems in chemo-informatics
+  project: Robust machine learning pipeline for classification problems in cheminformatics
 - name: Dr. Jérémie Mortier
   prefix: Dr.
   key: jeremie.mortier
   status: alumni
   role: Scientist
-  project: Truly target-focused pharmacophore modeling (T2F-Pharm)
+  project: Truly target-focused pharmacophore modeling (T²F-Pharm)
 - name: Shalini Muralikumar
   prefix: shalini.muralikumar
   key:
@@ -220,7 +220,7 @@
   key: pratik.dhakal
   status: alumni
   role: Student assistant and Master thesis
-  project: Truly target-focused (dynamic) pharmacophore modeling (T2F-Pharm and T2F-Flex)
+  project: Truly target-focused (dynamic) pharmacophore modeling (T²F-Pharm and T²F-Flex)
 - name: Eva Aßmann
   prefix:
   key: eva.assmann
@@ -232,7 +232,7 @@
   key: jacob.gora
   status: alumni
   role: Student assistant and Master thesis with Novartis
-  project: Machine learning for kinase activity prediction / Active learning for compound optimization
+  project: Machine learning for kinase activity prediction & Active learning for compound optimization
 - name: Maximilian Driller
   key: maximilian.driller
   status: alumni
