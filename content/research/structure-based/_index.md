@@ -10,7 +10,7 @@ weight: 10
 nav: false
 ---
 
-{{< box "Small description needed here" >}}
+Here, our main method developments based on structural information for target assessment are summarized.
 
 
 ## [Binding-site comparison](/research/structure-based/binding-sites/)
@@ -21,15 +21,15 @@ nav: false
 
 {{% intro "research/structure-based/pharmacophores.md" %}}
 
-## [Kinase-focused](/research/structure-based/kinases/)
+## [Kinase-focused methods](/research/structure-based/kinases/)
 
 {{% intro "research/structure-based/kinases.md" %}}
 
-## [Protein-ligand interaction fingerprints](/research/structure-based/interaction-fingerprints/)
+<!-- TODO ## [Protein-ligand interaction fingerprints](/research/structure-based/interaction-fingerprints/)
 
-{{% intro "research/structure-based/interaction-fingerprints.md" %}}
+{{% intro "research/structure-based/interaction-fingerprints.md" %}} -->
 
 
 ## See also
 
-* [KinoML](/projects/kinoml/)
+* [OpenKinome](/research/openkinome/)

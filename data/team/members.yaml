@@ -164,7 +164,7 @@
   role: Master student
   status: studentmember
   image:
-  project: Subpocket-based fragmentation and recombination of kinase inhibitors
+  project: Dynamic pharmacophore modeling from apo structures
 - name: Allen Dumler
   prefix:
   key: allen.dumler

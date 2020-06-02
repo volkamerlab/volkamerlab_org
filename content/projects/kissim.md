@@ -1,5 +1,5 @@
 ---
-title: Kissim
+title: KiSSim
 date: 2020-03-03
 publishdate: 2020-03-03
 weight: 10
@@ -9,7 +9,7 @@ people:
 - key: eva.assmann
 - key: andrea.volkamer
 collaborators:
-- name: Albert Koistraa
+- name: Albert Kooistra
   link: https://drug.ku.dk/employees/?pure=en/persons/612712
   more: (University of Copenhagen)
 - name: Friedrich Rippmann
@@ -30,11 +30,12 @@ Due to the highly conserved structure of kinases, especially at the ATP binding 
 the main challenge when developing kinase inhibitors is achieving selectivity,
 which requires a comprehensive understanding of kinase similarity.
 In our *kissim* project, we developed a subpocket-focused kinase fingerprint to investigate kinome-wide pocket similarity.
-The *kissim* fingerprint is based on the KLIFS pocket alignment, which defines 85 pocket residues for all kinase structures.
+
+<!--more-->
+
+The *kissim* fingerprint is based on the <a href="https://klifs.vu-compmedchem.nl/" target="_blank" class="external">KLIFS </a> pocket alignment, which defines 85 pocket residues for all kinase structures.
 This enables a residue-by-residue comparison of spatial and physicochemical features
 without the need for a computationally expensive alignment step.
-We aim to use the *kissim* method
-(i) to detect potential promiscuities and off-targets at an early stage of inhibitor design and
-(ii) to conduct structure-informed polypharmacology studies.
+We aim to use the *kissim* method to detect potential off-targets at an early stage of inhibitor design and to conduct structure-informed polypharmacology studies.
 
 {{< xfigure src="/images/research/kissim.png" caption="kissim" >}}

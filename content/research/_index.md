@@ -16,7 +16,7 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
 * [Binding-site comparison](/research/structure-based/binding-sites)
   * [Targetome-wide binding site comparison](/projects/ratar)
   * [Kinome-wide binding site comparison](/projects/kissim)
-* [Pharmacophore modelling](/research/structure-based/pharmacophores)
+* [Pharmacophore modeling](/research/structure-based/pharmacophores)
   * [Static target-based pharmacophores](/projects/t2f-pharm)
   * [Dynamic target-based pharmacophores](/projects/t2f-flex)
 * [Kinase-focused methods](/research/structure-based/kinases)
