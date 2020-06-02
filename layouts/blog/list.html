@@ -9,7 +9,7 @@
         <article>
             <header>
                 <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-                <p class="small">{{ .Date.Format "2006.01.02" }}{{ if isset .Params "author"}}, by {{ .Params.author }}{{ end }}</p>
+                <p class="small">{{ .Date.Format "2006.01.02" }}{{ if isset .Params "author"}}, by {{ partial "personlink" (dict "data" .Site.Data "person" .Params.author ) }}{{ end }}</p>
             </header>
             <p>{{ .Summary }}</p>
             <p><a class="button icon fa-angle-double-right small" href="{{ .Permalink }}">Read more</a></p>
