@@ -46,20 +46,15 @@ summary: |
 ---
 
 Open source data and software are increasingly generated, developed and used in computer-aided drug design (CADD).
-This development allows:
-
-1. to build modular pipelines for reproducible and reusable research as well as
-2. to explore and contribute to open software code.
-
+This development allows to build modular pipelines for reproducible and reusable research as well as
+to explore and contribute to open software code.
 While code and usage of such software is usually well documented,
 its full potential for CADD projects often remains unreached, especially for beginners,
 due to the lack of application examples combining different toolkits.
 
 TeachOpenCADD is a teaching platform offering tutorials on central topics in cheminformatics and structural bioinformatics.
 The tutorials contain theoretical background and practical implementations using open source data and software.
-Implementations are available in two formats.
-
-On the one hand, interactive *Jupyter notebooks* demonstrate how to set up code-based pipelines (python).
+Implementations are available in two formats: On the one hand, interactive *Jupyter notebooks* demonstrate how to set up code-based pipelines (python).
 On the other hand, the same topics are transformed into *KNIME workflows*, an alternative to code-based workflows.
 Here, an intuitive, drag-and-drop style graphical interface is used to string together pre-implemented code units
 (nodes) with standardized functionalities.
@@ -91,9 +86,9 @@ TeachOpenCADD offers teaching material on common tasks in computer-aided drug de
 9. Ligand-based pharmacophores
 10. Binding site similarity
 11. Structure-based CADD using online APIs/servers
-  a. Querying KLIFS & PubChem for potential kinase inhibitors
-  b. Docking the candidates against the target
-  c. Visualizing the results and comparing against known data
+    * Querying KLIFS & PubChem for potential kinase inhibitors
+    * Docking the candidates against the target
+    * Visualizing the results and comparing against known data
 
 
 {{< xfigure src="/images/research/teachopencadd_topics1-10.png" caption="Topics 1-10" >}}
