@@ -8,15 +8,17 @@ menu:
         name: Struc2drug
 weight: 100
 nav: false
+summary: |
+    Struc2drug is a bimonthly seminar series promoting the exchange between researchers in the interdisciplinary field
+    of structural biology and drug development in Berlin.
 ---
-
-*Struc2drug* is a bimonthly seminar series promoting the exchange between researchers in the interdisciplinary field
-of structural biology and drug development in Berlin.
 
 Drug design is a complex and lengthly process that can only yield successful results using a plethora of different
 experimental and computational methods. Many researchers work in Berlin at universities, research facilities and
 industry in the field of drug design or in neighboring disciplines.
 
+*Struc2drug* is a bimonthly seminar series promoting the exchange between researchers in the interdisciplinary field
+of structural biology and drug development in Berlin.
 
 ### Aim
 

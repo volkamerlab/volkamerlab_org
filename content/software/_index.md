@@ -11,17 +11,17 @@ Being a computational research lab, we develop an increasingly diverse portfolio
 
 ## TeachOpenCADD
 
-{{< resources "projects/teachopencadd.md">}}
+{{< resources "projects/teachopencadd.md" >}}
 {{< intro "projects/teachopencadd.md" >}}
 
 ## KinoML
 
-{{< resources "projects/kinoml.md">}}
+{{< resources "projects/kinoml.md" >}}
 {{< intro "projects/kinoml.md" >}}
 
 ## KinFragLib
 
-{{< resources "projects/kinfraglib.md">}}
+{{< resources "projects/kinfraglib.md" >}}
 {{< intro "projects/kinfraglib.md" >}}
 
 ## more coming ...

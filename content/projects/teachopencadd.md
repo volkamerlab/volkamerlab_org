@@ -37,6 +37,12 @@ funding:
 publications:
 - teachopencaddknime
 - teachopencadd
+# You can use this keyword for the brief introductions to the article in category listings
+# This will replace the first 70 words found in the main article. use | <newline> to use multiline strings!
+summary: |
+  TeachOpenCADD is a teaching platform offering tutorials on central topics in cheminformatics and structural bioinformatics.
+  The tutorials contain theoretical background and practical implementations using open source data and software.
+  Implementations are available in two formats.
 ---
 
 Open source data and software are increasingly generated, developed and used in computer-aided drug design (CADD).
