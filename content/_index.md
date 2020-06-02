@@ -8,7 +8,7 @@ mainSectionId: banner
 ---
 
 <div class="content">
-    <header>
+    <header class="major">
         <h1>Volkamer Lab</h1>
         <p>In silico toxicology and structural bioinformatics</p>
     </header>
@@ -29,7 +29,7 @@ Additionally, we continuously work on the integration of the two research areas 
 
 ## Latest news
 
-* 2020.05.01: Join us in our [collective effort](https://github.com/volkamerlab/covid19-SBapproach) to better understand CoViD-19 .
+{{% ticker blog %}}
 
 
 </div>

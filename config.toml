@@ -2,6 +2,10 @@ baseURL = "https://volkamerlab.org/"
 languageCode = "en-us"
 title = "Volkamer Lab"
 author = "Volkamer Lab"
+paginate = 5
+
+[permalinks]
+  blog = "/:year/:month/:filename/"
 
 # This is needed to allow HTML in our markdown files
 [markup.goldmark.renderer]
