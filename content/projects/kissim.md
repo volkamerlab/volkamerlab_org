@@ -17,7 +17,7 @@ collaborators:
 external_resources:
 - name: kissim
   link: https://github.com/volkamerlab/kissim
-  icon: github
+  icon: lock
   more: Subpocket-based fingerprint for structural kinase comparison (WIP)
 funding:
 - name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
