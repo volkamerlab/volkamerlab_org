@@ -16,9 +16,9 @@ The OpenKinome initiative is an ongoing collaboration with <a href="http://www.c
 
 {{% intro "projects/kinoml.md" %}}
 
-## MIAME
-
-{{< box "MISSING" >}}
+<!-- ## MIAME -->
+<!--  -->
+<!-- {{< box "MISSING" >}} -->
 
 ***
 
