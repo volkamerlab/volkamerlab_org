@@ -11,6 +11,10 @@ draft: false
 people:  # take from /data/team/members.yml (`key` entry)
 - key: david.schaller
   more:
+- key: jaime.rodriguez
+  more:
+- key: talia.kimber
+  more:
 - key: andrea.volkamer
   more:
 collaborators:
@@ -20,6 +24,12 @@ collaborators:
 - name: Sikander Hayat
   link: https://www.broadinstitute.org/bios/sikander-hayat
   more: Joint Bayer-Broad cardiovascular precision medicine group
+- name: Mark-Christoph Ott
+  link: https://www.bayer.com/
+  more:
+- name: Torben Broemstrup
+  link: https://www.bayer.com/
+  more:
 funding:
 - name: Bayer
 #   link: external website
@@ -29,4 +39,13 @@ funding:
 # - citation_key
 ---
 
-In this collaboration with Bayer and the Chodera Lab, we aim to advance and apply [KinoML](/projects/kinoml/), an open source framework combining structure-informed machine learning with alchemical free energy calculations developed in our group, to address pharmaceutically relevant drug design challenges. Special emphasis is put on the effect of point mutations on binding affinity and how these can be exploited to expand the indications of already approved drugs and to guide molecular design.
+In this collaboration with Bayer and the Chodera Lab, we aim to advance and apply [KinoML](/projects/kinoml/), an open source framework integrating structure-informed machine learning and alchemical free energy calculations developed in our group, to address pharmaceutically relevant drug design challenges. Special emphasis is put on the effect of point mutations on binding affinity and how these can be exploited to expand the indications of already approved drugs and to guide molecular design.
+
+### Extended description:
+
+Identifying kinase mutations that could be potential cancer drivers or help tackle drug resistance is a significant challenge in the development of effective cancer treatments. Point mutations in the target of therapy are a major mechanism of resistance, including (1) reducing inhibitor affinity via mutation of residues in direct contact, (2) modulating populations of conformations competent for binding the inhibitor, (3) increasing the affinity for orthosteric substrates that the inhibitor must compete with, and (4) increasing basal activity.
+
+In this research collaboration, we propose to develop an open source computational tool, termed [KinoML](/projects/kinoml/), that exploits available structural data, evolutionary information and well-characterized biophysical mechanisms underlying resistance to evaluate the functional impact of point mutations. To do this, we utilize four key technologies: Automated structural modeling to generate conformations that may be significantly populated by the target-inhibitor complex; alchemical free energy calculations to make quantitative predictions regarding the impact of point mutations on affinities, conformational populations, and thermostabilities; structure-enabled machine learning to learn the results of these calculations to rapidly make new predictions; and reinforcement learning to automate the process of training the machine learning model by parsimoniously allocating computational effort toward free energy calculations that will be maximally informative.
+
+This project will utilize expertise in structural modeling and structure-enabled machine learning from the Volkamer Lab, and in open source alchemical free energy calculations from the Chodera Lab. We thank Bayer for supporting this project by providing financial resources.
+
