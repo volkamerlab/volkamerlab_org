@@ -31,29 +31,29 @@ external_resources:
 - name: knowtox_manuscript_SI
   link: https://github.com/volkamerlab/knowtox_manuscript_SI
   icon: github
-  more: In the notebook it is demonstrated how a conformal predictor is built, applied to make predictions for external
-   data, and how to evaluate the internal (crossvalidation) and external predictions.
+  more: SI notebook - built & evaluate conformal predictor and apply to external data
 
 funding:
-- name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
+- name: Bundesministerium für Bildung und Forschung, grant ID 031A262C 
 - name: HaVo-Stiftung
+- name: We thank BASF for supporting this project by providing financial resources 
+
+summary: |
+  KnowTox is a novel pipeline that combines three different _in silico_ toxicology approaches to allow for confident prediction of potentially toxic effects of novel chemical entities, i.e. machine learning models, alerts for toxic substructures and computational support for read-across. 
 ---
 
-KnowTox is a novel pipeline that combines three different in silico toxicology approaches to allow for confident
-prediction of potentially toxic effects of query compounds, i.e. machine learning models, alerts for toxic
-substructures and computational support for read-across. When applying machine learning models, applicability
-and reliability of predictions for new chemicals are of utmost importance. This was approached using conformal
-prediction. Several adaptions of the framework were investigated and proposed (i.e. KNN normalisation and
-balancing of proper training set) to improve the model performance. The model set-ups were validated using androgen
-receptor antagonism datasets.
+Computational tools for toxicity prediction are promising in the process of reducing, refining and replacing animal testing. To assess the toxicity of novel chemical entities, regulatory agencies require in vivo testing for several toxic endpoints. In 2010, roughly 2.9 million laboratory animals have been deployed in Germany, with an increase of 6% since 2008. Thus, the establishment of alternative methods, and with it the reduction of animal testing, is of utmost importance. 
 
-The KnowTox pipeline is available within our group and we are happy to apply it in collaboration projects.
-
+KnowTox is a novel pipeline that combines three different _in silico_ toxicology approaches to allow for confident prediction of potentially toxic effects of novel chemical entities, i.e. machine learning models, alerts for toxic substructures and computational support for read-across. 
 
 {{< xfigure src="/images/research/knowtox.png" caption="KnowTox" >}}
 
+When applying machine learning models, applicability and reliability of predictions for new chemicals are of utmost importance. This was approached using conformal prediction. Several adaptions of the framework were investigated to improve the model performance (i.e. KNN normalization and balancing of proper training set). The different model set-ups were validated using androgen receptor antagonism datasets.
 
+<!-- TODO : add something about read across and structural alerts? -->
 
-The project is part of the BMBF-funded BB3R initiative. One major goal of the BB3R initiative is the establishment of
-alternative methods for preclinical drug development and basic research. To assess the toxicity of novel chemical
-entities, regulatory agencies require in-vivo testing for several toxic endpoints.
+#### Excursus on Conformal Prediction
+
+Conformal prediction is a recently promoted method for confidence estimation. A conformal predictor returns, whether enough evidence is given to reliably assign the query substance to a certain class. The conformal prediction framework is built on top of machine learning models, and includes an additional calibration step. Thus, predictions made for a query compound are compared to those made for the calibration set compounds.
+
+{{< xfigure src="/images/research/conformal_prediction.png" caption="Conformal Prediction" imageclass="fit" >}}
