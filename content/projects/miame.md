@@ -12,9 +12,9 @@ people:  # take from /data/team/members.yml (`key` entry)
 - key: david.schaller
   more:
 - key: jaime.rodriguez
-  more:
+  more: KinoML
 - key: talia.kimber
-  more:
+  more: KinoML
 - key: andrea.volkamer
   more:
 collaborators:
@@ -31,7 +31,7 @@ collaborators:
   link: https://www.bayer.com/
   more:
 funding:
-- name: Bayer
+- name: We thank Bayer for supporting this project by providing financial resources (PostDoc position).
 #   link: external website
 #   more: free text
 # publications:  # take from (or add to) /data/publications/publications.yml
@@ -43,9 +43,11 @@ In this collaboration with Bayer and the Chodera Lab, we aim to advance and appl
 
 ### Extended description:
 
-Identifying kinase mutations that could be potential cancer drivers or help tackle drug resistance is a significant challenge in the development of effective cancer treatments. Point mutations in the target of therapy are a major mechanism of resistance, including (1) reducing inhibitor affinity via mutation of residues in direct contact, (2) modulating populations of conformations competent for binding the inhibitor, (3) increasing the affinity for orthosteric substrates that the inhibitor must compete with, and (4) increasing basal activity.
+Identifying kinase mutations that could be potential cancer drivers or help tackle drug resistance is a significant challenge in the development of effective cancer treatments. Point mutations in the target of therapy are a major mechanism of resistance, including (1) reducing inhibitor affinity via mutation of residues in direct contact, (2) modulating populations of conformations competent for binding the inhibitor, (3) increasing the affinity for orthosteric substrates that the inhibitor must compete with, or (4) increasing basal activity.
 
-In this research collaboration, we propose to develop an open source computational tool, termed [KinoML](/projects/kinoml/), that exploits available structural data, evolutionary information and well-characterized biophysical mechanisms underlying resistance to evaluate the functional impact of point mutations. To do this, we utilize four key technologies: Automated structural modeling to generate conformations that may be significantly populated by the target-inhibitor complex; alchemical free energy calculations to make quantitative predictions regarding the impact of point mutations on affinities, conformational populations, and thermostabilities; structure-enabled machine learning to learn the results of these calculations to rapidly make new predictions; and reinforcement learning to automate the process of training the machine learning model by parsimoniously allocating computational effort toward free energy calculations that will be maximally informative.
+In this research collaboration, we will extend the open source computational tool [KinoML](/projects/kinoml/), which aims to exploit the available structural kinase data, evolutionary information and well-characterized biophysical mechanisms underlying resistance to evaluate the functional impact of point mutations. To do this, we utilize four key technologies: Automated structural modeling to generate conformations that may be significantly populated by the target-inhibitor complex; alchemical free energy calculations to make quantitative predictions regarding the impact of point mutations on affinities, conformational populations, and thermostabilities; structure-enabled machine learning to learn the results of these calculations to rapidly make new predictions.
+<!-- Comment I would leave this for now to KinoML: 
+; and reinforcement learning to automate the process of training the machine learning model by parsimoniously allocating computational effort toward free energy calculations that will be maximally informative. -->
 
-This project will utilize expertise in structural modeling and structure-enabled machine learning from the Volkamer Lab, and in open source alchemical free energy calculations from the Chodera Lab. We thank Bayer for supporting this project by providing financial resources.
+This project will utilize expertise in structural modeling and structure-enabled machine learning from the Volkamer Lab, and in open source alchemical free energy calculations from the Chodera Lab, combined with real life application knowledge from Bayer.
 

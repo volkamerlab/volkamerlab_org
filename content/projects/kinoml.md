@@ -17,7 +17,7 @@ people:
 - key: talia.kimber
   more:
 - key: david.schaller
-  more:
+  more: Miame
 - key: andrea.volkamer
   more:
 collaborators:
