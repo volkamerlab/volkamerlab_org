@@ -1,5 +1,5 @@
 ---
-title: "MIAME: Mutation Impact Annotation using Modeling and Evolution"
+title: "MIAME"
 date: 2020-05-29T09:17:30+02:00
 nav: false
 draft: false
@@ -39,9 +39,11 @@ funding:
 # - citation_key
 ---
 
+### Mutation Impact Annotation using Modeling and Evolution
+
 In this collaboration with Bayer and the Chodera Lab, we aim to advance and apply [KinoML](/projects/kinoml/), an open source framework integrating structure-informed machine learning and alchemical free energy calculations developed in our group, to address pharmaceutically relevant drug design challenges. Special emphasis is put on the effect of point mutations on binding affinity and how these can be exploited to expand the indications of already approved drugs and to guide molecular design.
 
-### Extended description:
+#### Extended description
 
 Identifying kinase mutations that could be potential cancer drivers or help tackle drug resistance is a significant challenge in the development of effective cancer treatments. Point mutations in the target of therapy are a major mechanism of resistance, including (1) reducing inhibitor affinity via mutation of residues in direct contact, (2) modulating populations of conformations competent for binding the inhibitor, (3) increasing the affinity for orthosteric substrates that the inhibitor must compete with, or (4) increasing basal activity.
 
