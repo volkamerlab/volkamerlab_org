@@ -3,12 +3,12 @@
     <div class="content">
         <article>
             <header class="major">
-            <p>{{ .Date.Format "2006.01.02" }}
-                {{- if isset .Params "author" -}}
-                , by {{ partial "personlink" (dict "data" .Site.Data "person" .Params.author ) }}
+                <h1>{{ .Title }}</h1>
+            <p class="small">{{ .Date.Format "2006.01.02" }}
+                {{- if isset .Params "author" }}
+                &middot; By {{- partial "personlink" (dict "data" .Site.Data "person" .Params.author ) -}}
                 {{- end -}}
             </p>
-                <h1>{{ .Title }}</h1>
             </header>
 
             <p>{{ .Content }}</p>

@@ -2290,6 +2290,11 @@
 		margin-top: -0.5em;
 		text-transform: uppercase;
 	}
+	header p.small {
+		text-transform: none;
+		letter-spacing: 0;
+		font-size: 0.9em;
+	}
 
 	header.major > :last-child {
 		border-bottom: solid 3px #37abac;
