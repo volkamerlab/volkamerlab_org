@@ -63,10 +63,9 @@ TeachOpenCADD is suitable for self-study training and classroom teaching, but ca
 research projects.
 The platform is freely available on GitHub and open to contributions from the community.
 
-{{< xfigure src="/images/research/teachopencadd.png" caption="TeachOpenCADD logo" >}}
+{{< xfigure src="/images/research/teachopencadd_topics1-10.png" caption="Topics 1-10 have been designed as a step-by-step pipeline" >}}
 
-
-##### TEACHOPENCADD TOPICS
+### TeachOpenCADD topics
 
 TeachOpenCADD offers teaching material on common tasks in computer-aided drug design. Currently, the following topics are available:
 
@@ -85,15 +84,12 @@ TeachOpenCADD offers teaching material on common tasks in computer-aided drug de
 8. Protein data acquisition: Protein Data Bank (PDB)
 9. Ligand-based pharmacophores
 10. Binding site similarity
-11. Structure-based CADD using online APIs/servers
-    * Querying KLIFS & PubChem for potential kinase inhibitors
-    * Docking the candidates against the target
-    * Visualizing the results and comparing against known data
 
+<!-- 11. Structure-based CADD using online APIs/servers -->
+<!-- * Querying KLIFS & PubChem for potential kinase inhibitors -->
+<!-- * Docking the candidates against the target -->
+<!-- * Visualizing the results and comparing against known data -->
 
-{{< xfigure src="/images/research/teachopencadd_topics1-10.png" caption="Topics 1-10" >}}
+<!-- {{< xfigure src="/images/research/teachopencadd_topics11.png" caption="Topic 11" >}} -->
 
-{{< xfigure src="/images/research/teachopencadd_topics11.png" caption="Topic 11" >}}
-
-Topics 1-11 are available as Python-based Jupyter notebooks and topics 1-8 can additionally be used in the form of
-KNIME workflows.
+Topics 1-10 are available as Python-based Jupyter notebooks and topics 1-8 can additionally be used in the form of KNIME workflows.
