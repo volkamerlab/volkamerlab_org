@@ -34,7 +34,7 @@ Additionally, we continuously work on the integration of the two research areas 
 
 </div>
 
-<span class="image object">
-    <img src="/images/benzothiazine.png" alt="Protein" />
-</span>
+<div class="image">
+    <img src="/images/wordcloud.jpg" alt="Word cloud" />
+</div>
 

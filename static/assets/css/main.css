@@ -3907,7 +3907,7 @@
 	}
 
 		#banner h1 {
-			margin-top: -0.125em;
+			margin-bottom: 0.125em;
 		}
 
 		#banner .content {
@@ -3983,10 +3983,10 @@
 					-webkit-flex-shrink: 0;
 					-ms-flex-shrink: 0;
 					flex-shrink: 0;
-					/* margin: 0 0 4em 0; */
-					/* height: 25em; */
-					/* max-height: 50vh;
-					min-height: 18em; */
+					margin: 0 0 4em 0;
+					height: 25em;
+					max-height: 50vh;
+					min-height: 18em;
 					width: 100%;
 				}
 
