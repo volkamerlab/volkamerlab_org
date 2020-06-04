@@ -4,7 +4,7 @@
     {{ $is_member := "false" }}
     {{ range $members }}
         {{ if eq .key $author }}
-            <li><span>{{ partial "authorlink" . }}</span></li>
+            <li><span {{ if eq .key "andrea.volkamer" }}class="bold"{{end}}>{{ partial "authorlink" . }}</span></li>
             {{ $is_member = "true" }}
         {{ end}}
     {{ end }}

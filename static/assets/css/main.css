@@ -4145,3 +4145,10 @@ ul.separate-by-commas {
 	ul.separate-by-commas li:last-child::after {
 		content: "";
 	}
+
+	ul.separate-by-commas li span a {
+		border-bottom: 0;
+	}
+	ul.separate-by-commas li span.bold {
+		font-weight: bold;
+	}
