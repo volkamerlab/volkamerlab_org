@@ -13,20 +13,17 @@ external_resources:
   icon: book
 people:
 - key: jaime.rodriguez
-  more:
 - key: talia.kimber
-  more:
 - key: david.schaller
-  more:
 - key: andrea.volkamer
-  more:
 collaborators:
 - name: John D. Chodera
   link: http://choderalab.org
-  more: MSK, Einstein BIH Visiting Fellow
+  more: MSKCC
 funding:
-- name: BIH Einstein & Stiftung Charité
+- name: The Einstein Foundation & Stiftung Charité
   link: https://www.einsteinfoundation.de/en/programmes/einstein-bih-visiting-fellow/
+  more: BIH Einstein Visiting Fellowship
 publications:
 # - proteinsplus2017
 ---
@@ -37,3 +34,4 @@ In this project, we aim to combine structure-enabled machine learning and alchem
 
 {{< xfigure src="/images/research/kinopoly.png" caption="Affinity prediction on the kinome tree." >}}
 
+The resulting `kinoml` package provides a modern Python library to help build flexible pipelines for machine learning in the context of structural bioinformatics.
