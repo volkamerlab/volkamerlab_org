@@ -11,9 +11,9 @@ people:
 collaborators:
 - name: Albert Kooistra
   link: https://drug.ku.dk/employees/?pure=en/persons/612712
-  more: (University of Copenhagen)
+  more: University of Copenhagen
 - name: Friedrich Rippmann
-  more: (Merck)
+  more: Merck
 external_resources:
 - name: kissim
   link: https://github.com/volkamerlab/kissim

@@ -24,9 +24,9 @@ people:
 - key: andrea.volkamer
 collaborators:
 - name: Gregory Landrum
-  more: (KNIME AG)
+  more: KNIME AG
 - name: Daria Goldmann
-  more: (KNIME GmbH)
+  more: KNIME GmbH
 funding:
 - name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
 - name: Deutsche Forschungsgemeinschaft (DFG), grant ID VO 2353 / 1-1
