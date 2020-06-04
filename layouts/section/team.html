@@ -32,7 +32,7 @@
                 </header>
                 <ul>
                     {{ range where $.Site.Data.team.members ".status" "studentmember" }}
-                    <li id="{{- .key -}}"><strong>{{ .name }}</strong> ({{ .role }})<br />
+                    <li id="{{- .key -}}"><strong>{{ with .prefix }}{{- . }} {{ end }}{{ .name }}</strong> ({{ .role }})<br />
                         {{ .project }}</li>
                     {{ end }}
                 </ul>
@@ -43,7 +43,7 @@
                 </header>
                 <ul>
                     {{ range where $.Site.Data.team.members ".status" "alumni" }}
-                    <li id="{{- .key -}}"><strong>{{ .name }}</strong> ({{ .role }})<br />
+                    <li id="{{- .key -}}"><strong>{{ with .prefix }}{{- . }} {{ end }}{{ .name }}</strong> ({{ .role }})<br />
                         {{ .project }}</li>
                     {{ end }}
                 </ul>

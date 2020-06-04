@@ -25,7 +25,7 @@
   key: jaime.rodriguez
   role: Postdoc
   status: member
-  project: Scalable alchemical free energy calculations and machine learning for drug discovery
+  project: Scalable alchemical free energy calculations and machine learning for kinase drug discovery
   image: /images/team/jaimerodriguezguerra.jpg
   links:
     - icon: envelope
@@ -54,7 +54,7 @@
   key: david.schaller
   role: Postdoc
   status: member
-  project: Free energy calculations and machine learning for kinase drug discovery
+  project: Free energy calculations and machine learning for kinase drug discovery with focus on mutations
   image: /images/team/davidschaller.jpg
   links:
     - icon: envelope
@@ -132,7 +132,7 @@
   key: yonghui.chen
   role: PhD candidate
   status: member
-  project: Virtual screening and deep learning for drug discovery.
+  project: Virtual screening and deep learning for drug discovery
   image: /images/team/yonghuichen.jpg
   links:
     - icon: envelope
@@ -144,6 +144,19 @@
     - icon: info-circle
       text: ORCiD
       url: https://orcid.org/0000-0002-8201-2894
+- name: Lisa Chiara Gosch
+  prefix:
+  role: Dr. med. candidate
+  status: member
+  key: chiara.gosch
+  project: Computational and experimental testing of novel EGFR and HDAC inhibitors (co-supervised with Prof. Höpfner)
+  links:
+    - icon: envelope
+      text: lisa-chiara.gosch@charite.de
+      url: mailto:lisa-chiara.gosch@charite.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/lisa-chiara-gosch-80022070/
 # --MASTERS--
 - name: Michele Wichmann
   prefix:
@@ -151,7 +164,7 @@
   role: Master student
   status: studentmember
   image:
-  project: Subpocket-based fragmentation and recombination of kinase inhibitors
+  project: Dynamic pharmacophore modeling from apo structures
 - name: Allen Dumler
   prefix:
   key: allen.dumler
@@ -177,13 +190,7 @@
   role: Bachelor student
   status: alumni
   key: robert.strothmann
-  project: Automatic generation of T2F-Flex pharmacophores based on MD simulations
-- name: Lisa Chiara Gosch
-  prefix:
-  role: Dr. med. candidate
-  status: alumni
-  key: chiara.gosch
-  project: Computational and experimental testing of novel EGFR and HDAC inhibitors
+  project: Automatic generation of T²F-Flex pharmacophores based on MD simulations
 - name: Henry Webel
   prefix:
   key: henry.webel
@@ -195,13 +202,13 @@
   key: boran.adas
   status: alumni
   role: Master thesis and GoogleSummerOfCode
-  project: Robust machine learning pipeline for classification problems in chemo-informatics
+  project: Robust machine learning pipeline for classification problems in cheminformatics
 - name: Jérémie Mortier
   prefix: Dr.
   key: jeremie.mortier
   status: alumni
   role: Scientist
-  project: Truly target-focused pharmacophore modeling (T2F-Pharm)
+  project: Truly target-focused pharmacophore modeling (T²F-Pharm)
 - name: Shalini Muralikumar
   prefix: shalini.muralikumar
   key:
@@ -213,7 +220,7 @@
   key: pratik.dhakal
   status: alumni
   role: Student assistant and Master thesis
-  project: Truly target-focused (dynamic) pharmacophore modeling (T2F-Pharm and T2F-Flex)
+  project: Truly target-focused (dynamic) pharmacophore modeling (T²F-Pharm and T²F-Flex)
 - name: Eva Aßmann
   prefix:
   key: eva.assmann
@@ -225,7 +232,7 @@
   key: jacob.gora
   status: alumni
   role: Student assistant and Master thesis with Novartis
-  project: Machine learning for kinase activity prediction / Active learning for compound optimization
+  project: Machine learning for kinase activity prediction & Active learning for compound optimization
 - name: Maximilian Driller
   key: maximilian.driller
   status: alumni
@@ -235,4 +242,4 @@
   key: angelika.szengel
   status: alumni
   role: Master student project work
-  project: Structure-based computaional target prediction (review)
+  project: Structure-based computational target prediction (review)
