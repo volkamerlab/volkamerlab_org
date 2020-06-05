@@ -13,20 +13,16 @@ nav: false
 Pharmacophores can be built upon static structures from e.g. X-ray experiments (*static pharmacophores*), however since ligands and macromolecules are of dynamic nature, molecular dynamic simulations have been more and more employed to add a structure's dynamic behaviour to pharmacophore modeling (*dynamic pharmacophores*). We work on two tools, *T²F-Pharm* and *T²F-Flex*, for static and dynamic target-based pharmacophore modeling, respectively.
 
 
-### Projects overview
+## Projects
 
-1. [Static target-based pharmacophores](#static-target-based-pharmacophores)
-2. [Dynamic target-based pharmacophores](#dynamic-target-based-pharmacophores)
+### [Static target-based pharmacophores](/projects/t2f-pharm/)
 
-
-#### Static target-based pharmacophores
-
-{{% content "projects/t2f-pharm.md" %}}
+{{% intro "projects/t2f-pharm.md" %}}
 
 
-#### Dynamic target-based pharmacophores
+### [Dynamic target-based pharmacophores](/projects/t2f-flex/)
 
-{{% content "projects/t2f-flex.md" %}}
+{{% intro "projects/t2f-flex.md" %}}
 
 
 ***

@@ -6,11 +6,13 @@ weight: 10
 nav: false
 ---
 
-Besides target-independent approaches, we focus our structure-based developments on kinases, one of the major classes of therapeutic targets. This includes fragment-based approaches, kinase binding site comparison, and others. 
+Besides target-independent approaches, we focus our structure-based developments on kinases, one of the major classes of therapeutic targets. This includes fragment-based approaches, kinase binding site comparison, and others.
 
 <!--more-->
 
-## KinFragLib
+## Projects
+
+### [KinFragLib](/projects/kinfraglib/)
 
 {{% intro "projects/kinfraglib.md" %}}
 

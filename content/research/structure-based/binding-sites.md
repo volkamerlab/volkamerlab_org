@@ -20,17 +20,14 @@ structurally available macromolecules, and
 3. the most similar binding sites (ranked by a scoring function) are proposed
 as potential off-targets or polypharmacological targets.
 
-### Projects overview
+## Projects
 
-1. [Targetome-wide binding site comparison](#targetome-wide-binding-site-comparison)
-2. [Kinome-wide binding site comparison](#kinome-wide-binding-site-comparison)
-
-#### Targetome-wide binding site comparison
+### [Targetome-wide binding site comparison](/projects/ratar/)
 
 {{% intro "projects/ratar.md" %}}
 
 
-#### Kinome-wide binding site comparison
+### [Kinome-wide binding site comparison](/projects/kissim/)
 
 {{% intro "projects/kissim.md" %}}
 

@@ -210,8 +210,8 @@
   role: Scientist
   project: Truly target-focused pharmacophore modeling (T²F-Pharm)
 - name: Shalini Muralikumar
-  prefix: shalini.muralikumar
-  key:
+  prefix:
+  key: shalini.muralikumar
   status: alumni
   role: Intern
   project: In silico investigation of protein-protein interactions during sumoylation of Smyd1
@@ -237,7 +237,7 @@
   key: maximilian.driller
   status: alumni
   role: Master student project work
-  project: Computer-aided drug design - an interactive python pipeline (TeachOpenCADD)
+  project: Computer-aided drug design - an interactive Python pipeline (TeachOpenCADD)
 - name: Angelika Szengel
   key: angelika.szengel
   status: alumni
