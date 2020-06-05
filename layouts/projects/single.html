@@ -37,25 +37,23 @@
                     </li>
                     {{ end }}
                 </ul>
-            </section>
             {{ end }}
             {{ with .Page.Params.collaborators }}
-            <section>
-                <header>
-                    <h3>Collaborators</h3>
-                </header>
-                <ul>
-                    {{ range . }}
-                    <li>
-                        {{ with .link }}
-                            <a href="{{ . }}" target="_blank">
+                <span>Collaborators:</span>
+                    <ul>
+
+                        {{ range . }}
+                        <li>
+                            {{- with .link -}}<a href="{{ . }}" target="_blank">{{ end }}
+                            {{ .name }}
+                            {{- with .link -}}</a>{{ end }}
+                            {{- with .more }} &middot; {{ . }}{{end}}
+                            </li>
                         {{ end }}
-                        {{ .name}}
-                        {{- with .link -}}</a>{{ end }}
-                        {{ with .more}} &middot; {{ . }}{{end}}
-                    </li>
-                    {{ end }}
-                </ul>
+                    </ul>
+            {{ end }}
+            {{ with .Page.Params.people }}
+
             </section>
             {{ end }}
             {{ with .Page.Params.funding }}
