@@ -20,7 +20,7 @@ funding:
   link: "https://gepris.dfg.de/gepris/projekt/391684253?language=en&the="
 ---
 
-The KinFragLib project allows to explore and extend the chemical space of kinase inhibitors using
+The *KinFragLib* project allows to explore and extend the chemical space of kinase inhibitors using
 data-driven fragmentation and recombination, built on available structural kinome data from the <a href="https://klifs.vu-compmedchem.nl/" target="_blank" class="external">KLIFS </a> database
 for over 2,500 kinase complexes. The computational fragmentation method splits known non-covalent
 kinase inhibitors into fragments with respect to their 3D proximity to six predefined subpockets relevant for binding.
@@ -35,4 +35,4 @@ subpocket characteristics and connections.
 in order to generate potential novel inhibitors.
 
 
-{{< xfigure src="/images/research/kinfraglib.png" caption="KinFragLib" imageclass="fit" >}}
+{{< xfigure src="/images/research/kinfraglib.png" caption="KinFragLib fragmentation procedure" imageclass="fit" >}}

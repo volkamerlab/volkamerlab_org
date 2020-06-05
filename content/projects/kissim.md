@@ -29,13 +29,13 @@ Kinases are important and well studied drug targets for cancer and inflammatory 
 Due to the highly conserved structure of kinases, especially at the ATP binding site,
 the main challenge when developing kinase inhibitors is achieving selectivity,
 which requires a comprehensive understanding of kinase similarity.
-In our *kissim* project, we developed a subpocket-focused kinase fingerprint to investigate kinome-wide pocket similarity.
+In our *KiSSim* project, we developed a subpocket-focused kinase fingerprint to investigate kinome-wide pocket similarity.
 
 <!--more-->
 
-The *kissim* fingerprint is based on the <a href="https://klifs.vu-compmedchem.nl/" target="_blank" class="external">KLIFS </a> pocket alignment, which defines 85 pocket residues for all kinase structures.
+The *KiSSim* fingerprint is based on the <a href="https://klifs.vu-compmedchem.nl/" target="_blank" class="external">KLIFS </a> pocket alignment, which defines 85 pocket residues for all kinase structures.
 This enables a residue-by-residue comparison of spatial and physicochemical features
 without the need for a computationally expensive alignment step.
-We aim to use the *kissim* method to detect potential off-targets at an early stage of inhibitor design and to conduct structure-informed polypharmacology studies.
+We aim to use the *KiSSim* method to detect potential off-targets at an early stage of inhibitor design and to conduct structure-informed polypharmacology studies.
 
-{{< xfigure src="/images/research/kissim.png" caption="kissim" >}}
+{{< xfigure src="/images/research/kissim.png" caption="Subpocket-based kinase fingerprint to assess kinase structural similarity (*kissim*)" >}}
