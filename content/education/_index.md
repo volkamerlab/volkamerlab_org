@@ -8,7 +8,7 @@ weight: 30
 nav: false
 ---
 
-This page summarizes our main educational activities, including our open teaching platform, the main courses taught at FU and Charité, as well as other miscellaneous activities (_Outreach_).
+This page summarizes our main educational activities, including our open teaching platform, the main courses taught at the Freie Universität (FU) and Charité, as well as other miscellaneous activities (_Outreach_).
 
 
 ### [TeachOpenCADD](/projects/teachopencadd/)
@@ -27,7 +27,7 @@ This page summarizes our main educational activities, including our open teachin
 
 # Outreach
 
-The Volkamer Lab is involved in several recurrent events that aim to foster the research networks in the fields of computer-aided drug design, structural bioinformatics or cheminformatcis.
+The Volkamer Lab is involved in several recurrent events that aim to foster the research networks in the fields of computer-aided drug design, structural bioinformatics or cheminformatics.
 
 ### [Struc2drug](/outreach/struc2drug/)
 
