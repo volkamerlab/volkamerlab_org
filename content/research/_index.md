@@ -13,7 +13,7 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
 
 ### [Structure-based (binding site centric) approaches](/research/structure-based)
 
-* [Binding-site comparison](/research/structure-based/binding-sites)
+* [Binding site comparison](/research/structure-based/binding-sites)
   * [Targetome-wide binding site comparison](/projects/ratar)
   * [Kinome-wide binding site comparison](/projects/kissim)
 * [Pharmacophore modeling](/research/structure-based/pharmacophores)

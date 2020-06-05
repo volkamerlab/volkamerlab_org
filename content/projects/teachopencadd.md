@@ -42,7 +42,7 @@ publications:
 summary: |
   TeachOpenCADD is a teaching platform offering tutorials on central topics in cheminformatics and structural bioinformatics.
   The tutorials contain theoretical background and practical implementations using open source data and software.
-  Implementations are available in two formats.
+  Implementations are available in two formats: Python-based Jupyter notebooks and GUI-based KNIME workflows.
 ---
 
 Open source data and software are increasingly generated, developed and used in computer-aided drug design (CADD).
@@ -54,7 +54,7 @@ due to the lack of application examples combining different toolkits.
 
 TeachOpenCADD is a teaching platform offering tutorials on central topics in cheminformatics and structural bioinformatics.
 The tutorials contain theoretical background and practical implementations using open source data and software.
-Implementations are available in two formats: On the one hand, interactive *Jupyter notebooks* demonstrate how to set up code-based pipelines (python).
+Implementations are available in two formats: On the one hand, interactive *Jupyter notebooks* demonstrate how to set up code-based pipelines (Python).
 On the other hand, the same topics are transformed into *KNIME workflows*, an alternative to code-based workflows.
 Here, an intuitive, drag-and-drop style graphical interface is used to string together pre-implemented code units
 (nodes) with standardized functionalities.
