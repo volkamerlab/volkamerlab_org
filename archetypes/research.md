@@ -5,15 +5,14 @@ menu:
     main:
         parent: Research
 nav: false
-draft: true
 # projects:
 # - name.md # filename in /content/projects
 ---
 
-Research field description, e.g. if the research field was "Drug Design for Kinases", we can add here an abstract on 
+Research field description, e.g. if the research field was "Drug Design for Kinases", we can add here an abstract on
 the relevance of kinases as drug targets and the main advantages and challenges.
 
-## Projects overview 
+## Projects overview
 
 [Project 1](#project-1) \
 [Project 2](#project-2)

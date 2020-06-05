@@ -5,6 +5,5 @@ menu:
     main:
         parent: Events
 nav: false
-draft: true
 ---
 
