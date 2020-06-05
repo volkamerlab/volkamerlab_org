@@ -7,4 +7,4 @@ menu:
         Pre: graduation-cap
 ---
 
-List of research articles published within Volkamer Lab during the time at Charité. For additional/earlier publications refer to the [Team](/team) section and click on any member profile.
+List of research articles published within the Volkamer Lab during the time at Charité. For additional/earlier publications refer to the [Team](/team) section and click on any member profile.
