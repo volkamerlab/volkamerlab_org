@@ -16,7 +16,7 @@
     - icon: github
       text: GitHub
       url: https://github.com/andreavolkamer
-    - icon: info-circle
+    - icon: book
       text: ORCiD
       url: http://orcid.org/0000-0002-3760-580X
 # --POSTDOCS--
@@ -40,7 +40,7 @@
     - icon: graduation-cap
       text: Google Scholar
       url: https://scholar.google.com/citations?user=imKyayEAAAAJ
-    - icon: info-circle
+    - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0001-8974-1566
     - icon: twitter
@@ -66,7 +66,7 @@
     - icon: github
       text: GitHub
       url: https://github.com/schallerdavid
-    - icon: info-circle
+    - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0002-1881-4518
 # --PHDs---
@@ -81,7 +81,7 @@
     - icon: envelope
       text: andrea-lilian.morger@charite.de
       url: mailto:andrea-lilian.morger@charite.de
-    - icon: info-circle
+    - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0003-4774-6291
 - name: Dominique Sydow
@@ -98,7 +98,7 @@
     - icon: github
       text: GitHub
       url: https://github.com/dominiquesydow
-    - icon: info-circle
+    - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0003-4205-8705
 - name: Talia B. Kimber
@@ -121,7 +121,7 @@
     - icon: graduation-cap
       text: Google Scholar
       url: https://scholar.google.com/citations?user=i3sMZ-cAAAAJ&hl=en&oi=ao
-    - icon: info-circle
+    - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0002-8881-920X
     - icon: twitter
@@ -141,7 +141,7 @@
     - icon: github
       text: GitHub
       url: https://github.com/yonghui-cc
-    - icon: info-circle
+    - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0002-8201-2894
 - name: Lisa Chiara Gosch
