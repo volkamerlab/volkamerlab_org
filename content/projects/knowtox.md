@@ -31,7 +31,7 @@ external_resources:
 - name: knowtox_manuscript_SI
   link: https://github.com/volkamerlab/knowtox_manuscript_SI
   icon: github
-  more: SI notebook - built & evaluate conformal predictor and apply to external data
+  more: SI notebook - build & evaluate conformal predictor and apply to external data
 
 funding:
 - name: Bundesministerium für Bildung und Forschung, grant ID 031A262C 
