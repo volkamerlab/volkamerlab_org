@@ -34,4 +34,4 @@ Albeit yielding good results, neural networks are often described as a black box
 
 This approach could be helpful in drug development to predict the potential toxicity of a compound as well as to generate new insights into the toxic mechanism. Moreover, it could also help to de-risk and optimize compounds.
 
-{{< xfigure src="/images/research/cytotoxicity.png" caption="Workflow for identifying potential toxicophores." >}}
+{{< xfigure src="/images/research/cytotoxicity.png" caption="Workflow for identifying potential toxicophores." imageclass="fit" >}}

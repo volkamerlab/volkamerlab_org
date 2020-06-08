@@ -26,7 +26,7 @@ of structural biology and drug development in Berlin.
 - Learn about different steps and methods involved in drug development.
 - Create an interdisciplinary environment to think about upcoming challenges and possible solution.
 
-{{< xfigure src="/images/outreach/struc2drug.png" caption="The struc2drug logo" >}}
+{{< xfigure src="/images/outreach/struc2drug.png" caption="The struc2drug logo" imageclass="fit" >}}
 
 
 ### Mailing list

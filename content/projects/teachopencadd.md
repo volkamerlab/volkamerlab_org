@@ -63,7 +63,7 @@ TeachOpenCADD is suitable for self-study training and classroom teaching, but ca
 research projects.
 The platform is freely available on GitHub and open to contributions from the community.
 
-{{< xfigure src="/images/research/teachopencadd_topics1-10.png" caption="Topics 1-10 have been designed as a step-by-step pipeline" >}}
+{{< xfigure src="/images/research/teachopencadd_topics1-10.png" caption="Topics 1-10 have been designed as a step-by-step pipeline" imageclass="fit" >}}
 
 ### TeachOpenCADD topics
 

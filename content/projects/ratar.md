@@ -28,4 +28,4 @@ off-targets for proteins of interest using the ever-growing amount of available 
 
 <!--more-->
 
-{{< xfigure src="/images/research/ratar.png" caption="Read-across the targetome (*Ratar*) strategy" >}}
+{{< xfigure src="/images/research/ratar.png" caption="Read-across the targetome (*Ratar*) strategy" imageclass="fit" >}}

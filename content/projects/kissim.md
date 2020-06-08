@@ -38,4 +38,4 @@ This enables a residue-by-residue comparison of spatial and physicochemical feat
 without the need for a computationally expensive alignment step.
 We aim to use the *KiSSim* method to detect potential off-targets at an early stage of inhibitor design and to conduct structure-informed polypharmacology studies.
 
-{{< xfigure src="/images/research/kissim.png" caption="Subpocket-based kinase fingerprint to assess kinase structural similarity (*kissim*)" >}}
+{{< xfigure src="/images/research/kissim.png" caption="Subpocket-based kinase fingerprint to assess kinase structural similarity (*kissim*)" imageclass="fit" >}}

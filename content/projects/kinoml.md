@@ -32,6 +32,6 @@ In this project, we aim to combine structure-enabled machine learning and alchem
 
 <!--more-->
 
-{{< xfigure src="/images/research/kinopoly.png" caption="Affinity prediction on the kinome tree." >}}
+{{< xfigure src="/images/research/kinopoly.png" caption="Affinity prediction on the kinome tree." imageclass="fit" >}}
 
 The resulting `kinoml` package provides a modern Python library to help build flexible pipelines for machine learning in the context of structural bioinformatics.

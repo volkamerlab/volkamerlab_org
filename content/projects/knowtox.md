@@ -34,19 +34,19 @@ external_resources:
   more: SI notebook - build & evaluate conformal predictor and apply to external data
 
 funding:
-- name: Bundesministerium für Bildung und Forschung, grant ID 031A262C 
+- name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
 - name: HaVo-Stiftung
-- name: We thank BASF for supporting this project by providing financial resources 
+- name: We thank BASF for supporting this project by providing financial resources
 
 summary: |
-  KnowTox is a novel pipeline that combines three different _in silico_ toxicology approaches to allow for confident prediction of potentially toxic effects of novel chemical entities, i.e. machine learning models, alerts for toxic substructures and computational support for read-across. 
+  KnowTox is a novel pipeline that combines three different _in silico_ toxicology approaches to allow for confident prediction of potentially toxic effects of novel chemical entities, i.e. machine learning models, alerts for toxic substructures and computational support for read-across.
 ---
 
-Computational tools for toxicity prediction are promising in the process of reducing, refining and replacing animal testing. To assess the toxicity of novel chemical entities, regulatory agencies require in vivo testing for several toxic endpoints. In 2010, roughly 2.9 million laboratory animals have been deployed in Germany, with an increase of 6% since 2008. Thus, the establishment of alternative methods, and with it the reduction of animal testing, is of utmost importance. 
+Computational tools for toxicity prediction are promising in the process of reducing, refining and replacing animal testing. To assess the toxicity of novel chemical entities, regulatory agencies require in vivo testing for several toxic endpoints. In 2010, roughly 2.9 million laboratory animals have been deployed in Germany, with an increase of 6% since 2008. Thus, the establishment of alternative methods, and with it the reduction of animal testing, is of utmost importance.
 
-KnowTox is a novel pipeline that combines three different _in silico_ toxicology approaches to allow for confident prediction of potentially toxic effects of novel chemical entities, i.e. machine learning models, alerts for toxic substructures and computational support for read-across. 
+KnowTox is a novel pipeline that combines three different _in silico_ toxicology approaches to allow for confident prediction of potentially toxic effects of novel chemical entities, i.e. machine learning models, alerts for toxic substructures and computational support for read-across.
 
-{{< xfigure src="/images/research/knowtox.png" caption="KnowTox" >}}
+{{< xfigure src="/images/research/knowtox.png" caption="KnowTox" imageclass="fit" >}}
 
 When applying machine learning models, applicability and reliability of predictions for new chemicals are of utmost importance. This was approached using conformal prediction. Several adaptions of the framework were investigated to improve the model performance (i.e. KNN normalization and balancing of proper training set). The different model set-ups were validated using androgen receptor antagonism datasets.
 
