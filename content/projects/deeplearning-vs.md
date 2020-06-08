@@ -9,7 +9,7 @@ people:
 - key: andrea.volkamer
 funding:
 - name: China Scholarship Council, CSC
-  link: https://www.chinesescholarshipcouncil.com/
+  link: https://www.csc.edu.cn
   more: China State-Sponsored Postgraduate Study Abroad Program
 ---
 
