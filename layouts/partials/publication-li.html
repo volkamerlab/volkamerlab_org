@@ -6,6 +6,4 @@
 </ul>
 <!-- year -->
 <span> ({{ $pub.year }}). <strong>{{ $pub.title }}</strong>.
-    <em>{{ $pub.journal }}</em>
-    {{ with $pub.volume }}{{ . }}{{ end }}{{ with $pub.issue}}({{ . }}){{ end }}{{ with $pub.pages }}:{{ . }}{{ end }}.{{ with $pub.doi}}
-    DOI: <a href="https://dx.doi.org/{{ . }}" target="_blank">{{ . }}</a>.{{ end }}</span>
+    <em>{{ $pub.journal }}</em>{{ with $pub.volume }} {{ . }}{{ end }}{{ with $pub.issue}}({{ . }}){{ end }}{{ with $pub.pages }}:{{ . }}{{ end }}.{{ with $pub.doi}} DOI: <a href="https://dx.doi.org/{{ . }}" target="_blank">{{ . }}</a>.{{ end }}</span>
