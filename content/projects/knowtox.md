@@ -56,4 +56,4 @@ When applying machine learning models, applicability and reliability of predicti
 
 Conformal prediction is a recently promoted method for confidence estimation. A conformal predictor returns, whether enough evidence is given to reliably assign the query substance to a certain class. The conformal prediction framework is built on top of machine learning models, and includes an additional calibration step. Thus, predictions made for a query compound are compared to those made for the calibration set compounds.
 
-{{< xfigure src="/images/research/conformal_prediction.png" caption="Conformal Prediction" imageclass="fit" >}}
+{{< xfigure src="/images/research/conformal_prediction.jpg" caption="Conformal Prediction" imageclass="fit" >}}

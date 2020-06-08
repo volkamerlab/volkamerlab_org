@@ -1,5 +1,5 @@
 ---
-title: Machine Learning methods
+title: Machine learning methods
 date: 2020-03-03
 publishdate: 2020-03-03
 menu:
