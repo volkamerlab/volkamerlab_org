@@ -1,5 +1,5 @@
 ---
-title: "Knowtox"
+title: "KnowTox"
 date: 2020-05-20T16:27:08+02:00
 
 weight: 10
