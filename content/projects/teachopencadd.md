@@ -63,7 +63,7 @@ TeachOpenCADD is suitable for self-study training and classroom teaching, but ca
 research projects.
 The platform is freely available on GitHub and open to contributions from the community.
 
-{{< xfigure src="/images/research/teachopencadd_topics1-10.png" caption="Topics 1-10 have been designed as a step-by-step pipeline" imageclass="fit" >}}
+{{< xfigure src="/images/research/teachopencadd_topics1-10.png" caption="The TeachOpenCADD platform offers tutorials covering a step-by-step pipeline to propose novel EGFR kinase inhibitors with concepts from cheminformatics (green) and structural bioinformatics (orange)." imageclass="fit" >}}
 
 ### TeachOpenCADD topics
 

@@ -28,4 +28,4 @@ off-targets for proteins of interest using the ever-growing amount of available 
 
 <!--more-->
 
-{{< xfigure src="/images/research/ratar.png" caption="Read-across the targetome (*Ratar*) strategy" imageclass="fit" >}}
+{{< xfigure src="/images/research/ratar.png" caption="Read-across the targetome (*Ratar*) aims to support off-target or polypharmacology studies for a query target using (structural) binding site comparison. Known binders of the most similar binding sites are proposed as tool compounds for the query target." imageclass="fit" >}}
