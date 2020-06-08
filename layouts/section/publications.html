@@ -17,7 +17,7 @@
                 <h3 style="margin: 1em 0 0.25em 0">{{ $thisYear }}</h3>
                 {{ range sort $data.publications.publications ".date" "desc" }}
                     {{ if eq .year $thisYear }}
-                    <li>{{ partial "publication-li" (dict "data" $data "pub" . )}}</li>
+                    <li id="{{ .key }}">{{ partial "publication-li" (dict "data" $data "pub" . )}}</li>
                     {{ end }}
                 {{ end }}
             {{ end }}

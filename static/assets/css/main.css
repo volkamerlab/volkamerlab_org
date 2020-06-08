@@ -4157,3 +4157,7 @@ ul.separate-by-commas {
 	ul.separate-by-commas li span.bold {
 		font-weight: bold;
 	}
+
+:target {
+	background-color: rgb(255, 255, 200);
+}
