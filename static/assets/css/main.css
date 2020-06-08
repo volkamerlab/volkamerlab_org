@@ -2631,6 +2631,11 @@
 				width: 100%;
 			}
 
+	.image figure img {
+		margin: 0 auto;
+		position: relative;
+	}
+
 	a.image {
 		overflow: hidden;
 	}
