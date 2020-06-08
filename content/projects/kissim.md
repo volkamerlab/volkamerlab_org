@@ -29,7 +29,7 @@ Kinases are important and well studied drug targets for cancer and inflammatory 
 Due to the highly conserved structure of kinases, especially at the ATP binding site,
 the main challenge when developing kinase inhibitors is achieving selectivity,
 which requires a comprehensive understanding of kinase similarity.
-In our *KiSSim* project, we developed a subpocket-focused kinase fingerprint to investigate kinome-wide pocket similarity.
+In our *KiSSim* (kinase structural similarity) project, we developed a subpocket-focused kinase fingerprint to investigate kinome-wide pocket similarity.
 
 <!--more-->
 

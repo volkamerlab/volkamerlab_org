@@ -35,4 +35,4 @@ subpocket characteristics and connections.
 in order to generate potential novel inhibitors.
 
 
-{{< xfigure src="/images/research/kinfraglib.png" caption="KinFragLib fragmentation procedure" imageclass="fit" >}}
+{{< xfigure src="/images/research/kinfraglib.png" caption="Ligands co-crystalized with kinases are fragmented with respect to important kinase subpockets, resulting in a kinase-focused fragment library (*KinFragLib*) used for chemical space analysis and recombination." imageclass="fit" >}}

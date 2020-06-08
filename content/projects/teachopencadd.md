@@ -23,10 +23,10 @@ people:
 - key: maximilian.driller
 - key: andrea.volkamer
 collaborators:
-- name: Gregory Landrum
-  more: KNIME AG
+- name: Greg Landrum
+  more: KNIME
 - name: Daria Goldmann
-  more: KNIME GmbH
+  more: KNIME
 funding:
 - name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
 - name: Deutsche Forschungsgemeinschaft (DFG), grant ID VO 2353 / 1-1
