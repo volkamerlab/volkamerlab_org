@@ -81,6 +81,9 @@
     - icon: envelope
       text: andrea-lilian.morger@charite.de
       url: mailto:andrea-lilian.morger@charite.de
+   - icon: github
+   text: GitHub
+   url: https://github.com/morgeral
     - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0003-4774-6291
