@@ -222,8 +222,8 @@ morger_2020_knowtox:
   pdf:
   kind: article
 
-webel_2019_cytotox:
-  key: webel_2019_cytotox
+webel_2020_cytotox:
+  key: webel_2020_cytotox
   title: "Revealing cytotoxic substructures in molecules using deep learning"
   authors:
     - henry.webel
