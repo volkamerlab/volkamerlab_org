@@ -15,9 +15,9 @@ In 2018, the Einstein Foundation and Stiftung Charité {{< external "awarded a B
 
 {{% intro "projects/kinoml.md" %}}
 
-<!-- ## MIAME -->
-<!--  -->
-<!-- {{< box "MISSING" >}} -->
+## [MIAME](/projects/miame/)
+
+{{% intro "projects/miame.md" %}}
 
 ***
 

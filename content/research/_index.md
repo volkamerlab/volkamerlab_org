@@ -38,10 +38,10 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
 ### [OpenKinome](/research/openkinome)
 
 * [KinoML](/projects/kinoml)
+* [MIAME](/projects/miame)
 * More kinase related work at [KiSSim](/projects/kissim) and [KinFragLib](/projects/kinfraglib)
 
 <!--  -->
-<!-- TODO * [MIAME](/projects/miame) -->
 <!--  -->
 <!-- TODO add this when time allows -->
 <!-- ### Other studies -->
