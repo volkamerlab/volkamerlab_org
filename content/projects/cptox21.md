@@ -3,6 +3,7 @@ title: "Cptox21"
 date: 2020-05-20T17:53:27+02:00
 weight: 10
 nav: false
+draft: true
 
 people:
 - key: andrea-lilian.morger
@@ -25,9 +26,9 @@ funding:
 - name: HaVo-Stiftung
 ---
 
-Machine learning algorithms, including Conformal Prediction (CP), are only intended to be applied to data where training data and novel data (to predict) are drawn from the same distribution (exchangeability). Unfortunately, this is often not the case. 
+Machine learning algorithms, including Conformal Prediction (CP), are only intended to be applied to data where training data and novel data (to predict) are drawn from the same distribution (exchangeability). Unfortunately, this is often not the case.
 
-In this project, we study how CP calibration plots can be used to diagnose deviations from exchangeability. 
+In this project, we study how CP calibration plots can be used to diagnose deviations from exchangeability.
 
 <!--more-->
 
