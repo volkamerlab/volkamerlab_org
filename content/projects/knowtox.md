@@ -46,7 +46,7 @@ Computational tools for toxicity prediction are promising in the process of redu
 
 KnowTox is a novel pipeline that combines three different _in silico_ toxicology approaches to allow for confident prediction of potentially toxic effects of novel chemical entities, i.e. machine learning models, alerts for toxic substructures and computational support for read-across.
 
-{{< xfigure src="/images/research/knowtox.png" caption="Overview of KnowTox. Combining toxicity information from different sources, the complementary outputs of the KnowTox tool help to generate a holistic toxicity prediction picture for a novel query compound (figure taken from [Morger, 2020](/publications/#morger_2020_knowtox))." imageclass="fit" >}}
+{{< xfigure src="/images/research/knowtox.jpg" caption="Overview of KnowTox. Combining toxicity information from different sources, the complementary outputs of the KnowTox tool help to generate a holistic toxicity prediction picture for a novel query compound (figure taken from [Morger, 2020](/publications/#morger_2020_knowtox))." imageclass="fit" >}}
 
 When applying machine learning models, applicability and reliability of predictions for new chemicals are of utmost importance. This was approached using conformal prediction. Several adaptions of the framework were investigated to improve the model performance (i.e. KNN normalization and balancing of proper training set). The different model set-ups were validated using androgen receptor antagonism datasets.
 
