@@ -1,23 +1,28 @@
 ---
-title: Kinase focused
+title: Kinase-focused methods
 date: 2020-03-03
 publishdate: 2020-03-03
 weight: 10
 nav: false
 ---
 
-{{< box MISSING >}}
+Besides target-independent approaches, we focus our structure-based developments on kinases, one of the major classes of therapeutic targets. This includes fragment-based approaches, kinase binding site comparison, and others.
 
-## More details
+<!--more-->
+
+## Projects
+
+### [KinFragLib](/projects/kinfraglib/)
 
 {{% intro "projects/kinfraglib.md" %}}
 
-
-* `klifs_utils`
+<!-- TODO
+* `klifs_utils` -->
 
 ## See also
 
-* [OpenKinome Initiative](/research/openkinome/)
+* [KiSSim](/projects/kissim/)
+* [OpenKinome](/research/openkinome/)
 
 ***
 

@@ -7,4 +7,4 @@ menu:
         Pre: users
 ---
 
-These are the Volkamer lab members.
+These are the Volkamer Lab members.

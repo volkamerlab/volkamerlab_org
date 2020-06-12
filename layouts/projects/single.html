@@ -7,10 +7,27 @@
                 <h1>{{ .Title }}</h1>
             </header>
             {{ .Content }}
+            {{ with .Page.Params.external_resources }}
+            <section>
+                <header>
+                    <h3><i class="icon fa-download"></i> Software and resources</h3>
+                </header>
+                <ul>
+                    {{ range . }}
+                    <li>
+                        <a href="{{ .link }}" target="_blank" title="{{ .name }}">
+                            {{ with .icon }}<i class="icon fa-{{ . }}"></i> {{ end }}
+                            {{- .name -}}
+                        </a>{{ with .more}} &middot; {{ . }}{{end}}
+                    </li>
+                    {{ end }}
+                </ul>
+            </section>
+            {{ end }}
             {{ with .Page.Params.people }}
             <section>
                 <header>
-                    <h3>People</h3>
+                    <h3><i class="icon fa-users"></i> People</h3>
                 </header>
                 <ul>
                     {{ range . }}
@@ -20,31 +37,29 @@
                     </li>
                     {{ end }}
                 </ul>
-            </section>
             {{ end }}
             {{ with .Page.Params.collaborators }}
-            <section>
-                <header>
-                    <h3>Collaborators</h3>
-                </header>
-                <ul>
-                    {{ range . }}
-                    <li>
-                        {{ with .link }}
-                            <a href="{{ . }}" target="_blank">
+                <span>Collaborators:</span>
+                    <ul>
+
+                        {{ range . }}
+                        <li>
+                            {{- with .link -}}<a href="{{ . }}" target="_blank">{{ end }}
+                            {{ .name }}
+                            {{- with .link -}}</a>{{ end }}
+                            {{- with .more }} &middot; {{ . }}{{end}}
+                            </li>
                         {{ end }}
-                        {{ .name}}
-                        {{ with .link }}</a>{{ end }}
-                        {{ with .more}} &middot; {{ . }}{{end}}
-                    </li>
-                    {{ end }}
-                </ul>
+                    </ul>
+            {{ end }}
+            {{ with .Page.Params.people }}
+
             </section>
             {{ end }}
             {{ with .Page.Params.funding }}
             <section>
                 <header>
-                    <h3>Funding</h3>
+                    <h3><i class="icon fa-university"></i> Funding</h3>
                 </header>
                 <ul>
                     {{ range . }}
@@ -53,7 +68,7 @@
                             <a href="{{ . }}" target="_blank">
                         {{ end }}
                         {{ .name}}
-                        {{ with .link }}</a>{{ end }}
+                        {{- with .link -}}</a>{{ end }}
                         {{ with .more}} &middot; {{ . }}{{end}}
                     </li>
                     {{ end }}
@@ -69,23 +84,6 @@
                     {{ range . }}
                     <li>
                         {{ partial "publication-li" (dict "data" $data "pub" (index $data.publications.publications .) ) }}
-                    </li>
-                    {{ end }}
-                </ul>
-            </section>
-            {{ end }}
-            {{ with .Page.Params.external_resources }}
-            <section>
-                <header>
-                    <h3>External resources</h3>
-                </header>
-                <ul>
-                    {{ range . }}
-                    <li>
-                        <a href="{{ .link }}" target="_blank" title="{{ .name }}">
-                            {{ with .icon }}<i class="icon fa-{{ . }}"></i>{{ end }}
-                            {{ .name }}
-                        </a>{{ with .more}} &middot; {{ . }}{{end}}
                     </li>
                     {{ end }}
                 </ul>

@@ -23,10 +23,10 @@ people:
 - key: maximilian.driller
 - key: andrea.volkamer
 collaborators:
-- name: Gregory Landrum
-  more: (KNIME AG)
+- name: Greg Landrum
+  more: KNIME
 - name: Daria Goldmann
-  more: (KNIME GmbH)
+  more: KNIME
 funding:
 - name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
 - name: Deutsche Forschungsgemeinschaft (DFG), grant ID VO 2353 / 1-1
@@ -37,23 +37,24 @@ funding:
 publications:
 - teachopencaddknime
 - teachopencadd
+# You can use this keyword for the brief introductions to the article in category listings
+# This will replace the first 70 words found in the main article. use | <newline> to use multiline strings!
+summary: |
+  TeachOpenCADD is a teaching platform offering tutorials on central topics in cheminformatics and structural bioinformatics.
+  The tutorials contain theoretical background and practical implementations using open source data and software.
+  Implementations are available in two formats: Python-based Jupyter notebooks and GUI-based KNIME workflows.
 ---
 
 Open source data and software are increasingly generated, developed and used in computer-aided drug design (CADD).
-This development allows:
-
-1. to build modular pipelines for reproducible and reusable research as well as
-2. to explore and contribute to open software code.
-
+This development allows to build modular pipelines for reproducible and reusable research as well as
+to explore and contribute to open software code.
 While code and usage of such software is usually well documented,
 its full potential for CADD projects often remains unreached, especially for beginners,
 due to the lack of application examples combining different toolkits.
 
 TeachOpenCADD is a teaching platform offering tutorials on central topics in cheminformatics and structural bioinformatics.
 The tutorials contain theoretical background and practical implementations using open source data and software.
-Implementations are available in two formats.
-
-On the one hand, interactive *Jupyter notebooks* demonstrate how to set up code-based pipelines (python).
+Implementations are available in two formats: On the one hand, interactive *Jupyter notebooks* demonstrate how to set up code-based pipelines (Python).
 On the other hand, the same topics are transformed into *KNIME workflows*, an alternative to code-based workflows.
 Here, an intuitive, drag-and-drop style graphical interface is used to string together pre-implemented code units
 (nodes) with standardized functionalities.
@@ -62,10 +63,9 @@ TeachOpenCADD is suitable for self-study training and classroom teaching, but ca
 research projects.
 The platform is freely available on GitHub and open to contributions from the community.
 
-{{< xfigure src="/images/research/teachopencadd.png" caption="TeachOpenCADD logo" >}}
+{{< xfigure src="/images/research/teachopencadd_topics1-10.png" caption="The TeachOpenCADD platform offers tutorials covering a step-by-step pipeline to propose novel EGFR kinase inhibitors with concepts from cheminformatics (green) and structural bioinformatics (orange)." imageclass="fit" >}}
 
-
-##### TEACHOPENCADD TOPICS
+### TeachOpenCADD topics
 
 TeachOpenCADD offers teaching material on common tasks in computer-aided drug design. Currently, the following topics are available:
 
@@ -84,15 +84,12 @@ TeachOpenCADD offers teaching material on common tasks in computer-aided drug de
 8. Protein data acquisition: Protein Data Bank (PDB)
 9. Ligand-based pharmacophores
 10. Binding site similarity
-11. Structure-based CADD using online APIs/servers
-  a. Querying KLIFS & PubChem for potential kinase inhibitors
-  b. Docking the candidates against the target
-  c. Visualizing the results and comparing against known data
 
+<!-- 11. Structure-based CADD using online APIs/servers -->
+<!-- * Querying KLIFS & PubChem for potential kinase inhibitors -->
+<!-- * Docking the candidates against the target -->
+<!-- * Visualizing the results and comparing against known data -->
 
-{{< xfigure src="/images/research/teachopencadd_topics1-10.png" caption="Topics 1-10" >}}
+<!-- {{< xfigure src="/images/research/teachopencadd_topics11.png" caption="Topic 11" >}} -->
 
-{{< xfigure src="/images/research/teachopencadd_topics11.png" caption="Topic 11" >}}
-
-Topics 1-11 are available as Python-based Jupyter notebooks and topics 1-8 can additionally be used in the form of
-KNIME workflows.
+Topics 1-10 are available as Python-based Jupyter notebooks and topics 1-8 can additionally be used in the form of KNIME workflows.

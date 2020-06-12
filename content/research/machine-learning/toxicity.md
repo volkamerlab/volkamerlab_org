@@ -6,26 +6,24 @@ weight: 10
 nav: false
 ---
 
-Computational tools for toxicity prediction are promising in the process of reducing, refining and replacing animal testing. To assess the toxicity of novel chemical entities, regulatory agencies require in-vivo testing for several toxic endpoints. In 2010, roughly 2.9 million laboratory animals have been deployed in Germany, with an increase of 6% since 2008. Thus, the establishment of alternative methods, and with it the reduction of animal testing, is of utmost importance. Determining the toxicity of compounds is vital to identify their harmful effects on humans, animals, plants and the environment. The focus of the AG Volkamer is the development of structure-based methods to come closer to the vision of transforming toxicology into a predictive science and reducing the number of animal testing.
+Determining the toxicity of compounds is vital to identify their harmful effects on humans, animals, plants and the environment. We focus on several aspects of machine learning (ML) in the context of toxicity prediction, e.g. investigating into novel descriptors, applicability of models to external data and interpretability of deep learning (DL) models (toxicophore). These investigations aim to come closer to the vision of transforming toxicology into a predictive science and reducing the number of animal testing.
 
-### Projects overview
+These projects are part of the BMBF-funded <a href="https://www.bb3r.de/en/index.html" target="_blank" class="external">BB3R initiative</a>. One major goal of the BB3R initiative is the establishment of alternative methods for preclinical drug development and basic research.
 
-1. [KnowTox](#knowtox)
-2. [CPTox21](#cptox21)
-3. [Cytotoxicity](#cytotoxicity)
+## Projects
 
 
-## [KnowTox](/projects/knowtox/)
+### [KnowTox](/projects/knowtox/)
 
 {{% intro "projects/knowtox.md" %}}
 
-
+<!-- TODO
 ## [CPTox21](/projects/cptox21/)
 
-{{% intro "projects/cptox21.md" %}}
+{{% intro "projects/cptox21.md" %}} -->
 
 
-## [Cytotoxicity](/projects/cytotox/)
+### [Cytotoxicity](/projects/cytotox/)
 
 {{% intro "projects/cytotox.md" %}}
 

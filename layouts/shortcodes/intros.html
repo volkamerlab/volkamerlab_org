@@ -4,7 +4,7 @@
     {{ range where (readDir (printf "%s/%s" "content" $directory)) ".Name" "ne" "_index.md" }}
         {{ with $site.GetPage "page" (printf "%s/%s" $directory .Name) }}
         <li>
-            <a href="{{.Permalink}}"><strong>{{ .Title }}</strong></a> &middot; {{ .Summary | plainify }}
+            <a href="{{.RelPermalink}}"><strong>{{ .Title }}</strong></a> &middot; {{ .Summary | plainify }}
         </li>
         {{ end }}
     {{ end }}

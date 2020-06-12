@@ -8,18 +8,18 @@ mainSectionId: banner
 ---
 
 <div class="content">
-    <header>
+    <header class="major">
         <h1>Volkamer Lab</h1>
         <p>In silico toxicology and structural bioinformatics</p>
     </header>
 
 At Volkamer Lab, we develop methods at the interface between structural bioinformatics and cheminformatics, mostly applied in the context of computer-aided drug design.
 
-One one hand, we investigate structure-based methods for active site assessment, e.g. [binding site comparison](/research/binding-site-comparison/), [pharmacophore elucidation](/research/pharmacophore-modelling/) and [off-target prediction](/research/kinase-fragment-library/), as well as [deep learning enhanced virtual screening pipelines](/projects/deeplearning-vs/).
+On one hand, we investigate [structure-based methods](/research/structure-based/) for active site assessment, including [binding site comparison](/research/structure-based/binding-sites/), [pharmacophore elucidation](/research/structure-based/pharmacophores/) and off-target prediction; pocket-centric [fragment-based design](/projects/kinfraglib/) as well as [deep learning enhanced virtual screening pipelines](/projects/deeplearning-vs/). Besides target-independent approaches, we focus our developments on [kinases](/research/structure-based/kinases/), one of the major classes of therapeutic targets.
 
-On the other hand, we study ligand-based methods, e.g. similarity search, QSAR, [machine learning for activity and toxicity prediction](/research/machine-learning/toxicity/); and apply them in translational projects to guide the design of more active, [selective and less toxic compounds](/projects/knowtox/). Special focus is set on integrating novel techniques taking the [applicability and reliability into account](/projects/cptox21/), [investigating novel descriptors](#TODO-biological-fps-basf) as well as the [interpretability of deep learning methods](/projects/cytotoxicity/). Our major goal here is the establishment of alternative _in silico_ methods to [determine the risk of compounds and their harmful effects](#TODO-BB3R) on humans, animals, plants and environment.
+On the other hand, we study ligand-based methods, including [machine learning methods for activity and toxicity prediction](/research/machine-learning/) and apply them in translational projects. Special focus is set on integrating novel techniques taking the [applicability and reliability into account](/projects/knowtox/), and the [interpretability of deep learning methods](/projects/cytotox/). Our major goal here is the establishment of alternative _in silico_ methods to determine the risk of compounds and their harmful effects on humans, animals, plants and environment (see <a href="https://www.bb3r.de/en/index.html" target="_blank" class="external">BB3R platform</a>).
 
-Additionally, we continuously work on the integration of the two research areas of structure- and ligand-centered projects, i.e., focusing on [structure-informed machine learning approaches](/projects/kinoml/). In this attempt, we are also integrating the physical aspects into molecular modelling (e.g. molecular dynamics simulations and free energy calculations) to better sample the drug target interactions. One main application area of our methods in this regard are [kinases, one of the major classes of therapeutic targets](/research/openkinome/).
+Additionally, we continuously work on the integration of the two research areas of structure- and ligand-centered projects, i.e., focusing on [structure-informed machine learning approaches](/projects/kinoml/) applied primarily to [kinases](/research/openkinome/). In this attempt, we are integrating the physical aspects into molecular modelling (e.g. molecular dynamics simulations and free energy calculations) to better sample the drug target interactions. The [OpenKinome](/research/openkinome/) initiative is an ongoing collaboration with the <a href="http://www.choderalab.org/" target="_blank" class="external">lab of Prof. John Chodera</a>, our <a href="https://www.einsteinfoundation.de/en/people-projects/einstein-bih-visiting-fellows/john-chodera/" target="_blank" class="external">Einstein BIH Visiting Fellow</a>.
 
 
 <ul class="actions">
@@ -29,12 +29,12 @@ Additionally, we continuously work on the integration of the two research areas 
 
 ## Latest news
 
-* 2020.05.01: Join us in our [collective effort](https://github.com/volkamerlab/covid19-SBapproach) to better understand CoViD-19 .
+{{% ticker blog %}}
 
 
 </div>
 
-<span class="image object">
-    <img src="/images/benzothiazine.png" alt="Protein" />
-</span>
+<div class="image">
+    <img src="/images/wordcloud.jpg" alt="Word cloud" />
+</div>
 

@@ -5,7 +5,6 @@ menu:
     main:
         parent: Projects
 nav: false
-draft: true
 # Uncomment sections below to enable them in your project
 # external_resources:
 # - name: Software name

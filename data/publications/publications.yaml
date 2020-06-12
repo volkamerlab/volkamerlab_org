@@ -7,6 +7,7 @@
 # Authors can be either a key in site.data.team or a full name
 # Schema::
 # CITATIONKEY:
+#     key: CITATIONKEY (yes, again, sorry!)
 #     title:
 #     authors:
 #       - External Full Author Name
@@ -25,6 +26,7 @@
 #  Books
 
 volkamer_2018_activesites:
+  key: volkamer_2018_activesites
   title: "Prediction, Analysis and Comparison of Active Sites"
   authors:
     - andrea.volkamer
@@ -43,6 +45,7 @@ volkamer_2018_activesites:
   kind: book
 
 kooistra_2017_kinases:
+  key: kooistra_2017_kinases
   title: "Kinase-Centric Computational Drug Development"
   authors:
     - Albert J. Kooistra
@@ -62,9 +65,10 @@ kooistra_2017_kinases:
 # Manuscripts
 
 schmitt_2019_hdacs:
-  title: "Oxazole-Bridged Combretastatin A-4 Derivatives with Tethered Hydroxamic Acids: Structure–Activity Relations of New Inhibitors of HDAC and/or Tubulin Function."
+  key: schmitt_2019_hdacs
+  title: "Oxazole-Bridged Combretastatin A-4 Derivatives with Tethered Hydroxamic Acids: Structure–Activity Relations of New Inhibitors of HDAC and/or Tubulin Function"
   authors:
-    - Flroian Schmitt
+    - Florian Schmitt
     - chiara.gosch
     - Alexandra Dittmer
     - Matthias Rothemund
@@ -78,13 +82,14 @@ schmitt_2019_hdacs:
   issue: 2
   pages: 338
   year: 2019
-  date: 2017-01-17
+  date: 2019-01-17
   doi: "10.3390/ijms20020383"
   image:
   pdf:
   kind: article
 
 bietz_2017_proteinsplus:
+  key: bietz_2017_proteinsplus
   title: "From cheminformatics to structure-based design: Web services and desktop applications based on the NAOMI library"
   authors:
     - Stefan Bietz
@@ -113,6 +118,7 @@ bietz_2017_proteinsplus:
   kind: article
 
 lang_2017_insilicotox:
+  key: lang_2017_insilicotox
   title: "In silico methods – Computational alternatives to animal testing"
   authors:
     - Annemarie Lang
@@ -136,22 +142,24 @@ lang_2017_insilicotox:
   kind: article
 
 volkamer_2018_academiaperspective:
+  key: volkamer_2018_academiaperspective
   title: "Transition from Academia to Industry and Back"
   authors:
     - andrea.volkamer
-    - Sereina, Riniker
+    - Sereina Riniker
   journal: Journal of Chemical Information and Modeling
   volume: 58
   issue: 8
-  pages: 1469 - 1472
+  pages: 1469-1472
   year: 2018
   date: 2018-08-27
-  doi: "doi: 10.1021/acs.jcim.8b00459"
+  doi: "10.1021/acs.jcim.8b00459"
   image:
   pdf:
   kind: article
 
 ernst_2019_tempdepend:
+  key: ernst_2019_tempdepend
   title: "Computation of temperature-dependent dissociation rates of metastable protein-ligand complexes"
   authors:
     - Natalia Ernst
@@ -162,7 +170,7 @@ ernst_2019_tempdepend:
   journal: Molecular Simulation
   volume: 45
   issue: 11
-  pages: 904 - 911
+  pages: 904-911
   year: 2019
   date: 2019-05-05
   doi: "10.1080/08927022.2019.1610949"
@@ -171,6 +179,7 @@ ernst_2019_tempdepend:
   kind: article
 
 schoene_2019_sgk1:
+  key: schoene_2019_sgk1
   title: "Probing 2H-Indazoles as Template for SGK1, Tie2 and SRC Kinase Inhibitors"
   authors:
     - Jens Schoene
@@ -182,7 +191,7 @@ schoene_2019_sgk1:
   journal: ChemMedChem
   volume: 14
   issue: 16
-  pages: 1514 - 1527
+  pages: 1514-1527
   year: 2019
   date: 2019-07-01
   doi: "10.1002/cmdc.201900328"
@@ -191,6 +200,7 @@ schoene_2019_sgk1:
   kind: article
 
 morger_2020_knowtox:
+  key: morger_2020_knowtox
   title: "KnowTox: pipeline and case study for confident prediction of potential toxic effects of compounds in early phases of development"
   authors:
     - andrea-lilian.morger
@@ -207,12 +217,13 @@ morger_2020_knowtox:
   pages:
   year: 2020
   date: 2020-04-14
-  doi: "https://doi.org/10.1186/s13321-020-00422-x"
+  doi: "10.1186/s13321-020-00422-x"
   image:
   pdf:
   kind: article
 
-webel_2019_cytotox:
+webel_2020_cytotox:
+  key: webel_2020_cytotox
   title: "Revealing cytotoxic substructures in molecules using deep learning"
   authors:
     - henry.webel
@@ -233,13 +244,14 @@ webel_2019_cytotox:
   kind: article
 
 teachopencadd:
+  key: teachopencadd
   title: "TeachOpenCADD: a teaching platform for computer-aided drug design using open source packages and data"
   authors:
     - dominique.sydow
     - andrea-lilian.morger
     - maximilian.driller
     - andrea.volkamer
-  journal: J. Cheminf.
+  journal: Journal of Cheminformatics
   volume: 11
   issue: 29
   pages:
@@ -251,6 +263,7 @@ teachopencadd:
   kind: article
 
 teachopencaddknime:
+  key: teachopencaddknime
   title: "TeachOpenCADD-KNIME: A Teaching Platform for Computer-Aided Drug Design Using KNIME Workflows"
   authors:
     - dominique.sydow
@@ -259,7 +272,7 @@ teachopencaddknime:
     - Daria Goldmann
     - Gregory Landrum
     - andrea.volkamer
-  journal: J. Chem. Inf. Model
+  journal: Journal of Chemical Information and Modeling
   volume: 59
   issue: 10
   pages: 4083-4086
@@ -271,6 +284,7 @@ teachopencaddknime:
   kind: article
 
 sydow2019:
+  key: sydow2019
   title: "Advances and Challenges in Computational Target Prediction"
   authors:
     - dominique.sydow
@@ -280,7 +294,7 @@ sydow2019:
     - Adriaan P. IJzerman
     - Gerard J. P. van Westen
     - andrea.volkamer
-  journal: J. Chem. Inf. Model
+  journal: Journal of Chemical Information and Modeling
   volume: 59
   issue: 5
   pages: 1728-1742
@@ -292,6 +306,7 @@ sydow2019:
   kind: review
 
 t2f2018:
+  key: t2f2018
   title: "Truly Target-Focused Pharmacophore Modeling: A Novel Tool for Mapping Intermolecular Surfaces"
   authors:
     - jeremie.mortier
@@ -309,6 +324,7 @@ t2f2018:
   kind: article
 
 proteinsplus2017:
+  key: proteinsplus2017
   title: "ProteinsPlus: a web portal for structure analysis of macromolecules"
   authors:
     - Rainer Fährrolfes
@@ -331,6 +347,7 @@ proteinsplus2017:
   kind: article
 
 kinmap2017:
+  key: kinmap2017
   title: "KinMap: a web-based tool for interactive navigation through human kinome data"
   authors:
     - Sameh Eid

@@ -11,50 +11,57 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
 
 ## Research lines
 
-### Structure-based (binding site centric) approaches
+### [Structure-based (binding site centric) approaches](/research/structure-based)
 
-* Binding-site comparison
-  * Targetome-wide binding site comparison
-  * Kinome-wide binding site comparison
-* Pharmacophore modelling
-  * Static target-based pharmacophores
-  * Dynamic target-based pharmacophores
-* Kinase-focused
-  * Kinase-fragment library
-  * `klifs_utils`
-* Protein-ligand interaction fingerprints
+* [Binding site comparison](/research/structure-based/binding-sites)
+  * [Targetome-wide binding site comparison](/projects/ratar)
+  * [Kinome-wide binding site comparison](/projects/kissim)
+* [Pharmacophore modeling](/research/structure-based/pharmacophores)
+  * [Static target-based pharmacophores](/projects/t2f-pharm)
+  * [Dynamic target-based pharmacophores](/projects/t2f-flex)
+* [Kinase-focused methods](/research/structure-based/kinases)
+  * [Kinase-fragment library](/projects/kinfraglib)
+  * more at [OpenKinome](/research/openkinome)
 
-### Machine learning based methods
+<!-- TODO * `klifs_utils` -->
 
-* ML-based toxic endpoint prediction
-  * KnowTox
-  * CP_Tox21
-  * Cytotoxicity
-* DL-based VS
+<!-- TODO * Protein-ligand interaction fingerprints -->
 
-### OpenKinome
-* KinoML(kinopoly?)
-* MIAME
-* More kinase related work (link to KiSSim and KinFragLib, maybe even to applications)
+### [Machine learning based methods](/research/machine-learning)
 
-### Other studies
+* [ML-based toxic endpoint prediction](/research/machine-learning/toxicity/)
+  * [KnowTox](/projects/knowtox)
+  * [Cytotoxicity](/projects/cytotox)
+  <!-- TODO * CP_Tox21 -->
+* [Deep learning based virtual screening](/projects/deeplearning-vs/)
 
-These projects are usually about compound design, rationalization or molecular optimization. Some recent examples:
+### [OpenKinome](/research/openkinome)
 
+* [KinoML](/projects/kinoml)
+* More kinase related work at [KiSSim](/projects/kissim) and [KinFragLib](/projects/kinfraglib)
+
+<!--  -->
+<!-- TODO * [MIAME](/projects/miame) -->
+<!--  -->
+<!-- TODO add this when time allows -->
+<!-- ### Other studies -->
+<!--  -->
+<!-- These projects are usually about compound design, rationalization or molecular optimization. Some recent examples: -->
+<!--  -->
 <!-- Link directly -->
-
-* COVID-19: see repo and Plipify
-* HDAC(chiara) - published -docking
-* EGFR(chiara)  - (about to be) published - docking
-* SGK1(andrea) - published - docking
-* [SMYD1(shalini)] - MD simulations
-* [iNOS(andrea)] - docking
-
-
-## Collaborations
-
-{{< box "MISSING" >}}
-
-## Funding
-
-{{< box "MISSING" >}}
+<!--  -->
+<!-- TODO add this when time allows -->
+<!-- * COVID-19: see repo and Plipify -->
+<!-- * HDAC(chiara) - published -docking -->
+<!-- * EGFR(chiara)  - (about to be) published - docking -->
+<!-- * SGK1(andrea) - published - docking -->
+<!-- * [SMYD1(shalini)] - MD simulations -->
+<!-- * [iNOS(andrea)] - docking -->
+<!--  -->
+<!-- ## Collaborations -->
+<!--  -->
+<!-- {{< box "MISSING" >}} -->
+<!--  -->
+<!-- ## Funding -->
+<!--  -->
+<!-- {{< box "MISSING" >}} -->

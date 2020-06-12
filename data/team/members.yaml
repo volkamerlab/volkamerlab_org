@@ -16,7 +16,7 @@
     - icon: github
       text: GitHub
       url: https://github.com/andreavolkamer
-    - icon: info-circle
+    - icon: book
       text: ORCiD
       url: http://orcid.org/0000-0002-3760-580X
 # --POSTDOCS--
@@ -25,7 +25,7 @@
   key: jaime.rodriguez
   role: Postdoc
   status: member
-  project: Scalable alchemical free energy calculations and machine learning for drug discovery
+  project: Scalable alchemical free energy calculations and machine learning for kinase drug discovery
   image: /images/team/jaimerodriguezguerra.jpg
   links:
     - icon: envelope
@@ -40,7 +40,7 @@
     - icon: graduation-cap
       text: Google Scholar
       url: https://scholar.google.com/citations?user=imKyayEAAAAJ
-    - icon: info-circle
+    - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0001-8974-1566
     - icon: twitter
@@ -54,7 +54,7 @@
   key: david.schaller
   role: Postdoc
   status: member
-  project: Free energy calculations and machine learning for kinase drug discovery
+  project: Free energy calculations and machine learning for kinase drug discovery with focus on mutations
   image: /images/team/davidschaller.jpg
   links:
     - icon: envelope
@@ -66,7 +66,7 @@
     - icon: github
       text: GitHub
       url: https://github.com/schallerdavid
-    - icon: info-circle
+    - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0002-1881-4518
 # --PHDs---
@@ -81,7 +81,10 @@
     - icon: envelope
       text: andrea-lilian.morger@charite.de
       url: mailto:andrea-lilian.morger@charite.de
-    - icon: info-circle
+    - icon: github
+      text: GitHub
+      url: https://github.com/morgeral
+    - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0003-4774-6291
 - name: Dominique Sydow
@@ -98,7 +101,7 @@
     - icon: github
       text: GitHub
       url: https://github.com/dominiquesydow
-    - icon: info-circle
+    - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0003-4205-8705
 - name: Talia B. Kimber
@@ -121,7 +124,7 @@
     - icon: graduation-cap
       text: Google Scholar
       url: https://scholar.google.com/citations?user=i3sMZ-cAAAAJ&hl=en&oi=ao
-    - icon: info-circle
+    - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0002-8881-920X
     - icon: twitter
@@ -132,7 +135,7 @@
   key: yonghui.chen
   role: PhD candidate
   status: member
-  project: Virtual screening and deep learning for drug discovery.
+  project: Virtual screening and deep learning for drug discovery
   image: /images/team/yonghuichen.jpg
   links:
     - icon: envelope
@@ -141,9 +144,22 @@
     - icon: github
       text: GitHub
       url: https://github.com/yonghui-cc
-    - icon: info-circle
+    - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0002-8201-2894
+- name: Lisa Chiara Gosch
+  prefix:
+  role: Dr. med. candidate
+  status: member
+  key: chiara.gosch
+  project: Computational and experimental testing of novel EGFR and HDAC inhibitors (co-supervised with Prof. Höpfner)
+  links:
+    - icon: envelope
+      text: lisa-chiara.gosch@charite.de
+      url: mailto:lisa-chiara.gosch@charite.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/lisa-chiara-gosch-80022070/
 # --MASTERS--
 - name: Michele Wichmann
   prefix:
@@ -151,7 +167,7 @@
   role: Master student
   status: studentmember
   image:
-  project: Subpocket-based fragmentation and recombination of kinase inhibitors
+  project: Dynamic pharmacophore modeling from apo structures
 - name: Allen Dumler
   prefix:
   key: allen.dumler
@@ -177,13 +193,7 @@
   role: Bachelor student
   status: alumni
   key: robert.strothmann
-  project: Automatic generation of T2F-Flex pharmacophores based on MD simulations
-- name: Lisa Chiara Gosch
-  prefix:
-  role: Dr. med. candidate
-  status: alumni
-  key: chiara.gosch
-  project: Computational and experimental testing of novel EGFR and HDAC inhibitors
+  project: Automatic generation of T²F-Flex pharmacophores based on MD simulations
 - name: Henry Webel
   prefix:
   key: henry.webel
@@ -195,16 +205,16 @@
   key: boran.adas
   status: alumni
   role: Master thesis and GoogleSummerOfCode
-  project: Robust machine learning pipeline for classification problems in chemo-informatics
+  project: Robust machine learning pipeline for classification problems in cheminformatics
 - name: Jérémie Mortier
   prefix: Dr.
   key: jeremie.mortier
   status: alumni
   role: Scientist
-  project: Truly target-focused pharmacophore modeling (T2F-Pharm)
+  project: Truly target-focused pharmacophore modeling (T²F-Pharm)
 - name: Shalini Muralikumar
-  prefix: shalini.muralikumar
-  key:
+  prefix:
+  key: shalini.muralikumar
   status: alumni
   role: Intern
   project: In silico investigation of protein-protein interactions during sumoylation of Smyd1
@@ -213,7 +223,7 @@
   key: pratik.dhakal
   status: alumni
   role: Student assistant and Master thesis
-  project: Truly target-focused (dynamic) pharmacophore modeling (T2F-Pharm and T2F-Flex)
+  project: Truly target-focused (dynamic) pharmacophore modeling (T²F-Pharm and T²F-Flex)
 - name: Eva Aßmann
   prefix:
   key: eva.assmann
@@ -225,14 +235,14 @@
   key: jacob.gora
   status: alumni
   role: Student assistant and Master thesis with Novartis
-  project: Machine learning for kinase activity prediction / Active learning for compound optimization
+  project: Machine learning for kinase activity prediction & Active learning for compound optimization
 - name: Maximilian Driller
   key: maximilian.driller
   status: alumni
   role: Master student project work
-  project: Computer-aided drug design - an interactive python pipeline (TeachOpenCADD)
+  project: Computer-aided drug design - an interactive Python pipeline (TeachOpenCADD)
 - name: Angelika Szengel
   key: angelika.szengel
   status: alumni
   role: Master student project work
-  project: Structure-based computaional target prediction (review)
+  project: Structure-based computational target prediction (review)

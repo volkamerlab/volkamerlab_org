@@ -1,0 +1,6 @@
+<ul>
+{{ $sectionName := (.Get 0) }}
+{{ range first 10 (where (where .Site.Pages.ByPublishDate ".Section" "==" $sectionName ) ".File.BaseFileName" "!=" "_index" )  }}
+<li>{{ .Date.Format "2006.01.02"}}: <a href="{{.RelPermalink}}">{{ .Title }}</a></li>
+{{ end }}
+</ul>

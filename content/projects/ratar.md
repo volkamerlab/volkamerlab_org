@@ -1,5 +1,5 @@
 ---
-title: ratar
+title: Ratar
 date: 2020-03-03
 publishdate: 2020-03-03
 weight: 10
@@ -10,7 +10,7 @@ people:
 external_resources:
 - name: ratar
   link: https://github.com/volkamerlab/ratar
-  icon: github
+  icon: lock
   more: Binding site comparison tool (WIP)
 funding:
 - name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
@@ -20,12 +20,12 @@ publications:
 - sydow2019
 ---
 
-
-
 How to probe and validate a potential target remains one of the key questions in basic research in life sciences.
-In the DFG project "Read-Across the Targetome" (*ratar*), we will use binding site similarity to predict off-targets and
+In the DFG-project "Read-Across the Targetome" (*Ratar*), we will use binding site similarity to predict off-targets and
 to extrapolate compound information from one target to another.
 This similarity-based knowledge transfer can suggest tool compounds (chemical probes) and
 off-targets for proteins of interest using the ever-growing amount of available target and compound data.
 
-{{< xfigure src="/images/research/ratar.png" caption="ratar" >}}
+<!--more-->
+
+{{< xfigure src="/images/research/ratar.png" caption="Read-across the targetome (*Ratar*) aims to support off-target or polypharmacology studies for a query target using (structural) binding site comparison. Known binders of the most similar binding sites are proposed as tool compounds for the query target." imageclass="fit" >}}

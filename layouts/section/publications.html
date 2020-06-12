@@ -8,9 +8,19 @@
             </header>
             {{ .Content }}
             <ol reversed>
+            {{ $years := slice 2020 }}
+            {{ range $k, $v := $data.publications.publications }}
+                {{ $years = $years | append (index $v "year") }}
+            {{ end }}
+            {{ range (sort (uniq $years) "value" "desc") }}
+                {{ $thisYear := . }}
+                <h3 style="margin: 1em 0 0.25em 0">{{ $thisYear }}</h3>
                 {{ range sort $data.publications.publications ".date" "desc" }}
-                <li>{{ partial "publication-li" (dict "data" $data "pub" . )}}</li>
+                    {{ if eq .year $thisYear }}
+                    <li id="{{ .key }}">{{ partial "publication-li" (dict "data" $data "pub" . )}}</li>
+                    {{ end }}
                 {{ end }}
+            {{ end }}
             </ol>
         </article>
     </div>

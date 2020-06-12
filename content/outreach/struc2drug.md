@@ -1,5 +1,5 @@
 ---
-title: Struc2drug seminar series
+title: struc2drug seminar series
 date: 2020-03-06
 publishdate: 2020-03-06
 menu:
@@ -8,21 +8,26 @@ menu:
         name: Struc2drug
 weight: 100
 nav: false
+summary: |
+    *struc2drug* is a bimonthly seminar series promoting the exchange between researchers in the interdisciplinary field
+    of structural biology and drug development in Berlin.
 ---
-
-*Struc2drug* is a bimonthly seminar series promoting the exchange between researchers in the interdisciplinary field
-of structural biology and drug development in Berlin.
 
 Drug design is a complex and lengthly process that can only yield successful results using a plethora of different
 experimental and computational methods. Many researchers work in Berlin at universities, research facilities and
 industry in the field of drug design or in neighboring disciplines.
 
+*struc2drug* is a bimonthly seminar series promoting the exchange between researchers in the interdisciplinary field
+of structural biology and drug development in Berlin.
 
 ### Aim
 
 - Bring together researchers from diverse disciplines of structural biology and drug design.
 - Learn about different steps and methods involved in drug development.
 - Create an interdisciplinary environment to think about upcoming challenges and possible solution.
+
+{{< xfigure src="/images/outreach/struc2drug.png" caption="The struc2drug logo" imageclass="fit" >}}
+
 
 ### Mailing list
 
@@ -52,7 +57,7 @@ TBA
 * **Abstract**: Ribosome Biogenesis: First, we will give an introduction how ribosomal subunits are produced by bacterial cells in a process known as ribosome biogenesis. During this process, ribosomal subunits are assembled in a stepwise manner. Highly resolved structural snapshots of intermediate states occurring along this pathway are available for Computer-aided Drug Design. Compounds with Antibiotic Potential: Furthermore, we will present our approach involving the structure based computational search for compounds interfering with the biogenesis of bacterial ribosomes. We will introduce some methods used in Computer-aided Drug Design, and describe how we used these along the journey from identifying suitable protein targets to identifying potential hits.
 
 2019.07.11
-* **Speakers**: Dennis Kwiatkowski and Nicolas Heyder (Charité)
+* **Speakers**: Dennis Kwiatkowski & Nicolas Heyder (Charité)
 * **Title**: Flyin’ high - Mass Spectrometry, GPCRs and Recreational Drugs
 * **Abstract**: Why scientist needed LSD and THC to understand GPCRs: Structural breakthroughs in GPCR structural biology are based on the usage of high affinity ligands. Recent advances in structure determination have accumulated in a wave of GPCR structures. We would like you to be a part of a joined excursion through the scientific usage of recreational drugs.
 

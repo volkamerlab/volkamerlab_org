@@ -4,11 +4,14 @@
         <article>
             <header class="major">
                 <h1>{{ .Title }}</h1>
+            <p class="small">{{ .Date.Format "2006.01.02" }}
+                {{- if isset .Params "author" }}
+                &middot; By {{- partial "personlink" (dict "data" .Site.Data "person" .Params.author ) -}}
+                {{- end -}}
+            </p>
             </header>
-            {{ if isset .Params "author"}}
-                <p class="small">By {{ .Params.author }}</p>
-            {{end}}
-            {{ .Content }}
+
+            <p>{{ .Content }}</p>
             {{ if .Params.nav }}
                 <hr />
                 {{ if .NextInSection }}
