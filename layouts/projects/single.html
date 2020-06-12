@@ -17,8 +17,8 @@
                     <li>
                         <a href="{{ .link }}" target="_blank" title="{{ .name }}">
                             {{ with .icon }}<i class="icon fa-{{ . }}"></i> {{ end }}
-                            {{- .name -}}
-                        </a>{{ with .more}} &middot; {{ . }}{{end}}
+                            {{- .name | markdownify -}}
+                        </a>{{ with .more}} &middot; {{ . | markdownify }}{{end}}
                     </li>
                     {{ end }}
                 </ul>
@@ -33,7 +33,7 @@
                     {{ range . }}
                     <li>
                         {{ partial "personlink" (dict "data" $data "person" .key ) }}
-                        {{ with .more}} &middot; {{ . }}{{end}}
+                        {{ with .more}} &middot; {{ . | markdownify }}{{end}}
                     </li>
                     {{ end }}
                 </ul>
@@ -45,9 +45,9 @@
                         {{ range . }}
                         <li>
                             {{- with .link -}}<a href="{{ . }}" target="_blank">{{ end }}
-                            {{ .name }}
+                            {{ .name | markdownify }}
                             {{- with .link -}}</a>{{ end }}
-                            {{- with .more }} &middot; {{ . }}{{end}}
+                            {{- with .more }} &middot; {{ . | markdownify }}{{end}}
                             </li>
                         {{ end }}
                     </ul>
@@ -67,9 +67,9 @@
                         {{ with .link }}
                             <a href="{{ . }}" target="_blank">
                         {{ end }}
-                        {{ .name}}
+                        {{ .name | markdownify }}
                         {{- with .link -}}</a>{{ end }}
-                        {{ with .more}} &middot; {{ . }}{{end}}
+                        {{ with .more}} &middot; {{ . | markdownify }}{{end}}
                     </li>
                     {{ end }}
                 </ul>

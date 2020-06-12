@@ -10,13 +10,11 @@ draft: false
 #   icon: github # (use fa-* FontAwesome icons)
 people:  # take from /data/team/members.yml (`key` entry)
 - key: david.schaller
-  more:
 - key: jaime.rodriguez
-  more: KinoML
+  more: "([KinoML](/projects/kinoml/))"
 - key: talia.kimber
-  more: KinoML
+  more: "([KinoML](/projects/kinoml/))"
 - key: andrea.volkamer
-  more:
 collaborators:
 - name: John D. Chodera
   link: http://choderalab.org
@@ -37,6 +35,8 @@ funding:
 # publications:  # take from (or add to) /data/publications/publications.yml
 # - citation_key
 # - citation_key
+summary: |
+  In this collaboration with Bayer and the Chodera Lab, we aim to advance and apply [KinoML](/projects/kinoml/) to address pharmaceutically relevant drug design challenges. Special emphasis is put on the effect of point mutations on binding affinity and how these can be exploited to expand the indications of already approved drugs and to guide molecular design.
 ---
 
 ### Mutation Impact Annotation using Modeling and Evolution
