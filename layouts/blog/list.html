@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ .Scratch.Set "paginator" (.Paginate (where .Pages.ByPublishDate ".Section" "==" "blog") (index .Site.Params "paginate" | default 10)) }}
+{{ .Scratch.Set "paginator" (.Paginate (where .Pages.ByDate.Reverse ".Section" "==" "blog") (index .Site.Params "paginate" | default 10)) }}
 <section {{ with .Params.mainSectionId}}id="{{.}}"{{end}}>
     <header class="major"><h1>Latest updates</h1></header>
     <div class="content">
