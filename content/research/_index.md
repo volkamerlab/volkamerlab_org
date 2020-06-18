@@ -43,7 +43,7 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
 
 <!--  -->
 <!--  -->
-<!-- TODO add this when time allows -->
+<!-- TODO: AV add this when time allows -->
 <!-- ### Other studies -->
 <!--  -->
 <!-- These projects are usually about compound design, rationalization or molecular optimization. Some recent examples: -->

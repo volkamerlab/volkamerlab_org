@@ -27,4 +27,4 @@ This method represents an extremely valuable instrument for drug design in a sit
 as well as to investigate protein allosteric pockets and protein-protein interactions.
 
 
-{{< xfigure src="/images/research/t2fpharm.png" caption="T²F-Pharm allows to generate pharmacophore models from apo binding sites by extracting energy hot spots for important pharmacophoric features." imageclass="fit" >}}
+{{< xfigure src="/images/research/t2fpharm.png" caption="T²F-Pharm allows to generate pharmacophore models from apo binding sites by extracting energy hot spots for important pharmacophoric features (figure taken from [Mortier, 2018](/publications/#t2f2018))." imageclass="fit" >}}
