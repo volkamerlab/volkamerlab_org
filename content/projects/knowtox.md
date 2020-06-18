@@ -44,7 +44,7 @@ summary: |
 
 Computational tools for toxicity prediction are promising in the process of reducing, refining and replacing animal testing. To assess the toxicity of novel chemical entities, regulatory agencies require in vivo testing for several toxic endpoints. In 2017, roughly 2.19 million laboratory animals have been deployed in Germany for regulatory testing purposes (~11 % of those for testing industrial chemicals). Thus, the establishment of alternative methods, and with it the reduction of animal testing, is of utmost importance.
 
-KnowTox is a novel pipeline that combines three different _in silico_ toxicology approaches to allow for confident prediction of potentially toxic effects of novel chemical entities, i.e. machine learning models, alerts for toxic substructures and computational support for read-across.
+While grouping of molecules and read-across are already the most widely used non-animal methods (ECHA), *KnowTox* is a novel pipeline that combines three different _in silico_ toxicology approaches to substantiate the forecasts and to allow for confident prediction of potentially toxic effects of novel chemical entities. KnowTox combines machine learning models, alerts for toxic substructures and computational support for read-across.
 
 {{< xfigure src="/images/research/knowtox.jpg" caption="Overview of KnowTox. Combining toxicity information from different sources, the complementary outputs of the KnowTox tool help to generate a holistic toxicity prediction picture for a novel query compound (figure taken from [Morger, 2020](/publications/#morger_2020_knowtox))." imageclass="fit" >}}
 
