@@ -1,5 +1,5 @@
 {{ define "main" }}
-<section id="banner">
+<section {{ with .Params.mainSectionId}}id="{{.}}"{{end}}>
     <div class="content">
         <article>
             <header class="major">
@@ -12,10 +12,10 @@
             {{ if .Params.nav }}
                 <hr />
                 {{ if .NextInSection }}
-                    <a href="{{.NextInSection.Permalink}}" title="{{.NextInSection.Title}}">&lt; Prev Post</a>
+                    <a href="{{.NextInSection.RelPermalink}}" title="{{.NextInSection.Title}}">&lt; Prev Post</a>
                 {{ end }}
                 {{ if .PrevInSection }}
-                    <a href="{{.PrevInSection.Permalink}}" title="{{.PrevInSection.Title}}">Next Post &gt;</a>
+                    <a href="{{.PrevInSection.RelPermalink}}" title="{{.PrevInSection.Title}}">Next Post &gt;</a>
                 {{ end }}
             {{ end }}
         </article>

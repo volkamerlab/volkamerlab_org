@@ -1,5 +1,5 @@
 {{ define "main" }}
-<section id="banner">
+<section>
     <div class="content">
         <article>
             <header class="major">
@@ -7,36 +7,47 @@
             </header>
             {{ .Content }}
             <section>
-                <header><h2>Team Leader</h2></header>
+                <header>
+                    <h2>Group Leader</h2>
+                </header>
                 <div class="posts">
-                {{ range .Site.Data.team.team.members }}
-                    {{ if eq .role "Team leader" }}
-                        {{ partial "person" . }}
+                    {{ range where .Site.Data.team.members ".status" "teamleader" }}
+                    {{ partial "person" . }}
                     {{ end }}
-                {{ end }}
                 </div>
             </section>
             <section>
-                <header><h2>Members</h2></header>
+                <header>
+                    <h2>Members</h2>
+                </header>
                 <div class="posts">
-                {{ range .Site.Data.team.team.members }}
-                    {{ if ne .role "Team leader" }}
-                        {{ partial "person" . }}
+                    {{ range where .Site.Data.team.members ".status" "member" }}
+                    {{ partial "person" . }}
                     {{ end }}
-                {{ end }}
                 </div>
             </section>
-            {{ if .Site.Data.team.team.alumni }}
             <section>
-                <header><h2>Alumni</h2></header>
+                <header>
+                    <h2>Students</h2>
+                </header>
                 <ul>
-                    {{ range $.Site.Data.team.team.alumni }}
-                    <li><strong>{{ .name }}</strong> ({{ .role }})<br />
+                    {{ range where $.Site.Data.team.members ".status" "studentmember" }}
+                    <li id="{{- .key -}}"><strong>{{ with .prefix }}{{- . }} {{ end }}{{ .name }}</strong> ({{ .role }})<br />
                         {{ .project }}</li>
                     {{ end }}
                 </ul>
             </section>
-            {{ end }}
+            <section>
+                <header>
+                    <h2>Alumni</h2>
+                </header>
+                <ul>
+                    {{ range where $.Site.Data.team.members ".status" "alumni" }}
+                    <li id="{{- .key -}}"><strong>{{ with .prefix }}{{- . }} {{ end }}{{ .name }}</strong> ({{ .role }})<br />
+                        {{ .project }}</li>
+                    {{ end }}
+                </ul>
+            </section>
         </article>
     </div>
 </section>

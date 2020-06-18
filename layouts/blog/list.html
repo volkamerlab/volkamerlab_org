@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{ .Scratch.Set "paginator" (.Paginate (where .Pages.ByDate.Reverse ".Section" "==" "blog") (index .Site.Params "paginate" | default 10)) }}
+<section {{ with .Params.mainSectionId}}id="{{.}}"{{end}}>
+    <header class="major"><h1>Latest updates</h1></header>
+    <div class="content">
+{{ $paginator := .Scratch.Get `paginator` }}
+{{ if gt $paginator.TotalPages 0 }}
+{{ range $paginator.Pages }}
+        <article>
+            <header>
+                <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                <p class="small">{{ .Date.Format "2006.01.02" }}{{ if isset .Params "author"}} &middot; By  {{ partial "personlink" (dict "data" .Site.Data "person" .Params.author ) }}{{ end }}</p>
+            </header>
+            <p>{{ .Summary }}</p>
+            <p><a class="button icon fa-angle-double-right small" href="{{ .RelPermalink }}">Read more</a></p>
+        </article>
+        <hr />
+{{ end }}
+{{ end }}
+{{ if gt $paginator.TotalPages 1 }}
+<footer class="list-footer">
+    <nav class="pagination">
+    {{ if $paginator.HasPrev }}
+    <a class="pagination-prev" href="{{ $paginator.Prev.URL }}">← Prev Page</a>
+    {{ end }}
+    {{ if $paginator.HasNext }}
+    <a class="pagination-next" href="{{ $paginator.Next.URL }}">Next Page →</a>
+    {{ end }}
+    </nav>
+</footer>
+{{ end }}
+    </div>
+</section>
+{{ end }}
+

@@ -4,30 +4,29 @@
         <h2>Menu</h2>
     </header>
     <ul>
-        {{ $currentPage := . }}
+        {{ $current := . }}
         {{ range .Site.Menus.main }}
-            {{ $isCurrent := $currentPage.IsMenuCurrent "main" . }}
-            {{ $hasCurrent := $currentPage.HasMenuCurrent "main" . }}
+            {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
+            {{ $active = or $active (eq .Name $current.Title) }}
+            {{ $active = or $active (and (eq (trim (path.Dir .URL) "/") $current.Section) (ne $current.Section "")) }}
             <li>
                 {{ if .HasChildren }}
-                <span class="opener {{if ($isCurrent) or ($hasCurrent) }}active{{end}}" href="{{.URL}}">{{ .Name }}</span>
+                <span class="opener{{if $active}} active current{{end}}" >
+                    <a href="{{.URL}}">{{ with .Pre }}<i class="icon fa-{{- . -}}"></i> {{ end }}{{ .Name }}</a>
+                </span>
                 <ul>
-                    <li{{if ($isCurrent) or ($hasCurrent) }} class="current" {{end}}>
-                            <a href="{{.URL}}">Index</a>
-                    </li>
                     {{ range .Children }}
-                    <li{{if ($isCurrent) or ($hasCurrent) }} class="current" {{end}}>
-                        <a href="{{.URL}}"> {{ .Name }} </a>
+                    <li{{if (eq $current.RelPermalink .URL)}} class="current" {{end}}>
+                        <a href="{{.URL}}">{{ with .Pre }}<i class="icon fa-{{- . -}}"></i> {{ end }}{{ .Name }} </a>
                     </li>
                     {{ end }}
                 </ul>
                 {{ else }}
-                <a {{if $isCurrent}}class="current"{{end}} href="{{.URL}}">{{ .Name }}</a>
+                <span>
+                    <a {{if $active}}class="current"{{end}} href="{{.URL}}">{{ with .Pre }}<i class="icon fa-{{- . -}}"></i> {{ end }}{{ .Name }}</a>
+                </span>
                 {{ end }}
             </li>
         {{ end }}
-        <li>
-            <a target="_blank" href="#https://scholar.google.es/citations?user=XXXXXXXX">Publications</a>
-        </li>
     </ul>
 </nav>

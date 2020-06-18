@@ -1,0 +1,11 @@
+{{ $file := .Get 0 }}
+{{ with .Site.GetPage "page" $file }}
+
+<p>
+    {{ .Summary | safeHTML | plainify  }}
+</p>
+<p>
+    <a class="button small icon fa-angle-double-right" href="{{.RelPermalink}}">Read more</a>
+</p>
+
+{{ end }}

@@ -1,0 +1,10 @@
+{{ $personkey := .person }}
+{{ $data := .data }}
+{{ $people := where $data.team.members ".key" $personkey }}
+{{ if gt (len $people) 0 }}
+{{ range $people }}
+<a href="/team#{{- .key -}}" title="Go to {{ .name -}}'s profile">{{- .name -}}</a>
+{{ end }}
+{{ else }}
+<span>{{- $personkey -}}</span>
+{{- end -}}

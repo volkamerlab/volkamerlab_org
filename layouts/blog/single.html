@@ -1,0 +1,27 @@
+{{ define "main" }}
+<section {{ with .Params.mainSectionId}}id="{{.}}"{{end}}>
+    <div class="content">
+        <article>
+            <header class="major">
+                <h1>{{ .Title }}</h1>
+            <p class="small">{{ .Date.Format "2006.01.02" }}
+                {{- if isset .Params "author" }}
+                &middot; By {{- partial "personlink" (dict "data" .Site.Data "person" .Params.author ) -}}
+                {{- end -}}
+            </p>
+            </header>
+
+            <p>{{ .Content }}</p>
+            {{ if .Params.nav }}
+                <hr />
+                {{ if .NextInSection }}
+                    <a href="{{.NextInSection.RelPermalink}}" title="{{.NextInSection.Title}}">&lt; Prev Post</a>
+                {{ end }}
+                {{ if .PrevInSection }}
+                    <a href="{{.PrevInSection.RelPermalink}}" title="{{.PrevInSection.Title}}">Next Post &gt;</a>
+                {{ end }}
+            {{ end }}
+        </article>
+    </div>
+</section>
+{{ end }}
