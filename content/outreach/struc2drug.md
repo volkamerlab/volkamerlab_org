@@ -36,7 +36,26 @@ Sign up to <a href="https://mailman.charite.de/mailman/listinfo/struc2drug" targ
 
 ## Upcoming dates
 
-TBA
+<span id="struc2drug-202007023"></span>
+
+2020.07.23 (online only!)
+
+* **Speakers**: Magdalena Schacherl & Amal Hassan (Charité)
+* **Title**: Nanobodies in structural biology and therapy
+* **Abstract**: Nanobodies are versatile tools for structural biology and promising next-generation biodrugs. In this seminar, we will hear two talks on how the production and usage of nanobodies can facilitate protein structure determination and drug discovery. First, Magdalena Schacherl will introduce nanobodies and explain their use for structural biology research as well as their potential and application as therapeutics. Second, Amal Hassan will present her complex structure of the specific nanobody Nb11 with Gelsolin (GSN), a soluble protein responsible for a familial degenerative disease (AGel amyloidosis), solved at 1.9 Å resolution. This structural information, together with biochemical and biophysical studies, helped to decipher the pathological mechanism of a GSN disease-mutant.
+
+
+The link to the meeting will be the following:<br />
+· {{< external "Click here to open the videocall" "https://fu-berlin.webex.com/fu-berlin/j.php?MTID=m3c7101cdb5303a1c40b98a6ef45c8a1e" >}}<br />
+· Meeting number: 121 880 2986<br />
+· Password: `********` (check your email invite!)<br />
+
+You can also join via:<br />
+· Video system: 1218802986@fu-berlin.webex.com<br />
+· Telephone: +49-619-6781-9736 Germany Toll<br />
+· Code: `********` (check your email invite!)<br />
+
+More information on Webex {{< external "can be found here" "https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1037667239" >}}.
 
 ### Previous seminars
 
@@ -44,7 +63,6 @@ TBA
 * **Speakers**: Jérémie Mortier & Floriane Montanari (Bayer)
 * **Title**: Computational Chemistry in Industry
 * **Abstract**: Computational methods are employed in numerous ways in early drug development. In this seminar, we present two examples of how such methods are applied at Bayer to develop novel drugs. First, Jérémie Mortier will present an early synergistic research project applying computational molecular design to medicinal chemistry, in order to find drugs for KRAS. Since the discovery of the druggable allosteric binding site containing the G12C mutation, KRAS has attracted a lot of attention in oncology research and is now one of the most-studied anticancer targets. In the second talk, Floriane Montanari will explain how pharmacokinetic properties are predicted as part of the routine toolbox at Bayer. She discusses the continuous and reversible representation of compounds as SMILES and the application of deep learning methods to effectively predict physico-chemical properties of compounds in a multitask fashion.
-
 
 2019.11.14
 * **Speakers**: Martha Sommer (Charité) & Marcel Bermudez (FU)
