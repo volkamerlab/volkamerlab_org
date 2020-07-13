@@ -33,4 +33,6 @@ jobs:
           npx broken-link-checker http://localhost:1313/ --ordered --recursive \
             --exclude linkedin.com \
             --exclude html5up.net \
-            --exclude "https://github.com/volkamerlab/CADD*"
+            --exclude gepris.dfg.de \
+            --exclude "https://github.com/volkamerlab/CADD*" \
+            --exclude "https://github.com/volkamerlab/ratar"
