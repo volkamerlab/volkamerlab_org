@@ -66,9 +66,15 @@
     - icon: github
       text: GitHub
       url: https://github.com/schallerdavid
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?user=UM23iiEAAAAJ
     - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0002-1881-4518
+    - icon: twitter
+      text: Twitter
+      url: https://twitter.com/_davidschaller_
 # --PHDs---
 - name: Andrea Morger
   prefix:
