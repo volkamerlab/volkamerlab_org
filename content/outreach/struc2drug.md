@@ -36,28 +36,35 @@ Sign up to <a href="https://mailman.charite.de/mailman/listinfo/struc2drug" targ
 
 ## Upcoming dates
 
-<span id="struc2drug-202007023"></span>
+<span id="struc2drug-20200910"></span>
 
-2020.07.23 (online only!)
+2020.09.10
 
-* **Speakers**: Magdalena Schacherl & Amal Hassan (Charité)
-* **Title**: Nanobodies in structural biology and therapy
-* **Abstract**: Nanobodies are versatile tools for structural biology and promising next-generation biodrugs. In this seminar, we will hear two talks on how the production and usage of nanobodies can facilitate protein structure determination and drug discovery. First, Magdalena Schacherl will introduce nanobodies and explain their use for structural biology research as well as their potential and application as therapeutics. Second, Amal Hassan will present her complex structure of the specific nanobody Nb11 with Gelsolin (GSN), a soluble protein responsible for a familial degenerative disease (AGel amyloidosis), solved at 1.9 Å resolution. This structural information, together with biochemical and biophysical studies, helped to decipher the pathological mechanism of a GSN disease-mutant.
-
+* **Speakers**: Daniel Klinger (Freie Universität Berlin) & Gregor Fuhrmann (Helmholtz-Zentrum für Infektionsforschung, Braunschweig)
+* **Title**: Biomimetic and stimuli-responsive materials for biomedical applications
+* **Abstract**: 
+Efficient delivery of therapeutics not only requires (nano)carriers to host and release drugs of often limited solubility, but also to address the complex structures of challenging biological barriers. Since this complexity prevents the utilization of a one-fits-all system, different (colloidal) carrier systems are being tailored to specific therapeutic needs. Among such delivery vehicles, this talk will focus on the potential of synthetic polymeric nanogels (NGs) and natural extracellular vesicles (EVs) as complementary approaches.
+Daniel Klinger will present an overview of the research in the Klinger group where they combine different length scales in the synthetic design of stimuli-responsive NGs. He will give examples on how to adjust the carrier properties to deliver insoluble drugs, address challenging bio-barriers (e.g. skin), and target current threats (e.g. antimicrobial resistance). In addition, fundamental investigations to examine the potential of utilizing colloidal shape change as new targeting concept will be discussed.
+Gregor Fuhrmann will present some of the recent efforts to better understand the biological role of EVs in infection and inflammation. He will provide an insight into the isolation and characterization of EVs and explain their potential loading with model compounds, from small molecule drugs to larger biomacromolecules. Moreover, he will present recent examples of combining EVs with novel biomaterial development, important foundations for their advanced biomedical development.  
 
 The link to the meeting will be the following:<br />
-· {{< external "Click here to open the videocall" "https://fu-berlin.webex.com/fu-berlin/j.php?MTID=m3c7101cdb5303a1c40b98a6ef45c8a1e" >}}<br />
-· Meeting number: 121 880 2986<br />
+· {{< external "Click here to open the videocall" "https://fu-berlin.webex.com/fu-berlin/j.php?MTID=m8e0cbe77368d18edf41e059ab22446f7" >}}<br />
+· Meeting number: 121 670 6963<br />
 · Password: `********` (check your email invite!)<br />
 
 You can also join via:<br />
-· Video system: 1218802986@fu-berlin.webex.com<br />
+· Video system: 1216706963@fu-berlin.webex.com<br />
 · Telephone: +49-619-6781-9736 Germany Toll<br />
 · Code: `********` (check your email invite!)<br />
 
 More information on Webex {{< external "can be found here" "https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1037667239" >}}.
 
 ### Previous seminars
+
+2020.07.23 (online)
+* **Speakers**: Magdalena Schacherl & Amal Hassan (Charité)
+* **Title**: Nanobodies in structural biology and therapy
+* **Abstract**: Nanobodies are versatile tools for structural biology and promising next-generation biodrugs. In this seminar, we will hear two talks on how the production and usage of nanobodies can facilitate protein structure determination and drug discovery. First, Magdalena Schacherl will introduce nanobodies and explain their use for structural biology research as well as their potential and application as therapeutics. Second, Amal Hassan will present her complex structure of the specific nanobody Nb11 with Gelsolin (GSN), a soluble protein responsible for a familial degenerative disease (AGel amyloidosis), solved at 1.9 Å resolution. This structural information, together with biochemical and biophysical studies, helped to decipher the pathological mechanism of a GSN disease-mutant.
 
 2020.01.16
 * **Speakers**: Jérémie Mortier & Floriane Montanari (Bayer)
