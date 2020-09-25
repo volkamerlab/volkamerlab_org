@@ -10,7 +10,7 @@ people:
 - key: andrea.volkamer
 collaborators:
 - name: Albert Kooistra
-  link: https://drug.ku.dk/employees/?pure=en/persons/612712
+  link: https://drug.ku.dk/staff/?pure=en/persons/612712
   more: University of Copenhagen
 - name: Friedrich Rippmann
   more: Merck
