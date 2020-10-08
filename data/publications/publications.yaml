@@ -25,6 +25,25 @@
 
 #  Books
 
+kinfraglib_preprint:
+  key: kinfraglib_preprint
+  title: "KinFragLib: Exploring the Kinase Inhibitor Space Using Subpocket-Focused Fragmentation and Recombination"
+  authors:
+    - dominique.sydow
+    - paula.schmiel
+    - jeremie.mortier
+    - andrea.volkamer
+  journal: ChemRxiv
+  volume:
+  issue:
+  pages:
+  year: 2020
+  date: 2020-07-23
+  doi: "10.26434/chemrxiv.12696392.v1"
+  image:
+  pdf:
+  kind: preprint
+
 volkamer_2018_activesites:
   key: volkamer_2018_activesites
   title: "Prediction, Analysis and Comparison of Active Sites"
