@@ -5,7 +5,7 @@ publishdate: 2020-03-03
 weight: 10
 nav: false
 publications:
-- kinfraglib_preprint
+- sydow_2020_kinfraglib
 people:
 - key: paula.schmiel
 - key: dominique.sydow
