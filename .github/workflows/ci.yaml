@@ -35,4 +35,6 @@ jobs:
             --exclude html5up.net \
             --exclude gepris.dfg.de \
             --exclude "https://github.com/volkamerlab/CADD*" \
-            --exclude "https://github.com/volkamerlab/ratar"
+            --exclude "https://github.com/volkamerlab/ratar" \
+            --exclude "https://dx.doi.org/10.1002/cmdc.201900328" \
+            --exclude "https://dx.doi.org/10.1002/prot.24205"
