@@ -406,209 +406,209 @@ kinmap2017:
   pdf:
   kind: article
 
-subpockets2016:
-  key: subpockets2016
-  title: "Identification and Visualization of Kinase-Specific Subpockets"
-  authors:
-    - andrea.volkamer
-    - Sameh Eid
-    - Samo Turk
-    - Friedrich Rippmann
-    - Simone Fulle
-  journal: Journal of Chemical Information and Modeling
-  volume: 56
-  issue: 2
-  pages: 335-346
-  year: 2016
-  date: 2016-01-06
-  doi: "10.1021/acs.jcim.5b00627"
-  image:
-  pdf:
-  kind: article
+# subpockets2016:
+#   key: subpockets2016
+#   title: "Identification and Visualization of Kinase-Specific Subpockets"
+#   authors:
+#     - andrea.volkamer
+#     - Sameh Eid
+#     - Samo Turk
+#     - Friedrich Rippmann
+#     - Simone Fulle
+#   journal: Journal of Chemical Information and Modeling
+#   volume: 56
+#   issue: 2
+#   pages: 335-346
+#   year: 2016
+#   date: 2016-01-06
+#   doi: "10.1021/acs.jcim.5b00627"
+#   image:
+#   pdf:
+#   kind: article
 
 
-volkamer2015:
-  authors:
-  - andrea.volkamer
-  - Sameh Eid
-  - Samo Turk
-  - Sabrina Jaeger
-  - Friedrich Rippmann
-  - Simone Fulle
-  date: 2015-1-20
-  doi: 10.1021/ci500624s
-  image: ''
-  issue: '3'
-  journal: Journal of Chemical Information and Modeling
-  key: volkamer2015
-  kind: article
-  pages: 538-549
-  pdf: ''
-  title: 'Pocketome of Human Kinases: Prioritizing the ATP Binding Sites of (Yet) Untapped Protein Kinases for Drug Discovery'
-  volume: '55'
-  year: 2015
+# volkamer2015:
+#   authors:
+#   - andrea.volkamer
+#   - Sameh Eid
+#   - Samo Turk
+#   - Sabrina Jaeger
+#   - Friedrich Rippmann
+#   - Simone Fulle
+#   date: 2015-1-20
+#   doi: 10.1021/ci500624s
+#   image: ''
+#   issue: '3'
+#   journal: Journal of Chemical Information and Modeling
+#   key: volkamer2015
+#   kind: article
+#   pages: 538-549
+#   pdf: ''
+#   title: 'Pocketome of Human Kinases: Prioritizing the ATP Binding Sites of (Yet) Untapped Protein Kinases for Drug Discovery'
+#   volume: '55'
+#   year: 2015
 
 
-volkamer2014:
-  authors:
-  - andrea.volkamer
-  - Matthias Rarey
-  date: 2014-3
-  doi: 10.4155/fmc.14.3
-  image: ''
-  issue: '3'
-  journal: Future Medicinal Chemistry
-  key: volkamer2014
-  kind: article
-  pages: 319-331
-  pdf: ''
-  title: Exploiting structural information for drug-target assessment
-  volume: '6'
-  year: 2014
+# volkamer2014:
+#   authors:
+#   - andrea.volkamer
+#   - Matthias Rarey
+#   date: 2014-3
+#   doi: 10.4155/fmc.14.3
+#   image: ''
+#   issue: '3'
+#   journal: Future Medicinal Chemistry
+#   key: volkamer2014
+#   kind: article
+#   pages: 319-331
+#   pdf: ''
+#   title: Exploiting structural information for drug-target assessment
+#   volume: '6'
+#   year: 2014
 
 
-wirth2013:
-  authors:
-  - Matthias Wirth
-  - andrea.volkamer
-  - Vincent Zoete
-  - Friedrich Rippmann
-  - Olivier Michielin
-  - Matthias Rarey
-  - Wolfgang H. B. Sauer
-  date: 2013-6-27
-  doi: 10.1007/s10822-013-9659-1
-  image: ''
-  issue: '6'
-  journal: Journal of Computer-Aided Molecular Design
-  key: wirth2013
-  kind: article
-  pages: 511-524
-  pdf: ''
-  title: Protein pocket and ligand shape comparison and its application in virtual screening
-  volume: '27'
-  year: 2013
+# wirth2013:
+#   authors:
+#   - Matthias Wirth
+#   - andrea.volkamer
+#   - Vincent Zoete
+#   - Friedrich Rippmann
+#   - Olivier Michielin
+#   - Matthias Rarey
+#   - Wolfgang H. B. Sauer
+#   date: 2013-6-27
+#   doi: 10.1007/s10822-013-9659-1
+#   image: ''
+#   issue: '6'
+#   journal: Journal of Computer-Aided Molecular Design
+#   key: wirth2013
+#   kind: article
+#   pages: 511-524
+#   pdf: ''
+#   title: Protein pocket and ligand shape comparison and its application in virtual screening
+#   volume: '27'
+#   year: 2013
 
 
-volkamer2012:
-  authors:
-  - andrea.volkamer
-  - Daniel Kuhn
-  - Friedrich Rippmann
-  - Matthias Rarey
-  date: '2012-12-24'
-  doi: 10.1002/prot.24205
-  image: ''
-  issue: '3'
-  journal: 'Proteins: Structure, Function, and Bioinformatics'
-  key: volkamer2012
-  kind: article
-  pages: 479-489
-  pdf: ''
-  title: Predicting enzymatic function from global binding site descriptors
-  volume: '81'
-  year: 2012
+# volkamer2012:
+#   authors:
+#   - andrea.volkamer
+#   - Daniel Kuhn
+#   - Friedrich Rippmann
+#   - Matthias Rarey
+#   date: '2012-12-24'
+#   doi: 10.1002/prot.24205
+#   image: ''
+#   issue: '3'
+#   journal: 'Proteins: Structure, Function, and Bioinformatics'
+#   key: volkamer2012
+#   kind: article
+#   pages: 479-489
+#   pdf: ''
+#   title: Predicting enzymatic function from global binding site descriptors
+#   volume: '81'
+#   year: 2012
 
 
-vonbehren2013:
-  authors:
-  - Mathias M. von Behren
-  - andrea.volkamer
-  - Angela M. Henzler
-  - Karen T. Schomburg
-  - Sascha Urbaczek
-  - Matthias Rarey
-  date: 2013-2-7
-  doi: 10.1021/ci300469h
-  image: ''
-  issue: '2'
-  journal: Journal of Chemical Information and Modeling
-  key: vonbehren2013
-  kind: article
-  pages: 411-422
-  pdf: ''
-  title: Fast Protein Binding Site Comparison via an Index-Based Screening Technology
-  volume: '53'
-  year: 2013
+# vonbehren2013:
+#   authors:
+#   - Mathias M. von Behren
+#   - andrea.volkamer
+#   - Angela M. Henzler
+#   - Karen T. Schomburg
+#   - Sascha Urbaczek
+#   - Matthias Rarey
+#   date: 2013-2-7
+#   doi: 10.1021/ci300469h
+#   image: ''
+#   issue: '2'
+#   journal: Journal of Chemical Information and Modeling
+#   key: vonbehren2013
+#   kind: article
+#   pages: 411-422
+#   pdf: ''
+#   title: Fast Protein Binding Site Comparison via an Index-Based Screening Technology
+#   volume: '53'
+#   year: 2013
 
 
-ehrlich2012:
-  authors:
-  - Hans-Christian Ehrlich
-  - andrea.volkamer
-  - Matthias Rarey
-  date: '2012-12-12'
-  doi: 10.1021/ci300283a
-  image: ''
-  issue: '12'
-  journal: Journal of Chemical Information and Modeling
-  key: ehrlich2012
-  kind: article
-  pages: 3181-3189
-  pdf: ''
-  title: Searching for Substructures in Fragment Spaces
-  volume: '52'
-  year: 2012
+# ehrlich2012:
+#   authors:
+#   - Hans-Christian Ehrlich
+#   - andrea.volkamer
+#   - Matthias Rarey
+#   date: '2012-12-12'
+#   doi: 10.1021/ci300283a
+#   image: ''
+#   issue: '12'
+#   journal: Journal of Chemical Information and Modeling
+#   key: ehrlich2012
+#   kind: article
+#   pages: 3181-3189
+#   pdf: ''
+#   title: Searching for Substructures in Fragment Spaces
+#   volume: '52'
+#   year: 2012
 
 
-dogsitescorer2012:
-  authors:
-  - andrea.volkamer
-  - Daniel Kuhn
-  - Friedrich Rippmann
-  - Matthias Rarey
-  date: 2012-5-23
-  doi: 10.1093/bioinformatics/bts310
-  image: ''
-  issue: '15'
-  journal: Bioinformatics
-  key: dogsitescorer2012
-  kind: article
-  pages: 2074-2075
-  pdf: ''
-  title: 'DoGSiteScorer: a web server for automatic binding site prediction, analysis and druggability assessment'
-  volume: '28'
-  year: 2012
+# dogsitescorer2012:
+#   authors:
+#   - andrea.volkamer
+#   - Daniel Kuhn
+#   - Friedrich Rippmann
+#   - Matthias Rarey
+#   date: 2012-5-23
+#   doi: 10.1093/bioinformatics/bts310
+#   image: ''
+#   issue: '15'
+#   journal: Bioinformatics
+#   key: dogsitescorer2012
+#   kind: article
+#   pages: 2074-2075
+#   pdf: ''
+#   title: 'DoGSiteScorer: a web server for automatic binding site prediction, analysis and druggability assessment'
+#   volume: '28'
+#   year: 2012
 
 
-volkamer2012b:
-  authors:
-  - andrea.volkamer
-  - Daniel Kuhn
-  - Thomas Grombacher
-  - Friedrich Rippmann
-  - Matthias Rarey
-  date: 2012-1-5
-  doi: 10.1021/ci200454v
-  image: ''
-  issue: '2'
-  journal: Journal of Chemical Information and Modeling
-  key: volkamer2012b
-  kind: article
-  pages: 360-372
-  pdf: ''
-  title: Combining Global and Local Measures for Structure-Based Druggability Predictions
-  volume: '52'
-  year: 2012
+# volkamer2012b:
+#   authors:
+#   - andrea.volkamer
+#   - Daniel Kuhn
+#   - Thomas Grombacher
+#   - Friedrich Rippmann
+#   - Matthias Rarey
+#   date: 2012-1-5
+#   doi: 10.1021/ci200454v
+#   image: ''
+#   issue: '2'
+#   journal: Journal of Chemical Information and Modeling
+#   key: volkamer2012b
+#   kind: article
+#   pages: 360-372
+#   pdf: ''
+#   title: Combining Global and Local Measures for Structure-Based Druggability Predictions
+#   volume: '52'
+#   year: 2012
 
 
-volkamer2010:
-  authors:
-  - andrea.volkamer
-  - Axel Griewel
-  - Thomas Grombacher
-  - Matthias Rarey
-  date: '2010-10-14'
-  doi: 10.1021/ci100241y
-  image: ''
-  issue: '11'
-  journal: Journal of Chemical Information and Modeling
-  key: volkamer2010
-  kind: article
-  pages: 2041-2052
-  pdf: ''
-  title: 'Analyzing the Topology of Active Sites: On the Prediction of Pockets and Subpockets'
-  volume: '50'
-  year: 2010
+# volkamer2010:
+#   authors:
+#   - andrea.volkamer
+#   - Axel Griewel
+#   - Thomas Grombacher
+#   - Matthias Rarey
+#   date: '2010-10-14'
+#   doi: 10.1021/ci100241y
+#   image: ''
+#   issue: '11'
+#   journal: Journal of Chemical Information and Modeling
+#   key: volkamer2010
+#   kind: article
+#   pages: 2041-2052
+#   pdf: ''
+#   title: 'Analyzing the Topology of Active Sites: On the Prediction of Pockets and Subpockets'
+#   volume: '50'
+#   year: 2010
 
 
