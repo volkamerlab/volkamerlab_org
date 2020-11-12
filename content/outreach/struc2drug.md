@@ -17,24 +17,28 @@ Drug design is a complex and lengthly process that can only yield successful res
 experimental and computational methods. Many researchers work in Berlin at universities, research facilities and
 industry in the field of drug design or in neighboring disciplines.
 
-*struc2drug* is a bimonthly seminar series promoting the exchange between researchers in the interdisciplinary field
+**struc2drug** is a bimonthly seminar series promoting the exchange between researchers in the interdisciplinary field
 of structural biology and drug development in Berlin.
 
-### Aim
-
-- Bring together researchers from diverse disciplines of structural biology and drug design.
-- Learn about different steps and methods involved in drug development.
-- Create an interdisciplinary environment to think about upcoming challenges and possible solution.
+With this seminar, we want to
+- bring together researchers from diverse disciplines of structural biology and drug design
+- learn about different steps and methods involved in drug development
+- create an interdisciplinary environment to think about upcoming challenges and possible solution
 
 {{< xfigure src="/images/outreach/struc2drug.png" caption="The struc2drug logo" imageclass="fit" >}}
 
 
-### Mailing list
+### Stay up-to-date via our mailing list
 
 Sign up to <a href="https://mailman.charite.de/mailman/listinfo/struc2drug" target="_blank"><i class="icon fa-envelope"></i> our mailing list</a> to be notified on upcoming events.
 
+### Socialize on our Discord server
 
-### Upcoming dates
+New! Join us on our Discord server to get in touch with us and to participate in our seminar discussions. 
+To get an invite, reach out to us via <a class="icon fa-envelope" href="mailto:struc2drug-orga@charite.de" target="_blank" title="struc2drug-orga@charite.de"></a> or <a href="https://twitter.com/struc2drug" target="_blank"><i class="icon fa-twitter"></i></a>.
+
+
+### Join us for our upcoming seminars
 
 #### November 19, 2020 · 16:00 (CET)
 
@@ -51,7 +55,7 @@ The link to the meeting will be the following:<br />
 
 More information on Webex {{< external "can be found here" "https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1037667239" >}}.
 
-### Previous seminars
+### Check out our previous seminars
 
 #### September 9, 2020 (online)
 **Biomimetic and Stimuli-Responsive Materials for Biomedical Applications**<br />
