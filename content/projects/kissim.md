@@ -33,7 +33,7 @@ In our *KiSSim* (kinase structural similarity) project, we developed a subpocket
 
 <!--more-->
 
-The *KiSSim* fingerprint is based on the <a href="https://klifs.vu-compmedchem.nl/" target="_blank" class="external">KLIFS </a> pocket alignment, which defines 85 pocket residues for all kinase structures.
+The *KiSSim* fingerprint is based on the <a href="https://klifs.net/" target="_blank" class="external">KLIFS </a> pocket alignment, which defines 85 pocket residues for all kinase structures.
 This enables a residue-by-residue comparison of spatial and physicochemical features
 without the need for a computationally expensive alignment step.
 We aim to use the *KiSSim* method to detect potential off-targets at an early stage of inhibitor design and to conduct structure-informed polypharmacology studies.

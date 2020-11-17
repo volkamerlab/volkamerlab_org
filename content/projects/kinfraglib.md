@@ -23,7 +23,7 @@ funding:
 ---
 
 The *KinFragLib* project allows to explore and extend the chemical space of kinase inhibitors using
-data-driven fragmentation and recombination, built on available structural kinome data from the <a href="https://klifs.vu-compmedchem.nl/" target="_blank" class="external">KLIFS </a> database
+data-driven fragmentation and recombination, built on available structural kinome data from the <a href="https://klifs.net/" target="_blank" class="external">KLIFS </a> database
 for over 2,500 kinase complexes. The computational fragmentation method splits known non-covalent
 kinase inhibitors into fragments with respect to their 3D proximity to six predefined subpockets relevant for binding.
 
