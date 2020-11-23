@@ -25,6 +25,42 @@
 
 #  Books
 
+mostinski_2020:
+  key: mostinski_2020
+  title: "Evolution of Active-Site SHP2 Inhibitors Based on Scaffold Hopping and Bioisosteric Replacement"
+  authors:
+    - Yelena Mostinski
+    - Guus J. J. E. Heynen
+    - Maria Pascual López-Alberca
+    - Jerome Paul
+    - Sandra Miksche
+    - Silke Radetzki
+    - david.schaller
+    - Elena Shanina
+    - Carola Seyffarth
+    - Yuliya Kolomeets
+    - Nandor Ziebart
+    - Judith de Schryver
+    - Sylvia Oestreich
+    - Martin Neuenschwander
+    - Yvette Roske
+    - Udo Heinemann
+    - Christoph Rademacher
+    - andrea.volkamer
+    - Jens Peter von Kries
+    - Walter Birchmeier
+    - Marc Nazaré
+  journal: Journal of Medicinal Chemistry
+  volume:
+  issue:
+  pages:
+  year: 2020
+  date: 2020-11-19
+  doi: "10.1021/acs.jmedchem.0c01265"
+  image:
+  pdf:
+  kind: article
+
 albanese_2020:
   key: albanese_2020
   title: "Is Structure-Based Drug Design Ready for Selectivity Optimization?"
