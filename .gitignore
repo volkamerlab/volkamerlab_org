@@ -3,3 +3,6 @@ public
 
 # MacOS stuff
 .DS_Store
+
+# PyCharm
+.idea/
