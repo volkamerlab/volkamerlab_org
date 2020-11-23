@@ -181,6 +181,20 @@
   status: studentmember
   image:
   project: Standardization pipelines in computer-aided drug design
+- name: Mareike Leja
+  prefix:
+  key: mareike.leja
+  role: Intern
+  status: studentmember
+  image:
+  project: Advancing TeachOpenCADD with MD simulation notebooks
+- name: Sakshi Misra
+  prefix:
+  key: sakshi.misra
+  role: Intern
+  status: studentmember
+  image:
+  project: Advancing TeachOpenCADD with new machine learning notebooks
 
   # --ALUMNI--
 - name: Paula Schmiel
