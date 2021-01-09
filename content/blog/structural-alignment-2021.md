@@ -11,5 +11,5 @@ The main focus of this year’s course will be on finalizing the package. This w
 
 More details:
 
-- Check the [slides](#missing).
+- Check the [slides](/files/20210111_structural_alignment_presentation.pdf).
 - [OpenCADD](/projects/opencadd/).
