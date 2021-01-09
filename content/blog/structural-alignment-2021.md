@@ -1,6 +1,7 @@
 ---
 title: "FU Softwarepraktikum for 2021: structural alignment"
 date: 2021-01-08T14:27:59+01:00
+author: jaime.rodriguez
 ---
 
 The new edition of the "Structural Alignment and Superposition" internship is now open for registration!
