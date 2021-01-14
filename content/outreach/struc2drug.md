@@ -43,7 +43,7 @@ To get an invite, reach out to us via <a class="icon fa-envelope" href="mailto:s
 #### January 14, 2020 · 16:00 (CET)
 
 **Unravelling Molecular Mechanisms**<br />
-** Dr. Jens von Kries** & **Saeid Abdolvand ** (FMP, Berlin)<br />
+**Dr. Jens von Kries** & **Saeid Abdolvand** (FMP, Berlin)<br />
 Jens von Kries will present the FMP Screening Unit, a high throughput technology platform for the screening of compound libraries and genome-wide RNA-interference. The unit manages the ChemBioNet screening collection, which includes 20,000 compounds, and is shared with different partners within Europe. 
 Saeid Abdolvand will talk about his MD simulations of NaK-based AMPA receptor pore mimics in the presence of different mono- and divalent cations. These results provide insights into the different properties of selectivity filters and help to understand the mechanism of permeation in NaK channels and AMPA receptors. 
 
