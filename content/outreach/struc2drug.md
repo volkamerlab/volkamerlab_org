@@ -40,22 +40,31 @@ To get an invite, reach out to us via <a class="icon fa-envelope" href="mailto:s
 
 ### Join us for our upcoming seminars
 
-#### November 19, 2020 · 16:00 (CET)
+#### January 14, 2020 · 16:00 (CET)
+
+**Unravelling Molecular Mechanisms**<br />
+** Dr. Jens von Kries** & **Saeid Abdolvand ** (FMP, Berlin)<br />
+In this session, we have the pleasure to listen to Matthew Kraushar and Jaime Rodríguez-Guerra talking about their tips on how to organize your life science project.
+Matthew will talk about his experience designing and conducting large interdisciplinary biochemical projects from their birth at the bench to death in pubmed. He will present tips on early planning and sustainable organizational tools, including ways to communicate with collaboration partners.
+Jaime will speak about how to plan and execute of a computational project with a focus on best practices in software development for maintainable, reproducible and understandable code.
+
+The link to the meeting will be the following:<br />
+· {{< external "Click here to open the Webex videocall" "https://fu-berlin.webex.com/fu-berlin/j.php?MTID=m89c72cd8287d3a6f340e4ef85271724e" >}}<br />
+· Meeting number: 121 845 7945<br />
+· Password: `********` (check your email invite!)<br />
+
+More information on Webex {{< external "can be found here" "https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1037667239" >}}.
+
+
+### Check out our previous seminars
+
+#### November 19, 2020 (online)
 
 **Best Practices in Wet and Dry Lab**<br />
 **Matthew Kraushar** (MPI Mol. Gen., Berlin) & **Jaime Rodríguez-Guerra** (Charité, Berlin / MSKCC, NYC)<br />
 In this session, we have the pleasure to listen to Matthew Kraushar and Jaime Rodríguez-Guerra talking about their tips on how to organize your life science project.
 Matthew will talk about his experience designing and conducting large interdisciplinary biochemical projects from their birth at the bench to death in pubmed. He will present tips on early planning and sustainable organizational tools, including ways to communicate with collaboration partners.
 Jaime will speak about how to plan and execute of a computational project with a focus on best practices in software development for maintainable, reproducible and understandable code.
-
-The link to the meeting will be the following:<br />
-· {{< external "Click here to open the Webex videocall" "https://fu-berlin.webex.com/fu-berlin/j.php?MTID=md39750255fa8840fac0da72e95f98bf6" >}}<br />
-· Meeting number: 121 788 0571<br />
-· Password: `********` (check your email invite!)<br />
-
-More information on Webex {{< external "can be found here" "https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1037667239" >}}.
-
-### Check out our previous seminars
 
 #### September 9, 2020 (online)
 **Biomimetic and Stimuli-Responsive Materials for Biomedical Applications**<br />
