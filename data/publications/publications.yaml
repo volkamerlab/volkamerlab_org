@@ -25,6 +25,54 @@
 
 #  Books
 
+schmidt_2021_dualkinases:
+  key: schmidt_2021_dualkinases
+  title: "Analyzing Kinase Similarity in Small Molecule and Protein Structural Space to Explore the Limits of Multi-Target Screening"
+  authors:
+    - Denis Schmidt
+    - Magdalena M. Scharf
+    - dominique.sydow
+    - eva.assmann
+    - Maria Martí-Solano
+    - Marina Keul 
+    - andrea.volkamer
+    - Peter Kolb
+  journal: Molecules
+  volume: 26
+  issue:
+  pages:
+  year: 2021
+  date: 2021-01-21
+  doi: "10.3390/molecules26030629"
+  image:
+  pdf: "https://www.mdpi.com/1420-3049/26/3/629/pdf"
+  kind: article
+
+becker_2021_smyd1:
+  key: becker_2021_smyd1
+  title: "Stability of Smyd1 in endothelial cells is controlled by PML-dependent SUMOylation upon cytokine stimulation"
+  authors:
+    - Samuel Becke
+    - Gustav Steinemann
+    - Weronika Karle
+    - Kerrin Roos
+    - Celine Huajia Liem
+    - shalini.muralikumar
+    - andrea.volkamer
+    - Barbara Munz
+    - Andreas Zakrzewicz
+    - Janine Berkholz
+  journal: Biochemical Journal
+  volume: 478
+  issue: 1
+  pages: 217–234
+  year: 2021
+  date: 2021-01-15
+  doi: "10.1042/BCJ20200603"
+  image: 
+  pdf:
+  kind: article
+
 mostinski_2020:
   key: mostinski_2020
   title: "Evolution of Active-Site SHP2 Inhibitors Based on Scaffold Hopping and Bioisosteric Replacement"
