@@ -42,18 +42,19 @@ To get an invite, reach out to us via <a class="icon fa-envelope" href="mailto:s
 
 #### March 11, 2021 · 16:00 (CET)
 
-**Title TBA**<br />
-**David Schwefel** (Charité, Berlin) & **Ulrike Scheib** (Bayer, Berlin)<br />
-Abstract TBA
+**From ternary complex formation to target degradation - PROTACs profiling**<br />
+**Ulrike Scheib** (Nuvisan ICB GmbH,  Berlin) & **David Schwefel** (Charité, Berlin)<br />
 
-<!---
+Ulrike Scheib will talk about biochemical and biophysical assays that are used to follow the key steps of proteolysis targeting chimeras (PROTACs).
+In the second talk, David Schwefel will focus on the structural biology of multi-subunit ubiquitin ligases and targeted protein degradation.
+
 The link to the meeting will be the following:<br />
-· {{< external "Click here to open the Webex videocall" "https://fu-berlin.webex.com/fu-berlin/j.php?MTID=m89c72cd8287d3a6f340e4ef85271724e" >}}<br />
-· Meeting number: 121 845 7945<br />
+· {{< external "Click here to open the Webex videocall" "https://fu-berlin.webex.com/fu-berlin/j.php?MTID=m32967b2bfa5c09f6817b0db0c889e1c7" >}}<br />
+· Meeting number: 121 340 6620<br />
 · Password: `********` (check your email invite!)<br />
 
 More information on Webex {{< external "can be found here" "https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1037667239" >}}.
--->
+
 
 ### Check out our previous seminars
 
