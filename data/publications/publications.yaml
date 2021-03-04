@@ -25,6 +25,34 @@
 
 #  Books
 
+schaller_2021:
+  key: schaller_2021
+  title: "New 3-Aryl-2-(2-thienyl)acrylonitriles with High Activity Against Hepatoma Cells"
+  authors:
+    - Eva Schaller
+    - Andi Ma
+    - chiara.gosch
+    - Adrian Klefenz
+    - david.schaller
+    - Nils Goehringer
+    - Leonard Kaps
+    - Detlef Schuppan
+    - andrea.volkamer
+    - Rainer Schobert
+    - Bernhard Biersack
+    - Bianca Nitzsche
+    - Michael Höpfner
+  journal: International Journal of Molecular Sciences
+  volume: 22
+  issue: 5
+  pages: 2243
+  year: 2021
+  date: 2021-02-24
+  doi: "10.3390/ijms22052243"
+  image:
+  pdf: "https://www.mdpi.com/1422-0067/22/5/2243/pdf"
+  kind: article
+
 schmidt_2021_dualkinases:
   key: schmidt_2021_dualkinases
   title: "Analyzing Kinase Similarity in Small Molecule and Protein Structural Space to Explore the Limits of Multi-Target Screening"
@@ -75,7 +103,7 @@ becker_2021_smyd1:
 
 mostinski_2020:
   key: mostinski_2020
-  title: "Evolution of Active-Site SHP2 Inhibitors Based on Scaffold Hopping and Bioisosteric Replacement"
+  title: "From Pyrazolones to Azaindoles: Evolution of Active-Site SHP2 Inhibitors Based on Scaffold Hopping and Bioisosteric Replacement"
   authors:
     - Yelena Mostinski
     - Guus J. J. E. Heynen
@@ -99,14 +127,14 @@ mostinski_2020:
     - Walter Birchmeier
     - Marc Nazaré
   journal: Journal of Medicinal Chemistry
-  volume:
-  issue:
-  pages:
+  volume: 63
+  issue: 23
+  pages: 14780-14804
   year: 2020
   date: 2020-11-19
   doi: "10.1021/acs.jmedchem.0c01265"
   image:
-  pdf:
+  pdf: "https://pubs.acs.org/doi/pdf/10.1021/acs.jmedchem.0c01265"
   kind: article
 
 albanese_2020:
