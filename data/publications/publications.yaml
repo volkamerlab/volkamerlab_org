@@ -25,6 +25,24 @@
 
 #  Books
 
+kimber_ijms_2021:
+     key: kimber_ijms_2021
+     title: "Deep Learning in Virtual Screening: Recent Applications and Developments"
+     authors:
+       - talia.kimber
+       - yonghui.chen
+       - andrea.volkamer
+     journal: International Journal of Molecular Sciences
+     volume: 22
+     issue: 9
+     pages: 4435
+     year: 2021
+     date: 2021-04-23
+     doi: "10.3390/ijms22094435"
+     image: ""
+     pdf: "https://www.mdpi.com/1422-0067/22/9/4435/pdf"
+     kind: review
+
 schaller_2021:
   key: schaller_2021
   title: "New 3-Aryl-2-(2-thienyl)acrylonitriles with High Activity Against Hepatoma Cells"
@@ -62,7 +80,7 @@ schmidt_2021_dualkinases:
     - dominique.sydow
     - eva.assmann
     - Maria Martí-Solano
-    - Marina Keul 
+    - Marina Keul
     - andrea.volkamer
     - Peter Kolb
   journal: Molecules
@@ -97,7 +115,7 @@ becker_2021_smyd1:
   year: 2021
   date: 2021-01-15
   doi: "10.1042/BCJ20200603"
-  image: 
+  image:
   pdf:
   kind: article
 
