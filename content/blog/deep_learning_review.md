@@ -5,6 +5,10 @@ author: talia.kimber
 ---
 
 Interested in the new developments of deep learning in virtual screening ? Check out our review [Kimber, 2021](/publications/#kimber_ijms_2021).
-We discuss encodings, deep learning models, data sets and recent studies.
+We discuss
+- ligand, protein and complex encodings,
+- deep learning models,
+- data sets, and
+- recent studies.
 
-If you want to generate encoding for your figures, have a look at the [GitHub repository](https://github.com/volkamerlab/DL_in_VS_review)!
+If you want to generate different encodings for your figures, have a look at the [GitHub repository](https://github.com/volkamerlab/DL_in_VS_review)!
