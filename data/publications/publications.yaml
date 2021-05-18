@@ -25,6 +25,28 @@
 
 #  Books
 
+morger_jcheminf_2021:
+     key: morger_jcheminf_2021
+     title: "Assessing the calibration in toxicological in vitro models with conformal prediction"
+     authors:
+       - andrea-lilian.morger
+       - Fredrik Svensson
+       - Staffan Arvidsson McShane
+       - Niharika Gauraha
+       - Ulf Norinder
+       - Ola Spjuth
+       - andrea.volkamer
+     journal: Journal of Cheminformatics
+     volume: 13
+     issue: 1
+     pages: 35
+     year: 2021
+     date: 2021-04-29
+     doi: "10.1186/s13321-021-00511-5"
+     image: ""
+     pdf: "https://link.springer.com/content/pdf/10.1186/s13321-021-00511-5.pdf"
+     kind: article
+
 kimber_ijms_2021:
      key: kimber_ijms_2021
      title: "Deep Learning in Virtual Screening: Recent Applications and Developments"
