@@ -25,6 +25,50 @@
 
 #  Books
 
+corona_archpharm_2021:
+     key: corona_archpharm_2021
+     title: "Garcinol from Garcinia indica inhibits HIV‐1 reverse transcriptase‐associated ribonuclease H"
+     authors:
+       - Angela Corona
+       - Sebastian Seibt
+       - david.schaller
+       - Rainer Schobert
+       - andrea.volkamer
+       - Bernhard Biersack
+       - Enzo Tramontano
+     journal: Archiv der Pharmazie
+     volume: e2100123
+     issue: 
+     pages: 
+     year: 2021
+     date: 2021-05-18
+     doi: "10.1002/ardp.202100123"
+     image: ""
+     pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/ardp.202100123"
+     kind: article
+
+morger_jcheminf_2021:
+     key: morger_jcheminf_2021
+     title: "Assessing the calibration in toxicological in vitro models with conformal prediction"
+     authors:
+       - andrea-lilian.morger
+       - Fredrik Svensson
+       - Staffan Arvidsson McShane
+       - Niharika Gauraha
+       - Ulf Norinder
+       - Ola Spjuth
+       - andrea.volkamer
+     journal: Journal of Cheminformatics
+     volume: 13
+     issue: 1
+     pages: 35
+     year: 2021
+     date: 2021-04-29
+     doi: "10.1186/s13321-021-00511-5"
+     image: ""
+     pdf: "https://link.springer.com/content/pdf/10.1186/s13321-021-00511-5.pdf"
+     kind: article
+
 kimber_ijms_2021:
      key: kimber_ijms_2021
      title: "Deep Learning in Virtual Screening: Recent Applications and Developments"
@@ -98,7 +142,7 @@ becker_2021_smyd1:
   key: becker_2021_smyd1
   title: "Stability of Smyd1 in endothelial cells is controlled by PML-dependent SUMOylation upon cytokine stimulation"
   authors:
-    - Samuel Becke
+    - Samuel Becker
     - Gustav Steinemann
     - Weronika Karle
     - Kerrin Roos
