@@ -25,6 +25,28 @@
 
 #  Books
 
+corona_archpharm_2021:
+     key: corona_archpharm_2021
+     title: "Garcinol from Garcinia indica inhibits HIV‐1 reverse transcriptase‐associated ribonuclease H"
+     authors:
+       - Angela Corona
+       - Sebastian Seibt
+       - david.schaller
+       - Rainer Schobert
+       - andrea.volkamer
+       - Bernhard Biersack
+       - Enzo Tramontano
+     journal: Archiv der Pharmazie
+     volume: e2100123
+     issue: 
+     pages: 
+     year: 2021
+     date: 2021-05-18
+     doi: "10.1002/ardp.202100123"
+     image: ""
+     pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/ardp.202100123"
+     kind: article
+
 morger_jcheminf_2021:
      key: morger_jcheminf_2021
      title: "Assessing the calibration in toxicological in vitro models with conformal prediction"
