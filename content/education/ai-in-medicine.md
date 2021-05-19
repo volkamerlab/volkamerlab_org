@@ -15,7 +15,7 @@ Artificial intelligence is a key technology in computer science, the success of 
 
 The goal of this course (_Wahlpflichtmodul M24_) is to familiarize medical students with this new technology, in particular to jointly work out basic concepts of machine learning, to reduce possible resistance to programming, to demonstrate various applications in medical research (from drug development to brain imaging for neurological diseases) and to critically assess them with regard to practical, legal and ethical aspects.
 
-**Note**: This course is taught jointly with the group of <a href="https://psychiatrie-psychotherapie.charite.de/en/research/neuroimaging_and_neurotechnology/machine_learning/" target="_blank" class="external">Prof. Dr. Kerstin Ritter</a>.
+**Note**: This course is taught jointly with the group of <a href="https://psychiatrie-psychotherapie.charite.de/en/research/translation_and_neurotechnology/machine_learning/" target="_blank" class="external">Prof. Dr. Kerstin Ritter</a>.
 
 ## Resources
 
