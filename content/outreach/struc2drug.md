@@ -61,7 +61,6 @@ More information on Webex {{< external "can be found here" "https://wikis.fu-ber
 
 **From ternary complex formation to target degradation - PROTACs profiling**<br />
 **Ulrike Scheib** (Nuvisan ICB GmbH,  Berlin) & **David Schwefel** (Charité, Berlin)<br />
-
 Ulrike Scheib will talk about biochemical and biophysical assays that are used to follow the key steps of proteolysis targeting chimeras (PROTACs).
 In the second talk, David Schwefel will focus on the structural biology of multi-subunit ubiquitin ligases and targeted protein degradation.
 
