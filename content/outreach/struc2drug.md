@@ -40,13 +40,12 @@ To get an invite, reach out to us via <a class="icon fa-envelope" href="mailto:s
 
 ### Join us for our upcoming seminars
 
-#### March 11, 2021 · 16:00 (CET)
+We will announce the next seminar shorty.
 
-**From ternary complex formation to target degradation - PROTACs profiling**<br />
-**Ulrike Scheib** (Nuvisan ICB GmbH,  Berlin) & **David Schwefel** (Charité, Berlin)<br />
-
-Ulrike Scheib will talk about biochemical and biophysical assays that are used to follow the key steps of proteolysis targeting chimeras (PROTACs).
-In the second talk, David Schwefel will focus on the structural biology of multi-subunit ubiquitin ligases and targeted protein degradation.
+<!---
+#### June 00, 2021 · 16:00 (CET)
+**TBA**<br />
+**TBA** (TBA,  Berlin) & **TBA** (TBA, Berlin)<br />
 
 The link to the meeting will be the following:<br />
 · {{< external "Click here to open the Webex videocall" "https://fu-berlin.webex.com/fu-berlin/j.php?MTID=m32967b2bfa5c09f6817b0db0c889e1c7" >}}<br />
@@ -54,9 +53,16 @@ The link to the meeting will be the following:<br />
 · Password: `********` (check your email invite!)<br />
 
 More information on Webex {{< external "can be found here" "https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1037667239" >}}.
-
+--->
 
 ### Check out our previous seminars
+
+#### March 11, 2021 (online)
+
+**From ternary complex formation to target degradation - PROTACs profiling**<br />
+**Ulrike Scheib** (Nuvisan ICB GmbH,  Berlin) & **David Schwefel** (Charité, Berlin)<br />
+Ulrike Scheib will talk about biochemical and biophysical assays that are used to follow the key steps of proteolysis targeting chimeras (PROTACs).
+In the second talk, David Schwefel will focus on the structural biology of multi-subunit ubiquitin ligases and targeted protein degradation.
 
 #### January 14, 2021 (online)
 
