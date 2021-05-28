@@ -104,12 +104,21 @@
     - icon: envelope
       text: dominique.sydow@charite.de
       url: mailto:dominique.sydow@charite.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/dominiquesydow/
     - icon: github
       text: GitHub
       url: https://github.com/dominiquesydow
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.de/citations?user=_qAbn1YAAAAJ&hl=en&oi=ao
     - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0003-4205-8705
+    - icon: twitter
+      text: Twitter
+      url: https://twitter.com/dominiquesydow
 - name: Talia B. Kimber
   prefix:
   key: talia.kimber
