@@ -40,20 +40,25 @@ To get an invite, reach out to us via <a class="icon fa-envelope" href="mailto:s
 
 ### Join us for our upcoming seminars
 
-We will announce the next seminar shorty.
+#### July 15, 2021 · 17:00 (CET)
+**Computational tools guiding drug discovery for ion channels and kinases**<br />
+**David Mauricio Ramírez Sánchez** (Universidad Autónoma de Chile) & **Dominique Sydow** (Charité -- Universitätsmedizin Berlin)<br />
+
+<p>This session is getting more computational again! We will discuss computational strategies guiding drug discovery for two important drug targets: ion channels and kinases.</p>
+<p><a href="https://ramirezlab.github.io/index">David Mauricio Ramírez Sánchez</a> will talk about two pore domain TASK channels linked to breast cancer, sleep apnea and atrial fibrillation. 
+Guided by the molecular basis of TASK1 and TASK3 channel modulation by known drugs, his group has designed new compounds using pharmacophore-based virtual screening. The best candidates are now optimized using medicinal chemistry.</p>
+<p>Dominique Sydow, PhD student from the Volkamer Lab, will show how the structural information of kinase pockets can be encoded computationally and used to understand and predict (dis)similarities in this highly conserved protein class. These similarities can guide polypharmacology, off-target, and repurposing studies. Dominique will also shortly promote the TeachOpenCADD platform for everyone who is interested in learning Python programming in the context of cheminformatics and structural bioinformatics.</p>
+
+The seminar link will be posted soon.
 
 <!---
-#### June 00, 2021 · 16:00 (CET)
-**TBA**<br />
-**TBA** (TBA,  Berlin) & **TBA** (TBA, Berlin)<br />
-
 The link to the meeting will be the following:<br />
 · {{< external "Click here to open the Webex videocall" "https://fu-berlin.webex.com/fu-berlin/j.php?MTID=m32967b2bfa5c09f6817b0db0c889e1c7" >}}<br />
 · Meeting number: 121 340 6620<br />
 · Password: `********` (check your email invite!)<br />
 
 More information on Webex {{< external "can be found here" "https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1037667239" >}}.
---->
+-->
 
 ### Check out our previous seminars
 
