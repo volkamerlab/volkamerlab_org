@@ -1,5 +1,5 @@
 ---
-title: struc2drug seminar series
+title: struc2drug seminar
 date: 2020-03-06
 publishdate: 2020-03-06
 menu:
@@ -49,16 +49,13 @@ To get an invite, reach out to us via <a class="icon fa-envelope" href="mailto:s
 Guided by the molecular basis of TASK1 and TASK3 channel modulation by known drugs, his group has designed new compounds using pharmacophore-based virtual screening. The best candidates are now optimized using medicinal chemistry.</p>
 <p>Dominique Sydow, PhD student from the Volkamer Lab, will show how the structural information of kinase pockets can be encoded computationally and used to understand and predict (dis)similarities in this highly conserved protein class. These similarities can guide polypharmacology, off-target, and repurposing studies. Dominique will also shortly promote the TeachOpenCADD platform for everyone who is interested in learning Python programming in the context of cheminformatics and structural bioinformatics.</p>
 
-The seminar link will be posted soon.
 
-<!---
 The link to the meeting will be the following:<br />
-· {{< external "Click here to open the Webex videocall" "https://fu-berlin.webex.com/fu-berlin/j.php?MTID=m32967b2bfa5c09f6817b0db0c889e1c7" >}}<br />
-· Meeting number: 121 340 6620<br />
+· {{< external "Click here to open the Webex videocall" "https://fu-berlin.webex.com/fu-berlin/j.php?MTID=m244182a461e2420123ee75383112a5b6" >}}<br />
+· Meeting number: 121 928 7838<br />
 · Password: `********` (check your email invite!)<br />
 
 More information on Webex {{< external "can be found here" "https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1037667239" >}}.
--->
 
 ### Check out our previous seminars
 
