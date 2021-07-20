@@ -16,6 +16,7 @@ people:
 - key: talia.kimber
 - key: david.schaller
   more: "([MIAME](/projects/miame/))"
+- key: corey.taylor 
 - key: andrea.volkamer
 collaborators:
 - name: John D. Chodera
