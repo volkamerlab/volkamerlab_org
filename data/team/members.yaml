@@ -98,9 +98,6 @@
     - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0003-2535-9514
-#    - icon: twitter
-#      text: Twitter
-#      url: https://twitter.com/jaime_rgp
 # --PHDs---
 - name: Andrea Morger
   prefix:
