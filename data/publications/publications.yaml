@@ -25,6 +25,47 @@
 
 #  Books
 
+sydow_acs_2021:
+  key: sydow_acs_2021
+  title: "Teaching Computer-Aided Drug Design Using TeachOpenCADD"
+  authors:
+    - dominique.sydow
+    - jaime.rodriguez
+    - andrea.volkamer
+  journal: Teaching Programming across the Chemistry Curriculum. ACS Symposium Series
+  volume: 1387
+  issue:
+  pages:
+  year: 2021
+  date: 2021-07-27
+  doi: "10.1021/bk-2021-1387.ch010"
+  image:
+  pdf:
+  kind: book
+
+garcia_jcheminf_2021:
+     key: garcia_jcheminf_2021
+     title: "ChemBioSim: Enhancing Conformal Prediction of In Vivo Toxicity by Use of Predicted Bioactivities"
+     authors:
+       - Marina Garcia de Lomana
+       - andrea-lilian.morger
+       - Ulf Norinder
+       - Roland Buesen
+       - Robert Landsiedel
+       - andrea.volkamer
+       - Johannes Kirchmair
+       - Miriam Mathea
+     journal: Journal of Chemical Information and Modeling
+     volume: 61
+     issue: 7
+     pages: 3255-3272
+     year: 2021
+     date: 2021-06-21
+     doi: "10.1021/acs.jcim.1c00451"
+     image: ""
+     pdf: 
+     kind: article
+
 corona_archpharm_2021:
      key: corona_archpharm_2021
      title: "Garcinol from Garcinia indica inhibits HIV‐1 reverse transcriptase‐associated ribonuclease H"
