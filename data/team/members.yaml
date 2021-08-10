@@ -70,30 +70,6 @@
       text: ORCiD
       url: https://orcid.org/0000-0003-2535-9514
 # --PHDs---
-- name: Andrea Morger
-  prefix:
-  key: andrea-lilian.morger
-  role: PhD candidate
-  status: member
-  project: Machine learning and method development for kinase drug discovery
-  image: /images/team/coreytaylor.jpg
-  links:
-    - icon: envelope
-      text: corey.taylor@charite.de
-      url: mailto:corey.taylor@charite.de
-    - icon: linkedin
-      text: LinkedIn
-      url: https://www.linkedin.com/in/corey-taylor-264050208/
-    - icon: github
-      text: GitHub
-      url: https://github.com/corey-taylor
-    - icon: graduation-cap
-      text: Google Scholar
-      url: https://scholar.google.com/citations?user=IjR7hksAAAAJ&hl=en
-    - icon: book
-      text: ORCiD
-      url: https://orcid.org/0000-0003-2535-9514
-# --PHDs---
 - name: Dominique Sydow
   prefix:
   key: dominique.sydow
