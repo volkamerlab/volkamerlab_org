@@ -172,7 +172,7 @@
 - name: Jaime Rodríguez-Guerra
   prefix: Dr.
   key: jaime.rodriguez
-  role: Postdoc (CURRENT - Software Engineer at Quansite)
+  role: Postdoc [NOW - Software Engineer at Quansite]
   status: alumni
   project: Scalable alchemical free energy calculations and machine learning for kinase drug discovery
   image: /images/team/jaimerodriguezguerra.jpg
@@ -202,7 +202,7 @@
   prefix:
   key: andrea-lilian.morger
   role: PhD candidate
-  status: member
+  status: alumni
   image: /images/team/andreamorger.jpg
   project: In silico toxicity prediction and application to external data
   links:
@@ -218,7 +218,7 @@
 - name: Lisa Chiara Gosch
   prefix:
   role: Dr. med. candidate
-  status: member
+  status: alumni
   key: chiara.gosch
   project: Computational and experimental testing of novel EGFR and HDAC inhibitors (co-supervised with Prof. Höpfner)
   links:
@@ -232,21 +232,21 @@
   prefix:
   key: michele.wichmann
   role: Master student
-  status: studentmember
+  status: alumni
   image:
   project: Dynamic pharmacophore modeling from apo structures
 - name: Allen Dumler
   prefix:
-  key: allen.dumler
+  key: allen.dumler   
   role: Bachelor student
-  status: studentmember
+  status: alumni
   image:
   project: Standardization pipelines in computer-aided drug design
 - name: Sakshi Misra
   prefix:
   key: sakshi.misra
   role: Intern
-  status: studentmember
+  status: alumni
   image:
   project: Advancing TeachOpenCADD with machine learning notebooks
 - name: Paula Schmiel
