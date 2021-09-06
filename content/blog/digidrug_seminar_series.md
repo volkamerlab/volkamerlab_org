@@ -12,8 +12,8 @@ Confirmed speakers for the next series include [Dr. Mohammed AlQuraishi](https:/
 
 Key contacts:
 
-[Clara Christ](Clara.Christ@digidrug.net)<br>
-[Andrea Volkamer](Andrea.Volkamer@digidrug.net)<br>
-[Andreas Bender](Andreas.Bender@digidrug.net)
+<a href = "mailto: Clara.Christ@digidrug.net">Clara Christ</a><br>
+<a href = "mailto: Andrea.Volkamer@digidrug.net">Andrea Volkamer</a><br>
+<a href = "mailto: Andreas.Bender@digidrug.net">Andreas Bender</a>
 
 For updates as they occur, please see the [Digital Science for Drug Discovery website](http://www.digidrug.net/).
