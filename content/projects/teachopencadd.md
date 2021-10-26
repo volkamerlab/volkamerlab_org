@@ -42,12 +42,7 @@ collaborators:
 - name: Daria Goldmann
   more: KNIME
 funding:
-- name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
-- name: Deutsche Forschungsgemeinschaft (DFG), grant ID VO 2353 / 1-1
-- name: HaVo-Stiftung, Ludwig-shafen, Germany
-- name: Open Access Publication Fund of Charité – Universitätsmedizin Berlin
-- name: Stiftung Charité (Einstein BIH Visiting Fellow Project)
-- name: “SUPPORT für die Lehre” program (Förderung innovativer Lehrvorhaben) of Freie Universität Berlin.
+- name: Note that the TeachOpenCADD project has been a group effort and has received no explicit funding, while the positions of individual authors were supported by diverse funding agencies, see the individual projects' pages.
 publications:
 - teachopencaddknime
 - teachopencadd
