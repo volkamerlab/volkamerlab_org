@@ -8,35 +8,45 @@ menu:
     main:
         parent: Education
 external_resources:
+- name: TeachOpenCADD website
+  link: https://projects.volkamerlab.org/teachopencadd/
+  icon: globe
+  more: Main website for the TeachOpenCADD platform
 - name: TeachOpenCADD for Jupyter
   link: https://github.com/volkamerlab/TeachOpenCADD
   icon: github
   more: Jupyter notebooks on computer-aided drug design tasks using open resources
 - name: TeachOpenCADD for KNIME
   link: https://hub.knime.com/volkamerlab/spaces/Public/latest/TeachOpenCADD/TeachOpenCADD
+  icon: globe
   more: KNIME workflows on computer-aided drug design tasks using open resources
 people:
+# List here everyone who co-authored TOC publications and is/was a Volkamer Lab member
 - key: dominique.sydow
 - key: jaime.rodriguez
+- key: andrea.volkamer
+- key: talia.kimber
+- key: david.schaller
+- key: corey.taylor
+- key: yonghui.chen
 - key: michele.wichmann
+- key: mareike.leja
+- key: sakshi.misra
 - key: andrea-lilian.morger
 - key: maximilian.driller
-- key: andrea.volkamer
+- key: Armin Ariamajd
 collaborators:
+# List here everyone who co-authored TOC publications outside of the Volkamer Lab
 - name: Greg Landrum
   more: KNIME
 - name: Daria Goldmann
   more: KNIME
 funding:
-- name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
-- name: Deutsche Forschungsgemeinschaft (DFG), grant ID VO 2353 / 1-1
-- name: HaVo-Stiftung, Ludwig-shafen, Germany
-- name: Open Access Publication Fund of Charité – Universitätsmedizin Berlin
-- name: Stiftung Charité (Einstein BIH Visiting Fellow Project)
-- name: “SUPPORT für die Lehre” program (Förderung innovativer Lehrvorhaben) of Freie Universität Berlin.
+- name: Note that the TeachOpenCADD project has been a group effort and has received no explicit funding, while the positions of individual authors were supported by diverse funding agencies, see the individual projects' pages.
 publications:
 - teachopencaddknime
 - teachopencadd
+- sydow_acs_2021
 # You can use this keyword for the brief introductions to the article in category listings
 # This will replace the first 70 words found in the main article. use | <newline> to use multiline strings!
 summary: |
@@ -63,33 +73,4 @@ TeachOpenCADD is suitable for self-study training and classroom teaching, but ca
 research projects.
 The platform is freely available on GitHub and open to contributions from the community.
 
-{{< xfigure src="/images/research/teachopencadd_topics1-10.png" caption="The TeachOpenCADD platform offers tutorials covering a step-by-step pipeline to propose novel EGFR kinase inhibitors with concepts from cheminformatics (green) and structural bioinformatics (orange)." imageclass="fit" >}}
-
-### TeachOpenCADD topics
-
-TeachOpenCADD offers teaching material on common tasks in computer-aided drug design. Currently, the following topics are available:
-
-##### Cheminformatics
-
-1. Compound data acquisition: ChEMBL
-2. Molecular filtering: ADME and lead-likeness criteria
-3. Molecular filtering: Unwanted substructures
-4. Ligand-based screening: Compound similarity
-5. Compound clustering
-6. Maximum common substructures
-7. Ligand-based screening: Machine learning
-
-##### Structural bioinformatics
-
-8. Protein data acquisition: Protein Data Bank (PDB)
-9. Ligand-based pharmacophores
-10. Binding site similarity
-
-<!-- 11. Structure-based CADD using online APIs/servers -->
-<!-- * Querying KLIFS & PubChem for potential kinase inhibitors -->
-<!-- * Docking the candidates against the target -->
-<!-- * Visualizing the results and comparing against known data -->
-
-<!-- {{< xfigure src="/images/research/teachopencadd_topics11.png" caption="Topic 11" >}} -->
-
-Topics 1-10 are available as Python-based Jupyter notebooks and topics 1-8 can additionally be used in the form of KNIME workflows.
+{{< xfigure src="/images/research/teachopencadd.png" caption="The TeachOpenCADD platform offers tutorials covering a step-by-step pipeline to propose novel EGFR kinase inhibitors with concepts from cheminformatics (green), structural bioinformatics (orange), and online webserver queries (blue)." imageclass="fit" >}}

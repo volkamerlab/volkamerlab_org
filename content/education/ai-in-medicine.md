@@ -19,4 +19,4 @@ The goal of this course (_Wahlpflichtmodul M24_) is to familiarize medical stude
 
 ## Resources
 
-* <a class="icon fa-lock" target="_blank" href="https://github.com/volkamerlab/ai_in_medicine" title="Access restricted to enrolled students"> AI in Medicine repository (2020)</a>
+* <a class="icon fa-github" target="_blank" href="https://github.com/volkamerlab/ai_in_medicine" title="AI in Medicine repository"> AI in Medicine repository</a>
