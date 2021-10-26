@@ -23,10 +23,10 @@ collaborators:
   link: https://www.broadinstitute.org/bios/sikander-hayat
   more: Joint Bayer-Broad cardiovascular precision medicine group
 - name: Mark-Christoph Ott
-  link: https://www.bayer.com/en/
+  link: https://www.bayer.com/
   more:
 - name: Torben Broemstrup
-  link: https://www.bayer.com/en/
+  link: https://www.bayer.com/
   more:
 funding:
 - name: We thank Bayer AG for financial support (PostDoc position).
