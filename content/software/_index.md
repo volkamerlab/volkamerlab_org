@@ -24,4 +24,17 @@ Being a computational research lab, we develop an increasingly diverse portfolio
 {{< resources "projects/kinfraglib.md" >}}
 {{< intro "projects/kinfraglib.md" >}}
 
+## PLIPify
+
+{{< resources "projects/plipify.md" >}}
+{{< intro "projects/plipify.md" >}}
+
+## OpenCADD
+{{< resources "projects/opencadd.md" >}}
+{{< intro "projects/opencadd.md" >}}
+
+## KiSSim
+{{< resources "projects/kissim.md" >}}
+{{< intro "projects/kissim.md" >}}
+
 ## more coming ...
