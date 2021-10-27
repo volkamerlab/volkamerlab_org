@@ -5,6 +5,7 @@ weight: 10
 nav: false
 people:
 - key: jaime.rodriguez
+- key: franziska.fritz
 - key: david.schaller
 - key: andrea.volkamer
 external_resources:

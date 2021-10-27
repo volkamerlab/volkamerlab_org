@@ -228,6 +228,13 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/lisa-chiara-gosch-80022070/
+- name: Franziska Fritz
+  prefix:
+  key: franziska.fritz
+  role: Master student
+  status: alumni
+  image:
+  project: "PLIPify: Protein-Ligand Interaction Frequencies across Multiple Structures."
 - name: Michele Wichmann
   prefix:
   key: michele.wichmann
