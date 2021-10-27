@@ -231,7 +231,7 @@
 - name: Franziska Fritz
   prefix:
   key: franziska.fritz
-  role: Master student
+  role: Master student project work
   status: alumni
   image:
   project: "PLIPify: Protein-Ligand Interaction Frequencies across Multiple Structures."

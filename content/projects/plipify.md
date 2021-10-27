@@ -1,5 +1,5 @@
 ---
-title: PLIPify
+title: PLIPify (WIP)
 date: 2020-10-25
 weight: 10
 nav: false
