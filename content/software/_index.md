@@ -33,4 +33,8 @@ Being a computational research lab, we develop an increasingly diverse portfolio
 {{< resources "projects/opencadd.md" >}}
 {{< intro "projects/opencadd.md" >}}
 
+## KiSSim
+{{< resources "projects/kissim.md" >}}
+{{< intro "projects/kissim.md" >}}
+
 ## more coming ...
