@@ -19,6 +19,9 @@ collaborators:
 - name: John D. Chodera
   link: http://choderalab.org
   more: MSK, Einstein BIH Visiting Fellow
+- name: Clara Christ
+  link: https://www.bayer.com/
+  more: Head of Computational Molecular Design, Berlin, Bayer AG
 - name: Sikander Hayat
   link: https://www.broadinstitute.org/bios/sikander-hayat
   more: Joint Bayer-Broad cardiovascular precision medicine group
