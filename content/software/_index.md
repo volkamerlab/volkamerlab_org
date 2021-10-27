@@ -24,4 +24,8 @@ Being a computational research lab, we develop an increasingly diverse portfolio
 {{< resources "projects/kinfraglib.md" >}}
 {{< intro "projects/kinfraglib.md" >}}
 
+## PLIPify
+{{< resources "projects/plipify.md" >}}
+{{< intro "projects/plipify.md" >}}
+
 ## more coming ...
