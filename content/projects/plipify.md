@@ -8,6 +8,9 @@ people:
 - key: franziska.fritz
 - key: david.schaller
 - key: andrea.volkamer
+collaborators:
+  - name: William Glass
+    more: Chodera Lab
 external_resources:
   - name: PLIPify repository
     link: https://github.com/volkamerlab/plipify
