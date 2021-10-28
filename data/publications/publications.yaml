@@ -25,6 +25,28 @@
 
 #  Books
 
+klutzny_envintern_2021:
+     key: klutzny_envintern_2021
+     title: "Quantitative high-throughput phenotypic screening for environmental estrogens using the E-Morph Screening Assay in combination with in silico predictions"
+     authors:
+       - Saskia Klutzny
+       - Marja Kornhuber
+       - andrea-lilian.morger
+       - Gilbert Schönfelder
+       - andrea.volkamer
+       - Michael Oelgeschläger
+       - Sebastian Dunst
+     journal: Environment International
+     volume: 158
+     issue: 
+     pages: 106947
+     year: 2021
+     date: 2021-10-28
+     doi: "https://doi.org/10.1016/j.envint.2021.106947"
+     image: ""
+     pdf: "https://www.sciencedirect.com/science/article/pii/S0160412021005729/pdfft?md5=8c750e1ed440db268a32697a042dd728&pid=1-s2.0-S0160412021005729-main.pdf"
+     kind: article
+
 sydow_acs_2021:
   key: sydow_acs_2021
   title: "Teaching Computer-Aided Drug Design Using TeachOpenCADD"
