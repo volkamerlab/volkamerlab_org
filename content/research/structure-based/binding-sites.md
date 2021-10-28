@@ -1,5 +1,5 @@
 ---
-title: Binding-site comparison
+title: Binding site comparison
 date: 2020-03-03
 publishdate: 2020-03-03
 weight: 10

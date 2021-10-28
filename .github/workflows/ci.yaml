@@ -30,12 +30,20 @@ jobs:
       - name: Build & check
         run: |
           hugo
-          npx linkinator ./public --recurse --retry --timeout=5000 --skip \
+          npx linkinator ./public --recurse --retry --timeout=5000 --concurrency 50 --skip \
             'https://github.com/volkamerlab/CADDCourse2020,
              https://github.com/volkamerlab/CADDSeminar_2020,
              https://github.com/volkamerlab/CADDSeminar_2019,
              https://github.com/volkamerlab/ratar,
              https://dx.doi.org/10.1002/cmdc.201900328,
+             https://dx.doi.org/10.1002/ardp.202100123,
+             https://dx.doi.org/10.1007/s10822-020-00310-4,
+             https://www.einsteinfoundation.de/en/people-projects/einstein-bih-visiting-fellows/john-chodera/,
+             https://www.einsteinfoundation.de/en/programmes/einstein-bih-visiting-fellow/,
+             https://systemsbiology.columbia.edu/faculty/mohammed-alquraishi,
+             https://systemsbiology.columbia.edu/,
+             https://www.bayer.com/,
              linkedin.com,
              html5up.net,
-             gepris.dfg.de'
+             gepris.dfg.de,
+             https://www.csc.edu.cn/'
