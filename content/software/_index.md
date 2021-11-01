@@ -37,4 +37,8 @@ Being a computational research lab, we develop an increasingly diverse portfolio
 {{< resources "projects/kissim.md" >}}
 {{< intro "projects/kissim.md" >}}
 
+## Maxsmi
+{{< resources "projects/maxsmi.md" >}}
+{{< intro "projects/maxsmi.md" >}}
+
 ## more coming ...
