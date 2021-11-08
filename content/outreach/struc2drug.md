@@ -40,17 +40,18 @@ To get an invite, reach out to us via <a class="icon fa-envelope" href="mailto:s
 
 ### Join us for our upcoming seminars
 
-TBA
+#### November 11, 2021 · 16:00 (CET)
 
+**Development and application of high throughput screening**<br />
+**Saif Mohd** (MDC, Berlin) & **Theresa Melder** (MDC, Berlin)<br />
 
-<!--
+<p>Saif is working on dynamin superfamily of proteins with focus on EHDs. This family consists of mechano-chemical proteins driven by GTP/ATP hydrolysis. His aim is to find inhibitor molecules via high throughput screening and to characterize them structurally and functionally.</p>
+<p>Teresa develops a novel proteomic screening platform to explore the target landscape of bioactive compounds. Using unspecific UV-X-linking, drug-like substances are immobilized simultanously on functionalized cellulose membranes in an undirected manner and without any prior modification of the compounds being required. The constructed drug microarray is used to pull down interacting proteins from a whole cell extract in an affinity purification mass spectrometry (AP-MS) approach to identify specific targets.</p>
+
 The link to the meeting will be the following:<br />
-· {{< external "Click here to open the Webex videocall" "https://fu-berlin.webex.com/fu-berlin/j.php?MTID=m244182a461e2420123ee75383112a5b6" >}}<br />
-· Meeting number: 121 928 7838<br />
+· <a href="https://mdc-berlin.zoom.us/j/95429186553?pwd=WGt0SW5KM2NTaDVjYTRpTzJTRTJIQT09">Click here to open the zoom link</a><br />
+· Meeting number: 954 2918 6553<br />
 · Password: `********` (check your email invite!)<br />
-
-More information on Webex {{< external "can be found here" "https://wikis.fu-berlin.de/pages/viewpage.action?pageId=1037667239" >}}.
--->
 
 ### Check out our previous seminars
 
