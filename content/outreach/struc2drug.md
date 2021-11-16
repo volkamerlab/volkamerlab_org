@@ -32,32 +32,44 @@ With this seminar, we want to
 
 Sign up to <a href="https://mailman.charite.de/mailman/listinfo/struc2drug" target="_blank"><i class="icon fa-envelope"></i> our mailing list</a> to be notified on upcoming events.
 
+<!--
 ### Socialize on our Discord server
 
 New! Join us on our Discord server to get in touch with us and to participate in our seminar discussions. 
 To get an invite, reach out to us via <a class="icon fa-envelope" href="mailto:struc2drug-orga@charite.de" target="_blank" title="struc2drug-orga@charite.de"></a> or <a href="https://twitter.com/struc2drug" target="_blank"><i class="icon fa-twitter"></i></a>.
-
+--->
 
 ### Join us for our upcoming seminars
 
-#### November 11, 2021 · 16:00 (CET)
+#### December 9, 2021 · 15:00-16:00 (CET)
 
-**Development and application of high throughput screening**<br />
-**Saif Mohd** (MDC, Berlin) & **Theresa Melder** (MDC, Berlin)<br />
+**Deciphering interaction profiles with molecular dynamics simulations**<br />
+**Guillermo Pérez Hernández** (Charité, Berlin) & **Tim Hempel** (FU, Berlin)<br />
 
-<p>Saif is working on dynamin superfamily of proteins with focus on EHDs. This family consists of mechano-chemical proteins driven by GTP/ATP hydrolysis. His aim is to find inhibitor molecules via high throughput screening and to characterize them structurally and functionally.</p>
-<p>Teresa develops a novel proteomic screening platform to explore the target landscape of bioactive compounds. Using unspecific UV-X-linking, drug-like substances are immobilized simultanously on functionalized cellulose membranes in an undirected manner and without any prior modification of the compounds being required. The constructed drug microarray is used to pull down interacting proteins from a whole cell extract in an affinity purification mass spectrometry (AP-MS) approach to identify specific targets.</p>
+<p>Molecular Dynamics (MD) is an established simulation method that yields atomic-level detail, giving insights into molecular processes at arbitrary time resolutions. Abstracting useful information from MD simulations, however, is a different story, in particular for drug development.</p>
+<p>Molecular structures <i>in motion</i> tell a story that is sometimes hard to understand. From visual inspection to highly automated statistical analysis, different approaches yield different types of information. When are atomic-level details relevant, when are they anecdotal? Are we better off with ensembles and/or macrostates? Do simple correlations suffice? When do we use existing tools and when do we adapt new ones? I will try to provide some answers to these questions by presenting some work on different GPCR-systems.</p>
+<p>In an effort to re-purpose approved drugs against COVID, we investigate the molecular inhibition mechanism of TMPRSS2, a SARS-CoV-2 spike protein activator. Through molecular dynamics simulations and Markov modeling, the binding process of the drugs camostat and nafamostat to TMPRSS2 is described in atomistic detail. We find that nafamostat has a higher Michaelis complex population than camostat, explaining the potency differences measured in our in-vitro assays. This mechanistic understanding is used to suggest a novel drug combination with late stage drug candidate otamixaban.</p>
 
+The meeting link will be posted shortly.
+
+<!--
 The link to the meeting will be the following:<br />
 · <a href="https://mdc-berlin.zoom.us/j/95429186553?pwd=WGt0SW5KM2NTaDVjYTRpTzJTRTJIQT09">Click here to open the zoom link</a><br />
 · Meeting number: 954 2918 6553<br />
 · Password: `********` (check your email invite!)<br />
+--->
 
 ### Check out our previous seminars
 
+#### November 11, 2021 (online)
+**Development and application of high throughput screening**<br />
+**Saif Mohd** (MDC, Berlin) & **Theresa Melder** (MDC, Berlin)<br />
+Saif is working on dynamin superfamily of proteins with focus on EHDs. This family consists of mechano-chemical proteins driven by GTP/ATP hydrolysis. His aim is to find inhibitor molecules via high throughput screening and to characterize them structurally and functionally.
+Teresa develops a novel proteomic screening platform to explore the target landscape of bioactive compounds. Using unspecific UV-X-linking, drug-like substances are immobilized simultanously on functionalized cellulose membranes in an undirected manner and without any prior modification of the compounds being required. The constructed drug microarray is used to pull down interacting proteins from a whole cell extract in an affinity purification mass spectrometry (AP-MS) approach to identify specific targets.
+
 #### July 15, 2021 (online)
 **Computational tools guiding drug discovery for ion channels and kinases**<br />
-**David Mauricio Ramírez Sánchez** (Universidad Autónoma de Chile) & **Dominique Sydow** (Charité -- Universitätsmedizin Berlin)<br />
+**David Mauricio Ramírez Sánchez** (Universidad Autónoma de Chile) & **Dominique Sydow** (Charité, Berlin)<br />
 This session is getting more computational again! We will discuss computational strategies guiding drug discovery for two important drug targets: ion channels and kinases.
 <a href="https://ramirezlab.github.io/index">David Mauricio Ramírez Sánchez</a> will talk about two pore domain TASK channels linked to breast cancer, sleep apnea and atrial fibrillation. 
 Guided by the molecular basis of TASK1 and TASK3 channel modulation by known drugs, his group has designed new compounds using pharmacophore-based virtual screening. The best candidates are now optimized using medicinal chemistry.
