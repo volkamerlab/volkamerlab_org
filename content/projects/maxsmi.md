@@ -18,6 +18,8 @@ funding:
 - name: The Einstein Foundation & Stiftung Charité
   link: https://www.einsteinfoundation.de/en/programmes/einstein-bih-visiting-fellow/
   more: BIH Einstein Visiting Fellowship
+publications:
+- kimber_ailsci_2021
 ---
 
 Accurate molecular property or activity prediction is one of the main goals in computer-aided drug design. Quantitative structure-activity relationship (QSAR) modeling and machine learning, more recently deep learning, have become an integral part of this process. Such algorithms require lots of data for training, which, in the case of physico- chemical and bioactivity data sets remains scarce.
