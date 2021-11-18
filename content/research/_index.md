@@ -34,6 +34,7 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
   * [Cytotoxicity](/projects/cytotox)
   <!-- TODO * CP_Tox21 -->
 * [Deep learning based virtual screening](/projects/deeplearning-vs/)
+* [Data augmentation and deep learning for physico-chemical property prediction](/projects/maxsmi/)
 
 ### [OpenKinome](/research/openkinome)
 
