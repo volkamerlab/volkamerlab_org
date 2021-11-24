@@ -50,7 +50,7 @@ To get an invite, reach out to us via <a class="icon fa-envelope" href="mailto:s
 <p>Molecular structures <i>in motion</i> tell a story that is sometimes hard to understand. From visual inspection to highly automated statistical analysis, different approaches yield different types of information. When are atomic-level details relevant, when are they anecdotal? Are we better off with ensembles and/or macrostates? Do simple correlations suffice? When do we use existing tools and when do we adapt new ones? I will try to provide some answers to these questions by presenting some work on different GPCR-systems.</p>
 <p>In an effort to re-purpose approved drugs against COVID, we investigate the molecular inhibition mechanism of TMPRSS2, a SARS-CoV-2 spike protein activator. Through molecular dynamics simulations and Markov modeling, the binding process of the drugs camostat and nafamostat to TMPRSS2 is described in atomistic detail. We find that nafamostat has a higher Michaelis complex population than camostat, explaining the potency differences measured in our in-vitro assays. This mechanistic understanding is used to suggest a novel drug combination with late stage drug candidate otamixaban.</p>
 
-The meeting link will be posted shortly.
+WebEx meeting link: https://fu-berlin.webex.com/fu-berlin-en/j.php?MTID=m2792f49115ef3d219dce7b4db97d3b9f
 
 <!--
 The link to the meeting will be the following:<br />
