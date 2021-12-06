@@ -32,6 +32,21 @@ With this seminar, we want to
 
 Sign up to <a href="https://mailman.charite.de/mailman/listinfo/struc2drug" target="_blank"><i class="icon fa-envelope"></i> our mailing list</a> to be notified on upcoming events.
 
+### Contact us
+
+Reach out to us via <a class="icon fa-envelope" href="mailto:struc2drug-orga@charite.de" target="_blank" title="struc2drug-orga@charite.de"></a> or <a href="https://twitter.com/struc2drug" target="_blank"><i class="icon fa-twitter"></i></a>.
+
+### Organizers
+
+- 2019-2021: 
+Ferdinand Krupp 
+<a href="https://twitter.com/FerdKrupp" target="_blank"><i class="icon fa-twitter"></i></a> 
+<a href="https://www.linkedin.com/in/ferdinand-krupp-a5b36b195/" target="_blank"><i class="icon fa-linkedin"></i></a> and 
+Dominique Sydow 
+<a href="https://twitter.com/dominiquesydow" target="_blank"><i class="icon fa-twitter"></i></a>
+<a href="https://www.linkedin.com/in/dominique-sydow-976006144/" target="_blank"><i class="icon fa-linkedin"></i></a>
+- Since 2022: Kristina Puls <a href="https://twitter.com/KristinaPuls" target="_blank"><i class="icon fa-twitter"></i></a> and Corey Taylor <a class="icon fa-envelope" href="mailto:corey.taylor@charite.de" target="_blank" title="corey.taylor@charite.de"></a> 
+
 <!--
 ### Socialize on our Discord server
 
