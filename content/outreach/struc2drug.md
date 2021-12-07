@@ -45,7 +45,11 @@ Ferdinand Krupp
 Dominique Sydow 
 <a href="https://twitter.com/dominiquesydow" target="_blank"><i class="icon fa-twitter"></i></a>
 <a href="https://www.linkedin.com/in/dominique-sydow-976006144/" target="_blank"><i class="icon fa-linkedin"></i></a>
-- Since 2022: Kristina Puls <a href="https://twitter.com/KristinaPuls" target="_blank"><i class="icon fa-twitter"></i></a> and Corey Taylor <a class="icon fa-envelope" href="mailto:corey.taylor@charite.de" target="_blank" title="corey.taylor@charite.de"></a> 
+- Since 2022: 
+Kristina Puls 
+<a class="icon fa-envelope" href="mailto:kristina.puls@fu-berlin.de" target="_blank" title="kristina.puls@fu-berlin.de"></a> 
+Corey Taylor 
+<a class="icon fa-envelope" href="mailto:corey.taylor@charite.de" target="_blank" title="corey.taylor@charite.de"></a> 
 
 <!--
 ### Socialize on our Discord server
