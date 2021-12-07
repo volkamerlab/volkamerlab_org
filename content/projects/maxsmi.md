@@ -22,11 +22,10 @@ publications:
 - kimber_ailsci_2021
 ---
 
-Accurate molecular property or activity prediction is one of the main goals in computer-aided drug design. Quantitative structure-activity relationship (QSAR) modeling and machine learning, more recently deep learning, have become an integral part of this process. Such algorithms require lots of data for training, which, in the case of physico- chemical and bioactivity data sets remains scarce.
+Deep learning requires lots of data which in the case of physico- chemical and bioactivity remains scarce. Here, we exploit that one compound can be represented by various SMILES strings as means of data augmentation and we explore several augmentation techniques. The best strategies lead to the Maxsmi models, the models that <b>max</b>imize the performance in <b>SMI</b>LES augmentation. These models are trained on four data sets, including experimental solubility, lipophilicity, and bioactivity measurements, and are available for prediction on novel compounds.
 
 <!--more-->
 
-To address the lack of data, augmentation techniques are sought. Here, we exploit that one compound can be represented by various SMILES strings as means of data augmentation and we explore several augmentation techniques. The best strategies lead to the Maxsmi models, the models that <b>max</b>imize the performance in <b>SMI</b>LES augmentation. These models are trained on four data sets, including experimental solubility, lipophilicity, and bioactivity measurements.
-
+Moreover, the uncertainty of the models is assessed by applying augmentation on the test set. Our results show that data augmentation improves the accuracy independently of the deep learning model and of the size of the data.
 
 {{< xfigure src="/images/research/maxsmi.png" caption="Given a compound represented by its canonical SMILES, the Maxsmi model produces a prediction for each of the SMILES variations. The aggregation of these values leads to a per compound prediction and the standard deviation to an uncertainty in the prediction. The Maxsmi model predicts lipophilicity of semaxanib to 3.109, with an uncertainty of 0.442." imageclass="fit" >}}

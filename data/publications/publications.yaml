@@ -27,7 +27,7 @@
 
 kimber_ailsci_2021:
      key: kimber_ailsci_2021
-     title: "Maxsmi: maximizing molecular property prediction performance with confidence estimation using SMILES augmentation and deep learning"
+     title: "Maxsmi: Maximizing molecular property prediction performance with confidence estimation using SMILES augmentation and deep learning"
      authors:
        - talia.kimber
        - Maxime Gagnebin
