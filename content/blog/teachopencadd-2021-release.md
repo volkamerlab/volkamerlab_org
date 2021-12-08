@@ -1,6 +1,6 @@
 ---
 title: "TeachOpenCADD 2021 release is out!"
-date: 2021-12-09T00:00:00+02:00
+date: 2021-12-07T00:00:00+02:00
 author: dominique.sydow
 ---
 
@@ -9,7 +9,7 @@ author: dominique.sydow
 - Yes? Perfect, we have good news! We are back with more content, a new website, simplified installation options, and much more. We will go into the details in a bit.
 - No? Well, we are happy you found your way here! Let's start at the beginning.
 
-In 2019, [we lauched TeachOpenCADD](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0351-x), a teaching platform for cheminformatics and structural bioinformatics that show-cases how to perform central tasks in computer-aided drug design.
+In 2019, [we launched TeachOpenCADD](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0351-x), a teaching platform for cheminformatics and structural bioinformatics that show-cases how to perform central tasks in computer-aided drug design.
 
 - We are using only open source Python packages and data resources. **This setup makes the material accessible to everyone.**
 - Each topic is covered in a Jupyter notebook always following the same aim-theory-code-discussion-quiz scheme. **This all-in-one approach makes the topics comprehensible to users from all backgrounds.** Thanks to this setup, these tutorials are also suitable for oral presentations, hence we call them talktorials (talk + tutorial).
@@ -24,7 +24,7 @@ These are the top 3 major updates in this release:
 - More topics &mdash; [now in total 22](https://projects.volkamerlab.org/teachopencadd/all_talktorials.html) &mdash; covering cheminformatics, structural bioinformatics, and online queries!
 - Easy local [installation](https://projects.volkamerlab.org/teachopencadd/installing.html) via our `conda` package for users who want to execute and modify the talktorials!
 
-You heard enough? Great, enjoy our website! &mdash; You are intested in more details? Wonderful, please read on.
+You heard enough? Great, enjoy our website! &mdash; You are interested in more details? Wonderful, please read on.
 
 ## New website and content
 
