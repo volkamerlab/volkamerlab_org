@@ -10,7 +10,7 @@ author: dominique.sydow
 
 - No, you haven't? Well, we are happy you found your way here!
 
-Click on `READ MORE` below for more exciting details on the new release! Have a peek at the website to spark your interest!
+We will show you what TeachOpenCADD as to offer and tell you more about the exciting details on the new release!
 
 ## How did it start?
 
@@ -39,49 +39,48 @@ The website hosts a static view of all our Jupyter notebooks, which makes browsi
 
 ### Querying online APIs/servers from Python
 
-- `T011` · Querying online API webservices
-- `T001` · Data acquisition from ChEMBL
-- `T008` · Data acquisition from PDB
-- `T012` · Data acquisition from KLIFS
-- `T013` · Data acquisition from PubChem
+- `T011` Querying online API webservices
+- `T001` Data acquisition from ChEMBL
+- `T008` Data acquisition from PDB
+- `T012` Data acquisition from KLIFS
+- `T013` Data acquisition from PubChem
 
 ### Cheminformatics
 
 Mostly powered by the [RDKit](https://www.rdkit.org/)!
 
-- `T002` · ADME and lead-likeness criteria
-- `T003` · Unwanted substructures
-- `T004` · Compound similarity
-- `T005` · Compound clustering
-- `T006` · Maximum common substructure
-- `T007` · Ligand-based screening: Machine learning
-- `T009` · Ligand-based pharmacophores
-- `T021` · One-hot encoding
-- `T022` · Ligand-based screening: Neural networks
+- `T002` ADME and lead-likeness criteria
+- `T003` Unwanted substructures
+- `T004` Compound similarity
+- `T005` Compound clustering
+- `T006` Maximum common substructure
+- `T007` Ligand-based screening: Machine learning
+- `T009` Ligand-based pharmacophores
+- `T021` One-hot encoding
+- `T022` Ligand-based screening: Neural networks
 
 ### Structural bioinformatics
 
-- `T010` · Binding site similarity and off-target prediction
-- `T014` · Binding site detection ([Proteins.Plus](https://proteins.plus/))
-- `T015` · Protein ligand docking ([smina](https://sourceforge.net/p/smina/discussion/))
-- `T016` · Protein-ligand interactions ([PLIP](https://github.com/pharmai/plip))
-- `T017` · Advanced NGLview usage
-- `T018` · Automated pipeline for lead optimization
-- `T019` · Molecular dynamics simulation ([OpenMM](https://openmm.org/))
-- `T020` · Analyzing molecular dynamics simulations ([MDAnalysis](https://www.mdanalysis.org/))
+- `T010` Binding site similarity and off-target prediction
+- `T014` Binding site detection ([Proteins.Plus](https://proteins.plus/))
+- `T015` Protein ligand docking ([smina](https://sourceforge.net/p/smina/discussion/))
+- `T016` Protein-ligand interactions ([PLIP](https://github.com/pharmai/plip))
+- `T017` Advanced NGLview usage ([NGLview](https://github.com/nglviewer/nglview))
+- `T018` Automated pipeline for lead optimization
+- `T019` Molecular dynamics simulation ([OpenMM](https://openmm.org/))
+- `T020` Analyzing molecular dynamics simulations ([MDAnalysis](https://www.mdanalysis.org/))
 
 
 ## TeachOpenCADD and FAIR principles
 
-Since the platform has been growing &mdash; and will continue to grow &mdash;, we set up a continuous integration that tests all notebooks on a regular basis to ensure functional, reproducible, and reusable pipelines.
+Since the platform has been growing and will continue to grow, we set up a continuous integration (GitHub Actions) that tests all notebooks &mdash; thank you `pytest` and `nbval` &mdash; on a regular basis to ensure functional, reusable, and reproducible pipelines.
 
-Pythonic code
+We love open research. We comply with the FAIR principles for for [data](https://www.nature.com/articles/sdata201618) and [software](https://content.iospress.com/articles/data-science/ds190026) as follows:
 
-FAIR principles for [data](https://www.nature.com/articles/sdata201618) and [software](https://content.iospress.com/articles/data-science/ds190026)
-- findable
-- accessible
-- interoperable
-- reusable
+- findable &mdash; our code is registered on GitHub and `conda-forge`
+- accessible &mdash; our code and all its dependencies are free to download
+- interoperable &mdash; we support Windows, Linux, and MacOS for Python >= 3.7; dependencies are defined and managed within the `conda` ecosystem
+- reusable &mdash; re-use is easy thanks to our `conda` package (CY BB 4.0 licence); maintenance is monitored by our continuous integration
 
 ## Contributors
 
