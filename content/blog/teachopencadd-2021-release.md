@@ -6,8 +6,13 @@ author: dominique.sydow
 
 ## Have you heard of TeachOpenCADD?
 
-- Yes? Perfect, we have good news! We are back with more content, a new website, simplified installation options, and much more. We will go into the details in a bit.
-- No? Well, we are happy you found your way here! Let's start at the beginning.
+- Yes? Perfect, we have good news! We are back with more content (12 fresh new notebooks!), a new website, simplified installation options, and much, much more.
+
+- No, you haven't? Well, we are happy you found your way here!
+
+Click on `READ MORE` below for more exciting details on the new release! Have a peek at the website to spark your interest!
+
+## How did it start?
 
 In 2019, [we launched TeachOpenCADD](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0351-x), a teaching platform for cheminformatics and structural bioinformatics that show-cases how to perform central tasks in computer-aided drug design.
 
