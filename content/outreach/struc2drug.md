@@ -60,25 +60,31 @@ To get an invite, reach out to us via <a class="icon fa-envelope" href="mailto:s
 
 ### Join us for our upcoming seminars
 
+To be announced soon!
+
+<!--
+Leaving here the last session, in case you want to use the formatting for the next session.
+
 #### December 9, 2021 · 15:00-16:00 (CET)
 
 **Deciphering interaction profiles with molecular dynamics simulations**<br />
 **Guillermo Pérez Hernández** (Charité, Berlin) & **Tim Hempel** (FU, Berlin)<br />
 
-<p>Molecular Dynamics (MD) is an established simulation method that yields atomic-level detail, giving insights into molecular processes at arbitrary time resolutions. Abstracting useful information from MD simulations, however, is a different story, in particular for drug development.</p>
-<p>Molecular structures <i>in motion</i> tell a story that is sometimes hard to understand. From visual inspection to highly automated statistical analysis, different approaches yield different types of information. When are atomic-level details relevant, when are they anecdotal? Are we better off with ensembles and/or macrostates? Do simple correlations suffice? When do we use existing tools and when do we adapt new ones? I will try to provide some answers to these questions by presenting some work on different GPCR-systems.</p>
-<p>In an effort to re-purpose approved drugs against COVID, we investigate the molecular inhibition mechanism of TMPRSS2, a SARS-CoV-2 spike protein activator. Through molecular dynamics simulations and Markov modeling, the binding process of the drugs camostat and nafamostat to TMPRSS2 is described in atomistic detail. We find that nafamostat has a higher Michaelis complex population than camostat, explaining the potency differences measured in our in-vitro assays. This mechanistic understanding is used to suggest a novel drug combination with late stage drug candidate otamixaban.</p>
+<p>First paragraph</p>
+<p>Second paragraph</p>
 
 WebEx meeting link: https://fu-berlin.webex.com/fu-berlin-en/j.php?MTID=m2792f49115ef3d219dce7b4db97d3b9f
 
-<!--
-The link to the meeting will be the following:<br />
-· <a href="https://mdc-berlin.zoom.us/j/95429186553?pwd=WGt0SW5KM2NTaDVjYTRpTzJTRTJIQT09">Click here to open the zoom link</a><br />
-· Meeting number: 954 2918 6553<br />
-· Password: `********` (check your email invite!)<br />
 --->
 
 ### Check out our previous seminars
+
+#### December 9, 2021 (online)
+**Deciphering interaction profiles with molecular dynamics simulations**<br />
+**Guillermo Pérez Hernández** (Charité, Berlin) & **Tim Hempel** (FU, Berlin)<br />
+Molecular Dynamics (MD) is an established simulation method that yields atomic-level detail, giving insights into molecular processes at arbitrary time resolutions. Abstracting useful information from MD simulations, however, is a different story, in particular for drug development.
+<i>Guillermo</i>: Molecular structures <i>in motion</i> tell a story that is sometimes hard to understand. From visual inspection to highly automated statistical analysis, different approaches yield different types of information. When are atomic-level details relevant, when are they anecdotal? Are we better off with ensembles and/or macrostates? Do simple correlations suffice? When do we use existing tools and when do we adapt new ones? I will try to provide some answers to these questions by presenting some work on different GPCR-systems.
+<i>Tim</i>: In an effort to re-purpose approved drugs against COVID, we investigate the molecular inhibition mechanism of TMPRSS2, a SARS-CoV-2 spike protein activator. Through molecular dynamics simulations and Markov modeling, the binding process of the drugs camostat and nafamostat to TMPRSS2 is described in atomistic detail. We find that nafamostat has a higher Michaelis complex population than camostat, explaining the potency differences measured in our in-vitro assays. This mechanistic understanding is used to suggest a novel drug combination with late stage drug candidate otamixaban.
 
 #### November 11, 2021 (online)
 **Development and application of high throughput screening**<br />
