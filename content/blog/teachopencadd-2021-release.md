@@ -10,11 +10,11 @@ author: dominique.sydow
 
 - No, you haven't? Well, we are happy you found your way here!
 
-We will show you what TeachOpenCADD as to offer and tell you more about the exciting details on the new release!
+We will show you what TeachOpenCADD has to offer and tell you more about the exciting details on the new release!
 
 ## How did it start?
 
-In 2019, [we launched TeachOpenCADD](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0351-x), a teaching platform for cheminformatics and structural bioinformatics that show-cases how to perform central tasks in computer-aided drug design.
+In 2019, [we launched TeachOpenCADD](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0351-x), a teaching platform for cheminformatics and structural bioinformatics that show-cases how to perform central tasks in computer-aided drug design (CADD).
 
 - We are using only open source Python packages and data resources. **This setup makes the material accessible to everyone.**
 - Each topic is covered in a Jupyter notebook always following the same aim-theory-code-discussion-quiz scheme. **This all-in-one approach makes the topics comprehensible to users from all backgrounds.** Thanks to this setup, these tutorials are also suitable for oral presentations, hence we call them talktorials (talk + tutorial).
@@ -26,16 +26,16 @@ In 2019, [we launched TeachOpenCADD](https://jcheminf.biomedcentral.com/articles
 These are the top 3 major updates in this release:
 
 - New [website](https://projects.volkamerlab.org/teachopencadd/) for read-only browsing of our content!
-- More topics &mdash; [now in total 22](https://projects.volkamerlab.org/teachopencadd/all_talktorials.html) &mdash; covering cheminformatics, structural bioinformatics, and online queries!
+- More topics &mdash; [now in total 22](https://projects.volkamerlab.org/teachopencadd/all_talktorials.html) &mdash; covering online queries, cheminformatics, and structural bioinformatics tasks!
 - Easy local [installation](https://projects.volkamerlab.org/teachopencadd/installing.html) via our `conda` package for users who want to execute and modify the talktorials!
 
-You heard enough? Great, enjoy our website! &mdash; You are interested in more details? Wonderful, please read on.
+You have heard enough? Great, enjoy our website! &mdash; You are interested in more details? Wonderful, please read on.
 
 ## New website and content
 
 Since 2019, we have been working a lot on extending and improving our material. Let's start with the feature that will make all our material much easier and quicker to access - our new [website](https://projects.volkamerlab.org/teachopencadd/)!
 
-The website hosts a static view of all our Jupyter notebooks, which makes browsing through the TeachOpenCADD content convenient, fast, and searchable. We extended our cheminformatics-focused 2019 release with a lot of new topics from structural bioinformatics; and we demonstrate in detail how to query different online resources from within a Python pipeline.
+The website hosts a static view of all our Jupyter notebooks, which makes browsing through the TeachOpenCADD content convenient, fast, and searchable. We extended our cheminformatics-focused 2019 release with a lot of new topics from structural bioinformatics, and we demonstrate in detail how to query different online resources from within a Python pipeline.
 
 ### Querying online APIs/servers from Python
 
@@ -73,19 +73,19 @@ Mostly powered by the [RDKit](https://www.rdkit.org/)!
 
 ## TeachOpenCADD and FAIR principles
 
-Since the platform has been growing and will continue to grow, we set up a continuous integration (GitHub Actions) that tests all notebooks &mdash; thank you `pytest` and `nbval` &mdash; on a regular basis to ensure functional, reusable, and reproducible pipelines.
+Since the platform has been growing and will continue to grow, we set up a continuous integration (GitHub Actions) that tests all notebooks &mdash; thanks to `pytest` and `nbval` &mdash; on a regular basis to ensure functional, reusable, and reproducible pipelines.
 
-We love open research. We comply with the FAIR principles for for [data](https://www.nature.com/articles/sdata201618) and [software](https://content.iospress.com/articles/data-science/ds190026) as follows:
+We love open research. We comply with the FAIR principles for [data](https://www.nature.com/articles/sdata201618) and [software](https://content.iospress.com/articles/data-science/ds190026) as follows:
 
 - findable &mdash; our code is registered on GitHub and `conda-forge`
 - accessible &mdash; our code and all its dependencies are free to download
 - interoperable &mdash; we support Windows, Linux, and MacOS for Python >= 3.7; dependencies are defined and managed within the `conda` ecosystem
-- reusable &mdash; re-use is easy thanks to our `conda` package (CY BB 4.0 licence); maintenance is monitored by our continuous integration
+- reusable &mdash; re-use is easy thanks to our `conda` package (CY BB 4.0 license); maintenance is monitored by our continuous integration
 
 ## Contributors
 
-This new TeachOpenCADD release was possible thanks to  huge contributions from Jaime Rodríguez-Guerra, Talia B. Kimber, David Schaller, Corey J. Taylor, Yonghui Chen, Mareike Leja, Sakshi Misra, Michele Wichmann, Armin Ariamajd, and Andrea Volkamer. It was a pleasure working with you all on this next milestone!
+This new TeachOpenCADD release was possible thanks to  huge contributions from Dominique Sydow, Jaime Rodríguez-Guerra, Talia B. Kimber, David Schaller, Corey J. Taylor, Yonghui Chen, Mareike Leja, Sakshi Misra, Michele Wichmann, Armin Ariamajd, and Andrea Volkamer. It was a pleasure working with you all on this next milestone!
 
-Futhermore, we thank Piedro Gerletti, Ahmed Atta, Melanie Vogel, Abishek Laxmanan Ravi Shankar, and Maria Trofimova for their work on initial drafts for new talktorials; and we thank Jeffrey R. Wagner, Richard Gowers, and Floriane Montanari for their support on improving code and testing of TeachOpenCADD.
+Furthermore, we thank Piedro Gerletti, Ahmed Atta, Melanie Vogel, Abishek Laxmanan Ravi Shankar, and Maria Trofimova for their work on initial drafts for new talktorials; and we thank Jeffrey R. Wagner, Richard Gowers, and Floriane Montanari for their support on improving code and testing of TeachOpenCADD.
 
-TeachOpenCADD relies on external resources; we thank the Patrick Kunzmann (biotite), Albert Kooistra (KLIFS), and Hai Nguyen (NGLview) for their help with questions and issues.
+TeachOpenCADD relies on external resources; regarding the newly released talktorials, we especially thank Patrick Kunzmann (biotite), Albert Kooistra (KLIFS), and Hai Nguyen (NGLview) for their help with questions and issues.
