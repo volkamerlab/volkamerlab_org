@@ -24,7 +24,7 @@ publications:
 - webel_2020_cytotox
 
 summary: |
-  In this project, cytotoxicity prediction, one of the earliest handles in drug discovery, is investigated using a deep learning approach trained on a large and highly consistent in-house data set from the FMP. While neural networks are often described as a black box, we try to overcome the lack of interpretability. Thus, a Deep Taylor Decomposition method is investigated to identify substructures that may be responsible for the cytotoxic effects.
+  In this project, cytotoxicity prediction, one of the earliest handles in drug discovery, is investigated using a deep learning approach trained on a large and highly consistent in-house data set from the Leibniz-Forschungsinstitut für Molekulare Pharmakologie (FMP). While neural networks are often described as a black box, we try to overcome the lack of interpretability. Thus, a Deep Taylor Decomposition method is investigated to identify substructures that may be responsible for the cytotoxic effects.
 ---
 
 In drug development, late stage toxicity issues of a compound are the main cause of failure in clinical trials. _In silico_ methods are therefore of high importance to guide the early design process to reduce time, costs and animal testing.

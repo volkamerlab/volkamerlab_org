@@ -25,6 +25,24 @@
 
 #  Books
 
+kimber_ailsci_2021:
+     key: kimber_ailsci_2021
+     title: "Maxsmi: Maximizing molecular property prediction performance with confidence estimation using SMILES augmentation and deep learning"
+     authors:
+       - talia.kimber
+       - Maxime Gagnebin
+       - andrea.volkamer
+     journal: Artificial Intelligence in the Life Sciences
+     volume: 1
+     issue: ""
+     pages: 100014
+     year: 2021
+     date: 2021-12-01
+     doi: "10.1016/j.ailsci.2021.100014"
+     image: ""
+     pdf: https://doi.org/10.1016/j.ailsci.2021.100014
+     kind: article
+
 klutzny_envintern_2021:
      key: klutzny_envintern_2021
      title: "Quantitative high-throughput phenotypic screening for environmental estrogens using the E-Morph Screening Assay in combination with in silico predictions"
@@ -38,7 +56,7 @@ klutzny_envintern_2021:
        - Sebastian Dunst
      journal: Environment International
      volume: 158
-     issue: 
+     issue:
      pages: 106947
      year: 2021
      date: 2021-10-28
@@ -85,7 +103,7 @@ garcia_jcheminf_2021:
      date: 2021-06-21
      doi: "10.1021/acs.jcim.1c00451"
      image: ""
-     pdf: 
+     pdf:
      kind: article
 
 corona_archpharm_2021:
@@ -101,8 +119,8 @@ corona_archpharm_2021:
        - Enzo Tramontano
      journal: Archiv der Pharmazie
      volume: e2100123
-     issue: 
-     pages: 
+     issue:
+     pages:
      year: 2021
      date: 2021-05-18
      doi: "10.1002/ardp.202100123"
