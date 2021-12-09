@@ -1,6 +1,6 @@
 ---
 title: "TeachOpenCADD 2021 release is out!"
-date: 2021-12-07T00:00:00+02:00
+date: 2021-12-09T00:00:00+02:00
 author: dominique.sydow
 ---
 
