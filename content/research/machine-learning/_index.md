@@ -24,7 +24,7 @@ Machine learning (ML) algorithms, and more recently deep learning (DL) methods, 
 
 {{% intro "/projects/deeplearning-vs.md" %}}
 
-## [Data augmentation for molecular property prediction using deep learning](/content/projects/maxsmi.md)
+## [Data augmentation for molecular property prediction using deep learning](/projects/maxsmi/)
 
 {{% intro "/projects/maxsmi.md" %}}
 
