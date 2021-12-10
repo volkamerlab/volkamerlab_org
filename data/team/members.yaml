@@ -70,6 +70,66 @@
       text: ORCiD
       url: https://orcid.org/0000-0003-2535-9514
 # --PHDs---
+- name: Yonghui Chen
+  prefix:
+  key: yonghui.chen
+  role: PhD candidate
+  status: member
+  project: Virtual screening and deep learning for drug discovery
+  image: /images/team/yonghuichen.jpg
+  links:
+    - icon: envelope
+      text: yonghui.chen@charite.de
+      url: mailto:yonghui.chen@charite.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/yonghui-cc
+    - icon: book
+      text: ORCiD
+      url: https://orcid.org/0000-0002-8201-2894
+- name: Alexander Gujarnov
+  prefix:
+  key: alexander.gujarnov
+  role: PhD candidate
+  status: member
+  project: Biostatistics and in silico toxicology for development of virtual control groups at Bayer AG
+  image: /images/team/GurjanovProfilfoto.jpg
+  links:
+    - icon: envelope
+      text: alexander.gurjanov@bayer.com
+      url: mailto:alexander.gurjanov@bayer.com
+    - icon: github
+      text: GitHub
+      url: https://github.com/AlexanderGurjanov
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/alexander-gurjanov-4b8035123    
+- name: Talia B. Kimber
+  prefix:
+  key: talia.kimber
+  role: PhD candidate
+  status: member
+  project: Machine learning for kinase drug discovery
+  image: /images/team/taliakimber.jpg
+  links:
+    - icon: envelope
+      text: talia.kimber@charite.de
+      url: mailto:talia.kimber@charite.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/taliakimber
+    - icon: github
+      text: GitHub
+      url: https://github.com/t-kimber
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?user=i3sMZ-cAAAAJ&hl=en&oi=ao
+    - icon: book
+      text: ORCiD
+      url: https://orcid.org/0000-0002-8881-920X
+    - icon: twitter
+      text: Twitter
+      url: https://twitter.com/taliakimber      
 - name: Dominique Sydow
   prefix:
   key: dominique.sydow
@@ -96,49 +156,6 @@
     - icon: twitter
       text: Twitter
       url: https://twitter.com/dominiquesydow
-- name: Talia B. Kimber
-  prefix:
-  key: talia.kimber
-  role: PhD candidate
-  status: member
-  project: Machine learning for kinase drug discovery
-  image: /images/team/taliakimber.jpg
-  links:
-    - icon: envelope
-      text: talia.kimber@charite.de
-      url: mailto:talia.kimber@charite.de
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/taliakimber
-    - icon: github
-      text: GitHub
-      url: https://github.com/t-kimber
-    - icon: graduation-cap
-      text: Google Scholar
-      url: https://scholar.google.com/citations?user=i3sMZ-cAAAAJ&hl=en&oi=ao
-    - icon: book
-      text: ORCiD
-      url: https://orcid.org/0000-0002-8881-920X
-    - icon: twitter
-      text: Twitter
-      url: https://twitter.com/taliakimber
-- name: Yonghui Chen
-  prefix:
-  key: yonghui.chen
-  role: PhD candidate
-  status: member
-  project: Virtual screening and deep learning for drug discovery
-  image: /images/team/yonghuichen.jpg
-  links:
-    - icon: envelope
-      text: yonghui.chen@charite.de
-      url: mailto:yonghui.chen@charite.de
-    - icon: github
-      text: GitHub
-      url: https://github.com/yonghui-cc
-    - icon: book
-      text: ORCiD
-      url: https://orcid.org/0000-0002-8201-2894
 # --MASTERS--
 - name: Jacquekine Krohn
   prefix:
