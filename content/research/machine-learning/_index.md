@@ -26,7 +26,7 @@ Machine learning (ML) algorithms, and more recently deep learning (DL) methods, 
 
 ## [Historical Virtual Control Groups](/projects/historical_virtual_control_groups/)
 
-{{% intro "/research/machine-learning/virtual_control_groups.md" %}}
+{{% intro "/research/machine-learning/historical_virtual_control_groups.md" %}}
 
 ## See also
 
