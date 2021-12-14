@@ -13,9 +13,9 @@ The proposed pipeline, part of the TeachOpenCADD project, allows the study of ki
 A short kinase introduction, as well as an overall conclusion, are part of the special kinase edition, establishing 6 news notebooks!
 The analysis of kinase similarity uses information from:
 
--  pocket sequence,
--  pocket structure,
--  protein-ligand interactions,
--  and ligand-profiling data.
+-  pocket sequence (from KLIFS),
+-  pocket structure (using the KiSSim fingerprint),
+-  protein-ligand interactions (using OpenCADD extension of KLIFS),
+-  and ligand-profiling data (from the ChEMBL database, queried with Kinodata).
 
 Here's the link to this collection: https://projects.volkamerlab.org/teachopencadd/talktorials.html#kinase-similarity
