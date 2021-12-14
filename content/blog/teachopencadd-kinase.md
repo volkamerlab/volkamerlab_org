@@ -13,8 +13,8 @@ The proposed pipeline, part of the TeachOpenCADD project, allows the study of ki
 A short kinase introduction, as well as an overall conclusion, are part of the special kinase edition, establishing 6 news notebooks!
 The analysis of kinase similarity uses information from:
 
--  sequence,
--  structure,
+-  pocket sequence,
+-  pocket structure,
 -  protein-ligand interactions,
 -  and ligand-profiling data.
 
