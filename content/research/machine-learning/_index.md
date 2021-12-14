@@ -20,9 +20,13 @@ Machine learning (ML) algorithms, and more recently deep learning (DL) methods, 
 
 {{% intro "/projects/deeplearning-vs.md" %}}
 
-## [Data augmentation for molecular property prediction using deep learning](/content/projects/maxsmi.md)
+## [Data augmentation for molecular property prediction using deep learning](/projects/maxsmi/)
 
 {{% intro "/projects/maxsmi.md" %}}
+
+## [Historical Virtual Control Groups](/projects/historical_virtual_control_groups/)
+
+{{% intro "/research/machine-learning/historical_virtual_control_groups.md" %}}
 
 ## See also
 
