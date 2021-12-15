@@ -4,7 +4,7 @@ date: 2021-12-15T12:00:00+02:00
 author: dominique.sydow
 ---
 
-Kinases are an important drug target since their dysregulation can cause servere diseases such as cancer, inflammation, and neurodegeneration. Finding selective drugs, however, is challenging due to the highly conserved binding sites across the roughly 500 human kinases, leading to unwanted side-effects. The underlying off-targets are often not trivial to predict and explain from a sequence-based perspective.
+Kinases are an important class of drug targets since their dysregulation can cause severe diseases such as cancer, inflammation, and neurodegeneration. Finding selective drugs, however, is challenging due to the highly conserved binding sites across the roughly 500 human kinases, which can lead to unwanted side-effects. The underlying off-targets are often not trivial to predict or to explain from a sequence-based perspective.
 
 In our [_KiSSim_](/projects/kissim/) project, we explored kinase similarity from a physicochemical and structural point of view. We thereby introduced a kinase-focused and subpocket-enhanced fingerprint to compare kinase pockets across the structurally covered kinome.
 Take a look at our [ChemRxiv preprint](xxx) "KiSSim: Predicting off-targets from structural similarities in the kinome" to find out more.
