@@ -8,6 +8,6 @@ Kinases are an important class of drug targets since their dysregulation can cau
 
 In our [_KiSSim_](/projects/kissim/) project, we explored kinase similarity from a physicochemical and structural point of view. We thereby introduced a kinase-focused and subpocket-enhanced fingerprint to compare kinase pockets across the structurally covered kinome.
 Take a look at our [ChemRxiv preprint](xxx) "KiSSim: Predicting off-targets from structural similarities in the kinome" to find out more.
-We publish our code as `kissim` Python package available at [GitHub](https://github.com/volkamerlab/kissim) and as `conda` package (check out our [documentation](https://kissim.readthedocs.io/) for more details). All data and analyses are integrated in the `kissim_app` [GitHub](https://github.com/volkamerlab/kissim_app) repository.
+We publish our code as `kissim` Python package available at [GitHub](https://github.com/volkamerlab/kissim) and as `conda` package (check out the [kissim documentation](https://kissim.readthedocs.io/) for more details). All data and analyses are integrated in the `kissim_app` [GitHub](https://github.com/volkamerlab/kissim_app) repository.
 
 Thanks to all co-authors for working together on realizing this project: {{< person "dominique.sydow" >}}, {{< person "eva.assmann" >}}, [Albert Kooistra](https://drug.ku.dk/staff/?pure=en/persons/612712) (University of Copenhagen), Friedrich Rippmann (Merck Healthcare KGaA), and {{< person "andrea.volkamer" >}}.
