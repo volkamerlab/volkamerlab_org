@@ -18,7 +18,15 @@ external_resources:
 - name: kissim
   link: https://github.com/volkamerlab/kissim
   icon: github
-  more: Subpocket-based fingerprint for structural kinase comparison (WIP)
+  more: Subpocket-based fingerprint for structural kinase comparison - `kissim` package
+- name: kissim
+  link: https://kissim.readthedocs.io/
+  icon: globe
+  more: Subpocket-based fingerprint for structural kinase comparison - `kissim` documentation
+- name: kissim_app
+  link: https://github.com/volkamerlab/kissim_app
+  icon: github
+  more: All-against all comparison of structurally covered kinases using the KiSSim fingerprint.
 funding:
 - name: Bundesministerium für Bildung und Forschung, grant ID 031A262C
 - name: Deutsche Forschungsgemeinschaft (DFG), grant ID VO 2353 / 1-1
