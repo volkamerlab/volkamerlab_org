@@ -121,9 +121,6 @@
   image: /images/team/dominiquesydow.jpg
   project: Binding site comparison for off-target and polypharmacology prediction
   links:
-    - icon: envelope
-      text: dominique.sydow@charite.de
-      url: mailto:dominique.sydow@charite.de
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/dominiquesydow/
