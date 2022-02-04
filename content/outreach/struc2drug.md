@@ -60,7 +60,16 @@ To get an invite, reach out to us via <a class="icon fa-envelope" href="mailto:s
 
 ### Join us for our upcoming seminars
 
-To be announced soon!
+#### February 24, 2022 · 15:00-16:00 (CET)
+
+**Different drug targets require different computational approaches**<br />
+**Ariane Nunes Alves** (TU Berlin/UniSysCat, Berlin) & **David Machalz** (Nuvisan ICB GmbH, Berlin)<br />
+
+It is well-known that the structure of protein binding pockets strongly influences small-molecule ligand binding. The peculiarity of many proteins or protein families, however, often demands a tailored approach. This is particularly in cases where key information is missing in well-studied targets or where the natural ligand is unknown or poorly characterized, such as in ‘orphaned’ proteins.
+
+**Ariane Nunes Alves** presents a structural rationale for kinetic selectivity between two closely related kinases, focal adhesion kinase (FAK) and proline-rich tyrosine kinase 2 (PYK2). Molecular dynamics simulations, in combination with τ-Random Accelerated Molecular Dynamics (τ-RAMD), were used to characterize inhibitor-kinase residence times. Simulation data, which was well-correlated by experiment, was used to explain why some inhibitors have long  residence times when bound to FAK, but not when bound to PYK2, and revealed mechanistic insights of factors modulating residence times. This has implications for the design of inhibitors for both proteins where inhibition of FAK is insufficient to prevent signaling due to the compensatory activity of PYK2. 
+
+Drug-metabolism related cytochrome P450 enzymes (CYPs) have been extensively studied. However, other CYPs remain under-studied, such as the case in a promising breast cancer target, CYP4Z1. This enzyme is over-expressed in breast cancers and correlated with tumor progression but is not yet addressed by potent small molecule inhibitors. **David Machalz** and collaborators used an in silico/in vitro structure-based design pipeline to discover a potent inhibitor of the orphaned CYP4Z1, combining modeling and mutagenesis studies followed by a virtual screening campaign. Screening hits were confirmed by experiment, including the drug ozagrel and a new inhibitor, the binding of the latter rationalized by quantum chemistry and extensive molecular dynamics simulations. This new pharmacological tool will benefit future studies on the physiological and pathophysiological role of CYP4Z1, leading to new therapeutic approaches in targeting the enzyme.
 
 <!--
 Leaving here the last session, in case you want to use the formatting for the next session.
