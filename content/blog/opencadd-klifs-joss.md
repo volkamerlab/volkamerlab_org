@@ -5,7 +5,7 @@ author: dominique.sydow
 ---
 
 The [KLIFS](https://klifs.net/) database is a rich resource for datasets focused on kinase pockets, ranging from 
-annotated pockets and ligand-pocket interaction patterns in experimental PDB structures 
+annotated pockets and ligand interaction patterns in experimental PDB structures 
 to ligand bioactivity values from the ChEMBL database.
 
 It is possible to explore the KLIFS resource via their web interface online ([NAR 2021](https://doi.org/10.1093/nar/gkaa895)) or locally using dedicated KNIME nodes ([JCIM 2017](https://pubs.acs.org/doi/10.1021/acs.jcim.6b00686) and [ChemMedChem 2018](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cmdc.201700754)) developed by the KLIFS authors.
