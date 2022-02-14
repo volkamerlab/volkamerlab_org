@@ -31,4 +31,4 @@ into Python-based pipelines. The setup and usage is straight-forward!
 
 Read more about all OpenCADD-KLIFS features in our [JOSS publication]() and our [OpenCADD-KLIFS documentation](https://opencadd.readthedocs.io/en/latest/databases_klifs.html).
 
-This Python package was developed in the Volkamer Lab by {{< person "dominique.sydow" >}}, {{< person "jaime.rodriguez" >}}, and {{< person "andrea.volkamer" >}}. Special thanks to Albert Kooistra for his work on the KLIFS database and his support with question we encountered during the developement of OpenCADD-KLIFS.
+This Python package was developed in the Volkamer Lab by {{< person "dominique.sydow" >}}, {{< person "jaime.rodriguez" >}}, and {{< person "andrea.volkamer" >}}. Special thanks to Albert Kooistra for his work on the KLIFS database and his support with questions we encountered during the developement of OpenCADD-KLIFS.
