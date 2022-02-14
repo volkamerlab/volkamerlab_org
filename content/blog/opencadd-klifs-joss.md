@@ -1,5 +1,5 @@
 ---
-title: "KLIFS meets Python!"
+title: "OpenCADD-KLIFS module: KLIFS meets Python!"
 date: 2021-12-21T00:00:00+02:00
 author: dominique.sydow
 ---
