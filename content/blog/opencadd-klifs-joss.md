@@ -29,6 +29,6 @@ into Python-based pipelines. The setup and usage is straight-forward!
     session.structures.all_structures()
     ```
 
-Read more about all OpenCADD-KLIFS features in our [JOSS publication]() and our [OpenCADD-KLIFS documentation](https://opencadd.readthedocs.io/en/latest/databases_klifs.html).
+Read more about all OpenCADD-KLIFS features in our [JOSS publication](https://joss.theoj.org/papers/10.21105/joss.03951) and our [OpenCADD-KLIFS documentation](https://opencadd.readthedocs.io/en/latest/databases_klifs.html).
 
 This Python package was developed in the Volkamer Lab by {{< person "dominique.sydow" >}}, {{< person "jaime.rodriguez" >}}, and {{< person "andrea.volkamer" >}}. Special thanks to Albert Kooistra for his work on the KLIFS database and his support with questions we encountered during the developement of OpenCADD-KLIFS.
