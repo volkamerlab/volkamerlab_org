@@ -25,6 +25,148 @@
 
 #  Books
 
+sydow_nar_2022:
+     key: sydow_nar_2022
+     title: "TeachOpenCADD 2022: Open Source and FAIRPython Pipelines to Assist in StructuralBioinformatics and Cheminformatics Research"
+     authors:
+       - dominique.sydow
+       - jaime.rodriguez
+       - talia.kimber
+       - david.schaller
+       - corey.taylor
+       - yonghui.chen
+       - mareike.leja
+       - sakshi.misra
+       - michele.wichmann
+       - Armin Ariamajd
+       - andrea.volkamer 
+     journal: Nucleic Acids Research
+     volume: ""
+     issue: ""
+     pages: ""
+     year: 2022
+     date: 2022-04-03
+     doi: ""
+     image: ""
+     pdf: ""
+     kind: article
+
+sydow_joss_2022:
+     key: sydow_joss_2022
+     title: "OpenCADD-KLIFS: A Python package to fetch kinase data from the KLIFS database"
+     authors:
+       - dominique.sydow
+       - jaime.rodriguez
+       - andrea.volkamer 
+     journal: The Journal of Open Source Software
+     volume: "7"
+     issue: "70"
+     pages: "3951"
+     year: 2022
+     date: 2022-02-17
+     doi: "10.21105/joss.03951"
+     image: ""
+     pdf: https://joss.theoj.org/papers/10.21105/joss.03951.pdf
+     kind: article
+
+ackloo_natrevchem_2022:
+     key: ackloo_natrevchem_2022
+     title: "CACHE (Critical Assessment of Computational Hit-finding Experiments): A public–private partnership benchmarking initiative to enable the development of computational methods for hit-finding"
+     authors:
+       - Suzanne Ackloo
+       - Rima Al-awar
+       - Rommie E. Amaro
+       - Cheryl H. Arrowsmith
+       - Hatylas Azevedo
+       - Robert A. Batey
+       - Yoshua Bengio
+       - Ulrich A. K. Betz
+       - Cristian G. Bologa
+       - John D. Chodera
+       - Wendy D. Cornell
+       - Ian Dunham
+       - Gerhard F. Ecker
+       - Kristina Edfeldt
+       - Aled M. Edwards
+       - Michael K. Gilson
+       - Claudia R. Gordijo
+       - Gerhard Hessler
+       - Alexander Hillisch
+       - Anders Hogner
+       - John J. Irwin
+       - Johanna M. Jansen
+       - Daniel Kuhn
+       - Andrew R. Leach
+       - Alpha A. Lee
+       - Uta Lessel
+       - Maxwell R. Morgan
+       - John Moult
+       - Ingo Muegge
+       - Tudor I. Oprea
+       - Benjamin G. Perry
+       - Patrick Riley
+       - Sophie A. L. Rousseaux
+       - Kumar Singh Saikatendu
+       - Vijayaratnam Santhakumar
+       - Matthieu Schapira
+       - Cora Scholten
+       - Matthew H. Todd
+       - Masoud Vedadi
+       - andrea.volkamer
+       - Timothy M. Willson 
+     journal: Nature Reviews Chemistry
+     volume: ""
+     issue: ""
+     pages: ""
+     year: 2022
+     date: 2022-02-15
+     doi: "10.1038/s41570-022-00363-z"
+     image: ""
+     pdf: https://www.nature.com/articles/s41570-022-00363-z.pdf
+     kind: article
+
+garciadelomana_digidiscovery_2022:
+     key: garciadelomana_digidiscovery_2022
+     title: "Consideration of predicted small-molecule metabolites in computational toxicology"
+     authors:
+       - Marina Garcia del Lomana
+       - Fredrik Svensson
+       - andrea.volkamer
+       - Miriam Mathea
+       - Johannes Kirchmair
+     journal: Digital Discovery
+     volume: ""
+     issue: ""
+     pages: ""
+     year: 2022
+     date: 2022-02-10
+     doi: "10.1039/D1DD00018G"
+     image: ""
+     pdf: https://pubs.rsc.org/en/content/articlepdf/2022/dd/d1dd00018g
+     kind: article
+
+klutzny_envintern_2022:
+     key: klutzny_envintern_2022
+     title: "Quantitative high-throughput phenotypic screening for environmental estrogens using the E-Morph Screening Assay in combination with in silico predictions"
+     authors:
+       - Saskia Klutzny
+       - Marja Kornhuber
+       - andrea-lilian.morger
+       - Gilbert Schönfelder
+       - andrea.volkamer
+       - Michael Oelgeschläger
+       - Sebastian Dunst
+     journal: Environment International
+     volume: 158
+     issue:
+     pages: 106947
+     year: 2022
+     date: 2022-01-01
+     doi: "https://doi.org/10.1016/j.envint.2021.106947"
+     image: ""
+     pdf: "https://www.sciencedirect.com/science/article/pii/S0160412021005729/pdfft?md5=8c750e1ed440db268a32697a042dd728&pid=1-s2.0-S0160412021005729-main.pdf"
+     kind: article
+
 kimber_ailsci_2021:
      key: kimber_ailsci_2021
      title: "Maxsmi: Maximizing molecular property prediction performance with confidence estimation using SMILES augmentation and deep learning"
@@ -41,28 +183,6 @@ kimber_ailsci_2021:
      doi: "10.1016/j.ailsci.2021.100014"
      image: ""
      pdf: https://doi.org/10.1016/j.ailsci.2021.100014
-     kind: article
-
-klutzny_envintern_2021:
-     key: klutzny_envintern_2021
-     title: "Quantitative high-throughput phenotypic screening for environmental estrogens using the E-Morph Screening Assay in combination with in silico predictions"
-     authors:
-       - Saskia Klutzny
-       - Marja Kornhuber
-       - andrea-lilian.morger
-       - Gilbert Schönfelder
-       - andrea.volkamer
-       - Michael Oelgeschläger
-       - Sebastian Dunst
-     journal: Environment International
-     volume: 158
-     issue:
-     pages: 106947
-     year: 2021
-     date: 2021-10-28
-     doi: "https://doi.org/10.1016/j.envint.2021.106947"
-     image: ""
-     pdf: "https://www.sciencedirect.com/science/article/pii/S0160412021005729/pdfft?md5=8c750e1ed440db268a32697a042dd728&pid=1-s2.0-S0160412021005729-main.pdf"
      kind: article
 
 sydow_acs_2021:
