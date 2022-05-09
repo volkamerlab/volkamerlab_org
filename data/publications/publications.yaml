@@ -51,7 +51,8 @@ sydow_nar_2022:
      pdf: ""
      kind: article
 
-key: morger_scirep_2022
+morger_scirep_2022:
+    key: morger_scirep_2022
      title: "Studying and mitigating the effects of data drifts on ML model performance at the example of chemical toxicity data"
      authors:
        - andrea.morger
