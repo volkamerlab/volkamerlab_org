@@ -45,33 +45,33 @@ sydow_nar_2022:
      issue: ""
      pages: ""
      year: 2022
-     date: 2022-04-03
-     doi: "https://doi.org/10.1093/nar/gkac267"
+     date: 2022-05-07
+     doi: "10.1093/nar/gkac267"
      image: ""
      pdf: ""
      kind: article
 
 morger_scirep_2022:
-    key: morger_scirep_2022
-     title: "Studying and mitigating the effects of data drifts on ML model performance at the example of chemical toxicity data"
-     authors:
-       - andrea.morger
-       - Marina Garcia de Lomana
-       - Ulf Norinder
-       - Fredrik Svensson
-       - Johannes Kirchmair
-       - Miriam Mathea
-       - andrea.volkamer 
-     journal: Scientific Reports
-     volume: "12"
-     issue: "7244"
-     pages: ""
-     year: 2022
-     date: 2022-05-04
-     doi: "10.1038/s41598-022-09309-3"
-     image: ""
-     pdf: https://www.nature.com/articles/s41598-022-09309-3.pdf
-     kind: article
+      key: morger_scirep_2022
+      title: "Studying and mitigating the effects of data drifts on ML model performance at the example of chemical toxicity data"
+      authors:
+        - andrea-lilian.morger
+        - Marina Garcia de Lomana
+        - Ulf Norinder
+        - Fredrik Svensson
+        - Johannes Kirchmair
+        - Miriam Mathea
+        - andrea.volkamer 
+      journal: Scientific Reports
+      volume: "12"
+      issue: "7244"
+      pages: ""
+      year: 2022
+      date: 2022-05-04
+      doi: "10.1038/s41598-022-09309-3"
+      image: ""
+      pdf: https://www.nature.com/articles/s41598-022-09309-3.pdf
+      kind: article
 
 sydow_joss_2022:
      key: sydow_joss_2022
