@@ -30,7 +30,7 @@ jobs:
       - name: Build & check
         run: |
           hugo
-          npx linkinator ./public --recurse --retry --timeout=5000 --concurrency 30 --skip \
+          npx linkinator ./public --recurse --retry --timeout=5000 --concurrency 10 --skip \
             'https://github.com/volkamerlab/CADDCourse2020,
              https://github.com/volkamerlab/CADDSeminar_2020,
              https://github.com/volkamerlab/CADDSeminar_2019,
