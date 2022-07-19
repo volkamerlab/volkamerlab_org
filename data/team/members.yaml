@@ -20,55 +20,6 @@
       text: ORCiD
       url: http://orcid.org/0000-0002-3760-580X
 # --POSTDOCS--
-- name: David Schaller
-  prefix: Dr.
-  key: david.schaller
-  role: Postdoc
-  status: member
-  project: Free energy calculations and machine learning for kinase drug discovery with focus on mutations
-  image: /images/team/davidschaller.jpg
-  links:
-    - icon: envelope
-      text: david.schaller@charite.de
-      url: mailto:david.schaller@charite.de
-    - icon: linkedin
-      text: LinkedIn
-      url: https://www.linkedin.com/in/david-schaller-2a68b2133/
-    - icon: github
-      text: GitHub
-      url: https://github.com/schallerdavid
-    - icon: graduation-cap
-      text: Google Scholar
-      url: https://scholar.google.com/citations?user=UM23iiEAAAAJ
-    - icon: book
-      text: ORCiD
-      url: https://orcid.org/0000-0002-1881-4518
-    - icon: twitter
-      text: Twitter
-      url: https://twitter.com/_davidschaller_
-- name: Corey Taylor
-  prefix: Dr.
-  key: corey.taylor
-  role: Postdoc
-  status: member
-  project: Machine learning and method development for kinase drug discovery
-  image: /images/team/coreytaylor.jpg
-  links:
-    - icon: envelope
-      text: corey.taylor@charite.de
-      url: mailto:corey.taylor@charite.de
-    - icon: linkedin
-      text: LinkedIn
-      url: https://www.linkedin.com/in/corey-taylor-264050208/
-    - icon: github
-      text: GitHub
-      url: https://github.com/corey-taylor
-    - icon: graduation-cap
-      text: Google Scholar
-      url: https://scholar.google.com/citations?user=IjR7hksAAAAJ&hl=en
-    - icon: book
-      text: ORCiD
-      url: https://orcid.org/0000-0003-2535-9514
 # --PHDs---
 - name: Yonghui Chen
   prefix:
@@ -87,32 +38,6 @@
     - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0002-8201-2894
-- name: Talia B. Kimber
-  prefix:
-  key: talia.kimber
-  role: PhD candidate
-  status: member
-  project: Machine learning for kinase drug discovery
-  image: /images/team/taliakimber.jpg
-  links:
-    - icon: envelope
-      text: talia.kimber@charite.de
-      url: mailto:talia.kimber@charite.de
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/taliakimber
-    - icon: github
-      text: GitHub
-      url: https://github.com/t-kimber
-    - icon: graduation-cap
-      text: Google Scholar
-      url: https://scholar.google.com/citations?user=i3sMZ-cAAAAJ&hl=en&oi=ao
-    - icon: book
-      text: ORCiD
-      url: https://orcid.org/0000-0002-8881-920X
-    - icon: twitter
-      text: Twitter
-      url: https://twitter.com/taliakimber      
 - name: Dominique Sydow
   prefix:
   key: dominique.sydow
@@ -154,35 +79,110 @@
       text: Linkedin
       url: https://www.linkedin.com/in/alexander-gurjanov-4b8035123    
 # --MASTERS--
+# --ALUMNI--
+- name: Talia B. Kimber
+  prefix:
+  key: talia.kimber
+  role: PhD candidate
+  status: alumni
+  project: Machine learning for kinase drug discovery
+  image: /images/team/taliakimber.jpg
+  links:
+    - icon: envelope
+      text: talia.kimber@charite.de
+      url: mailto:talia.kimber@charite.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/taliakimber
+    - icon: github
+      text: GitHub
+      url: https://github.com/t-kimber
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?user=i3sMZ-cAAAAJ&hl=en&oi=ao
+    - icon: book
+      text: ORCiD
+      url: https://orcid.org/0000-0002-8881-920X
+    - icon: twitter
+      text: Twitter
+      url: https://twitter.com/taliakimber      
+- name: David Schaller
+  prefix: Dr.
+  key: david.schaller
+  role: Postdoc
+  status: alumni
+  project: Free energy calculations and machine learning for kinase drug discovery with focus on mutations
+  image: /images/team/davidschaller.jpg
+  links:
+    - icon: envelope
+      text: david.schaller@charite.de
+      url: mailto:david.schaller@charite.de
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/david-schaller-2a68b2133/
+    - icon: github
+      text: GitHub
+      url: https://github.com/schallerdavid
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?user=UM23iiEAAAAJ
+    - icon: book
+      text: ORCiD
+      url: https://orcid.org/0000-0002-1881-4518
+    - icon: twitter
+      text: Twitter
+      url: https://twitter.com/_davidschaller_
+- name: Corey Taylor
+  prefix: Dr.
+  key: corey.taylor
+  role: Postdoc
+  status: alumni
+  project: Machine learning and method development for kinase drug discovery
+  image: /images/team/coreytaylor.jpg
+  links:
+    - icon: envelope
+      text: corey.taylor@charite.de
+      url: mailto:corey.taylor@charite.de
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/corey-taylor-264050208/
+    - icon: github
+      text: GitHub
+      url: https://github.com/corey-taylor
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?user=IjR7hksAAAAJ&hl=en
+    - icon: book
+      text: ORCiD
+      url: https://orcid.org/0000-0003-2535-9514
 - name: Jacquekine Krohn
   prefix:
   key: jacquekine.krohn
   role: Master student
-  status: studentmember
+  status: alumni
   image:
   project: Data splitting schemes to evaluate the performance of ML-based molecular activity prediction
 - name: Mareike Leja
   prefix:
   key: mareike.leja
   role: Master student
-  status: studentmember
+  status: alumni
   image:
   project: Virtual Screening Pipeline for Drug-Like PPIP5K2 Inhibitors
 - name: Sonja Rothkugel
   prefix:
   key: sonja.rothkugel
   role: Master student
-  status: studentmember
+  status: alumni
   image:
   project: Custom-KinFragLib - Exploring filter strategies to reduce the library size
 - name: Julian Pipart
   prefix:
   key: julian.pipart
   role: Bachelor student
-  status: studentmember
+  status: alumni
   image:
   project: Structural Alignment tool for Python
-# --ALUMNI--
 - name: Jaime Rodríguez-Guerra
   prefix: Dr.
   key: jaime.rodriguez
@@ -216,7 +216,7 @@
   prefix:
   key: andrea-lilian.morger
   role: PhD candidate
-  status: member
+  status: alumni
   image: /images/team/andreamorger.jpg
   project: In silico toxicity prediction and application to external data
   links:
