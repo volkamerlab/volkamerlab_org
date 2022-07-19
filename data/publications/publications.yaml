@@ -25,9 +25,47 @@
 
 #  Books
 
+kimber_livecoms_2022:
+     key: kimber_livecoms_2022
+     title: "Kinase Similarity Assessment Pipeline for Off-Target Prediction [v1.0]"
+     authors:
+       - talia.kimber
+       - dominique.sydow
+       - andrea.volkamer 
+     journal: Living Journal of Computational Molecular Science
+     volume: "3"
+     issue: "1"
+     pages: "1599"
+     year: 2022
+     date: 2022-06-14
+     doi: "10.33011/livecoms.3.1.1599"
+     image: ""
+     pdf: ""
+     kind: article
+
+sydow_jcim_2022:
+     key: sydow_jcim_2022
+     title: "KiSSim: Predicting Off-Targets from Structural Similarities in the Kinome"
+     authors:
+       - dominique.sydow
+       - eva.assmann
+       - Albert Kooistra
+       - Friedrich Rippmann
+       - andrea.volkamer 
+     journal: Journal of Chemical Information and Modeling
+     volume: "62"
+     issue: "10"
+     pages: "2600-2616"
+     year: 2022
+     date: 2022-05-10
+     doi: "10.1021/acs.jcim.2c00050"
+     image: ""
+     pdf: ""
+     kind: article
+
 sydow_nar_2022:
      key: sydow_nar_2022
-     title: "TeachOpenCADD 2022: Open Source and FAIRPython Pipelines to Assist in StructuralBioinformatics and Cheminformatics Research"
+     title: "TeachOpenCADD 2022: Open Source and FAIR Python Pipelines to Assist in Structural Bioinformatics and Cheminformatics Research"
      authors:
        - dominique.sydow
        - jaime.rodriguez
