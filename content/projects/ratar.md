@@ -10,7 +10,7 @@ people:
 external_resources:
 - name: ratar
   link: https://github.com/volkamerlab/ratar
-  icon: lock
+  icon: github
   more: Binding site comparison tool (WIP)
 funding:
 - name: Bundesministerium für Bildung und Forschung, grant ID 031A262C

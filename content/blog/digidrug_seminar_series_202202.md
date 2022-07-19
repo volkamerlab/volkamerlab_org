@@ -15,8 +15,6 @@ Confirmed speakers for the next series include:
 * [Dr. Floriane Montanari](https://www.linkedin.com/in/floriane-montanari-3577091b) (Bayer) - **"An Introduction to Explainable Artificial Intelligence for Small Molecules"**
 * [Assist.-Prof. Mag. Dr. Günter Klambauer](https://www.jku.at/institut-fuer-machine-learning/ueber-uns/team/assist-prof-mag-dr-guenter-klambauer/) (Johannes Kepler Universität Linz) **"Deep Learning Methods for Chemical Reactivity"**
 
-Registration is open via Zoom: https://zoom.us/meeting/register/tJ0uduysrzksE9EuD4PXg3QzQmY1rI_SxSmc
-
 Key contacts:
 
 <a href = "mailto: Clara.Christ@digidrug.net">Clara Christ</a><br>
@@ -33,8 +31,6 @@ Confirmed speakers for the next series include:
 
 * [Dr. Ariane Nunes](https://www.unisyscat.de/people/nunes-alves-ariane.html) (TU Berlin/UniSysCat, Berlin) **"Protein-ligand binding kinetics in drug design: prediction of kinetic rates for kinases"**
 * [Dr. David Machalz](https://www.linkedin.com/in/david-machalz/) (Nuvisan ICB GmbH, Berlin)) **"Discovery of a potent inhibitor of human CYP4Z1 through mechanistic in-silico modeling"**
-
-Join the meeting via FU berlin at https://fu-berlin.webex.com/fu-berlin/j.php?MTID=m564a3b818a1bc10c4fc1c4fe1a6abb59
 
 Key contacts:
 
