@@ -34,7 +34,6 @@ jobs:
             'https://github.com/volkamerlab/CADDCourse2020,
              https://github.com/volkamerlab/CADDSeminar_2020,
              https://github.com/volkamerlab/CADDSeminar_2019,
-             https://github.com/volkamerlab/ratar,
              https://dx.doi.org/10.1002/cmdc.201900328,
              https://dx.doi.org/10.1002/ardp.202100123,
              https://dx.doi.org/10.1007/s10822-020-00310-4,
@@ -46,5 +45,6 @@ jobs:
              linkedin.com,
              html5up.net,
              gepris.dfg.de,
+             dx.doi.org,
              https://www.csc.edu.cn/,
              https://www.biorxiv.org/content/10.1101/2020.10.29.339317v2'
