@@ -8,8 +8,8 @@
   links:
     # `icon` refers to a FontAwesome v4 icon, sans the prefix `fa-`.
     - icon: envelope
-      text: andrea.volkamer@charite.de
-      url: mailto:andrea.volkamer@charite.de
+      text: volkamer@cs.uni-saarland.de
+      url: mailto:volkamer@cs.uni-saarland.de
     - icon: linkedin
       text: LinkedIn
       url: https://de.linkedin.com/in/andrea-volkamer-a7b74867
@@ -46,9 +46,6 @@
   project: Machine learning for kinase drug discovery
   image: /images/team/taliakimber.jpg
   links:
-    - icon: envelope
-      text: talia.kimber@charite.de
-      url: mailto:talia.kimber@charite.de
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/taliakimber
@@ -73,8 +70,8 @@
   project: Binding site comparison for off-target and polypharmacology prediction
   links:
     - icon: envelope
-      text: dominique.sydow@charite.de
-      url: mailto:dominique.sydow@charite.de
+      text: dominique.sydow@gmail.com
+      url: mailto:dominique.sydow@gmail.com
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/dominiquesydow/
@@ -117,9 +114,6 @@
   project: Free energy calculations and machine learning for kinase drug discovery with focus on mutations
   image: /images/team/davidschaller.jpg
   links:
-    - icon: envelope
-      text: david.schaller@charite.de
-      url: mailto:david.schaller@charite.de
     - icon: linkedin
       text: LinkedIn
       url: https://www.linkedin.com/in/david-schaller-2a68b2133/
@@ -143,9 +137,6 @@
   project: Machine learning and method development for kinase drug discovery
   image: /images/team/coreytaylor.jpg
   links:
-    - icon: envelope
-      text: corey.taylor@charite.de
-      url: mailto:corey.taylor@charite.de
     - icon: linkedin
       text: LinkedIn
       url: https://www.linkedin.com/in/corey-taylor-264050208/
@@ -158,9 +149,9 @@
     - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0003-2535-9514
-- name: Jacquekine Krohn
+- name: Jacqueline Krohn
   prefix:
-  key: jacquekine.krohn
+  key: jacqueline.krohn
   role: Master student
   status: alumni
   image:
@@ -194,9 +185,6 @@
   project: Scalable alchemical free energy calculations and machine learning for kinase drug discovery
   image: /images/team/jaimerodriguezguerra.jpg
   links:
-    - icon: envelope
-      text: jaime.rodriguez@charite.de
-      url: mailto:jaime.rodriguez@charite.de
     - icon: linkedin
       text: LinkedIn
       url: https://www.linkedin.com/in/jaimergp/
@@ -223,9 +211,6 @@
   image: /images/team/andreamorger.jpg
   project: In silico toxicity prediction and application to external data
   links:
-    - icon: envelope
-      text: andrea-lilian.morger@charite.de
-      url: mailto:andrea-lilian.morger@charite.de
     - icon: github
       text: GitHub
       url: https://github.com/morgeral
@@ -239,9 +224,6 @@
   key: chiara.gosch
   project: Computational and experimental testing of novel EGFR and HDAC inhibitors (co-supervised with Prof. Höpfner)
   links:
-    - icon: envelope
-      text: lisa-chiara.gosch@charite.de
-      url: mailto:lisa-chiara.gosch@charite.de
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/lisa-chiara-gosch-80022070/
