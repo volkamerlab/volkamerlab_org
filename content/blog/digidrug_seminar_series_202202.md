@@ -35,6 +35,6 @@ Confirmed speakers for the next series include:
 Key contacts:
 
 <a href = "mailto: kristina.puls@fu-berlin.de">Kristina Puls</a><br>
-<a href = "mailto: corey.taylor@charite.de">Corey Taylor</a><br>
+Corey Taylor<br>
 
 For updates as they occur, please see the [struc2drug page](https://volkamerlab.org/outreach/struc2drug/) or follow us on Twitter <a href="https://twitter.com/struc2drug" target="_blank"><i class="icon fa-twitter"></i></a>.

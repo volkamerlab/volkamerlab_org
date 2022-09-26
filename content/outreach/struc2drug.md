@@ -40,9 +40,8 @@ Reach out to us via <a class="icon fa-envelope" href="mailto:struc2drug-orga@cha
 
 - Since 2022: 
 Kristina Puls 
-<a class="icon fa-envelope" href="mailto:kristina.puls@fu-berlin.de" target="_blank" title="kristina.puls@fu-berlin.de"></a> 
+<a class="icon fa-envelope" href="mailto:kristina.puls@fu-berlin.de" target="_blank" title="kristina.puls@fu-berlin.de"></a> and
 Corey Taylor 
-<a class="icon fa-envelope" href="mailto:corey.taylor@charite.de" target="_blank" title="corey.taylor@charite.de"></a> 
 - 2019-2021: 
 Ferdinand Krupp 
 <a href="https://twitter.com/FerdKrupp" target="_blank"><i class="icon fa-twitter"></i></a> 
