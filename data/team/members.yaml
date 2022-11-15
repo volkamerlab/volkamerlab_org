@@ -20,6 +20,25 @@
       text: ORCiD
       url: http://orcid.org/0000-0002-3760-580X
 # --POSTDOCS--
+- name: Michael Backenköhler
+  prefix: Dr.
+  key: michael.backenkoehler
+  role: PostDoc
+  status: member
+  image: /images/team/michael.jpg
+  links:
+    - icon: envelope
+      text: michael.backenkoehler@uni-saarland.de
+      url: mailto:michael.backenkoehler@uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/mbackenkoehler
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.de/citations?user=VSgsYHsAAAAJ&hl=en
+    - icon: book
+      text: ORCiD
+      url: https://orcid.org/0000-0002-7913-2932
 # --PHDs---
 - name: Yonghui Chen
   prefix:
