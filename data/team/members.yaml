@@ -58,6 +58,20 @@
     - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0002-8201-2894
+- name: Paula Linh Kramer
+  prefix:
+  key: paula.kramer
+  role: PhD candidate
+  status: member
+  project: Neuro-explicit models for drug discovery (in co-supervision with Prof. Dr. Verena Wolf)
+  image: /images/team/paulakramer.jpg
+  links:
+    - icon: envelope
+      text: paula.kramer@cs.uni-saarland.de
+      url: mailto:paula.kramer@cs.uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/PaulaKramer
 - name: Talia B. Kimber
   prefix:
   key: talia.kimber
