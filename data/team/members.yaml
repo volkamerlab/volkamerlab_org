@@ -62,7 +62,7 @@
   prefix:
   key: paula.kramer
   role: PhD candidate (UdS)
-  status: member
+  status: associate
   project: Neuro-explicit models for drug discovery (in co-supervision with Prof. Dr. Verena Wolf)
   image: /images/team/paulakramer.jpg
   links:
@@ -125,7 +125,7 @@
   prefix:
   key: alexander.gujarnov
   role: PhD candidate (Bayer)
-  status: member
+  status: associate
   project: Biostatistics and in silico toxicology for development of virtual control groups at Bayer AG
   image: /images/team/GurjanovProfilfoto.jpg
   links:
