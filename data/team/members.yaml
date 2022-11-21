@@ -23,7 +23,7 @@
 - name: Michael Backenköhler
   prefix: Dr.
   key: michael.backenkoehler
-  role: PostDoc
+  role: PostDoc (UdS)
   status: member
   project: Neuro-explicit models for drug discovery
   image: /images/team/michael.jpg
@@ -44,7 +44,7 @@
 - name: Yonghui Chen
   prefix:
   key: yonghui.chen
-  role: PhD candidate
+  role: PhD candidate (Charité)
   status: member
   project: Virtual screening and deep learning for drug discovery
   image: /images/team/yonghuichen.jpg
@@ -61,8 +61,8 @@
 - name: Paula Linh Kramer
   prefix:
   key: paula.kramer
-  role: PhD candidate
-  status: member
+  role: PhD candidate (UdS)
+  status: associate
   project: Neuro-explicit models for drug discovery (in co-supervision with Prof. Dr. Verena Wolf)
   image: /images/team/paulakramer.jpg
   links:
@@ -75,7 +75,7 @@
 - name: Talia B. Kimber
   prefix:
   key: talia.kimber
-  role: PhD candidate
+  role: PhD candidate (Charité)
   status: member
   project: Machine learning for kinase drug discovery
   image: /images/team/taliakimber.jpg
@@ -98,7 +98,7 @@
 - name: Dominique Sydow
   prefix:
   key: dominique.sydow
-  role: PhD candidate
+  role: PhD candidate (Charité)
   status: member
   image: /images/team/dominiquesydow.jpg
   project: Binding site comparison for off-target and polypharmacology prediction
@@ -124,8 +124,8 @@
 - name: Alexander Gujarnov
   prefix:
   key: alexander.gujarnov
-  role: PhD candidate
-  status: member
+  role: PhD candidate (Bayer)
+  status: associate
   project: Biostatistics and in silico toxicology for development of virtual control groups at Bayer AG
   image: /images/team/GurjanovProfilfoto.jpg
   links:
