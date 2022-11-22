@@ -34,7 +34,7 @@ people:
 - key: sakshi.misra
 - key: andrea-lilian.morger
 - key: maximilian.driller
-- key: Armin Ariamajd
+- key: armin.ariamajd
 collaborators:
 # List here everyone who co-authored TOC publications outside of the Volkamer Lab
 - name: Greg Landrum
