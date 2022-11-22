@@ -105,6 +105,10 @@
       text: Linkedin
       url: https://www.linkedin.com/in/alexander-gurjanov-4b8035123    
 # --MASTERS--
+- name: Hamza Ibrahim
+  .prefix:
+  role: Master student
+  status: studentmember
 # --ALUMNI--     
 - name: David Schaller
   prefix: Dr.
