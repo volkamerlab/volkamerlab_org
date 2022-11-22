@@ -139,6 +139,11 @@
       text: Linkedin
       url: https://www.linkedin.com/in/alexander-gurjanov-4b8035123    
 # --MASTERS--
+- name: Armin Ariamajd
+  key: armin.ariamajd
+  role: Master's student
+  status: studentmember
+  project: Modeling of target-focused dynamic pharmacophores, using molecular dynamics simulations.
 # --ALUMNI--     
 - name: David Schaller
   prefix: Dr.
