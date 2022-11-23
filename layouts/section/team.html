@@ -40,12 +40,11 @@
                 <header>
                     <h2>Students</h2>
                 </header>
-                <ul>
-                    {{ range where $.Site.Data.team.members ".status" "studentmember" }}
-                    <li id="{{- .key -}}"><strong>{{ with .prefix }}{{- . }} {{ end }}{{ .name }}</strong> ({{ .role }})<br />
-                        {{ .project }}</li>
+                <div class="posts">
+                    {{ range where .Site.Data.team.members ".status" "studentmember" }}
+                    {{ partial "person" . }}
                     {{ end }}
-                </ul>
+                </div>
             </section>
             <section>
                 <header>
