@@ -106,9 +106,21 @@
       url: https://www.linkedin.com/in/alexander-gurjanov-4b8035123    
 # --MASTERS--
 - name : Hamza Ibrahim
-  .prefix:
+  prefix:
+  key: hamza.ibrahim
   role: Master student
   status: studentmember
+  image: /images/team/hamzaibrahim.jpg
+  links:
+    - icon: envelope
+      text: haib00001@stud.uni-saarland.de
+      url: mailto:haib00001@stud.uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/hamzaibrahim21
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/hamza-ibrahim-3648aa111/
 # --ALUMNI--     
 - name: David Schaller
   prefix: Dr.
