@@ -108,8 +108,9 @@
 - name : Hamza Ibrahim
   prefix:
   key: hamza.ibrahim
-  role: Master student
+  role: Master student, Pharmacist
   status: studentmember
+  project: To be decided ..
   image: /images/team/hamzaibrahim.jpg
   links:
     - icon: envelope
