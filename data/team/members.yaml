@@ -141,7 +141,7 @@
 # --MASTERS--
 - name: Armin Ariamajd
   key: armin.ariamajd
-  role: Master's student
+  role: Master student, Chemistry
   status: studentmember
   project: Modeling of target-focused dynamic pharmacophores, using molecular dynamics simulations.
   image: /images/team/ArminAriamajd.jpg
