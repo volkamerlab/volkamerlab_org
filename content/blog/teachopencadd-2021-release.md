@@ -84,7 +84,7 @@ We love open research. We comply with the FAIR principles for [data](https://www
 
 ## Contributors
 
-This new TeachOpenCADD release was possible thanks to  huge contributions from Dominique Sydow, Jaime Rodríguez-Guerra, Talia B. Kimber, David Schaller, Corey J. Taylor, Yonghui Chen, Mareike Leja, Sakshi Misra, Michele Wichmann, Armin Ariamajd, and Andrea Volkamer. It was a pleasure working with you all on this next milestone!
+This new TeachOpenCADD release was possible thanks to huge contributions from Dominique Sydow, Jaime Rodríguez-Guerra, Talia B. Kimber, David Schaller, Corey J. Taylor, Yonghui Chen, Mareike Leja, Sakshi Misra, Michele Wichmann, Armin Ariamajd, and Andrea Volkamer. It was a pleasure working with you all on this next milestone!
 
 Furthermore, we thank Piedro Gerletti, Ahmed Atta, Melanie Vogel, Abishek Laxmanan Ravi Shankar, and Maria Trofimova for their work on initial drafts for new talktorials; and we thank Jeffrey R. Wagner, Richard Gowers, and Floriane Montanari for their support on improving code and testing of TeachOpenCADD.
 
