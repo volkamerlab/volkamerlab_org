@@ -141,7 +141,7 @@
 # --MASTERS--
 - name: Armin Ariamajd
   key: armin.ariamajd
-  role: Master student, Chemistry
+  role: Master student, Chemistry (FU Berlin)
   status: studentmember
   project: Modeling of target-focused dynamic pharmacophores, using molecular dynamics simulations.
   image: /images/team/ArminAriamajd.jpg
@@ -166,7 +166,7 @@
       url: https://twitter.com/Al___Chemist
 - name : Hamza Ibrahim
   key: hamza.ibrahim
-  role: Master student, Pharmacist
+  role: Master student, Bioinformatics (UdS)
   status: studentmember
   project: Development of a scoring function for structure-based virtual screening.
   image: /images/team/hamzaibrahim.jpg
