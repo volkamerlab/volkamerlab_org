@@ -64,7 +64,7 @@
   role: PhD candidate (UdS)
   status: associate
   project: Neuro-explicit models for drug discovery (in co-supervision with Prof. Dr. Verena Wolf)
-  image: /images/team/paulakramer.jpg
+  image: /images/team/PaulaKramer.jpg
   links:
     - icon: envelope
       text: paula.kramer@cs.uni-saarland.de
@@ -159,10 +159,33 @@
 =======
 - name: Armin Ariamajd
   key: armin.ariamajd
-  role: Master's student
+  role: Master student, Chemistry
   status: studentmember
   project: Modeling of target-focused dynamic pharmacophores, using molecular dynamics simulations.
+<<<<<<< HEAD
 >>>>>>> 788db56 (Add Armin's info (#100))
+=======
+  image: /images/team/ArminAriamajd.jpg
+  links:
+    - icon: envelope
+      text: armin.ariam@fu-berlin.de
+      url: mailto:armin.ariam@fu-berlin.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/Armin-Ariamajd
+    - icon: github
+      text: GitHub
+      url: https://github.com/Armin-Ariamajd
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?user=0BOUdo0AAAAJ
+    - icon: book
+      text: ORCiD
+      url: https://orcid.org/0000-0003-1563-6987
+    - icon: twitter
+      text: Twitter
+      url: https://twitter.com/Al___Chemist
+>>>>>>> c844cc7 (Change layout of 'Team' page and add Armin's photo and contact info (#102))
 # --ALUMNI--     
 - name: David Schaller
   prefix: Dr.
