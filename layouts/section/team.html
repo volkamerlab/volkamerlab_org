@@ -28,14 +28,34 @@
             </section>
             <section>
                 <header>
+                    <h2>Associated members</h2>
+                </header>
+                <div class="posts">
+                    {{ range where .Site.Data.team.members ".status" "associate" }}
+                    {{ partial "person" . }}
+                    {{ end }}
+                </div>
+            </section>
+            <section>
+                <header>
                     <h2>Students</h2>
                 </header>
+                <div class="posts">
+                    {{ range where .Site.Data.team.members ".status" "studentmember" }}
+                    {{ partial "person" . }}
+                    {{ end }}
+                </div>
+<!--
+                To roll back to old format, remove the above <div> above
+                and substitute with the <ul> below.
+
                 <ul>
                     {{ range where $.Site.Data.team.members ".status" "studentmember" }}
                     <li id="{{- .key -}}"><strong>{{ with .prefix }}{{- . }} {{ end }}{{ .name }}</strong> ({{ .role }})<br />
                         {{ .project }}</li>
                     {{ end }}
                 </ul>
+-->
             </section>
             <section>
                 <header>
