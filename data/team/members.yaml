@@ -62,9 +62,9 @@
   prefix:
   key: paula.kramer
   role: PhD candidate (UdS)
-  status: associate
+  status: member
   project: Neuro-explicit models for drug discovery (in co-supervision with Prof. Dr. Verena Wolf)
-  image: /images/team/PaulaKramer.jpg
+  image: /images/team/paulakramer.jpg
   links:
     - icon: envelope
       text: paula.kramer@cs.uni-saarland.de
