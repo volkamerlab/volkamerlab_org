@@ -72,6 +72,26 @@
     - icon: github
       text: GitHub
       url: https://github.com/PaulaKramer
+- name: Floriane Odje
+  prefix:
+  key: floriane.odje
+  role: PhD candidate (UdS)
+  status: member
+  project: Development of ML-DL models based on morphological and molecular data to predict the effects of substances and to identify characteristic fingerprints. BMBF-funded MORPHEUS project
+  image: /images/team/florianeodje.JPEG
+  links:
+    - icon: envelope
+      text: floriane.odje@gmail.com
+      url: mailto:floriane.odje@gmail.com
+    - icon: github
+      text: GitHub
+      url: https://github.com/f-sod
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/floriane-odje
+    - icon: twitter
+      text: Twitter
+      url: https://twitter.com/Flrn_St
 - name: Talia B. Kimber
   prefix:
   key: talia.kimber
