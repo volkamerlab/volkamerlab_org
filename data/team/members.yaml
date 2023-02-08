@@ -143,8 +143,8 @@
   key: floriane.odje
   role: PhD candidate (UdS)
   status: member
-  project: Development of ML-DL models, based on morphological and molecular data to predict the effects of substances and to identify characteristic fingerprints. BMBF-funded MORPHEUS project
-  image: /images/team/florianeodje.jpg
+  project: Development of ML-DL models based on morphological and molecular data to predict the effects of substances and to identify characteristic fingerprints. BMBF-funded MORPHEUS project
+  image: /images/team/florianeodje.JPEG
   links:
     - icon: envelope
       text: floriane.odje@gmail.com
