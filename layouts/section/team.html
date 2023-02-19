@@ -45,7 +45,7 @@
                     {{ partial "person" . }}
                     {{ end }}
                 </div>
-<!--
+                <!--
                 To roll back to old format, remove the above <div> above
                 and substitute with the <ul> below.
 
@@ -63,8 +63,10 @@
                 </header>
                 <ul>
                     {{ range where $.Site.Data.team.members ".status" "alumni" }}
-                    <li id="{{- .key -}}"><strong>{{ with .prefix }}{{- . }} {{ end }}{{ .name }}</strong> ({{ .role }})<br />
-                        {{ .project }}</li>
+                    <li id="{{- .key -}}"><strong>{{ with .prefix }}{{- . }} {{ end }}{{ .name }}</strong> ({{ .role }})
+                        <a href="{{ .contact_link }}">{{ with .contact_text }}{{- . }} {{ end }}</a> <br />
+                        {{ .project }}
+                    </li>
                     {{ end }}
                 </ul>
             </section>
