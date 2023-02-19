@@ -64,7 +64,8 @@
                 <ul>
                     {{ range where $.Site.Data.team.members ".status" "alumni" }}
                     <li id="{{- .key -}}"><strong>{{ with .prefix }}{{- . }} {{ end }}{{ .name }}</strong> ({{ .role }})
-                        <a href="{{ .contact_link }}">{{ with .contact_text }}{{- . }} {{ end }}</a> <br />
+                        <a href="{{ .contact_link }}" target="_blank">{{ with .contact_text }}{{- . }} {{ end }}</a>
+                        <br />
                         {{ .project }}
                     </li>
                     {{ end }}
