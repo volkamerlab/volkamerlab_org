@@ -1,6 +1,6 @@
 ---
 title: "Floriane Odje joins Volkamer’s lab "
-date: 2022-02-01
+date: 2023-02-01
 author: floriane.odje
 ---
 Floriane holds a bachelor's degree in life science and bioinformatics and a master's degree in bioinformatics and in Silico drug design from the University of Paris. 
