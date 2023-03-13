@@ -62,9 +62,9 @@
   prefix:
   key: paula.kramer
   role: PhD candidate (UdS)
-  status: associate
+  status: member
   project: Neuro-explicit models for drug discovery (in co-supervision with Prof. Dr. Verena Wolf)
-  image: /images/team/PaulaKramer.jpg
+  image: /images/team/paulakramer.jpg
   links:
     - icon: envelope
       text: paula.kramer@cs.uni-saarland.de
@@ -72,55 +72,26 @@
     - icon: github
       text: GitHub
       url: https://github.com/PaulaKramer
-- name: Talia B. Kimber
+- name: Floriane Odje
   prefix:
-  key: talia.kimber
-  role: PhD candidate (Charité)
+  key: floriane.odje
+  role: PhD candidate (UdS)
   status: member
-  project: Machine learning for kinase drug discovery
-  image: /images/team/taliakimber.jpg
-  links:
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/taliakimber
-    - icon: github
-      text: GitHub
-      url: https://github.com/t-kimber
-    - icon: graduation-cap
-      text: Google Scholar
-      url: https://scholar.google.com/citations?user=i3sMZ-cAAAAJ&hl=en&oi=ao
-    - icon: book
-      text: ORCiD
-      url: https://orcid.org/0000-0002-8881-920X
-    - icon: twitter
-      text: Twitter
-      url: https://twitter.com/taliakimber 
-- name: Dominique Sydow
-  prefix:
-  key: dominique.sydow
-  role: PhD candidate (Charité)
-  status: member
-  image: /images/team/dominiquesydow.jpg
-  project: Binding site comparison for off-target and polypharmacology prediction
+  project: Development of DL models based on morphological and molecular data. BMBF-funded MORPHEUS project
+  image: /images/team/florianeodje.JPEG
   links:
     - icon: envelope
-      text: dominique.sydow@gmail.com
-      url: mailto:dominique.sydow@gmail.com
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/dominiquesydow/
+      text: floriane.odje@gmail.com
+      url: mailto:floriane.odje@gmail.com
     - icon: github
       text: GitHub
-      url: https://github.com/dominiquesydow
-    - icon: graduation-cap
-      text: Google Scholar
-      url: https://scholar.google.de/citations?user=_qAbn1YAAAAJ&hl=en&oi=ao
-    - icon: book
-      text: ORCiD
-      url: https://orcid.org/0000-0003-4205-8705
+      url: https://github.com/f-sod
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/floriane-odje
     - icon: twitter
       text: Twitter
-      url: https://twitter.com/dominiquesydow
+      url: https://twitter.com/Flrn_St
 - name: Alexander Gujarnov
   prefix:
   key: alexander.gujarnov
@@ -137,7 +108,7 @@
       url: https://github.com/AlexanderGurjanov
     - icon: linkedin
       text: Linkedin
-      url: https://www.linkedin.com/in/alexander-gurjanov-4b8035123    
+      url: https://www.linkedin.com/in/alexander-gurjanov-4b8035123
 # --MASTERS--
 - name: Armin Ariamajd
   key: armin.ariamajd
@@ -164,7 +135,6 @@
     - icon: twitter
       text: Twitter
       url: https://twitter.com/Al___Chemist
-
 - name: Hamza Ibrahim
   key: hamza.ibrahim
   role: Master student, Bioinformatics (UdS)
@@ -181,7 +151,23 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/hamza-ibrahim-3648aa111/
-# --ALUMNI--     
+# --ALUMNI--
+- name: Talia B. Kimber
+  prefix:
+  key: talia.kimber
+  role: PhD candidate
+  status: alumni
+  project: Machine learning for kinase drug discovery
+  contact_link: https://www.taliabkimber.com/
+  contact_text: Website
+- name: Dominique Sydow
+  prefix:
+  key: dominique.sydow
+  role: PhD candidate
+  status: alumni
+  project: Binding site comparison for off-target and polypharmacology prediction
+  contact_link: https://www.linkedin.com/in/dominiquesydow/
+  contact_text: LinkedIn
 - name: David Schaller
   prefix: Dr.
   key: david.schaller
@@ -278,7 +264,7 @@
       url: https://twitter.com/jaime_rgp
     - icon: globe
       text: Website
-      url: https://rjai.me  
+      url: https://rjai.me
 - name: Andrea Morger
   prefix:
   key: andrea-lilian.morger
@@ -319,7 +305,7 @@
   project: Dynamic pharmacophore modeling from apo structures
 - name: Allen Dumler
   prefix:
-  key: allen.dumler   
+  key: allen.dumler
   role: Bachelor student
   status: alumni
   image:
