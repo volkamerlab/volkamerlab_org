@@ -1,6 +1,6 @@
 ---
 title: "Machine learning for small molecule drug discovery"
-date: 2022-01-01T13:00:00+02:00
+date: 2023-01-01T13:00:00+02:00
 author: andrea.volkamer
 ---
 
