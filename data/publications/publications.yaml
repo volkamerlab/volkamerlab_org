@@ -25,6 +25,60 @@
 
 #  Books
 
+Jordan_plosone_2023:
+     key: Jordan_plosone_2023
+     title: "Small molecule inhibiting microglial nitric oxide release could become a potential treatment for neuroinflammation"
+     authors:
+       - Philipp Jordan
+       - Amanda Costa
+       - Edgar Specker
+       - Oliver Popp
+       - andrea.volkamer
+       - Regina Piske
+       - Tessa Obrusnik
+       - Sabrina Kleissle
+       - Kevin Stuke
+       - Andre Rex
+       - Martin Neuenschwander
+       - Jens Peter Von Kries
+       - Marc Nazare
+       - Phillip Mertins
+       - Helmut Kettenmann
+       - Susanne A. Wolf
+     journal: "PLoS ONE"
+     volume: "18"
+     issue: "2"
+     pages: ""
+     year: 2023
+     date: 2023-02-06
+     doi: "https://doi.org/10.1371/journal.pone.0278325"
+     image: ""
+     pdf: ""
+     kind: article
+
+volkamer_ailsci_2023:
+     key: volkamer_ailsci_2023
+     title: "Machine learning for small molecule drug discovery in academia and industry"
+     authors:
+       - andrea.volkamer
+       - Sereina Riniker
+       - Eva Nittinger
+       - Jessica Lanini
+       - Francesca Grisoni
+       - Emma Evertsson
+       - Raquel Rodríguez-Pérez
+       - Nadine Schneider
+     journal: Artificial Intelligence in the Life Sciences
+     volume: "3"
+     issue: ""
+     pages: "100056"
+     year: 2023
+     date: 2023-01-15
+     doi: "https://doi.org/10.1016/j.ailsci.2022.100056"
+     image: ""
+     pdf: "https://www.sciencedirect.com/science/article/pii/S2667318522000265"
+     kind: article
+     
 kimber_livecoms_2022:
      key: kimber_livecoms_2022
      title: "Kinase Similarity Assessment Pipeline for Off-Target Prediction [v1.0]"
