@@ -1,5 +1,5 @@
 ---
-title: "Machine learning for small molecule drug discovery"
+title: "ML for small molecule DD paper out!"
 date: 2023-01-01T13:00:00+02:00
 author: andrea.volkamer
 ---
