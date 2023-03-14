@@ -18,6 +18,16 @@
             </section>
             <section>
                 <header>
+                    <h2>Administrative Assistance</h2>
+                </header>
+                <div class="posts">
+                    {{ range where .Site.Data.team.members ".status" "adminassistance" }}
+                    {{ partial "person" . }}
+                    {{ end }}
+                </div>
+            </section>
+            <section>
+                <header>
                     <h2>Members</h2>
                 </header>
                 <div class="posts">

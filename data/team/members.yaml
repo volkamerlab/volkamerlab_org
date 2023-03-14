@@ -19,6 +19,19 @@
     - icon: book
       text: ORCiD
       url: http://orcid.org/0000-0002-3760-580X
+# --ADMINASSISTANCE--
+- name: Stefanie Pilhofer
+  key: stefanie.pilhofer
+  role: Administrative assistance
+  status: adminassistance
+  image: /images/team/stefaniepilhofer.jpg
+  links:
+    - icon: envelope
+      text: stefanie.pilhofer@uni-saarland.de
+      url: mailto:stefanie.pilhofer@uni-saarland.de
+    - icon: phone
+      text: +681 302 50800
+      url: mailto:+68130250800
 # --POSTDOCS--
 - name: Michael Backenköhler
   prefix: Dr.
