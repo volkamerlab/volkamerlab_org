@@ -24,9 +24,52 @@
 #     kind: article, review, book
 
 #  Books
-
-Jordan_plosone_2023:
-     key: Jordan_plosone_2023
+perner_nature_2023:
+     key: perner_nature_2023
+     title: "MEN1 mutations mediate clinical resistance to menin inhibition"
+     authors:
+       - Florian Perner
+       - Eytan M. Stein
+       - Daniela V. Wenge
+       - Sukrit Singh
+       - Jeonghyeon Kim
+       - Athina Apazidis
+       - Homa Rahnamoun
+       - Disha Anand
+       - Christian Marinaccio
+       - Charlie Hatton
+       - Yanhe Wen
+       - Richard M. Stone
+       - david.schaller
+       - Shoron Mowla
+       - Wenbin Xiao, 
+       - Holly A. Gamlen  
+       - Aaron J. Stonestrom 
+       - Sonali Persaud 
+       - Elizabeth Ener 
+       - Jevon A. Cutler 
+       - John G. Doench 
+       - Gerard M. McGeehan 
+       - andrea.volkamer
+       - John D. Chodera
+       - Radosław P. Nowak
+       - Eric S. Fischer
+       - Ross L. Levine
+       - Scott A. Armstrong 
+       - Sheng F. Cai 
+     journal: "Nature"
+     volume: ""
+     issue: ""
+     pages: ""
+     year: 2023
+     date: 2023-03-15
+     doi: "https://doi.org/10.1038/s41586-023-05755-9"
+     image: ""
+     pdf: ""
+     kind: article
+     
+jordan_plosone_2023:
+     key: jordan_plosone_2023
      title: "Small molecule inhibiting microglial nitric oxide release could become a potential treatment for neuroinflammation"
      authors:
        - Philipp Jordan
