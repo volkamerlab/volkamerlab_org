@@ -24,6 +24,27 @@
 #     kind: article, review, book
 
 #  Books
+born_digitaldiscovery_2023:
+     key: born_digitaldiscovery_2023
+     title: "Chemical representation learning for toxicity prediction"
+     authors:
+       - Jannis Born
+       - Greta Markert
+       - Nikita Janakarajan
+       - talia.kimber
+       - andrea.volkamer
+       - María Rodríguez Martínez 
+       - Matteo Manica
+     journal: "Digital Discovery"
+     volume: ""
+     issue: ""
+     pages: ""
+     year: 2023
+     date: 2023-04-03
+     doi: "https://doi.org/10.1039/D2DD00099G"
+     image: ""
+     pdf: ""
+     kind: article
 perner_nature_2023:
      key: perner_nature_2023
      title: "MEN1 mutations mediate clinical resistance to menin inhibition"
