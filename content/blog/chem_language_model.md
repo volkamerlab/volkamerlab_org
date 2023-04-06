@@ -1,5 +1,5 @@
 ---
-title: "Our chemical language model is out !"
+title: "Our collaboration on a chemical language model is out !"
 date: 2023-04-03T14:27:59+01:00
 author: andrea.volkamer
 ---
