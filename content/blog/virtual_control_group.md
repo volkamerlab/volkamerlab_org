@@ -6,4 +6,4 @@ author: alexander.gujarnov
 
 Have a look on our [newest publication](https://www.frontiersin.org/articles/10.3389/fphar.2023.1142534/full) presenting a method to generate and validate Virtual Control Groups (VCGs) in systemic toxicity studies. This paper highlights the impact of anesthetics on measured electrolytes in animals and presents how these anesthetic protocols can affect the performance of virtual control groups.
 
-This article was published by out PhD student at Bayer Pharmaceuticals as a member of the the eTRANSAFE Virtual Control Groups team. 
+This article was published by Alexander, our PhD student at Bayer Pharmaceuticals as a member of the eTRANSAFE Virtual Control Groups team. 
