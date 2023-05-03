@@ -24,6 +24,25 @@
 #     kind: article, review, book
 
 #  Books
+gurjanov_frontinpharm_2023:
+     key: 
+     title: "Hurdles and signposts on the road to virtual control groups—A case study illustrating the influence of anesthesia protocols on electrolyte levels in rats"
+     authors:
+       - alexander.gujarnov
+       - Andrea Kreuchwig
+       - Thomas Steger-Hartmann
+       - Lea Vaas
+     journal: "Frontiers in Pharmacology"
+     volume: "14"
+     issue: ""
+     pages: ""
+     year: 2023
+     date: 2023-04-20
+     doi: "10.3389/fphar.2023.1142534"
+     image: ""
+     pdf: ""
+     kind: article
+     
 born_digitaldiscovery_2023:
      key: born_digitaldiscovery_2023
      title: "Chemical representation learning for toxicity prediction"
