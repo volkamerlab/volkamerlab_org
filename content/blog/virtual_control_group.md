@@ -1,5 +1,5 @@
 ---
-title: "New paper published: presenting hurdles and signposts on the road to virtual control groups!"
+title: "New paper presenting hurdles and signposts on the road to virtual control groups!"
 date: 2023-04-20T14:27:59+01:00
 author: alexander.gujarnov
 ---
