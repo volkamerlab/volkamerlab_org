@@ -152,7 +152,7 @@
   key: hamza.ibrahim
   role: Master student, Bioinformatics (UdS)
   status: studentmember
-  project: Development of a scoring function for structure-based virtual screening.
+  project: Development of a workflow to discover new inhibitors for energy coupling factor transporters 
   image: /images/team/hamzaibrahim.jpg
   links:
     - icon: envelope
@@ -164,6 +164,20 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/hamza-ibrahim-3648aa111/
+# --BACHELOR--
+- name: Katharina Buchthal
+  key: katharina.buchthal
+  role: Bachelor Student, Bioinformatics (UdS)
+  status: studentmember
+  project: Subpocket-based docking for kinases
+  image: /images/team/katharinabuchthal.jpg
+  links:
+    - icon: envelope
+      text: kabu00002@stud.uni-saarland.de
+      url: mailto:kabu00002@stud.uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/kabu00002
 # --ALUMNI--
 - name: Talia B. Kimber
   prefix:
