@@ -53,6 +53,7 @@ collaborators:
 funding:
 - name: Note that the TeachOpenCADD project has been a group effort and has received no explicit funding, while the positions of individual authors were supported by diverse funding agencies, see the individual projects' pages.
 publications:
+- bachenkoehler_chemrxiv_2023		
 - teachopencaddknime
 - teachopencadd
 - sydow_acs_2021
