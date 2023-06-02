@@ -35,12 +35,21 @@ people:
 - key: andrea-lilian.morger
 - key: maximilian.driller
 - key: armin.ariamajd
+- key: michael.backenkoehler
+- key: paula.kramer
+- key: floriane.odje
+- key: hamza.ibrahim
 collaborators:
 # List here everyone who co-authored TOC publications outside of the Volkamer Lab
 - name: Greg Landrum
   more: KNIME
 - name: Daria Goldmann
   more: KNIME
+- name: Joschka Groß
+- name: Gerrit Großmann
+- name: Roman Joeres
+- name: Azat Tagirdzhanov
+- name: Verena Wolf
 funding:
 - name: Note that the TeachOpenCADD project has been a group effort and has received no explicit funding, while the positions of individual authors were supported by diverse funding agencies, see the individual projects' pages.
 publications:
@@ -73,4 +82,4 @@ TeachOpenCADD is suitable for self-study training and classroom teaching, but ca
 research projects.
 The platform is freely available on GitHub and open to contributions from the community.
 
-{{< xfigure src="/images/research/teachopencadd.png" caption="The TeachOpenCADD platform offers tutorials covering a step-by-step pipeline to propose novel EGFR kinase inhibitors with concepts from cheminformatics (green), structural bioinformatics (orange), and online webserver queries (blue)." imageclass="fit" >}}
+{{< xfigure src="/images/research/teachopencadd_topics.png" caption="The TeachOpenCADD platform offers tutorials covering a step-by-step pipeline to propose novel EGFR kinase inhibitors with concepts from cheminformatics (green), structural bioinformatics (orange) and online webserver queries (blue). Talktorials also cover different kinase similarity measures (yellow) and an introduction to deep learning (purple)." imageclass="fit" >}}
