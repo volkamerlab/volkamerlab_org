@@ -1,5 +1,5 @@
 ---
-title: "Group Retreat: Exploring Saarbrücken with our Berlin Teammates!"
+title: "Group retreat: Exploring Saarbrücken with our Berlin teammates!"
 date: 2023-05-04T16:13:11+02:00
 author: hamza.ibrahim
 ---
