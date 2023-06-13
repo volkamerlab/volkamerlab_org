@@ -1,5 +1,5 @@
 ---
-title: CADD courses & seminars @ SB
+title: CADD courses & seminars @ UdS
 date: 2023-04-25
 publishdate: 2023-04-25
 menu:
@@ -30,5 +30,5 @@ Topics include homology modeling, target assessment, molecular docking, virtual 
 
 ## Resources
 
-- 2023 - <a class="icon fa-lock" target="_blank" href="https://github.com/volkamerlab/CADDSeminar_2023" title="Access restricted to enroled students"> CADD Seminar</a> + <a class="icon fa-lock" target="_blank" href="https://github.com/volkamerlab/CADDSeminar_2023" title="Access restricted to enroled students"> Seminar</a>
+- SoSe 2023 - <a class="icon fa-lock" target="_blank" href="https://github.com/volkamerlab/CADDSeminar_2023" title="Access restricted to enrolled students"> CADD Seminar</a>
 - 2022 - <a class="icon fa-lock" target="_blank" href="https://github.com/volkamerlab/CADDCourse2023" title="Access restricted to enroled students"> CADD course</a> + <a class="icon fa-lock" target="_blank" href="https://github.com/volkamerlab/CADDCourse2023" title="Access restricted to enroled students"> Course</a>

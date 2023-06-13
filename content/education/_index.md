@@ -15,7 +15,7 @@ This page summarizes our main educational activities, including our open teachin
 
 {{% intro "projects/teachopencadd.md" %}}
 
-### [CADD Courses & Seminars @ SB](/education/cadd-sb/)
+### [CADD Courses & Seminars @ UdS](/education/cadd-sb/)
 
 {{% intro "education/cadd-sb.md" %}}
 
