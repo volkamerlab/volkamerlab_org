@@ -31,4 +31,4 @@ Topics include homology modeling, target assessment, molecular docking, virtual 
 ## Resources
 
 - SoSe 2023 - <a class="icon fa-lock" target="_blank" href="https://github.com/volkamerlab/CADDSeminar_2023" title="Access restricted to enrolled students"> CADD Seminar</a>
-- 2022 - <a class="icon fa-lock" target="_blank" href="https://github.com/volkamerlab/CADDCourse2023" title="Access restricted to enroled students"> CADD course</a> + <a class="icon fa-lock" target="_blank" href="https://github.com/volkamerlab/CADDCourse2023" title="Access restricted to enroled students"> Course</a>
+- WiSe2022/23 - <a class="icon fa-lock" target="_blank" href="https://github.com/volkamerlab/CADDCourse2023" title="Access restricted to enrolled students"> CADD course</a>
