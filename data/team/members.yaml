@@ -122,6 +122,23 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/alexander-gurjanov-4b8035123
+- name: Afnan Sultan
+  prefix:
+  key: afnan.sultan
+  role: PhD candidate (BASF)
+  status: associate
+  project: Generative AI for drug toxicity at BASF
+  image: /images/team/afnansultan.jpg
+  links:
+    - icon: envelope
+      text: s8afsult@uni-saarland.de
+      url: s8afsult@uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/Afnan-Sultan
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/afnan-sultan-625320104
 # --MASTERS--
 - name: Armin Ariamajd
   key: armin.ariamajd
