@@ -25,10 +25,14 @@ Topics include homology modeling, target assessment, molecular docking, virtual 
 
 - CADD Seminar (144048): Data Driven Drug Design - Methods and Applications - <a href=" https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=144048&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank" class="external">SS2023</a>
 - CADD Course (140645): Open-Source Software and Libraries for Data Driven Drug Design  - <a href=" https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=140645&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank" class="external">WS2022</a>
+- CADD Seminar (147394): Case studies of reproducibility in bioinformatics: ML models for drug design - <a href="https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=147394&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank" class="external">WS2023</a>
+- CADD Course (147121): Open-Source Software and Libraries for Data Driven Drug Design  - <a href=" https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=147121&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank" class="external">WS2023</a>
 
-
+For registeration, please send an email to <a class="icon fa-envelope" href="mailto:stefanie.pilhofer@uni-saarland.de" target="_blank" title="Email Stefanie Pilhofer"> Stefanie Pilhofer</a> with your full name, matriculation number and the name of the course or seminar you wish to enroll in.
 
 ## Resources
 
 - SoSe 2023 - <a class="icon fa-lock" target="_blank" href="https://github.com/volkamerlab/CADDSeminar_2023" title="Access restricted to enrolled students"> CADD Seminar</a>
 - WiSe2022/23 - <a class="icon fa-lock" target="_blank" href="https://github.com/volkamerlab/CADDCourse2023" title="Access restricted to enrolled students"> CADD course</a>
+- WiSe2023/24 - <a class="icon fa-lock" target="_blank" href="" title="Access restricted to enrolled students"> ML models for drug design Seminar</a>
+- WiSe2023/24 - <a class="icon fa-lock" target="_blank" href="" title="Access restricted to enrolled students"> CADD course</a>
