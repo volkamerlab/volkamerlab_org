@@ -57,14 +57,14 @@
 - name: Yonghui Chen
   prefix:
   key: yonghui.chen
-  role: PhD candidate (Charité)
+  role: PhD candidate (FU Berlin)
   status: member
   project: Virtual screening and deep learning for drug discovery
   image: /images/team/yonghuichen.jpg
   links:
     - icon: envelope
-      text: yonghui.chen@charite.de
-      url: mailto:yonghui.chen@charite.de
+      text: yonghuic92@zedat.fu-berlin.de
+      url: mailto:yonghuic92@zedat.fu-berlin.de
     - icon: github
       text: GitHub
       url: https://github.com/yonghui-cc
