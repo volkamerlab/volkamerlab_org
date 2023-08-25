@@ -36,6 +36,7 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
 * [Deep learning based virtual screening](/projects/deeplearning-vs/)
 * [Data augmentation and deep learning for physico-chemical property prediction](/projects/maxsmi/)
 * [Historical Virtual Control Groups](/projects/historical_virtual_control_groups/)
+* [Kinodata-3D](/projects/kinodata-3d/)
 
 ### [OpenKinome](/research/openkinome)
 

@@ -28,6 +28,10 @@ Machine learning (ML) algorithms, and more recently deep learning (DL) methods, 
 
 {{% intro "/research/machine-learning/historical_virtual_control_groups.md" %}}
 
+## [Kinodata-3D](/projects/kinodata-3d/)
+
+{{% intro "/project/kinodata-3D.md" %}}
+
 ## See also
 
 * [KinoML](/projects/kinoml/)
