@@ -3,10 +3,6 @@ title: "KinfragML"
 date: 2023-08-25T09:28:13+02:00
 weight: 10
 nav: false
-menu:
-    main:
-        parent: Projects
-nav: false
 # Uncomment sections below to enable them in your project
 # external_resources:
 # - name: Software name
