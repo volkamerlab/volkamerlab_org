@@ -11,6 +11,7 @@ collaborators:
 - name: Joschka Groß
   link: http://mosi.uni-saarland.de/people/joschka
 - name: Verena Wolf
+  link: http://mosi.uni-saarland.de/people/verena
 external_resources:
 - name: kinodata-3D
   link: https://github.com/volkamerlab/kinodata-3D
