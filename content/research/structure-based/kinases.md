@@ -16,6 +16,10 @@ Besides target-independent approaches, we focus our structure-based developments
 
 {{% intro "projects/kinfraglib.md" %}}
 
+### [KinFragLibPocketEnum](/projects/kinfraglib_pocket_enum)
+
+{{% intro "projects/kinfraglib_pocket_enum.md" %}}
+
 <!-- TODO
 * `klifs_utils` -->
 
