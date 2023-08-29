@@ -37,6 +37,7 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
   <!-- TODO * CP_Tox21 -->
 * [Deep learning based virtual screening](/projects/deeplearning-vs/)
 * [Data augmentation and deep learning for physico-chemical property prediction](/projects/maxsmi/)
+* [Molecular Property Representation and Optimization using Transformers](/projects/protect)
 * [Historical Virtual Control Groups](/projects/historical_virtual_control_groups/)
 * [Kinodata-3D](/projects/kinodata-3d/)
 * more deep learning based work at [KinFragML](/projects/kinfrag-ml/)
