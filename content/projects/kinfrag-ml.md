@@ -24,7 +24,7 @@ funding:
 # - citation_key
 ---
 
-In this project we work with the kinase protein family, since they are often involved in diseases which make them an interesting drug target. We want to generate novel ligands as potential drug candidates for kinases using deep learning. The model includes information on the kinase binding pocket, since it is well studied and well conserved across different types of kinases. We tackle the problem of ligand generation in a fragment-based approach to increase synthesizability.
+In this project, we work with the protein kinase family, since they are involved in many diseases which make them an interesting drug target. The aim is to generate novel ligands as potential drug candidates for kinases using generative deep learning. The model includes structural information on the kinase binding pocket, since it is well studied and well conserved across protein kinases. We tackle the problem of ligand generation in a fragment-based approach by including domain-knowledge to increase kinase affinity and synthesizability in general.
 
 <!--more-->
 
