@@ -17,7 +17,7 @@ collaborators:
   more: (<a href="https://www.basf.com/" target="_blank" class="external">BASF</a>)
 
 funding:
-- name: name: We thank BASF for financial support
+- name: We thank BASF for financial support
 - 
 ---
 
