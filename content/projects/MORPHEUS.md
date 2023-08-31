@@ -12,7 +12,7 @@ funding:
   link: https://www.bmbf.de/bmbf/en/ministry/research-funding/research-funding_node.html
 ---
 
-The MORPHology-based Endocrine Disruptor Screening [Morpheus] project aims to develop deep learning models to predict the effects of substances and identify characteristic fingerprints based on morphological and molecular input data.
+The computational part of the MORPHology-based Endocrine DisrUptor Screening (_Morpheus_) project aims to develop deep learning models to predict the effects of substances and identify characteristic fingerprints based on morphological and molecular input data.
 
 <!--more-->
 
