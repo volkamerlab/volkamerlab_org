@@ -24,6 +24,10 @@ funding:
   link: https://nextaid.cs.uni-saarland.de/
 ---
 
-Structural machine learning models require large datasets for training. As such datasets are unavailable, we assess the use of in-silico structural docking data for machine learning. To this end, we perform template docking on a large kinase activity dataset (kinodata). We extensively compare affinity prediction models with access to the 3D complexes to various baseline models without access to this structure. We observe an increased performance of the model trained on the docked complexes.
+Machine learning - and especially deep learning - models require large datasets for training. As such datasets, especially those containing protein-ligand-complex information - are more rare in the drug design landscape, we assess the use of _in silico_ structural docking data for machine learning. 
+
+To this end, we perform template docking using the OpenEye software on a large kinase activity dataset (kinodata) following the complex generation pipeline developed in kinoml. 
+
+To asses the performance gain of using generated structural data, we extensively compare affinity prediction models with access to the 3D complexes to various baseline models without access to this structure. Overall, we observe an increased performance of the model trained on the docked complexes.
 
 <!--more-->
