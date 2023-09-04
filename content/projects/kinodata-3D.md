@@ -5,7 +5,7 @@ publishdate: 2023-08-20
 weight: 10
 nav: false
 people:
-- key: michael.backenkoehler 
+- key: michael.backenkoehler
 - key: andrea.volkamer
 collaborators:
 - name: Joschka Groß
@@ -24,9 +24,9 @@ funding:
   link: https://nextaid.cs.uni-saarland.de/
 ---
 
-Machine learning - and especially deep learning - models require large datasets for training. As such datasets, especially those containing protein-ligand-complex information - are more rare in the drug design landscape, we assess the use of _in silico_ structural docking data for machine learning. 
+Machine learning - and especially deep learning - models require large datasets for training. As such datasets, especially those containing protein-ligand-complex information - are more rare in the drug design landscape, we assess the use of _in silico_ structural docking data for machine learning.
 
-To this end, we perform template docking using the OpenEye software on a large kinase activity dataset (kinodata) following the complex generation pipeline developed in kinoml. 
+To this end, we perform template docking using the [OpenEye](https://www.eyesopen.com) software on a large kinase activity dataset (kinodata) following the complex generation pipeline developed in [kinoml](/research/projects/kinoml).
 
 To asses the performance gain of using generated structural data, we extensively compare affinity prediction models with access to the 3D complexes to various baseline models without access to this structure. Overall, we observe an increased performance of the model trained on the docked complexes.
 
