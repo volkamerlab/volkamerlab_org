@@ -21,6 +21,7 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
   * [Dynamic target-based pharmacophores](/projects/t2f-flex)
 * [Kinase-focused methods](/research/structure-based/kinases)
   * [Kinase-fragment library](/projects/kinfraglib)
+  * [Deep learning based ligand generation from kinase fragments](/projects/kinfrag-ml)
   * more at [OpenKinome](/research/openkinome)
 
 <!-- TODO * `klifs_utils` -->
@@ -37,6 +38,7 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
 * [Data augmentation and deep learning for physico-chemical property prediction](/projects/maxsmi/)
 * [Historical Virtual Control Groups](/projects/historical_virtual_control_groups/)
 * [Kinodata-3D](/projects/kinodata-3d/)
+* more deep learning based work at [KinFragML](/projects/kinfrag-ml/)
 
 ### [OpenKinome](/research/openkinome)
 

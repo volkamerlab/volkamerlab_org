@@ -19,6 +19,19 @@
     - icon: book
       text: ORCiD
       url: http://orcid.org/0000-0002-3760-580X
+# --ADMINASSISTANCE--
+- name: Stefanie Pilhofer
+  key: stefanie.pilhofer
+  role: Administrative assistance
+  status: adminassistance
+  image: /images/team/stefaniepilhofer.jpg
+  links:
+    - icon: envelope
+      text: stefanie.pilhofer@uni-saarland.de
+      url: mailto:stefanie.pilhofer@uni-saarland.de
+    - icon: phone
+      text: +681 302 50800
+      url: mailto:+68130250800
 # --POSTDOCS--
 - name: Michael Backenköhler
   prefix: Dr.
@@ -44,14 +57,14 @@
 - name: Yonghui Chen
   prefix:
   key: yonghui.chen
-  role: PhD candidate (Charité)
+  role: PhD candidate (FU Berlin)
   status: member
   project: Virtual screening and deep learning for drug discovery
   image: /images/team/yonghuichen.jpg
   links:
     - icon: envelope
-      text: yonghui.chen@charite.de
-      url: mailto:yonghui.chen@charite.de
+      text: yonghuic92@zedat.fu-berlin.de
+      url: mailto:yonghuic92@zedat.fu-berlin.de
     - icon: github
       text: GitHub
       url: https://github.com/yonghui-cc
@@ -63,7 +76,7 @@
   key: paula.kramer
   role: PhD candidate (UdS)
   status: member
-  project: Neuro-explicit models for drug discovery (in co-supervision with Prof. Dr. Verena Wolf)
+  project: Deep learning for novel kinase inhibitors (in co-supervision with Prof. Dr. Verena Wolf)
   image: /images/team/paulakramer.jpg
   links:
     - icon: envelope
@@ -109,6 +122,23 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/alexander-gurjanov-4b8035123
+- name: Afnan Sultan
+  prefix:
+  key: afnan.sultan
+  role: PhD candidate (UdS/BASF)
+  status: member
+  project: Generative AI for (Eco)-toxicity with BASF
+  image: /images/team/afnansultan.jpg
+  links:
+    - icon: envelope
+      text: s8afsult@uni-saarland.de
+      url: s8afsult@uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/Afnan-Sultan
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/afnan-sultan-625320104
 # --MASTERS--
 - name: Armin Ariamajd
   key: armin.ariamajd
@@ -139,7 +169,7 @@
   key: hamza.ibrahim
   role: Master student, Bioinformatics (UdS)
   status: studentmember
-  project: Development of a scoring function for structure-based virtual screening.
+  project: Computational workflow to discover new inhibitors for ECF-T 
   image: /images/team/hamzaibrahim.jpg
   links:
     - icon: envelope
@@ -151,6 +181,20 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/hamza-ibrahim-3648aa111/
+# --BACHELOR--
+- name: Katharina Buchthal
+  key: katharina.buchthal
+  role: Bachelor student, Bioinformatics (UdS)
+  status: studentmember
+  project: Subpocket-based docking for kinases
+  image: /images/team/katharinabuchthal.jpg
+  links:
+    - icon: envelope
+      text: kabu00002@stud.uni-saarland.de
+      url: mailto:kabu00002@stud.uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/kabu00002
 # --ALUMNI--
 - name: Talia B. Kimber
   prefix:
