@@ -22,6 +22,7 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
 * [Kinase-focused methods](/research/structure-based/kinases)
   * [Kinase-fragment library](/projects/kinfraglib)
   * [Deep learning based ligand generation from kinase fragments](/projects/kinfrag-ml)
+  * [Kinodata-3D](/projects/kinodata-3d/)
   * more at [OpenKinome](/research/openkinome)
 
 <!-- TODO * `klifs_utils` -->

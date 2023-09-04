@@ -28,7 +28,8 @@ Machine learning - and especially deep learning - models require large datasets 
 
 To this end, we perform template docking using the [OpenEye](https://www.eyesopen.com) software on a large kinase activity dataset ([kinodata](https://github.com/openkinome/kinodata)) following the complex generation pipeline developed in [kinoml](/research/projects/kinoml).
 
+<!--more-->
+
 To asses the performance gain of using generated structural data, we extensively compare affinity prediction models with access to the 3D complexes to various baseline models without access to this structure. Overall, we observe an increased performance of the model trained on the docked complexes.
 
 The dataset is also intended as a basis for the [KinfragML](/research/projects/kinfrag-ml) project.
-<!--more-->

@@ -25,6 +25,10 @@ Here, our main method developments based on structural information for target as
 
 {{% intro "research/structure-based/kinases.md" %}}
 
+## [Kinodata-3D](/projects/kinodata-3d/)
+
+{{% intro "/project/kinodata-3D.md" %}}
+
 <!-- TODO ## [Protein-ligand interaction fingerprints](/research/structure-based/interaction-fingerprints/)
 
 {{% intro "research/structure-based/interaction-fingerprints.md" %}} -->
