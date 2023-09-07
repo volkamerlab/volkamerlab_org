@@ -25,7 +25,7 @@ Here, our main method developments based on structural information for target as
 
 {{% intro "research/structure-based/kinases.md" %}}
 
-## [ECFT-VS Pipeline](/projects/ecft-vs-pipeline)
+## [ECFT VS-Pipeline](/projects/ecft-vs-pipeline)
 
 {{% intro "/projects/ecft-vs-pipeline.md" %}}
 

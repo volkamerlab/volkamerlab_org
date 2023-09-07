@@ -22,7 +22,7 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
 * [Kinase-focused methods](/research/structure-based/kinases)
   * [Kinase-fragment library](/projects/kinfraglib)
   * more at [OpenKinome](/research/openkinome)
-* [ECFT-VS Pipeline](/projects/ecft-vs-pipeline)
+* [ECFT VS-Pipeline](/projects/ecft-vs-pipeline)
 <!-- TODO * `klifs_utils` -->
 
 <!-- TODO * Protein-ligand interaction fingerprints -->
