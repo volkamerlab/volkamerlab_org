@@ -17,7 +17,7 @@ cooperation:
   link: https://www.helmholtz-hips.de/en/
 ---
 
-Finding the optimal docking pipeline for a target is challenging. Our project aims to develop a data-driven pipeline to find new hits for Energy coupling factor (ECF) transporters through the optimization of various structure-based virtual screening workflows.
+Finding the optimal docking pipeline to identify novel ligands for a target of interest is challenging. Our project aims to develop a data-driven pipeline to find new hits for energy-coupling factor (ECF) transporters through the optimization of various structure-based virtual screening workflows.
 
 <!--more-->
 
