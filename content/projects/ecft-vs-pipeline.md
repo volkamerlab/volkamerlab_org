@@ -23,4 +23,4 @@ Finding the optimal docking pipeline for a target is challenging. Our project ai
 
 Energy coupling factor (ECF) transporters are novel, promising antimicrobial targets which mediate micronutrient transport into the cell. Therefore this protein is a promising drug target. Absence of ligands with a co-crystallized protein with ligand and its cryptic binding pocket make it a challenging target. However, previous computational work at the Helmholtz-Institute for Pharmaceutical Research Saarland (HIPS) revealed an opening pocket in ECF transporters for pantothenate.
 
-To virtually screen a large in-house data of HIPS, we develop a structure-based, data-driven pipeline. In this approach we identify an efficient docking pipeline to our target to propose promising novel antibacterial agents, which can be tested further.
+To virtually screen a large in house or freely available data sets, we develop a structure-based, data-driven pipeline. In this approach we identify an efficient docking pipeline for the target of interest to propose promising novel antibacterial agents, which can be tested further.
