@@ -25,6 +25,10 @@ Here, our main method developments based on structural information for target as
 
 {{% intro "research/structure-based/kinases.md" %}}
 
+## [Kinodata-3D](/projects/kinodata-3d/)
+
+{{% intro "/project/kinodata-3D.md" %}}
+
 ## [ECFT VS-Pipeline](/projects/ecft-vs-pipeline)
 
 {{% intro "/projects/ecft-vs-pipeline.md" %}}
@@ -37,3 +41,5 @@ Here, our main method developments based on structural information for target as
 ## See also
 
 * [OpenKinome](/research/openkinome/)
+
+
