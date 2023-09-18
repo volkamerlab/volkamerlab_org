@@ -24,13 +24,17 @@ Machine learning (ML) algorithms, and more recently deep learning (DL) methods, 
 
 {{% intro "/projects/maxsmi.md" %}}
 
+## [Molecular Property Representation and Optimization using Transformers](/projects/protect)
+
+{{% intro "/projects/protect.md" %}}
+
 ## [Historical Virtual Control Groups](/projects/historical_virtual_control_groups/)
 
 {{% intro "/research/machine-learning/historical_virtual_control_groups.md" %}}
 
 ## [Kinodata-3D](/projects/kinodata-3d/)
 
-{{% intro "/project/kinodata-3D.md" %}}
+{{% intro "/projects/kinodata-3D.md" %}}
 
 ## See also
 
