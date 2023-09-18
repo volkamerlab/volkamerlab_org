@@ -28,5 +28,5 @@ In this project, we work with the protein kinase family, since they are involved
 
 <!--more-->
 
-Starting from the [KinFragLib](https://volkamerlab.org/projects/kinfraglib/) methodology, which fragments kinase ligands and assigns each fragment to a subpocket, we augment the library with docked ligands from [kinodata](https://volkamerlab.org/projects/kinoml/). We currently explore graph-based deep learning for the recombination of fragments in a step-by-step manner. With this approach, we incorporate subpocket information in the model to generate potential kinase-focused ligands. 
+Starting from the [KinFragLib](https://volkamerlab.org/projects/kinfraglib/) methodology, which fragments kinase ligands and assigns each fragment to a subpocket, we augment the library with docked ligands from [kinodata](https://volkamerlab.org/projects/kinodata-3d/). We currently explore graph-based deep learning for the recombination of fragments in a step-by-step manner. With this approach, we incorporate subpocket information in the model to generate potential kinase-focused ligands. 
 
