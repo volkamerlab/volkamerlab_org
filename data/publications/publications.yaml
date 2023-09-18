@@ -25,6 +25,24 @@
 
 #  Books
 
+schaller_biorxiv_2023:
+     key: schaller_biorxiv_2023
+     title: "Benchmarking Cross-Docking Strategies for Structure-Informed Machine Learning in Kinase Drug Discovery"
+     authors:
+       - david.schaller
+       - Clara D. Christ
+       - John D. Chodera
+       - andrea.volkamer
+     journal: "bioRxiv"
+     volume: ""
+     issue: ""
+     pages: ""
+     year: 2023
+     date: 2023-09-14
+     doi: "https://doi.org/10.1101/2023.09.11.557138"
+     image: ""
+     pdf: ""
+     kind: article
 mullowney_natrevdd_2023:
      key: mullowney_natrevdd_2023
      title: "Artificial intelligence for natural product drug discovery"
