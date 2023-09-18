@@ -21,6 +21,8 @@ funding:
 
 ---
 
-In this project, we want to be able to optimize molecular properties and/or generate new molecules with desired non-toxic properties using the Transformers model. Unlike currently available machine and deep learning methods, self supervised learning models, e.g., the transformers model, provide generalizability by being pre-trained on large unsupervised dataset then fine-tuned on small downstream datasets. The transformers model is highly resourceful with the ability to perform molecular property prediction, optimization, and/or generation. 
+In this project, we aim to explore the potential of transformer models to optimize molecular properties and/or generate new molecules with desired non-toxic properties. 
+
+Unlike currently available machine and deep learning methods, self supervised learning models, e.g., the transformer architecture, provide generalizability by being pre-trained on large unsupervised dataset then fine-tuned on small downstream datasets. The transformer model is highly resourceful with the ability to perform molecular property prediction, optimization, and/or generation. 
 
 
