@@ -34,7 +34,7 @@ Machine learning (ML) algorithms, and more recently deep learning (DL) methods, 
 
 ## [Kinodata-3D](/projects/kinodata-3d/)
 
-{{% intro "/project/kinodata-3D.md" %}}
+{{% intro "/projects/kinodata-3D.md" %}}
 
 ## See also
 
