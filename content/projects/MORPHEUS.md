@@ -7,6 +7,13 @@ nav: false
 people:
 - key: floriane.odje
 - key: andrea.volkamer
+Collaborators:
+- name : Sebastian Dunst
+  more : (<a href="https://www.bfr.bund.de/de/start.html" target="_blank" class="external"</a>)
+- name : Kries-von, Jens Peter
+  more : (<a href="https://leibniz-fmp.de/de/" target="_blank" class="external"</a>)
+- name : Christopher Wolff
+  more : (<a href="https://leibniz-fmp.de/de/" target="_blank" class="external"</a>)
 funding:
 - name: Bundesministerium für Bildung und Forschung (BMBF)
   link: https://www.bmbf.de/bmbf/en/ministry/research-funding/research-funding_node.html
