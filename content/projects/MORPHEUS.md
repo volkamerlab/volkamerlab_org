@@ -9,11 +9,11 @@ people:
 - key: andrea.volkamer
 Collaborators:
 - name : Sebastian Dunst
-  more : (<a href="https://www.bfr.bund.de/de/start.html" target="_blank" class="external"</a>)
+  more : (<a href="https://www.bfr.bund.de/de/start.html" target="_blank" class="external">BFR</a>)
 - name : Kries-von, Jens Peter
-  more : (<a href="https://leibniz-fmp.de/de/" target="_blank" class="external"</a>)
+  more : (<a href="https://leibniz-fmp.de/de/" target="_blank" class="external">FMP</a>)
 - name : Christopher Wolff
-  more : (<a href="https://leibniz-fmp.de/de/" target="_blank" class="external"</a>)
+  more : (<a href="https://leibniz-fmp.de/de/" target="_blank" class="external">FMP</a>)
 funding:
 - name: Bundesministerium für Bildung und Forschung (BMBF)
   link: https://www.bmbf.de/bmbf/en/ministry/research-funding/research-funding_node.html
