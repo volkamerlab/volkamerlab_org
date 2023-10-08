@@ -22,8 +22,10 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
 * [Kinase-focused methods](/research/structure-based/kinases)
   * [Kinase-fragment library](/projects/kinfraglib)
   * [Novel Kinase Ligand Generation using Subpocket-Based Docking](/projects/kinfraglib_pocket_enum)
+  * [Deep learning based ligand generation from kinase fragments](/projects/kinfrag-ml)
+  * [Kinodata-3D](/projects/kinodata-3d/)
   * more at [OpenKinome](/research/openkinome)
-
+* [ECFT VS-Pipeline](/projects/ecft-vs-pipeline)
 <!-- TODO * `klifs_utils` -->
 
 <!-- TODO * Protein-ligand interaction fingerprints -->
@@ -35,8 +37,12 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
   * [Cytotoxicity](/projects/cytotox)
   <!-- TODO * CP_Tox21 -->
 * [Deep learning based virtual screening](/projects/deeplearning-vs/)
+
 * [Data augmentation and deep learning for physico-chemical property prediction](/projects/maxsmi/)
+* [Molecular Property Representation and Optimization using Transformers](/projects/protect)
 * [Historical Virtual Control Groups](/projects/historical_virtual_control_groups/)
+* [Kinodata-3D](/projects/kinodata-3d/)
+* more deep learning based work at [KinFragML](/projects/kinfrag-ml/)
 
 ### [OpenKinome](/research/openkinome)
 

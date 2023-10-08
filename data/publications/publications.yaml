@@ -24,6 +24,98 @@
 #     kind: article, review, book
 
 #  Books
+
+schaller_biorxiv_2023:
+     key: schaller_biorxiv_2023
+     title: "Benchmarking Cross-Docking Strategies for Structure-Informed Machine Learning in Kinase Drug Discovery"
+     authors:
+       - david.schaller
+       - Clara D. Christ
+       - John D. Chodera
+       - andrea.volkamer
+     journal: "bioRxiv"
+     volume: ""
+     issue: ""
+     pages: ""
+     year: 2023
+     date: 2023-09-14
+     doi: "https://doi.org/10.1101/2023.09.11.557138"
+     image: ""
+     pdf: ""
+     kind: article
+mullowney_natrevdd_2023:
+     key: mullowney_natrevdd_2023
+     title: "Artificial intelligence for natural product drug discovery"
+     authors:
+       - Michael W. Mullowney  
+       - Katherine R. Duncan  
+       - Somayah S. Elsayed  
+       - Neha Garg  
+       - Justin J. J. van der Hooft  
+       - Nathaniel I. Martin  
+       - David Meijer  
+       - Barbara R. Terlouw
+       - Friederike Biermann
+       - Kai Blin  
+       - Janani Durairaj  
+       - Marina Gorostiola González  
+       - Eric J. N. Helfrich  
+       - Florian Huber
+       - Stefan Leopold-Messer
+       - Kohulan Rajan  
+       - Tristan de Rond
+       - Jeffrey A. van Santen
+       - Maria Sorokina  
+       - Marcy J. Balunas
+       - Mehdi A. Beniddir 
+       - Doris A. van Bergeijk  
+       - Laura M. Carroll
+       - Chase M. Clark 
+       - Djork-Arné Clevert
+       - Chris A. Dejong
+       - Chao Du
+       - Scarlet Ferrinho
+       - Francesca Grisoni
+       - Albert Hofstetter
+       - Willem Jespers
+       - Olga V. Kalinina
+       - Satria A. Kautsar
+       - Hyunwoo Kim 
+       - Tiago F. Leao
+       - Joleen Masschelein
+       - Evan R. Rees
+       - Raphael Reher
+       - Daniel Reker
+       - Philippe Schwaller
+       - Marwin Segler
+       - Michael A. Skinnider 
+       - Allison S. Walker
+       - Egon L. Willighagen
+       - Barbara Zdrazil
+       - Nadine Ziemert
+       - Rebecca J. M. Goss
+       - Pierre Guyomard
+       - andrea.volkamer
+       - William H. Gerwick
+       - Hyun Uk Kim 
+       - Rolf Müller
+       - Gilles P. van Wezel
+       - Gerard J. P. van Westen
+       - Anna K. H. Hirsch
+       - Roger G. Linington
+       - Serina L. Robinson
+       - Marnix H. Medema
+     journal: "Nature Reviews Drug Discovery"
+     volume: ""
+     issue: ""
+     pages: ""
+     year: 2023
+     date: 2023-09-11
+     doi: "10.1038/s41573-023-00774-7"
+     image: ""
+     pdf: ""
+     kind: article
+     
 bachenkoehler_chemrxiv_2023:
      key: bachenkoehler_chemrxiv_2023
      title: "TeachOpenCADD goes Deep Learning: Open-source Teaching Platform Exploring Molecular DL Applications"

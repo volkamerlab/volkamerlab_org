@@ -25,6 +25,14 @@ Here, our main method developments based on structural information for target as
 
 {{% intro "research/structure-based/kinases.md" %}}
 
+## [Kinodata-3D](/projects/kinodata-3d/)
+
+{{% intro "/projects/kinodata-3D.md" %}}
+
+## [ECFT VS-Pipeline](/projects/ecft-vs-pipeline)
+
+{{% intro "/projects/ecft-vs-pipeline.md" %}}
+
 <!-- TODO ## [Protein-ligand interaction fingerprints](/research/structure-based/interaction-fingerprints/)
 
 {{% intro "research/structure-based/interaction-fingerprints.md" %}} -->
@@ -33,3 +41,5 @@ Here, our main method developments based on structural information for target as
 ## See also
 
 * [OpenKinome](/research/openkinome/)
+
+
