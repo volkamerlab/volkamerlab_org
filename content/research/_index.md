@@ -21,6 +21,7 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
   * [Dynamic target-based pharmacophores](/projects/t2f-flex)
 * [Kinase-focused methods](/research/structure-based/kinases)
   * [Kinase-fragment library](/projects/kinfraglib)
+  * [Novel Kinase Ligand Generation using Subpocket-Based Docking](/projects/kinfraglib_pocket_enum)
   * [Deep learning based ligand generation from kinase fragments](/projects/kinfrag-ml)
   * [Kinodata-3D](/projects/kinodata-3d/)
   * more at [OpenKinome](/research/openkinome)
