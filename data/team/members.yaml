@@ -53,6 +53,32 @@
     - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0002-7913-2932
+- name: Raquel López-Ríos de Castro
+  prefix: Dr.
+  key: raquel.castro
+  role: Einstein BIH PostDoc (Charité)
+  status: member
+  project: Machine learning for kinase drug discovery
+  image: /images/team/raquellopezcastro.jpg
+  links:
+    - icon: envelope
+      text: raquel.lopez-rios-de-castro@charite.de
+      url: mailto:raquel.lopez-rios-de-castro@charite.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/raquel-l%C3%B3pez-r%C3%ADos-de-castro-46a7b1177/ 
+    - icon: github
+      text: GitHub
+      url: https://github.com/raquellrios
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?user=f85KzHAAAAAJ&hl=es 
+    - icon: book
+      text: ORCiD
+      url: https://orcid.org/0000-0003-2668-7405
+    - icon: twitter
+      text: Twitter
+      url: https://twitter.com/raquellopezrios
 # --PHDs---
 - name: Yonghui Chen
   prefix:
