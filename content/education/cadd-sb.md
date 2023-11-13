@@ -25,7 +25,9 @@ Topics include homology modeling, target assessment, molecular docking, virtual 
 Our [ML models for drug design seminar](https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=147394&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) focuses on the importance of reproducibility. Numerous research manuscripts, even in high-impact journals and covering broader topics of interest, often lack the necessary elements for easy reproducibility. In this seminar, attendees will receive research manuscripts that share data and software / scripts for download. Your task will involve summarizing the manuscript, similar to typical seminars, and reproducing one of the core results using the provided software and data.
 
 ### Current courses
-- ML models for drug design Seminar (147394): Case studies of reproducibility in bioinformatics: ML models for drug design - <a href="https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=147394&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank" class="external">WS2023/24</a>
+- ML models for drug design Seminar (147394): Case studies of reproducibility in bioinformatics: ML models for drug design 
+  - <a href="https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=147394&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank" class="external">LSF</a>
+  - <a href="https://www.ccb.uni-saarland.de/seminar-case-studies-of-reproducibility-in-bioinformatics-winter-term-2023-2024/" target="_blank" class="external">Website</a>
 - CADD Course (147121): Open-Source Software and Libraries for Data Driven Drug Design  - <a href=" https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=147121&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank" class="external">WS2023/24</a>
 
 ### Previous courses 
