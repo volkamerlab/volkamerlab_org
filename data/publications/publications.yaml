@@ -24,7 +24,58 @@
 #     kind: article, review, book
 
 #  Books
+boby_science_2023:
+     key: boby_science_2023
+     title: "Open science discovery of potent noncovalent SARS-CoV-2 main protease inhibitors"
+     authors:
+       - Melissa L. Boby
+       - Daren Fearon
+       - Matteo Ferla
+       - Mihajlo Filep
+       - Lizbé Koekemoer
+       - Matthew C. Robinson
+       - The COVID Moonshot Consortium
+       - (...
+       - jaime.rodriguez
+       - david.schaller
+       - andrea.volkamer
+       - ...)	
+       - John D. Chodera
+       - Alpha A. Lee
+       - Nir London
+       - Annette von Delft
+       - Frank von Delft
+     journal: "Science"
+     volume: "382"
+     number: "6671"
+     pages: "eabo7201"
+     year: 2023
+     date: 2023-11-10
+     doi: "10.1126/science.abo7201"
+     image: ""
+     pdf: ""
+     kind: article
 
+lenhof_researchsquare_2023:
+     key: lenhof_researchsquare_2023
+     title: "Reliable Anti-Cancer Drug Sensitivity Prediction and Prioritization"
+     authors:
+       - Kerstin Lenhof
+       - Lea Eckhart
+       - Lisa-Marie Rolli
+       - andrea.volkamer
+       - Hans-Peter Lenhof
+     journal: "Research Square"
+     volume: ""
+     issue: ""
+     pages: ""
+     year: 2023
+     date: "2023-11-02"
+     doi: "https://doi.org/10.21203/rs.3.rs-3542373/v1"
+     image: ""
+     pdf: ""
+     kind: article
+     
 schaller_biorxiv_2023:
      key: schaller_biorxiv_2023
      title: "Benchmarking Cross-Docking Strategies for Structure-Informed Machine Learning in Kinase Drug Discovery"
@@ -43,6 +94,7 @@ schaller_biorxiv_2023:
      image: ""
      pdf: ""
      kind: article
+     
 mullowney_natrevdd_2023:
      key: mullowney_natrevdd_2023
      title: "Artificial intelligence for natural product drug discovery"
