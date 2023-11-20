@@ -79,6 +79,30 @@
     - icon: twitter
       text: Twitter
       url: https://twitter.com/raquellopezrios
+- name: Pérez Hernández Guillermo
+  prefix:
+  key: perez.guillermo
+  role: Einstein BIH PostDoc (Charité)
+  status: associate
+  project: Molecular Dynamics, Kinase Drug Discovery and Software Development
+  image: /images/team/perezhernandezguillermo.jpg
+  links:
+    - icon: envelope
+      text: guillermo.perez@charite.de
+      url: mailto:guillermo.perez@charite.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/gph82
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?user=31eqCwEAAAAJ&hl=en&oi=ao
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/guillermoperezhernandez/   
+    - icon: twitter
+      text: Twitter
+      url: https://twitter.com/guille_PH
+      
 # --PHDs---
 - name: Yonghui Chen
   prefix:
@@ -131,6 +155,7 @@
     - icon: twitter
       text: Twitter
       url: https://twitter.com/Flrn_St
+
 - name: Alexander Gujarnov
   prefix:
   key: alexander.gujarnov
