@@ -232,10 +232,10 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/hamza-ibrahim-3648aa111/
-# --BACHELOR--
+
 - name: Katharina Buchthal
   key: katharina.buchthal
-  role: Bachelor student, Bioinformatics (UdS)
+  role: Master student, Bioinformatics (UdS)
   status: studentmember
   project: Novel kinase ligand generation using subpocket-based docking
   image: /images/team/katharinabuchthal.jpg
@@ -246,6 +246,23 @@
     - icon: github
       text: GitHub
       url: https://github.com/kabu00002
+
+- name: Lisa-Marie Rolli
+  key: lisamarie.rolli
+  role: Master student, Bioinformatics (UdS)
+  status: studentmember
+  project: research assistant in MORPHEUS project, pre-procesing data from images to morphological profiles
+  image: /images/team/lisamarierolli.jpg
+  links:
+    - icon: envelope
+      text: lisa-marie.rolli@bioinf.uni-sb.de
+      url: mailto:lisa-marie.rolli@bioinf.uni-sb.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/Rock-n-Rolli
+    - icon: book
+      text: ORCiD
+      url: https://orcid.org/0009-0007-7860-8656
 # --ALUMNI--
 - name: Talia B. Kimber
   prefix:
