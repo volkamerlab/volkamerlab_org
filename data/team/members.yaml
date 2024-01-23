@@ -80,10 +80,10 @@
       text: Twitter
       url: https://twitter.com/raquellopezrios
 - name: Pérez Hernández Guillermo
-  prefix:
+  prefix: Dr.
   key: perez.guillermo
   role: Einstein BIH PostDoc (Charité)
-  status: associate
+  status: member
   project: Molecular Dynamics, Kinase Drug Discovery and Software Development
   image: /images/team/perezhernandezguillermo.jpg
   links:
