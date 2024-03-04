@@ -24,6 +24,25 @@
 #     kind: article, review, book
 
 #  Books
+chen_chemrxiv_2024:
+  key: chen_chemrxiv_2024
+  title: "Identification of Novel Smyd1 Inhibitors for Cardiovascular Disease Treatment through Molecular Modelling"
+  authors:
+    - yonghui.chen
+    - David Shaller
+    - Janine Berkholz
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2024
+  date: "2024-03-01"
+  doi: "10.26434/chemrxiv-2024-qg66r"
+  image: ""
+  pdf: ""
+  kind: article
+  
 exapicheidou_chemcomm_2024:
   key: exapicheidou_chemcomm_2024
   title: "Hit optimization by dynamic combinatorial chemistry on Streptococcus pneumoniae energy-coupling factor transporter ECF-PanT"
