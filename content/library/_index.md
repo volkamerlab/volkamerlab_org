@@ -8,7 +8,9 @@ weight: 30
 nav: false
 ---
 
-Welcome to our library page! Here, you'll find a collection of resources in the field of drug design and cheminformatics available in either hard copy or eBook formats. These can be accessed upon request by sending an email to <a class="icon fa-envelope" href="mailto:stefanie.pilhofer@uni-saarland.de" target="_blank" title="Email Stefanie Pilhofer"> Stefanie Pilhofer</a>.
+Welcome to our group library page! 
+Here, we collect the books or resources in the field of drug design and cheminformatics available in either hard copy or eBook formats. 
+Group members can accessed them by either stepping by Stefanie Wessinger's office or by sending an email to <a class="icon fa-envelope" href="mailto:stefanie.wessinger@uni-saarland.de" target="_blank" title="Email Stefanie Wessinger"> Stefanie Wessinger</a>.
 
 
 ## Our Rescources
