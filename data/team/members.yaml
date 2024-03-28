@@ -190,6 +190,23 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/afnan-sultan-625320104
+- name: Yanyuan Zhang
+  prefix:
+  key: yanyuan.zhang
+  role: PhD candidate (UdS)
+  status: member
+  project: Read-Across the Targetome
+  image: /images/team/yanyuanzhang.jpeg
+  links:
+    - icon: envelope
+      text: yanyuan.zhang@uni-saarland.de
+      url: yanyuan.zhang@uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/yanz-24
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/yanyuan-zhang/
 # --MASTERS--
 - name: Armin Ariamajd
   key: armin.ariamajd
