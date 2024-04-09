@@ -173,6 +173,30 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/alexander-gurjanov-4b8035123
+- name: Erika Primavera
+  prefix:
+  key: erika.primavera
+  role: Visiting PhD candidate (UniPg)
+  status: associate
+  project: Molecular Dynamics and Virtual Screening for novel AKT1 inhibitors/non-conventional degraders. Co-financed by NRRP (EU) and Sibylla Biotech S.p.A.
+  image: /images/team/erika.primavera.jpg
+  links:
+    - icon: envelope
+      text: erika.primavera@dottorandi.unipg.it
+      url: mailto:erika.primavera@dottorandi.unipg.it
+    - icon: github
+      text: GitHub
+      url: https://github.com/erikaprimavera
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/erika-primavera-a7ba50209/
+    - icon: book
+      text: ORCiD
+      url: https://orcid.org/0009-0000-7065-3128
+    - icon: twitter
+      text: Twitter
+      url: https://twitter.com/erikaprimavera_
+
 - name: Afnan Sultan
   prefix:
   key: afnan.sultan
