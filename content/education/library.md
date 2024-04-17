@@ -10,13 +10,13 @@ weight: 20
 nav: false
 ---
 
-Welcome to our library in Saarland University ! 
+Welcome to our group library page! 
 
-Here, we collect a selection of books or resources related to the field of drug design and cheminformatics in our group. 
+Here, we collect the books or resources in the field of drug design and cheminformatics available in either hard copy or eBook formats.  
 <!--more-->
 
 
-
+Group members can access them by either stepping by Stefanie Pilhofer's office or by sending an email to <a class="icon fa-envelope" href="mailto:stefanie.pilhofer@uni-saarland.de" target="_blank" title="Email Stefanie Pilhofer"> Stefanie Pilhofer</a>.
 
 ## Our Rescources
 
@@ -29,4 +29,3 @@ Here, we collect a selection of books or resources related to the field of drug 
 | 5   | [Molecular Modelling: Principles and Applications](https://pubs.acs.org/doi/10.1021/ci9804241) | | Andrew R. Leach | 0-582-38210-6 | Pearson | Hard copy |
 | 6   | [Advances in Computational Toxicology](https://link.springer.com/book/10.1007/978-3-030-16443-0) | Methodologies and Applications in Regulatory Systems | Huixiao Hong | 978-3-030-16445-4   | Springer | Hard copy |
 
-Group members can access them by either stepping by Stefanie Pilhofer's office or by sending an email to <a class="icon fa-envelope" href="mailto:stefanie.pilhofer@uni-saarland.de" target="_blank" title="Email Stefanie Pilhofer"> Stefanie Pilhofer</a>.
