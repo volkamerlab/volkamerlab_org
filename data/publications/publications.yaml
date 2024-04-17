@@ -24,6 +24,65 @@
 #     kind: article, review, book
 
 #  Books
+
+castro_chemrxiv_2024:
+  key: castro_chemrxiv_2024
+  title: "Analyzing Interfaces, Interactions and Self-Assembly in Soft Matter Simulations with PySoftK"
+  authors:
+    - raquel.castro
+    - Alejandro Santana-Bonilla 
+    - Robert M. Ziolek
+    - Christian D. Lorenz
+  journal: "ChemRxiv"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2024
+  date: "2024-04-12"
+  doi: "10.26434/chemrxiv-2024-1lbpg"
+  image: ""
+  pdf: ""
+  kind: article
+
+sultan_arxiv_2024:
+  key: sultan_arxiv_2024
+  title: "Transformers for molecular property prediction: Lessons learned from the past five years"
+  authors:
+    - afnan.sultan
+    - Jochen Sieg
+    - Miriam Mathea
+    - andrea.volkamer
+  journal: "arXiv"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2024
+  date: "2024-04-05"
+  doi: "https://doi.org/10.48550/arXiv.2404.03969"
+  image: ""
+  pdf: ""
+  kind: article
+
+
+chen_chemrxiv_2024:
+  key: chen_chemrxiv_2024
+  title: "Identification of Novel Smyd1 Inhibitors for Cardiovascular Disease Treatment through Molecular Modelling"
+  authors:
+    - yonghui.chen
+    - david.schaller
+    - Janine Berkholz
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2024
+  date: "2024-03-01"
+  doi: "10.26434/chemrxiv-2024-qg66r"
+  image: ""
+  pdf: ""
+  kind: article
+  
 exapicheidou_chemcomm_2024:
   key: exapicheidou_chemcomm_2024
   title: "Hit optimization by dynamic combinatorial chemistry on Streptococcus pneumoniae energy-coupling factor transporter ECF-PanT"
