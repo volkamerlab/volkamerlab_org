@@ -20,8 +20,8 @@
       text: ORCiD
       url: http://orcid.org/0000-0002-3760-580X
 # --ADMINASSISTANCE--
-- name: Stefanie Pilhofer
-  key: stefanie.pilhofer
+- name: Stefanie Wessinger
+  key: stefanie.wessinger
   role: Administrative assistance
   status: adminassistance
   image: /images/team/stefaniepilhofer.jpg

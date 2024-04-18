@@ -28,6 +28,9 @@ This page summarizes our main educational activities, including our open teachin
 
 {{% intro "education/ai-in-medicine.md" %}}
 
+### [Library @ UdS](/education/library/)
+
+{{% intro "education/library.md" %}}
 ***
 
 # Outreach
