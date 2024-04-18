@@ -16,12 +16,12 @@ Here, we collect the books or resources in the field of drug design and cheminfo
 <!--more-->
 
 
-Group members can access them by either stepping by Stefanie Pilhofer's office or by sending an email to <a class="icon fa-envelope" href="mailto:stefanie.pilhofer@uni-saarland.de" target="_blank" title="Email Stefanie Pilhofer"> Stefanie Pilhofer</a>.
+Group members can access them by either stepping by Stefanie Wessinger's office or by sending an email to <a class="icon fa-envelope" href="mailto:stefanie.wessinger@uni-saarland.de" target="_blank" title="Email Stefanie Wessinger"> Stefanie Wessinger</a>.
 
 ## Our Rescources
 
-| | Title                                      | Subtitle                                         | Author(s)              | ISBN                | Publisher           | Copy Type |
-|-----|--------------------------------------------|--------------------------------------------------|------------------------|---------------------|----------------------|-----------|
+| | Title | Subtitle | Author(s) | ISBN | Publisher | Copy Type |
+|-|------ |----------|-----------|------|-----------|-----------|
 | 1   | [Annual Reports in Medicinal Chemistry](https://shop.elsevier.com/books/platform-technologies-in-drug-discovery-and-validation/goodnow/978-0-12-813069-8)      | Platform Technologies in Drug Discovery and Validation | Robert A. Goodnow, Jr. | 978-0-12-813069-8   | Academic Press | Hard copy |
 | 2   | [Artificial Intelligence in Drug Discovery](https://books.rsc.org/books/edited-volume/1266/Artificial-Intelligence-in-Drug-Discovery) | | Nathan Brown | 978-1-78801-547-9   | Royal Society of Chemistry | Hard copy |
 | 3   | [Chemoinformatics: Basic Concepts and Methods](https://www.wiley.com/en-us/Chemoinformatics%3A+Basic+Concepts+and+Methods-p-9783527331093) | | Thomas Engel, Johann Gasteiger | 978-3-527-33109-3 | Wiley | Hard copy |
