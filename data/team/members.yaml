@@ -323,6 +323,28 @@
     - icon: book
       text: ORCiD
       url: https://orcid.org/0009-0007-7860-8656
+
+- name: Fatemeh Moghaddam
+  key: fatemeh.moghaddam
+  role: Master student, Bioinformatics (UdS)
+  status: studentmember
+  project: Interpretable Guided Docking
+  image: /images/team/fatemehmoghaddam.jpg
+  links:
+    - icon: envelope
+      text: famo00001@stud.uni-saarland.de
+      url: mailto:famo00001@stud.uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/fatemeh-moghaddam
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/fatemeh-moghaddam-6743b9200/
+    - icon: book
+      text: ORCiD
+      url: https://orcid.org/0009-0004-1310-7621
+
+
 # --ALUMNI--
 - name: Talia B. Kimber
   prefix:
