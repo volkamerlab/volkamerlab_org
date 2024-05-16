@@ -102,7 +102,26 @@
     - icon: twitter
       text: Twitter
       url: https://twitter.com/guille_PH
-      
+- name: Antoine Lacour
+  prefix: 
+  key: lacour.antoine
+  role: PostDoc
+  status: member
+  project: DockM8 Development, Virtual Screening for NextAID, and Machine Learning for Drug Discovery
+  image: /images/team/antoinelacour.jpg
+  links:
+    - icon: envelope
+      text: anla00008@uni-saarland.de
+      url: mailto:anla00008@uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/Tonylac77
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?user=y5Wn308AAAAJ&hl=en
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/alacour/
 # --PHDs---
 - name: Yonghui Chen
   prefix:
