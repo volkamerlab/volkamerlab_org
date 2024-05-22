@@ -328,7 +328,7 @@
   key: fatemeh.moghaddam
   role: Master student, Bioinformatics (UdS)
   status: studentmember
-  project: Interpretable Guided Docking
+  project: Interpretable E3-GNN affinity models
   image: /images/team/fatemehmoghaddam.jpg
   links:
     - icon: envelope
