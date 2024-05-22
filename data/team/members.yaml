@@ -344,6 +344,25 @@
       text: ORCiD
       url: https://orcid.org/0009-0004-1310-7621
 
+- name: Premnath Madanagopal
+  key: premnath.madanagopal
+  role: Master student, Bioinformatics (UdS)
+  status: studentmember
+  project: Biologically-Informed Neural Networks for Metabolic Pathway Analysis and Drug Synthesis
+  image: /images/team/premmadan.jpg
+  links:
+    - icon: envelope
+      text: prma00002@stud.uni-saarland.de
+      url: mailto:prma00002@stud.uni-saarland.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/premnath-madan/
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?user=LdL518IAAAAJ&hl=en
+    - icon: github
+      text: GitHub
+      url: https://github.com/prembioinfo
 
 # --ALUMNI--
 - name: Talia B. Kimber
