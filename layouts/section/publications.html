@@ -8,6 +8,27 @@
             </header>
             {{ .Content }}
             <ol reversed>
+            <h2>Preprints</h2>
+            {{ $preprintYears := slice }}
+
+            {{ range $k, $v := $data.publications.publications }}
+                {{ if eq .category "preprint" }}
+                    {{ $preprintYears = $preprintYears | append (index $v "year") }}
+                {{ end }}
+            {{ end }}
+            {{ range (sort (uniq $preprintYears) "value" "desc") }}
+                {{ $thisYear := . }}
+                <h3 style="margin: 1em 0 0.25em 0">{{ $thisYear }}</h3>
+                {{ range sort $data.publications.publications ".date" "desc" }}
+                    {{ if and (eq .year $thisYear) (eq .category "preprint") }}
+                    <li id="{{ .key }}">{{ partial "publication-li" (dict "data" $data "pub" . )}}</li>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+            </ol>
+            
+            <ol reversed>
+            <h2>Peer-reviewed Publications</h2>
             {{ $years := slice 2020 }}
             {{ range $k, $v := $data.publications.publications }}
                 {{ $years = $years | append (index $v "year") }}
@@ -16,7 +37,7 @@
                 {{ $thisYear := . }}
                 <h3 style="margin: 1em 0 0.25em 0">{{ $thisYear }}</h3>
                 {{ range sort $data.publications.publications ".date" "desc" }}
-                    {{ if eq .year $thisYear }}
+                    {{ if and (eq .year $thisYear) (or (not .category) (eq .category "")) }}
                     <li id="{{ .key }}">{{ partial "publication-li" (dict "data" $data "pub" . )}}</li>
                     {{ end }}
                 {{ end }}
