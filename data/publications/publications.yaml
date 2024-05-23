@@ -25,6 +25,25 @@
 
 #  Books
 
+backenkoehler_jcheminf_2024:
+  key: backenkoehler_jcheminf_2024
+  title: "Guided docking as a data generation approach facilitates structure-based machine learning on kinases"
+  authors:
+    - michael.backenkoehler
+    - Joschka Groß
+    - Verena Wolf
+    - andrea.volkamer
+  journal: "Journal of Chemical Information and Modeling"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2024
+  date: "2024-05-15"
+  doi: "10.1021/acs.jcim.4c0005"
+  image: ""
+  pdf: ""
+  kind: article
+
 castro_chemrxiv_2024:
   key: castro_chemrxiv_2024
   title: "Analyzing Interfaces, Interactions and Self-Assembly in Soft Matter Simulations with PySoftK"
@@ -107,25 +126,6 @@ exapicheidou_chemcomm_2024:
   year: 2024
   date: "2024-01-02"
   doi: "https://doi.org/10.1039/D3CC04738E"
-  image: ""
-  pdf: ""
-  kind: article
-  
-backenkoehler_jcheminf_2023:
-  key: backenkoehler_jcheminf_2023
-  title: "Guided docking as a data generation approach facilitates structure-based machine learning on kinases"
-  authors:
-    - michael.backenkoehler
-    - Joschka Groß
-    - Verena Wolf
-    - andrea.volkamer
-  journal: "Journal of Chemical Information and Modeling"
-  volume: ""
-  number: ""
-  pages: ""
-  year: 2024
-  date: "2024-05-15"
-  doi: "10.1021/acs.jcim.4c0005"
   image: ""
   pdf: ""
   kind: article
