@@ -25,6 +25,26 @@
 
 #  Books
 
+lenhof_scirep_2024:
+     key: lenhof_scirep_2024
+     title: "Reliable Anti-Cancer Drug Sensitivity Prediction and Prioritization"
+     authors:
+       - Kerstin Lenhof
+       - Lea Eckhart
+       - lisamarie.rolli
+       - andrea.volkamer
+       - Hans-Peter Lenhof
+     journal: "Scientific Reports"
+     volume: "14"
+     issue: "1"
+     pages: ""
+     year: 2024
+     date: "2024-05-29"
+     doi: "https://doi.org/10.1038/s41598-024-62956-6"
+     image: ""
+     pdf: ""
+     kind: article
+
 backenkoehler_jcheminf_2024:
   key: backenkoehler_jcheminf_2024
   title: "Guided docking as a data generation approach facilitates structure-based machine learning on kinases"
@@ -158,26 +178,6 @@ boby_science_2023:
      year: 2023
      date: 2023-11-10
      doi: "10.1126/science.abo7201"
-     image: ""
-     pdf: ""
-     kind: article
-
-lenhof_researchsquare_2023:
-     key: lenhof_researchsquare_2023
-     title: "Reliable Anti-Cancer Drug Sensitivity Prediction and Prioritization"
-     authors:
-       - Kerstin Lenhof
-       - Lea Eckhart
-       - lisamarie.rolli
-       - andrea.volkamer
-       - Hans-Peter Lenhof
-     journal: "Research Square"
-     volume: ""
-     issue: ""
-     pages: ""
-     year: 2023
-     date: "2023-11-02"
-     doi: "https://doi.org/10.21203/rs.3.rs-3542373/v1"
      image: ""
      pdf: ""
      kind: article
