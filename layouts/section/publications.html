@@ -28,7 +28,7 @@
             </ol>
             
             <ol reversed>
-            <h2>Peer-reviewed Publications</h2>
+            <h2>Peer-reviewed publications</h2>
             {{ $years := slice 2020 }}
             {{ range $k, $v := $data.publications.publications }}
                 {{ $years = $years | append (index $v "year") }}
