@@ -368,6 +368,20 @@
       text: GitHub
       url: https://github.com/prembioinfo
 
+- name: Maximilian Bähr
+  key: maximilian.baehr
+  role: Bachelor student, Bioinformatics (UdS)
+  status: studentmember
+  project: Active Learning
+  image: /images/team/maxbaehr.jpg
+  links:
+    - icon: envelope
+      text: maba00001@stud.uni-saarland.de
+      url: mailto:maba00001@stud.uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/maba00001
+
 # --ALUMNI--
 - name: Talia B. Kimber
   prefix:
