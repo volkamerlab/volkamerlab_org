@@ -25,6 +25,29 @@
 
 #  Books
 
+odje_fronintox_2024:
+     key: odje_fronintox_2024
+     title: "Unleashing the potential of cell painting assays for compound activities and hazards prediction"
+     authors:
+       - floriane.odje
+       - David Meijer
+       - Elena von Coburg
+       - Justin J. J. van der Hooft
+       - Sebastian Dunst
+       - Marnix H. Medema
+       - andrea.volkamer
+     journal: "Frontiers in Toxicology"
+     volume: "6"
+     issue: "1"
+     pages: ""
+     year: 2024
+     date: "2024-07-17"
+     doi: "doi.org/10.3389/ftox.2024.1401036"
+     image: ""
+     pdf: ""
+     kind: article
+
+
 lenhof_scirep_2024:
      key: lenhof_scirep_2024
      title: "Reliable Anti-Cancer Drug Sensitivity Prediction and Prioritization"
