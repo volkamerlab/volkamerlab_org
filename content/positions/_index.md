@@ -4,7 +4,7 @@ date: 2021-03-03
 menu:
     main:
         pre: briefcase
-        name: Interested in working with us?
+        name: Working with us?
 weight: 120
 nav: false
 ---
