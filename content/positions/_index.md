@@ -35,7 +35,7 @@ Please write an email including the Volkamer Lab member you would like to work w
 | Hamza Ibrahim (PhD candidate)        | Virtual screening, physics-based ML                                                              | SB         |
 | Dr. Raquel López-Ríos de Castro (PostDoc) | Molecular Dynamics, Machine learning                                                             | B          |
 | Dr. Guillermo Pérez Hernández (PostDoc)   | Molecular Dynamics, Software Development                                                         | B          |
-| Antoine Lacour (Postdoc)             | Virtual Screening, Software Development                                                          | SB         |
+| Antoine Lacour (PostDoc)             | Virtual Screening, Software Development                                                          | SB         |
 
 
 **Site:**  
