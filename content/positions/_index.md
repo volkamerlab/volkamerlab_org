@@ -22,7 +22,7 @@ If you are interested in pursuing a bachelor’s or a master’s thesis with us,
 - A brief description (3-4 sentences) of what you want to work on in our group
 - Field of interest (refer to the table below) - with concrete topic suggestions, if possible - and specify the most fitting supervisor in your email
 
-Please write an email including the Volkamer Lab member you would like to work with and CC Paula (paula.kramer@cs.uni-saarland.de) and Floriane (floriane.odje@uni-saarland.de). 
+Please write an email including the Volkamer Lab member you would like to work with and CC Paula (paula.kramer[at]cs.uni-saarland.de) and Floriane (floriane.odje[at]uni-saarland.de), or our admin (stefanie.wessinger[at]uni-saarland.de). 
 
 **Important:** Do not use volkamer@cs.uni-saarland.de for Master’s/Bachelor’s HiWi position applications and inquiries.
 
