@@ -15,7 +15,7 @@ At Volkamer Lab, we develop methods at the interface between structural bioinfor
 In the table bellow, you find an overview of the current topics in the group, for more details on each subject, please refer to the research section.
 
 
-If you are interested in pursuing a bachelor’s or a master’s thesis with us, please gather the following information:
+If you are interested in pursuing a bachelor’s or a master’s thesis with us, or are looking for an Hiwi job, please gather the following information:
 - Transcript
 - CV
 - Previous thesis (if applicable)
