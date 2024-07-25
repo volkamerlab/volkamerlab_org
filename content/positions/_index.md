@@ -20,7 +20,7 @@ If you are interested in pursuing a bachelor’s or a master’s thesis with us,
 - CV
 - Previous thesis (if applicable)
 - A brief description (3-4 sentences) of what you want to work on in our group
-- Field of interest (refer to the table below) and specify the student supervisor in your email
+- Field of interest (refer to the table below) - with concrete topic suggestions, if possible - and specify the most fitting supervisor in your email
 
 Please write an email including the Volkamer Lab member you would like to work with and CC Paula (paula.kramer@cs.uni-saarland.de) and Floriane (floriane.odje@uni-saarland.de). 
 
