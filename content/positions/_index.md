@@ -34,7 +34,7 @@ Please write an email including the Volkamer Lab member you would like to work w
 | Yanyuan Zhang (PhD candidate)        | Structure based, binding site comparison, Software Development                                   | SB         |
 | Hamza Ibrahim (PhD candidate)        | Virtual screening, physics-based ML                                                              | SB         |
 | Dr. Raquel López-Ríos de Castro (PostDoc) | Molecular Dynamics, Machine learning                                                             | B          |
-| Dr. Guillermo Pérez Hernández   | Molecular Dynamics, Software Development                                                         | B          |
+| Dr. Guillermo Pérez Hernández (PostDoc)   | Molecular Dynamics, Software Development                                                         | B          |
 | Antoine Lacour (Postdoc)             | Virtual Screening, Software Development                                                          | SB         |
 
 
