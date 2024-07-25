@@ -9,7 +9,7 @@ weight: 120
 nav: false
 ---
 
-## Master and Bachelor Student / Student Assistant (HiWis)
+## Master and Bachelor Students / Student Assistants (HiWis)
 
 At Volkamer Lab, we develop methods at the interface between structural bioinformatics and cheminformatics, mostly applied in the context of computer-aided drug design with a focus on machine learning methods. 
 In the table bellow you can have a view of the current work ongoing, for more details on each subject, please refer to the research section.
