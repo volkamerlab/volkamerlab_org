@@ -25,6 +25,26 @@
 
 #  Books
 
+lacour_chemrxiv_2024:
+  key: lacour_chemrxiv_2024
+  title: "DockM8: An All-in-One Open-Source Platform for Consensus Virtual Screening in Drug Design"
+  authors:
+    - lacour.antoine
+    - hamza.ibrahim
+    - andrea.volkamer
+    - Anna K. H. Hirsch
+  journal: "ChemRxiv"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2024
+  date: "2024-07-23"
+  doi: "10.26434/chemrxiv-2024-17k46"
+  image: ""
+  pdf: ""
+  kind: article
+  category: "preprint"
+  
 odje_fronintox_2024:
      key: odje_fronintox_2024
      title: "Unleashing the potential of cell painting assays for compound activities and hazards prediction"
