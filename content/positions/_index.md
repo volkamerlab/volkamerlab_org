@@ -11,6 +11,8 @@ nav: false
 
 ## Master and Bachelor Students / Student Assistants (HiWis)
 
+**Important:** Unfortunately, we do not have any open student researcher (HiWi) positions at the moment.
+
 At Volkamer Lab, we develop methods at the interface between structural bioinformatics and cheminformatics, mostly applied in the context of computer-aided drug design with a focus on machine learning methods. 
 In the table bellow, you find an overview of the current topics in the group, for more details on each subject, please refer to the research section.
 

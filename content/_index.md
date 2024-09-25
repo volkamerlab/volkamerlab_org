@@ -36,6 +36,6 @@ We are also working together on campus to advance the field of rational drug dis
 </div>
 
 <div class="image">
-    <img src="/images/Prof_Volkamer_91114.png" alt="Volkamer Lab" style="width: 135%; height: 80%; margin-left: -10%;" />
+    <img src="/images/Prof_Volkamer_91114.png" alt="Volkamer Lab" style="width: 110%; height: 70%; margin-left: -10%;" />
 </div>  
 
