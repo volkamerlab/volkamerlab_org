@@ -27,13 +27,12 @@ Our [ML models for drug design seminar](https://www.lsf.uni-saarland.de/qisserve
 The [Bioinformatics II](https://cms.sic.saarland/bioinf2_ss24/) course, designed for bioinformatics bachelor students, follows the  [Bioinformatics I](https://www.ccb.uni-saarland.de/bioinformatik-1-winter-term-2023-2024/) course and is conducted in German. While Bioinformatics I focuses on sequence-based bioinformatics methods, the Bioinformatics II course emphasizes the theory and practice of bioinformatics related to molecular structures and interactions, covering topics such as protein structures, assignment and prediction of secondary structures, deep learning, homology modeling, and molecular docking. 
 
 ### Current courses
-- Bioinformatics II (151047) 
-  - <a href="https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=151047&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank" class="external">LSF</a>
-  - <a href="https://cms.sic.saarland/bioinf2_ss24/" target="_blank" class="external">CMS</a>
+- CADD Course (154613): Open-Source Software and Libraries for Data Driven Drug Design
+  - <a href="https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=154613&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank" class="external">LSF</a>
+- CADD Seminar: Data Driven Drug Design - Methods and Applications
 ### Previous courses 
-- ML models for drug design Seminar (147394): Case studies of reproducibility in bioinformatics: ML models for drug design 
-  - <a href="https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=147394&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank" class="external">LSF</a>
-  - <a href="https://www.ccb.uni-saarland.de/seminar-case-studies-of-reproducibility-in-bioinformatics-winter-term-2023-2024/" target="_blank" class="external">Website</a>
+- Bioinformatics II (151047) <a href="https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=151047&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank" class="external">SS2024</a>
+- ML models for drug design Seminar (147394): Case studies of reproducibility in bioinformatics: ML models for drug design  <a href="https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=147394&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank" class="external">WS2023/24</a>
 - CADD Course (147121): Open-Source Software and Libraries for Data Driven Drug Design  - <a href=" https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=147121&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank" class="external">WS2023/24</a>
 - CADD Seminar (144048): Data Driven Drug Design - Methods and Applications -<a href=" https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=144048&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank" class="external">SS2023</a>
 - CADD Course (140645): Open-Source Software and Libraries for Data Driven Drug Design  - <a href=" https://www.lsf.uni-saarland.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=140645&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" target="_blank" class="external">WS2022</a>
