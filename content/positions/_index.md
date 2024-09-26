@@ -18,7 +18,6 @@ In the table bellow, you find an overview of the current topics in the group, fo
 
 
 If you are interested in pursuing a bachelor’s or a master’s thesis with us, or are looking for an Hiwi job, please gather the following information:
-- Transcript
 - CV
 - Previous thesis (if applicable)
 - A brief description (3-4 sentences) of what you want to work on in our group
