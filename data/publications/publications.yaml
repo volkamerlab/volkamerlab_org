@@ -127,25 +127,24 @@ castro_chemrxiv_2024:
   kind: article
   category: "preprint"
 
-sultan_arxiv_2024:
-  key: sultan_arxiv_2024
+sultan_jcim_2024:
+  key: sultan_jcim_2024
   title: "Transformers for molecular property prediction: Lessons learned from the past five years"
   authors:
     - afnan.sultan
     - Jochen Sieg
     - Miriam Mathea
     - andrea.volkamer
-  journal: "arXiv"
+  journal: "Journal of Chemical Information and Modeling"
   volume: ""
   number: ""
   pages: ""
   year: 2024
   date: "2024-04-05"
-  doi: "https://doi.org/10.48550/arXiv.2404.03969"
+  doi: "10.1021/acs.jcim.4c00747"
   image: ""
   pdf: ""
   kind: article
-  category: "preprint"
 
 
 chen_chemrxiv_2024:
