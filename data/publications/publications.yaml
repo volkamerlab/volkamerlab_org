@@ -25,6 +25,26 @@
 
 #  Books
 
+sultan_jcim_2024:
+  key: sultan_jcim_2024
+  title: "Transformers for molecular property prediction: Lessons learned from the past five years"
+  authors:
+    - afnan.sultan
+    - Jochen Sieg
+    - Miriam Mathea
+    - andrea.volkamer
+  journal: "Journal of Chemical Information and Modeling"
+  volume: "64"
+  number: "16"
+  pages: "6259−6280"
+  year: 2024
+  date: "2024-08-13"
+  doi: "10.1021/acs.jcim.4c00747"
+  image: ""
+  pdf: ""
+  kind: article
+
+
 lacour_chemrxiv_2024:
   key: lacour_chemrxiv_2024
   title: "DockM8: An All-in-One Open-Source Platform for Consensus Virtual Screening in Drug Design"
@@ -122,26 +142,6 @@ castro_chemrxiv_2024:
   year: 2024
   date: "2024-04-12"
   doi: "10.26434/chemrxiv-2024-1lbpg"
-  image: ""
-  pdf: ""
-  kind: article
-  category: "preprint"
-
-sultan_arxiv_2024:
-  key: sultan_arxiv_2024
-  title: "Transformers for molecular property prediction: Lessons learned from the past five years"
-  authors:
-    - afnan.sultan
-    - Jochen Sieg
-    - Miriam Mathea
-    - andrea.volkamer
-  journal: "arXiv"
-  volume: ""
-  number: ""
-  pages: ""
-  year: 2024
-  date: "2024-04-05"
-  doi: "https://doi.org/10.48550/arXiv.2404.03969"
   image: ""
   pdf: ""
   kind: article
