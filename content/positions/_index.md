@@ -21,11 +21,19 @@ If you are interested in pursuing a bachelor’s or a master’s thesis with us,
 - CV
 - Previous thesis (if applicable)
 - A brief description (3-4 sentences) of what you want to work on in our group
-- Field of interest (refer to the table below) - with concrete topic suggestions, if possible - and specify the most fitting supervisor in your email
+- Concrete topic and/or field of interest (refer to the table below) - with concrete topic suggestions, if possible - and specify the most fitting supervisor in your email
 
 Please write an email including the Volkamer Lab member you would like to work with and CC Paula (paula.kramer[at]cs.uni-saarland.de) and Floriane (floriane.odje[at]uni-saarland.de), or our admin (stefanie.wessinger[at]uni-saarland.de). 
 
 **Important:** Do not use volkamer[at]cs.uni-saarland.de for Master’s/Bachelor’s/HiWi position applications and inquiries, we are collecting the information centrally. Also note that we are often overbooked with supervisions, thus, make sure that you approach us in advance, so we have time to consider your application in out planning.
+
+Concrete topics 
+
+| Volkamer Lab Member | Cooperation Partner | Topic | Site |
+|--------------------------------------|--------------------------|------------------------------------------------------------------------|------------|
+| Lisa-Marie Rolli | Kerstin Lenhof (PostDoc @ ETH Zürich) | Benchmarking of different neural network architectures for anti-cancer drug sensitivity prediction | SB | 
+
+General research fields 
 
 | Volkamer Lab Member                   | Field                                                                                             | Site       |
 |--------------------------------------|--------------------------------------------------------------------------------------------------|------------|
