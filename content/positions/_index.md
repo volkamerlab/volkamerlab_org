@@ -27,13 +27,13 @@ Please write an email including the Volkamer Lab member you would like to work w
 
 **Important:** Do not use volkamer[at]cs.uni-saarland.de for Master’s/Bachelor’s/HiWi position applications and inquiries, we are collecting the information centrally. Also note that we are often overbooked with supervisions, thus, make sure that you approach us in advance, so we have time to consider your application in out planning.
 
-Concrete topics 
+**Concrete topics:** 
 
 | Volkamer Lab Member | Cooperation Partner | Topic | Position Type | Site |
 |--------------------------------------|--------------------------|-------------------------------------------------------------|-----------|------------|
 | Lisa-Marie Rolli | Kerstin Lenhof (PostDoc @ ETH Zürich) | Benchmarking of different neural network architectures for anti-cancer drug sensitivity prediction | Master Thesis | SB | 
 
-General research fields 
+**General research fields:**
 
 | Volkamer Lab Member                   | Field                                                                                             | Site       |
 |--------------------------------------|--------------------------------------------------------------------------------------------------|------------|
