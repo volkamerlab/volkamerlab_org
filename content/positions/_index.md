@@ -58,4 +58,4 @@ Our team is expanding quickly, but unfortunately, we currently have no open posi
 
 ## Others
 If you are interested in one of our topics and would like to collaborate, you are welcome to write us an email. 
-Please contact Paula Kramer (paula.kramer@cs.uni-saarland.de) or Floriane Odje (floriane.odje@uni-saarland.de), and CC our secretary, Stephanie Wessinger, at stefanie.pilhofer@uni-saarland.de.
+Please contact Paula Kramer (paula.kramer[at]cs.uni-saarland.de) or Floriane Odje (floriane.odje[at]uni-saarland.de), and CC our secretary, Stephanie Wessinger, at stefanie.wessinger[at]@uni-saarland.de.
