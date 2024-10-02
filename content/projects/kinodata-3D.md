@@ -20,8 +20,8 @@ external_resources:
   link: https://github.com/volkamerlab/kinodata-3D-affinity-prediction
   icon: github
 funding:
-- name: NextAID
-  link: https://nextaid.cs.uni-saarland.de/
+- name: NEDD
+  link: https://nedd.cs.uni-saarland.de/
 ---
 
 Machine learning - and especially deep learning - models require large datasets for training. As such datasets, especially those containing protein-ligand-complex information - are more rare in the drug design landscape, we assess the use of _in silico_ structural docking data for machine learning.

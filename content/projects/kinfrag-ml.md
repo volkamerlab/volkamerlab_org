@@ -16,8 +16,8 @@ people:  # take from /data/team/members.yml (`key` entry)
 #   link: http://university.website
 #   more: (Department X this is free text)
 funding:
-- name: NextAID
-  link: https://nextaid.cs.uni-saarland.de/
+- name: NEDD
+  link: https://nedd.cs.uni-saarland.de/
 #   more: free text
 # publications:  # take from (or add to) /data/publications/publications.yml
 # - citation_key
