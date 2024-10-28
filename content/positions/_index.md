@@ -31,7 +31,8 @@ Please write an email including the Volkamer Lab member you would like to work w
 
 | Volkamer Lab Member | Cooperation Partner | Topic | Position Type | Site |
 |--------------------------------------|--------------------------|-------------------------------------------------------------|-----------|------------|
-| Lisa-Marie Rolli | Kerstin Lenhof (PostDoc @ ETH Zürich) | Benchmarking of different neural network architectures for anti-cancer drug sensitivity prediction | Master Thesis | SB | 
+| Lisa-Marie Rolli | Kerstin Lenhof (PostDoc @ ETH Zürich) | Benchmarking of different neural network architectures for anti-cancer drug sensitivity prediction | Master Thesis | SB |
+| Hamza Ibrahim | - |  Optimizing consensus structure-based virtual screening (SBVS) through protein structure similarity analysis | Master Thesis | SB| 
 
 **General research fields:**
 
