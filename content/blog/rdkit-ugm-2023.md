@@ -1,6 +1,6 @@
 
 ---
-title: "Volkamer Lab attends the RDKit UGM in Mainz"
+title: "Volkamer lab attends the RDKit UGM in Mainz"
 date: 2023-09-22
 author: paula.kramer
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Volkamer Lab attends the RDKit UGM in Zurich"
+title: "Volkamer lab attends the RDKit UGM in Zurich"
 date: 2024-09-13
 author: paula.kramer
 ---
