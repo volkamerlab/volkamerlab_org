@@ -1,6 +1,6 @@
 ---
 title: "Check out our latest paper!"
-date: 2024-07-17:8:00+02:00
+date: 2024-07-17
 author: floriane.odje
 ---
 
