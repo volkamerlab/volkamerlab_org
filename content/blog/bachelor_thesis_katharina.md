@@ -8,3 +8,4 @@ We are happy to annouce that Katharina successfully submitted her bachelor thesi
 
 Katharina will continue her work as a student researcher at the Volkamer Lab to refine and improve the pipeline, e.g. adding a feature to enhance the diversity of generated ligands. In addition, we are working on a case study with our collaberation partners for experimental validation.
 
+[Here]({{< ref "/projects/kinfraglib_pocket_enum.md" >}}) is more information about the subpocket-based project.
