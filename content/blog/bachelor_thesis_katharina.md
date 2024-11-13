@@ -1,6 +1,6 @@
 ---
 title: "Katharina submitted her Bachelor thesis on 'Novel Kinase Ligand Generation using Subpocket-Based Docking'"
-date: 2023-09-30
+date: 2023-09-28
 author: katharina.buchthal
 ---
 
