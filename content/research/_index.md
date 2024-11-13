@@ -25,7 +25,7 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
   * [Deep learning based ligand generation from kinase fragments](/projects/kinfrag-ml)
   * [Kinodata-3D](/projects/kinodata-3d/)
   * more at [OpenKinome](/research/openkinome)
-* [ECFT VS-Pipeline](/projects/ecft-vs-pipeline)
+* [MolDockLab](/projects/moldocklab)
 <!-- TODO * `klifs_utils` -->
 
 <!-- TODO * Protein-ligand interaction fingerprints -->
