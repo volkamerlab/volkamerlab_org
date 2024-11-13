@@ -25,6 +25,108 @@
 
 #  Books
 
+sultan_jcim_2024:
+  key: sultan_jcim_2024
+  title: "Transformers for molecular property prediction: Lessons learned from the past five years"
+  authors:
+    - afnan.sultan
+    - Jochen Sieg
+    - Miriam Mathea
+    - andrea.volkamer
+  journal: "Journal of Chemical Information and Modeling"
+  volume: "64"
+  number: "16"
+  pages: "6259−6280"
+  year: 2024
+  date: "2024-08-13"
+  doi: "10.1021/acs.jcim.4c00747"
+  image: ""
+  pdf: ""
+  kind: article
+
+
+lacour_chemrxiv_2024:
+  key: lacour_chemrxiv_2024
+  title: "DockM8: An All-in-One Open-Source Platform for Consensus Virtual Screening in Drug Design"
+  authors:
+    - lacour.antoine
+    - hamza.ibrahim
+    - andrea.volkamer
+    - Anna K. H. Hirsch
+  journal: "ChemRxiv"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2024
+  date: "2024-07-23"
+  doi: "10.26434/chemrxiv-2024-17k46"
+  image: ""
+  pdf: ""
+  kind: article
+  category: "preprint"
+  
+odje_fronintox_2024:
+     key: odje_fronintox_2024
+     title: "Unleashing the potential of cell painting assays for compound activities and hazards prediction"
+     authors:
+       - floriane.odje
+       - David Meijer
+       - Elena von Coburg
+       - Justin J. J. van der Hooft
+       - Sebastian Dunst
+       - Marnix H. Medema
+       - andrea.volkamer
+     journal: "Frontiers in Toxicology"
+     volume: "6"
+     issue: "1"
+     pages: ""
+     year: 2024
+     date: "2024-07-17"
+     doi: "doi.org/10.3389/ftox.2024.1401036"
+     image: ""
+     pdf: ""
+     kind: article
+
+
+lenhof_scirep_2024:
+     key: lenhof_scirep_2024
+     title: "Reliable Anti-Cancer Drug Sensitivity Prediction and Prioritization"
+     authors:
+       - Kerstin Lenhof
+       - Lea Eckhart
+       - lisamarie.rolli
+       - andrea.volkamer
+       - Hans-Peter Lenhof
+     journal: "Scientific Reports"
+     volume: "14"
+     issue: "1"
+     pages: ""
+     year: 2024
+     date: "2024-05-29"
+     doi: "https://doi.org/10.1038/s41598-024-62956-6"
+     image: ""
+     pdf: ""
+     kind: article
+
+backenkoehler_jcheminf_2024:
+  key: backenkoehler_jcheminf_2024
+  title: "Guided docking as a data generation approach facilitates structure-based machine learning on kinases"
+  authors:
+    - michael.backenkoehler
+    - Joschka Groß
+    - Verena Wolf
+    - andrea.volkamer
+  journal: "Journal of Chemical Information and Modeling"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2024
+  date: "2024-05-15"
+  doi: "10.1021/acs.jcim.4c0005"
+  image: ""
+  pdf: ""
+  kind: article
+
 castro_chemrxiv_2024:
   key: castro_chemrxiv_2024
   title: "Analyzing Interfaces, Interactions and Self-Assembly in Soft Matter Simulations with PySoftK"
@@ -43,25 +145,7 @@ castro_chemrxiv_2024:
   image: ""
   pdf: ""
   kind: article
-
-sultan_arxiv_2024:
-  key: sultan_arxiv_2024
-  title: "Transformers for molecular property prediction: Lessons learned from the past five years"
-  authors:
-    - afnan.sultan
-    - Jochen Sieg
-    - Miriam Mathea
-    - andrea.volkamer
-  journal: "arXiv"
-  volume: ""
-  number: ""
-  pages: ""
-  year: 2024
-  date: "2024-04-05"
-  doi: "https://doi.org/10.48550/arXiv.2404.03969"
-  image: ""
-  pdf: ""
-  kind: article
+  category: "preprint"
 
 
 chen_chemrxiv_2024:
@@ -82,6 +166,7 @@ chen_chemrxiv_2024:
   image: ""
   pdf: ""
   kind: article
+  category: "preprint"
   
 exapicheidou_chemcomm_2024:
   key: exapicheidou_chemcomm_2024
@@ -107,26 +192,7 @@ exapicheidou_chemcomm_2024:
   image: ""
   pdf: ""
   kind: article
-  
-backenkoehler_chemrxiv_2023:
-  key: backenkoehler_chemrxiv_2023
-  title: "Guided docking as a data generation approach facilitates structure-based machine learning on kinases"
-  authors:
-    - michael.backenkoehler
-    - Joschka Groß
-    - Verena Wolf
-    - andrea.volkamer
-  journal: "ChemRxiv"
-  volume: ""
-  number: ""
-  pages: ""
-  year: 2023
-  date: "2023-12-22"
-  doi: "10.26434/chemrxiv-2023-prk53"
-  image: ""
-  pdf: ""
-  kind: article
-  
+
 boby_science_2023:
      key: boby_science_2023
      title: "Open science discovery of potent noncovalent SARS-CoV-2 main protease inhibitors"
@@ -158,26 +224,6 @@ boby_science_2023:
      image: ""
      pdf: ""
      kind: article
-
-lenhof_researchsquare_2023:
-     key: lenhof_researchsquare_2023
-     title: "Reliable Anti-Cancer Drug Sensitivity Prediction and Prioritization"
-     authors:
-       - Kerstin Lenhof
-       - Lea Eckhart
-       - lisamarie.rolli
-       - andrea.volkamer
-       - Hans-Peter Lenhof
-     journal: "Research Square"
-     volume: ""
-     issue: ""
-     pages: ""
-     year: 2023
-     date: "2023-11-02"
-     doi: "https://doi.org/10.21203/rs.3.rs-3542373/v1"
-     image: ""
-     pdf: ""
-     kind: article
      
 schaller_biorxiv_2023:
      key: schaller_biorxiv_2023
@@ -197,7 +243,8 @@ schaller_biorxiv_2023:
      image: ""
      pdf: ""
      kind: article
-     
+     category: "preprint"
+
 mullowney_natrevdd_2023:
      key: mullowney_natrevdd_2023
      title: "Artificial intelligence for natural product drug discovery"
@@ -296,6 +343,7 @@ bachenkoehler_chemrxiv_2023:
      image: ""
      pdf: ""
      kind: article
+     category: "preprint"
 
 gurjanov_frontinpharm_2023:
      key: gurjanov_frontinpharm_2023
@@ -673,7 +721,7 @@ sydow_acs_2021:
   image:
   pdf:
   kind: book
-
+  
 garcia_jcheminf_2021:
      key: garcia_jcheminf_2021
      title: "ChemBioSim: Enhancing Conformal Prediction of In Vivo Toxicity by Use of Predicted Bioactivities"

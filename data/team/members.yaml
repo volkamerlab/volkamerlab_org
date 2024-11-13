@@ -24,11 +24,11 @@
   key: stefanie.wessinger
   role: Administrative assistance
   status: adminassistance
-  image: /images/team/stefaniepilhofer.jpg
+  image: /images/team/stefaniewessinger.jpg
   links:
     - icon: envelope
-      text: stefanie.pilhofer@uni-saarland.de
-      url: mailto:stefanie.pilhofer@uni-saarland.de
+      text: stefanie.wessinger@uni-saarland.de
+      url: mailto:stefanie.wessinger@uni-saarland.de
     - icon: phone
       text: +681 302 50800
       url: mailto:+68130250800
@@ -145,7 +145,7 @@
   key: paula.kramer
   role: PhD candidate (UdS)
   status: member
-  project: Deep learning for novel kinase inhibitors (in co-supervision with Prof. Dr. Verena Wolf)
+  project: Deep learning for novel kinase inhibitors
   image: /images/team/paulakramer.jpg
   links:
     - icon: envelope
@@ -154,6 +154,12 @@
     - icon: github
       text: GitHub
       url: https://github.com/PaulaKramer
+    - icon: linkedin 
+      text: Linkedin
+      url: https://de.linkedin.com/in/paula-linh-kramer-098364182
+    - icon: book 
+      text: ORCiD
+      url: https://orcid.org/0009-0000-0302-8744
 - name: Floriane Odje
   prefix:
   key: floriane.odje
@@ -250,6 +256,26 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/yanyuan-zhang/
+
+- name: Hamza Ibrahim
+  key: hamza.ibrahim
+  role: PhD candidate (UdS)
+  status: member
+  project: Structure-based Machine Learning 
+  image: /images/team/hamzaibrahim.jpg
+  links:
+    - icon: envelope
+      text: haib00001@stud.uni-saarland.de
+      url: mailto:haib00001@stud.uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/hamzaibrahim21
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/hamza-ibrahim-3648aa111/
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?user=J0EUa7gAAAAJ&hl=en
 # --MASTERS--
 - name: Armin Ariamajd
   key: armin.ariamajd
@@ -276,22 +302,6 @@
     - icon: twitter
       text: Twitter
       url: https://twitter.com/Al___Chemist
-- name: Hamza Ibrahim
-  key: hamza.ibrahim
-  role: Master student, Bioinformatics (UdS)
-  status: studentmember
-  project: Computational workflow to discover new inhibitors for ECF-T 
-  image: /images/team/hamzaibrahim.jpg
-  links:
-    - icon: envelope
-      text: haib00001@stud.uni-saarland.de
-      url: mailto:haib00001@stud.uni-saarland.de
-    - icon: github
-      text: GitHub
-      url: https://github.com/hamzaibrahim21
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/hamza-ibrahim-3648aa111/
 
 - name: Katharina Buchthal
   key: katharina.buchthal
@@ -323,6 +333,61 @@
     - icon: book
       text: ORCiD
       url: https://orcid.org/0009-0007-7860-8656
+
+- name: Fatemeh Moghaddam
+  key: fatemeh.moghaddam
+  role: Master student, Bioinformatics (UdS)
+  status: studentmember
+  project: Interpretable E3-GNN affinity models
+  image: /images/team/fatemehmoghaddam.jpg
+  links:
+    - icon: envelope
+      text: famo00001@stud.uni-saarland.de
+      url: mailto:famo00001@stud.uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/fatemeh-moghaddam
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/fatemeh-moghaddam-6743b9200/
+    - icon: book
+      text: ORCiD
+      url: https://orcid.org/0009-0004-1310-7621
+
+- name: Premnath Madanagopal
+  key: premnath.madanagopal
+  role: Master student, Bioinformatics (UdS)
+  status: studentmember
+  project: Biologically-informed neural networks for molecule production
+  image: /images/team/premmadan.jpg
+  links:
+    - icon: envelope
+      text: prma00002@stud.uni-saarland.de
+      url: mailto:prma00002@stud.uni-saarland.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/premnath-madan/
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?user=LdL518IAAAAJ&hl=en
+    - icon: github
+      text: GitHub
+      url: https://github.com/prembioinfo
+
+- name: Maximilian Bähr
+  key: maximilian.baehr
+  role: Bachelor student, Bioinformatics (UdS)
+  status: studentmember
+  project: Active Learning
+  image: /images/team/maxbaehr.jpg
+  links:
+    - icon: envelope
+      text: maba00001@stud.uni-saarland.de
+      url: mailto:maba00001@stud.uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/maba00001
+
 # --ALUMNI--
 - name: Talia B. Kimber
   prefix:

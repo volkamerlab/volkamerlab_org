@@ -21,7 +21,7 @@ On the other hand, we study ligand-based methods, including [machine learning me
 
 Additionally, we continuously work on the integration of the two research areas of structure- and ligand-centered projects, i.e., focusing on [structure-informed machine learning approaches](/projects/kinoml/) applied primarily to [kinases](/research/openkinome/). In this attempt, we are integrating the physical aspects into molecular modelling (e.g. molecular dynamics simulations and free energy calculations) to better sample the drug target interactions. The [OpenKinome](/research/openkinome/) initiative is an ongoing collaboration with the <a href="http://www.choderalab.org/" target="_blank" class="external">lab of Prof. John Chodera</a>, our <a href="https://www.einsteinfoundation.de/en/fellows-projects/einstein-fellows-professors/einstein-bih-visiting-fellows/john-chodera" target="_blank" class="external">Einstein BIH Visiting Fellow</a>.
     
-We are also working together on campus to advance the field of rational drug discovery through the development of neuro-explicit AI models, find out more about NextAID [here]( https://nextaid.cs.uni-saarland.de/). 
+We are also working together on campus to advance the field of rational drug discovery through the development of neuro-explicit AI models, find out more about NEDD [here](https://nedd.cs.uni-saarland.de/). 
 
 <ul class="actions">
     <li><a href="/research" class="button big icon fa-flask">Learn more about our research</a></li>
@@ -36,6 +36,6 @@ We are also working together on campus to advance the field of rational drug dis
 </div>
 
 <div class="image">
-    <img src="/images/wordcloud.jpg" alt="Word cloud" />
-</div>
+    <img src="/images/Prof_Volkamer_91114.png" alt="Volkamer Lab" style="width: 110%; height: 70%; margin-left: -10%;" />
+</div>  
 
