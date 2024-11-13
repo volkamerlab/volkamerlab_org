@@ -145,7 +145,7 @@
   key: paula.kramer
   role: PhD candidate (UdS)
   status: member
-  project: Deep learning for novel kinase inhibitors (in co-supervision with Prof. Dr. Verena Wolf)
+  project: Deep learning for novel kinase inhibitors
   image: /images/team/paulakramer.jpg
   links:
     - icon: envelope
@@ -154,6 +154,12 @@
     - icon: github
       text: GitHub
       url: https://github.com/PaulaKramer
+    - icon: linkedin 
+      text: Linkedin
+      url: https://de.linkedin.com/in/paula-linh-kramer-098364182
+    - icon: book 
+      text: ORCiD
+      url: https://orcid.org/0009-0000-0302-8744
 - name: Floriane Odje
   prefix:
   key: floriane.odje
