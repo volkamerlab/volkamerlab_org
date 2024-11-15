@@ -29,9 +29,9 @@ Here, our main method developments based on structural information for target as
 
 {{% intro "/projects/kinodata-3D.md" %}}
 
-## [ECFT VS-Pipeline](/projects/ecft-vs-pipeline)
+## [MolDockLab](/projects/moldocklab/)
 
-{{% intro "/projects/ecft-vs-pipeline.md" %}}
+{{% intro "/projects/MolDockLab.md" %}}
 
 <!-- TODO ## [Protein-ligand interaction fingerprints](/research/structure-based/interaction-fingerprints/)
 
