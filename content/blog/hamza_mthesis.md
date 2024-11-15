@@ -8,4 +8,4 @@ Hamza has successfully defended his master’s thesis titled **"MolDockLab: A Da
 
 In his research, he developed MolDockLab, a data-driven approach for optimizing the combination of docking tools, scoring functions, and ranking methods for specific targets. Using energy-coupling factor (ECF) transporters as a case study, his approach identified 18 compounds from the in-house HIPS library for further in vitro assays.
 
-[Here]({{< ref "/projects/moldocklab.md" >}}) is more information about MolDockLab.
+[Here](/projects/moldocklab) is more information about MolDockLab.
