@@ -42,7 +42,7 @@ Please write an email including the Volkamer Lab member you would like to work w
 | Afnan Sultan (PhD candidate)         | Large language models (LLM), Generative AI for non-toxic properties, property prediction, explainable AI | SB         |
 | Yanyuan Zhang (PhD candidate)        | Structure based, binding site comparison, Software Development                                   | SB         |
 | Hamza Ibrahim (PhD candidate)        | Virtual screening, physics-based ML                                                              | SB         |
-| Lisa-Marie Rolli (PhD candidate) | reliabile, interpretabile, and trustworthy  ML methods, drug sensitivity prediction, toxicity prediction | SB |
+| Lisa-Marie Rolli (PhD candidate) | reliable, interpretable, and trustworthy ML methods, drug sensitivity and toxicity prediction | SB |
 | Dr. Raquel López-Ríos de Castro (PostDoc) | Molecular Dynamics, Machine learning                                                             | B          |
 | Dr. Guillermo Pérez Hernández (PostDoc)   | Molecular Dynamics, Software Development                                                         | B          |
 | Antoine Lacour (PostDoc)             | Virtual Screening, Software Development                                                          | SB         |
