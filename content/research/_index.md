@@ -26,6 +26,7 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
   * [Kinodata-3D](/projects/kinodata-3d/)
   * more at [OpenKinome](/research/openkinome)
 * [MolDockLab](/projects/moldocklab)
+* [DockM8 (advanced consensus docking workflow)](https://github.com/DrugBud-Suite/DockM8)
 <!-- TODO * `klifs_utils` -->
 
 <!-- TODO * Protein-ligand interaction fingerprints -->
