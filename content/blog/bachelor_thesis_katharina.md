@@ -1,5 +1,5 @@
 ---
-title: "Katharina submitted her Bachelor thesis on kinase ligand generation'"
+title: "Katharina submitted her Bachelor thesis on kinase ligand generation"
 date: 2023-09-28
 author: katharina.buchthal
 ---
