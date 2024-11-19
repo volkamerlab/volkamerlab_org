@@ -25,6 +25,58 @@
 
 #  Books
 
+schaller_jcim_2024:
+  key: schaller_jcim_2024
+  title: "Benchmarking Cross-Docking Strategies in Kinase Drug Discovery"
+  authors:
+    - david.schaller
+    - Clara D Christ
+    - John D Chodera
+    - andrea.volkamer
+  journal: "Journal of Chemical Information and Modeling"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2024
+  date: "2024-11-18"
+  doi: "10.1021/acs.jcim.4c00905"
+  image: ""
+  pdf: ""
+  kind: "article"
+
+
+sukrit_biorxiv_2024:
+  key: sukrit_biorxiv_2024
+  title: "Prospective evaluation of structure-based simulations reveal their ability to predict the impact of kinase mutations on inhibitor binding"
+  authors:
+    - Skrit Singh
+    - Vytautas Gapsys
+    - Matteo Aldeghi
+    - david.schaller
+    - Aziz M Rangwala
+    - Jessica B White
+    - Joseph P Bluck
+    - Jenke Scheen
+    - William G Glass
+    - Jiaye Guo
+    - Sikander Hayat
+    - Bert L de Groot
+    - andrea.volkamer
+    - Clara D Christ
+    - Markus A Seeliger
+    - John D Chodera
+  journal: "bioRxiv"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2024
+  date: "2024-11-15"
+  doi: "10.1101/2024.11.15.623861"
+  image: ""
+  pdf: ""
+  kind: article
+  category: "preprint"
+
 sultan_jcim_2024:
   key: sultan_jcim_2024
   title: "Transformers for molecular property prediction: Lessons learned from the past five years"
@@ -224,26 +276,6 @@ boby_science_2023:
      image: ""
      pdf: ""
      kind: article
-     
-schaller_biorxiv_2023:
-     key: schaller_biorxiv_2023
-     title: "Benchmarking Cross-Docking Strategies for Structure-Informed Machine Learning in Kinase Drug Discovery"
-     authors:
-       - david.schaller
-       - Clara D. Christ
-       - John D. Chodera
-       - andrea.volkamer
-     journal: "bioRxiv"
-     volume: ""
-     issue: ""
-     pages: ""
-     year: 2023
-     date: 2023-09-14
-     doi: "https://doi.org/10.1101/2023.09.11.557138"
-     image: ""
-     pdf: ""
-     kind: article
-     category: "preprint"
 
 mullowney_natrevdd_2023:
      key: mullowney_natrevdd_2023
