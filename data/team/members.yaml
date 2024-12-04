@@ -394,6 +394,23 @@
       text: GitHub
       url: https://github.com/maba00001
 
+- name: Anjali Choudhary
+  key: anjali.choudhary
+  role: Master student, Bioinformatics (UdS)
+  status: studentmember
+  project: Pattern identification for chemical structure and morphological fingerprint
+  image: /images/team/anjalichoudhary.png
+  links:
+    - icon: envelope
+      text: anch00004@uni-saarland.de
+      url: mailto:anch00004@uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/AnjaliBioIT
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/anjalichoudhary1
+      
 # --ALUMNI--
 - name: Talia B. Kimber
   prefix:
