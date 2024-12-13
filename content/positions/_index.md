@@ -32,6 +32,7 @@ Please write an email including the Volkamer Lab member you would like to work w
 | Volkamer Lab Member | Cooperation Partner | Topic | Position Type | Site |
 |--------------------------------------|--------------------------|-------------------------------------------------------------|-----------|------------|
 | Hamza Ibrahim | - |  Optimizing consensus structure-based virtual screening (SBVS) through protein structure similarity analysis | Master Thesis | SB| 
+| Yanyuan Zhang | - |  Developing ChEMBL-based protein binding site similarity comparison dataset | Bachelor Thesis/Hiwi | SB| 
 
 **General research fields:**
 
