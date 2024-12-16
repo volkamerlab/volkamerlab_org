@@ -415,7 +415,16 @@
   status: studentmember
   project: TeachOpenCADD for Jupyter notebook and interpretable machine learning. 
   image: /images/team/hosainsakhawat.jpeg
-
+  links:
+    - icon: envelope
+      text: hosain.sakhawat@uni-saarland.de
+      url: mailto:hosain.sakhawat@uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/sakhawathsumit
+    - icon: linkedin
+      text: Linkedin
+      url: https://de.linkedin.com/in/sakhawathsumit
 
 # --ALUMNI--
 - name: Alexander Gujarnov
