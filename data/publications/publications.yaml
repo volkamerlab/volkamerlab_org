@@ -25,6 +25,34 @@
 
 #  Books
 
+fung_chem_2024:
+  key: fung_chem_2024
+  title: "Chemical education in digital chemistry"
+  authors:
+    - Fun Man Fung
+    - Magdalena Lederbauer
+    - Yvonne S.L. Choo
+    - Timo Gehring
+    - Kevin Maik Jablonka
+    - Kjell Jorner
+    - Philippe Schwaller
+    - Michael B. Sullivan
+    - andrea.volkamer
+    - Matthew S. Sigman
+    - Kuangbiao Liao
+    - Charles Windle
+  journal: "Chem"
+  volume: "10"
+  number: "12"
+  pages: "3519–3525"
+  year: 2024
+  date: "2024-12-12"
+  doi: "https://doi.org/10.1016/j.chempr.2024.10.010"
+  image: ""
+  pdf: ""
+  kind: "article"
+
+
 schaller_jcim_2024:
   key: schaller_jcim_2024
   title: "Benchmarking Cross-Docking Strategies in Kinase Drug Discovery"
