@@ -181,23 +181,6 @@
       text: Twitter
       url: https://twitter.com/Flrn_St
 
-- name: Alexander Gujarnov
-  prefix:
-  key: alexander.gujarnov
-  role: PhD candidate (Bayer)
-  status: associate
-  project: Biostatistics and in silico toxicology for development of virtual control groups at Bayer AG
-  image: /images/team/GurjanovProfilfoto.jpg
-  links:
-    - icon: envelope
-      text: alexander.gurjanov@bayer.com
-      url: mailto:alexander.gurjanov@bayer.com
-    - icon: github
-      text: GitHub
-      url: https://github.com/AlexanderGurjanov
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/alexander-gurjanov-4b8035123
 - name: Erika Primavera
   prefix:
   key: erika.primavera
@@ -410,8 +393,57 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/anjalichoudhary1
-      
+- name: Heshine Gnanasekar
+  key: heshine.gnanasekar
+  role: Master student, Bioinformatics (UdS)
+  status: studentmember
+  project: Constant pH Molecular Dynamics Simulations of Abl Kinase and its inhibitors
+  image: /images/team/heshinegnanasekar.jpg
+  links:
+    - icon: envelope
+      text: hege00001@stud.uni-saarland.de
+      url: mailto:hege00001@stud.uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/Heshine-G
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/heshine-gnanasekar-85b787217/
+- name: Sakhawat Hosain Sumit
+  key: sakhawat.sumit
+  role: Master student, Visual computing (UdS)
+  status: studentmember
+  project: TeachOpenCADD for Jupyter notebook and interpretable machine learning. 
+  image: /images/team/hosainsakhawat.jpeg
+  links:
+    - icon: envelope
+      text: hosain.sakhawat@uni-saarland.de
+      url: mailto:hosain.sakhawat@uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/sakhawathsumit
+    - icon: linkedin
+      text: Linkedin
+      url: https://de.linkedin.com/in/sakhawathsumit
+
 # --ALUMNI--
+- name: Alexander Gujarnov
+  prefix:
+  key: alexander.gujarnov
+  role: PhD candidate (Bayer)
+  status: alumni
+  project: Biostatistics and in silico toxicology for development of virtual control groups at Bayer AG
+  image: /images/team/GurjanovProfilfoto.jpg
+  links:
+    - icon: envelope
+      text: alexander.gurjanov@bayer.com
+      url: mailto:alexander.gurjanov@bayer.com
+    - icon: github
+      text: GitHub
+      url: https://github.com/AlexanderGurjanov
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/alexander-gurjanov-4b8035123
 - name: Talia B. Kimber
   prefix:
   key: talia.kimber

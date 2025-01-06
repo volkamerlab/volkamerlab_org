@@ -8,4 +8,4 @@ menu:
 weight: 100
 ---
 
-List of research articles published within the Volkamer Lab during the time at UdS and before at Charité. For additional/earlier publications refer to the [Team](/team) section and click on any member profile.
+List of research articles published within the Volkamer Lab during the time at UdS and before at Charité. For additional, individual member's and earlier publications refer to the [Team](/team) section and click on any member profile.

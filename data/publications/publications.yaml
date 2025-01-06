@@ -25,6 +25,34 @@
 
 #  Books
 
+fung_chem_2024:
+  key: fung_chem_2024
+  title: "Chemical education in digital chemistry"
+  authors:
+    - Fun Man Fung
+    - Magdalena Lederbauer
+    - Yvonne S.L. Choo
+    - Timo Gehring
+    - Kevin Maik Jablonka
+    - Kjell Jorner
+    - Philippe Schwaller
+    - Michael B. Sullivan
+    - andrea.volkamer
+    - Matthew S. Sigman
+    - Kuangbiao Liao
+    - Charles Windle
+  journal: "Chem"
+  volume: "10"
+  number: "12"
+  pages: "3519–3525"
+  year: 2024
+  date: "2024-12-12"
+  doi: "https://doi.org/10.1016/j.chempr.2024.10.010"
+  image: ""
+  pdf: ""
+  kind: "article"
+
+
 schaller_jcim_2024:
   key: schaller_jcim_2024
   title: "Benchmarking Cross-Docking Strategies in Kinase Drug Discovery"
@@ -49,7 +77,7 @@ sukrit_biorxiv_2024:
   key: sukrit_biorxiv_2024
   title: "Prospective evaluation of structure-based simulations reveal their ability to predict the impact of kinase mutations on inhibitor binding"
   authors:
-    - Skrit Singh
+    - Sukrit Singh
     - Vytautas Gapsys
     - Matteo Aldeghi
     - david.schaller
@@ -179,25 +207,25 @@ backenkoehler_jcheminf_2024:
   pdf: ""
   kind: article
 
-castro_chemrxiv_2024:
-  key: castro_chemrxiv_2024
-  title: "Analyzing Interfaces, Interactions and Self-Assembly in Soft Matter Simulations with PySoftK"
-  authors:
-    - raquel.castro
-    - Alejandro Santana-Bonilla 
-    - Robert M. Ziolek
-    - Christian D. Lorenz
-  journal: "ChemRxiv"
-  volume: ""
-  number: ""
-  pages: ""
-  year: 2024
-  date: "2024-04-12"
-  doi: "10.26434/chemrxiv-2024-1lbpg"
-  image: ""
-  pdf: ""
-  kind: article
-  category: "preprint"
+# castro_chemrxiv_2024:
+#   key: castro_chemrxiv_2024
+#   title: "Analyzing Interfaces, Interactions and Self-Assembly in Soft Matter Simulations with PySoftK"
+#   authors:
+#     - raquel.castro
+#     - Alejandro Santana-Bonilla 
+#     - Robert M. Ziolek
+#     - Christian D. Lorenz
+#   journal: "ChemRxiv"
+#   volume: ""
+#   number: ""
+#   pages: ""
+#   year: 2024
+#   date: "2024-04-12"
+#   doi: "10.26434/chemrxiv-2024-1lbpg"
+#   image: ""
+#   pdf: ""
+#   kind: article
+#   category: "preprint"
 
 
 chen_chemrxiv_2024:
@@ -377,24 +405,24 @@ bachenkoehler_chemrxiv_2023:
      kind: article
      category: "preprint"
 
-gurjanov_frontinpharm_2023:
-     key: gurjanov_frontinpharm_2023
-     title: "Hurdles and signposts on the road to virtual control groups—A case study illustrating the influence of anesthesia protocols on electrolyte levels in rats"
-     authors:
-       - alexander.gujarnov
-       - Andrea Kreuchwig
-       - Thomas Steger-Hartmann
-       - Lea Vaas
-     journal: "Frontiers in Pharmacology"
-     volume: "14"
-     issue: ""
-     pages: ""
-     year: 2023
-     date: 2023-04-20
-     doi: "10.3389/fphar.2023.1142534"
-     image: ""
-     pdf: ""
-     kind: article
+# gurjanov_frontinpharm_2023:
+#      key: gurjanov_frontinpharm_2023
+#      title: "Hurdles and signposts on the road to virtual control groups—A case study illustrating the influence of anesthesia protocols on electrolyte levels in rats"
+#      authors:
+#        - alexander.gujarnov
+#        - Andrea Kreuchwig
+#        - Thomas Steger-Hartmann
+#        - Lea Vaas
+#      journal: "Frontiers in Pharmacology"
+#      volume: "14"
+#      issue: ""
+#      pages: ""
+#      year: 2023
+#      date: 2023-04-20
+#      doi: "10.3389/fphar.2023.1142534"
+#      image: ""
+#      pdf: ""
+#      kind: article
      
 born_digitaldiscovery_2023:
      key: born_digitaldiscovery_2023
