@@ -25,37 +25,6 @@
 
 #  Books
 
-castro_biorxiv_2024:
-  key: castro_biorxiv_2024
-  title: "Lessons learned during the journey of data: from experiment to model for predicting kinase affinity, selectivity, polypharmacology, and resistance"
-  authors:
-    - raquel.castro
-    - jaime.rodriguez
-    - david.schaller
-    - talia.kimber
-    - corey.taylor
-    - Jessica B. White
-    - michael.backenkoehler
-    - Alexander Payne
-    - Ben Kaminow
-    - Iván Pulido
-    - Sukrit Singh
-    - paula.kramer
-    - perez.guillermo
-    - andrea.volkamer
-    - John D. Chodera
-  journal: "bioRxiv"
-  volume: ""
-  number: ""
-  pages: ""
-  year: 2024
-  date: "2024-09-10"
-  doi: "10.1101/2024.09.10.612176"
-  image: ""
-  pdf: "https://www.biorxiv.org/content/early/2024/09/10/2024.09.10.612176.full.pdf"
-  kind: article
-  category: "preprint"
-
 fung_chem_2024:
   key: fung_chem_2024
   title: "Chemical education in digital chemistry"
@@ -155,7 +124,37 @@ sultan_jcim_2024:
   pdf: ""
   kind: article
 
-
+castro_biorxiv_2024:
+  key: castro_biorxiv_2024
+  title: "Lessons learned during the journey of data: from experiment to model for predicting kinase affinity, selectivity, polypharmacology, and resistance"
+  authors:
+    - raquel.castro
+    - jaime.rodriguez
+    - david.schaller
+    - talia.kimber
+    - corey.taylor
+    - Jessica B. White
+    - michael.backenkoehler
+    - Alexander Payne
+    - Ben Kaminow
+    - Iván Pulido
+    - Sukrit Singh
+    - paula.kramer
+    - perez.guillermo
+    - andrea.volkamer
+    - John D. Chodera
+  journal: "bioRxiv"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2024
+  date: "2024-09-10"
+  doi: "10.1101/2024.09.10.612176"
+  image: ""
+  pdf: "https://www.biorxiv.org/content/early/2024/09/10/2024.09.10.612176.full.pdf"
+  kind: article
+  category: "preprint"
+  
 lacour_chemrxiv_2024:
   key: lacour_chemrxiv_2024
   title: "DockM8: An All-in-One Open-Source Platform for Consensus Virtual Screening in Drug Design"
