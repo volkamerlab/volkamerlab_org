@@ -297,6 +297,9 @@
     - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0002-8957-8807
+    - icon: building
+      text: MoSi chair
+      url: https://mosi.uni-saarland.de/people/
     
 
 # --MASTERS--
