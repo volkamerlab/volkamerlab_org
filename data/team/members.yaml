@@ -464,6 +464,20 @@
       text: Linkedin
       url: https://de.linkedin.com/in/sakhawathsumit
 
+- name: Lutz Herrmann
+  key: lutz.herrmann
+  role: Master student, Bioinformatics (UdS)
+  status: studentmember
+  project: Benchmarking of various neural network approaches for drug sensitivity prediction
+  image: /images/team/lutzherrmann.jpg
+  links:
+    - icon: envelope
+      text: luhe00002@stud.uni-saarland.de
+      url: mailto:luhe00002@stud.uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/LutzHerrmann
+
 # --ALUMNI--
 - name: Alexander Gujarnov
   prefix:
