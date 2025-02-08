@@ -478,6 +478,22 @@
       text: GitHub
       url: https://github.com/LutzHerrmann
 
+- name: Julien Berthet
+  key: julien.berthet
+  role: Master student, Chemoinformatics (UniStra)
+  status: studentmember
+  project: Optimizing consensus structure-based virtual screening through protein structure similarity analysis
+  image: /images/team/julienberthet.jpg
+  links:
+    - icon: envelope
+      text: berthet.julien@orange.fr
+      url: mailto:berthet.julien@orange.fr
+    - icon: github
+      text: GitHub
+      url: https://github.com/JulienEmileBerthet
+    - icon: linkedin
+      text: Linkedin
+      url: www.linkedin.com/in/julien-berthet-065b1a213
 # --ALUMNI--
 - name: Alexander Gujarnov
   prefix:

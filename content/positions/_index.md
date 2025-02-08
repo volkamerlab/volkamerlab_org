@@ -31,7 +31,7 @@ Please write an email including the Volkamer Lab member you would like to work w
 
 | Volkamer Lab Member | Cooperation Partner | Topic | Position Type | Site |
 |--------------------------------------|--------------------------|-------------------------------------------------------------|-----------|------------|
-| Yanyuan Zhang | - |  Developing ChEMBL-based protein binding site similarity comparison dataset | Bachelor Thesis/Hiwi | SB| 
+
 
 **General research fields:**
 
