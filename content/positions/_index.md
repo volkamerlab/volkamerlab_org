@@ -29,7 +29,6 @@ Please write an email including the Volkamer Lab member you would like to work w
 
 **Concrete topics:** 
 
-|--------------------------------------|--------------------------|-------------------------------------------------------------|-----------|------------|
 
 
 **General research fields:**
