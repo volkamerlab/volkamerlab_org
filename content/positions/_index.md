@@ -11,7 +11,7 @@ nav: false
 
 ## Master and Bachelor Students / Student Assistants (HiWis)
 
-**Important:** Unfortunately, we do not have any open student researcher (HiWi) positions at the moment.
+**Important:** Unfortunately, we do not have any open student researcher (HiWi) or thesis positions at the moment.
 
 At Volkamer Lab, we develop methods at the interface between structural bioinformatics and cheminformatics, mostly applied in the context of computer-aided drug design with a focus on machine learning methods. 
 In the table bellow, you find an overview of the current topics in the group, for more details on each subject, please refer to the research section.
@@ -26,10 +26,6 @@ If you are interested in pursuing a bachelor’s or a master’s thesis with us,
 Please write an email including the Volkamer Lab member you would like to work with and CC Paula (paula.kramer[at]cs.uni-saarland.de) and Floriane (floriane.odje[at]uni-saarland.de), or our admin (stefanie.wessinger[at]uni-saarland.de). 
 
 **Important:** Do not use volkamer[at]cs.uni-saarland.de for Master’s/Bachelor’s/HiWi position applications and inquiries, we are collecting the information centrally. Also note that we are often overbooked with supervisions, thus, make sure that you approach us in advance, so we have time to consider your application in our planning.
-
-**Concrete topics:** 
-
-
 
 **General research fields:**
 
