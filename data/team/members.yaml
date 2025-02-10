@@ -300,7 +300,23 @@
     - icon: building
       text: MoSi chair
       url: https://mosi.uni-saarland.de/people/
-    
+
+- name: Mohammad Walid Shahrour
+  key: mohammad.shahrour
+  role: Associated PhD candidate (Department of Drug Design and Optimization @ HIPS)
+  status: associate
+  project: Computer-aided drug design of novel Elastase B (LasB) inhibitors in Pseudomonas aeruginosa
+  image: /images/team/mohammadshahrour.jpg
+  links:
+    - icon: envelope
+      text: mohammadwalid.shahrour@helmholtz-hips.de
+      url: mailto:mohammadwalid.shahrour@helmholtz-hips.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/walidsh99
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/walidshahrour/ 
 
 # --MASTERS--
 - name: Armin Ariamajd
@@ -462,6 +478,22 @@
       text: GitHub
       url: https://github.com/LutzHerrmann
 
+- name: Julien Berthet
+  key: julien.berthet
+  role: Master student, Chemoinformatics (UniStra)
+  status: studentmember
+  project: Optimizing consensus structure-based virtual screening through protein structure similarity analysis
+  image: /images/team/julienberthet.jpg
+  links:
+    - icon: envelope
+      text: berthet.julien@orange.fr
+      url: mailto:berthet.julien@orange.fr
+    - icon: github
+      text: GitHub
+      url: https://github.com/JulienEmileBerthet
+    - icon: linkedin
+      text: Linkedin
+      url: www.linkedin.com/in/julien-berthet-065b1a213
 # --ALUMNI--
 - name: Alexander Gujarnov
   prefix:
