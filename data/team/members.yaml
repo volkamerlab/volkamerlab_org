@@ -497,9 +497,12 @@
       
 - name: Ritika Bansal
   key: ritika.bansal
-  role: Master student, Bioinformatics (UdS) 
+  role: Master student, Bioinformatics (UdS)
   status: studentmember
-  project: Molecular Docking, MD Simulations, and Mechanistic Insights into the Interaction of a Novel Natural Product with Secretory Transmembrane Proteins
+  project: >
+    Molecular Docking, MD Simulations, and Mechanistic Insights into the Interaction of a Novel Natural Product with Secretory Transmembrane Proteins (co-supervised by Prof. Rolf Müller @ HIPS)
+
+
   image: /images/team/ritikabansal.jpg
   links:
     - icon: envelope
