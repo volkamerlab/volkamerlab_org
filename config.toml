@@ -2,7 +2,8 @@ baseURL = "https://volkamerlab.org/"
 languageCode = "en-us"
 title = "Volkamer Lab"
 author = "Volkamer Lab"
-paginate = 5
+[pagination]
+  pagerSize = 5
 
 [permalinks]
   blog = "/:year/:month/:filename/"
