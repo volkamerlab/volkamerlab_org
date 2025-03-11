@@ -494,6 +494,24 @@
     - icon: linkedin
       text: Linkedin
       url: www.linkedin.com/in/julien-berthet-065b1a213
+      
+- name: Ritika Bansal
+  key: ritika.bansal
+  role: Master student, Bioinformatics (UdS & Microbial Natural Products @ HIPS)
+  status: studentmember
+  project: >
+    Mechanistic insights into the interaction of a novel natural product with transmembrane proteins
+
+
+  image: /images/team/ritikabansal.jpg
+  links:
+    - icon: envelope
+      text: riba00001@stud.uni-saarland.de
+      url: mailto:riba00001@stud.uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/Riba00001
+      
 # --ALUMNI--
 - name: Alexander Gujarnov
   prefix:
