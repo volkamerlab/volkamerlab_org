@@ -25,6 +25,77 @@
 
 #  Books
 
+singh_jpcb_2025:
+  key: singh_jpcb_2025
+  title: "Prospective Evaluation of Structure-Based Simulations Reveal Their Ability to Predict the Impact of Kinase Mutations on Inhibitor Binding"
+  authors:
+    - Sukrit Singh
+    - Vytautas Gapsys
+    - Matteo Aldeghi
+    - david.schaller
+    - Aziz M. Rangwala
+    - Jessica B. White
+    - Joseph P. Bluck
+    - Jenke Scheen
+    - William G. Glass
+    - Jiaye Guo
+    - Sikander Hayat
+    - Bert L. de Groot
+    - andrea.volkamer
+    - Clara D. Christ
+    - Markus A. Seeliger
+    - John D. Chodera
+  journal: "The Journal of Physical Chemistry B"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2025
+  date: "2025-03-07"
+  doi: "https://doi.org/10.1021/acs.jpcb.4c07794"
+  image: ""
+  pdf: ""
+  kind: "article"
+
+ariamajd_arxiv_2025:
+  key: ariamajd_pypackit_2025
+  title: "PyPackIT: Automated Research Software Engineering for Scientific Python Applications on GitHub"
+  authors:
+    - armin.ariamajd
+    - raquel.castro
+    - andrea.volkamer
+  journal: "arXiv"
+  year: 2025
+  date: "2025-03-06"
+  eprint: "2503.04921"
+  journal: "arXiv"
+  doi: "https://arxiv.org/abs/2503.04921"
+  image: ""
+  pdf: ""
+  category: "preprint"
+
+sultan_arxiv_2025:
+  key: sultan_arxiv_2025
+  title: "Transformers for molecular property prediction: Domain adaptation efficiently improves performance"
+  authors:
+    - afnan.sultan
+    - Max Rausch-Dupont
+    - Shahrukh Khan
+    - Olga Kalinina
+    - andrea.volkamer
+    - Dietrich Klakow
+  journal: "arXiv"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2025
+  date: "2025-03-05"
+  eprint: "2503.03360"
+  doi: "https://arxiv.org/abs/2503.03360"
+  image: ""
+  pdf: ""
+  category: "preprint"
+
+
 fung_chem_2024:
   key: fung_chem_2024
   title: "Chemical education in digital chemistry"
@@ -72,38 +143,6 @@ schaller_jcim_2024:
   pdf: ""
   kind: "article"
 
-
-sukrit_biorxiv_2024:
-  key: sukrit_biorxiv_2024
-  title: "Prospective evaluation of structure-based simulations reveal their ability to predict the impact of kinase mutations on inhibitor binding"
-  authors:
-    - Sukrit Singh
-    - Vytautas Gapsys
-    - Matteo Aldeghi
-    - david.schaller
-    - Aziz M Rangwala
-    - Jessica B White
-    - Joseph P Bluck
-    - Jenke Scheen
-    - William G Glass
-    - Jiaye Guo
-    - Sikander Hayat
-    - Bert L de Groot
-    - andrea.volkamer
-    - Clara D Christ
-    - Markus A Seeliger
-    - John D Chodera
-  journal: "bioRxiv"
-  volume: ""
-  number: ""
-  pages: ""
-  year: 2024
-  date: "2024-11-15"
-  doi: "10.1101/2024.11.15.623861"
-  image: ""
-  pdf: ""
-  kind: article
-  category: "preprint"
 
 sultan_jcim_2024:
   key: sultan_jcim_2024
