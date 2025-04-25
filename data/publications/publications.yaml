@@ -25,6 +25,56 @@
 
 #  Books
 
+backenkoehler_chemrxiv_2025:
+  key: backenkoehler_chemrxiv_2025
+  title: "Assay-Based Machine Learning: Rethinking Evaluation in Drug Discovery"
+  authors:
+    - michael.backenkoehler
+    - joschka.gross
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2025
+  date: "2025-04-22"
+  doi: "10.26434/chemrxiv-2025-zsk6d"
+  image: ""
+  pdf: ""
+  kind: article
+  category: "preprint"
+  
+sowa_medchem_2025:
+  key: sowa_medchem_2025
+  title: "Deconstruction of Dual-Site Tankyrase Inhibitors Provides Insights into Binding Energetics and Suggests Critical Hotspots for Ligand Optimization"
+  authors:
+    - Sven T. Sowa
+    - Murat Kücükdisli
+    - Yelena Mostinski
+    - david.schaller
+    - Carolina S. Vinagreiro
+    - Davide Cirillo
+    - Chiara Bosetti
+    - Shoshy Alam Brinch
+    - Kirsten van Laar
+    - Anita Wegert
+    - Ruben G. G. Leenders
+    - Stefan Krauss
+    - Jo Waaler
+    - andrea.volkamer
+    - Lari Lehtiö
+    - Marc Nazaré
+  journal: "Journal of Medicinal Chemistry"
+  volume: "68"
+  number: "7"
+  pages: "7263-7279"
+  year: 2025
+  date: "2025-04-10"
+  doi: "10.1021/acs.jmedchem.4c02845"
+  image: ""
+  pdf: ""
+  kind: article
+
 singh_jpcb_2025:
   key: singh_jpcb_2025
   title: "Prospective Evaluation of Structure-Based Simulations Reveal Their Ability to Predict the Impact of Kinase Mutations on Inhibitor Binding"
@@ -68,7 +118,7 @@ ariamajd_arxiv_2025:
   date: "2025-03-06"
   eprint: "2503.04921"
   journal: "arXiv"
-  doi: "https://arxiv.org/abs/2503.04921"
+  doi: "https://doi.org/10.48550/arXiv.2503.04921"
   image: ""
   pdf: ""
   category: "preprint"
@@ -90,7 +140,7 @@ sultan_arxiv_2025:
   year: 2025
   date: "2025-03-05"
   eprint: "2503.03360"
-  doi: "https://arxiv.org/abs/2503.03360"
+  doi: "https://doi.org/10.48550/arXiv.2503.03360"
   image: ""
   pdf: ""
   category: "preprint"
@@ -179,7 +229,7 @@ castro_biorxiv_2024:
     - Iván Pulido
     - Sukrit Singh
     - paula.kramer
-    - perez.guillermo
+    - guillermo.hernandez
     - andrea.volkamer
     - John D. Chodera
   journal: "bioRxiv"
@@ -262,7 +312,7 @@ backenkoehler_jcheminf_2024:
   title: "Guided docking as a data generation approach facilitates structure-based machine learning on kinases"
   authors:
     - michael.backenkoehler
-    - Joschka Groß
+    - joschka.gross
     - Verena Wolf
     - andrea.volkamer
   journal: "Journal of Chemical Information and Modeling"
@@ -271,7 +321,7 @@ backenkoehler_jcheminf_2024:
   pages: ""
   year: 2024
   date: "2024-05-15"
-  doi: "10.1021/acs.jcim.4c0005"
+  doi: "10.1021/acs.jcim.4c00055"
   image: ""
   pdf: ""
   kind: article
@@ -453,7 +503,7 @@ bachenkoehler_chemrxiv_2023:
      authors:
        - michael.backenkoehler
        - paula.kramer
-       - Joschka Groß
+       - joschka.gross
        - Gerrit Großmann
        - Roman Joeres
        - Azat Tagirdzhanov
