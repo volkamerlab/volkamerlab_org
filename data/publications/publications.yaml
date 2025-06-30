@@ -25,6 +25,25 @@
 
 #  Books
 
+kramer_chemrxiv_2025:
+  key: kramer_chemrxiv_2025
+  title: "CustomKinFragLib: Filtering the Kinase-Focused Fragmentation Library"
+  authors:
+    - paula.kramer
+    - katharina.buchthal
+    - dominique.sydow
+    - Katharina Sonja Leo
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2025
+  date: "2025-06-10"
+  doi: "10.26434/chemrxiv-2025-3gz92"
+  kind: article
+  category: "preprint"
+
 rolli_chemrxiv_2025:
   key: rolli_chemrxiv_2025
   title: "Increasing trustworthiness of machine learning-based drug sensitivity prediction with a multivariate random forest approach"
@@ -45,7 +64,7 @@ rolli_chemrxiv_2025:
   pdf: ""
   kind: article
   category: "preprint"
-
+  
 backenkoehler_chemrxiv_2025:
   key: backenkoehler_chemrxiv_2025
   title: "Assay-Based Machine Learning: Rethinking Evaluation in Drug Discovery"
