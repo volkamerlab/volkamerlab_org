@@ -25,6 +25,26 @@
 
 #  Books
 
+andersen_biorxiv_2025:
+  key: andersen_biorxiv_2025
+  title: "Accelerating ligand discovery by combining Bayesian optimization with MMGBSA-based binding affinity calculations"
+  authors:
+    - Lucas Andersen
+    - Max Rausch-Dupont
+    - Alejandro Martínez León
+    - andrea.volkamer
+    - Jochen S. Hub
+    - Dietrich Klakow
+  journal: "bioRxiv"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2025
+  date: "2025-06-27"
+  doi: "10.1101/2025.06.22.660936"
+  kind: article
+  category: "preprint"
+  
 kramer_chemrxiv_2025:
   key: kramer_chemrxiv_2025
   title: "CustomKinFragLib: Filtering the Kinase-Focused Fragmentation Library"
@@ -62,6 +82,25 @@ rolli_chemrxiv_2025:
   doi: "10.26434/chemrxiv-2025-ml78s"
   image: ""
   pdf: ""
+  kind: article
+  category: "preprint"
+
+gross_chemrxiv_2025:
+  key: gross_chemrxiv_2025
+  title: "Evaluation Beyond Goodness of Fit: Biophysical Alignment of AI Models for Kinase-Centric Drug Discovery"
+  authors:
+    - joschka.gross
+    - michael.backenkoehler
+    - paula.kramer
+    - Verena Wolf
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2025
+  date: "2025-04-28"
+  doi: "10.26434/chemrxiv-2025-qsw7v"
   kind: article
   category: "preprint"
   

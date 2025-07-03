@@ -434,6 +434,7 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/anjalichoudhary1
+      
 - name: Heshine Gnanasekar
   key: heshine.gnanasekar
   role: Master student, Bioinformatics (UdS)
@@ -450,6 +451,7 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/heshine-gnanasekar-85b787217/
+      
 - name: Sakhawat Hosain Sumit
   key: sakhawat.sumit
   role: Master student, Visual computing (UdS)
@@ -504,8 +506,6 @@
   status: studentmember
   project: >
     Mechanistic insights into the interaction of a novel natural product with transmembrane proteins
-
-
   image: /images/team/ritikabansal.jpg
   links:
     - icon: envelope
@@ -514,6 +514,20 @@
     - icon: github
       text: GitHub
       url: https://github.com/Riba00001
+      
+- name: Pousali Das
+  key: pousali.das
+  role: Master student, Bioinformatics (UdS)
+  status: studentmember
+  project: Cell painting Image Processing and Pattern Recognition (MORPHEUS)
+  image: /images/team/pousalidas.jpeg
+  links:
+    - icon: envelope
+      text: poda00001@stud.uni-saarland.de
+      url: mailto:poda00001@stud.uni-saarland.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/pousali-das-a0a2bb1a0/
       
 # --ALUMNI--
 - name: Alexander Gujarnov
