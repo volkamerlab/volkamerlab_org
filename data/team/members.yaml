@@ -527,7 +527,21 @@
       url: mailto:poda00001@stud.uni-saarland.de
     - icon: linkedin
       text: Linkedin
-      url: https://www.linkedin.com/in/pousali-das-a0a2bb1a0/
+      url: https://www.linkedin.com/in/pousali-das-a0a2bb1a0
+
+- name: Zyad Barghouth
+  key: zyad.barghouth
+  role: Master student, Bioinformatics (UdS)
+  status: studentmember
+  project: Finding Optimal drug representations for Drug Sensitivity and ADMET prediction
+  image: /images/team/zyadbarghouth.jpeg
+  links:
+    - icon: envelope
+      text: zyba00001@stud.uni-saarland.de
+      url: mailto:zyba00001@stud.uni-saarland.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/zyad-barghouth/
       
 # --ALUMNI--
 - name: Alexander Gujarnov
