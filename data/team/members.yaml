@@ -542,7 +542,20 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/zyad-barghouth/
-      
+
+- name: Loulwah Arnaout
+  key: loulwah.arnaout
+  role: Master student, Bioinformatics (UdS)
+  status: studentmember
+  project: Few-shot learning for toxic endpoint prediction
+  image: /images/team/loulwaharnaout.jpg
+  links:
+    - icon: envelope
+      text: loar00001@stud.uni-saarland.de
+      url: mailto:loar00001@stud.uni-saarland.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/loulwa-arnaout/      
 # --ALUMNI--
 - name: Alexander Gujarnov
   prefix:
