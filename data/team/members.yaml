@@ -559,9 +559,9 @@
     - icon: github
       text: GitHub
       url: https://github.com/gilbert-elkhoury
-    - icon: book
-      text: PyProtif
-      url: https://pubmed.ncbi.nlm.nih.gov/37698713/
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?hl=en&user=s_epwCMAAAAJ
 
 # --ALUMNI--
 - name: Alexander Gujarnov
