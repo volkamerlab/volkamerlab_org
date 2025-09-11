@@ -547,7 +547,7 @@
   key: gilbert.elkhoury
   role: Master student, Bioinformatics (UdS)
   status: studentmember
-  project: DataM8 development, Developing integrated python wrapper library for maintaining and integrating local registry database allowing the extension of bioinformatics workflows
+  project: DataM8 development: Python library for registry integration to accelerate ensemble docking workflows.”
   image: /images/team/gilbertelkhoury.jpeg
   links:
     - icon: envelope
