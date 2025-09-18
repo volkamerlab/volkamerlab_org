@@ -17,7 +17,7 @@ external_resources:
   icon: github
   more: Jupyter notebooks on computer-aided drug design tasks using open resources
 - name: TeachOpenCADD for KNIME
-  link: https://hub.knime.com/volkamerlab/spaces/Public/latest/TeachOpenCADD/TeachOpenCADD
+  link: https://hub.knime.com/s/xYhrR1mfFcGNxz7I
   icon: globe
   more: KNIME workflows on computer-aided drug design tasks using open resources
 people:
