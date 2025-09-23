@@ -547,7 +547,7 @@
   key: gilbert.elkhoury
   role: Master student, Bioinformatics (UdS)
   status: studentmember
-  project: DataM8 development: Python library for registry integration to accelerate ensemble docking workflows.”
+  project: DataM8 development - Python library for registry integration to accelerate ensemble docking workflows
   image: /images/team/gilbertelkhoury.jpeg
   links:
     - icon: envelope
@@ -563,7 +563,6 @@
       text: Google Scholar
       url: https://scholar.google.com/citations?hl=en&user=s_epwCMAAAAJ
 
-
 - name: Loulwah Arnaout
   key: loulwah.arnaout
   role: Master student, Bioinformatics (UdS)
@@ -577,7 +576,7 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/loulwa-arnaout/
-
+      
 # --ALUMNI--
 - name: Alexander Gujarnov
   prefix:
