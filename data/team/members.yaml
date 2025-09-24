@@ -543,6 +543,26 @@
       text: Linkedin
       url: https://www.linkedin.com/in/zyad-barghouth/
 
+- name: Gilbert El Khoury
+  key: gilbert.elkhoury
+  role: Master student, Bioinformatics (UdS)
+  status: studentmember
+  project: DataM8 development - Python library for registry integration to accelerate ensemble docking workflows
+  image: /images/team/gilbertelkhoury.jpeg
+  links:
+    - icon: envelope
+      text: giel00001@uni-saarland.de
+      url: mailto:giel00001@uni-saarland.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/gilbert-el-khoury-a79116162/
+    - icon: github
+      text: GitHub
+      url: https://github.com/gilbert-elkhoury
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?hl=en&user=s_epwCMAAAAJ
+
 - name: Loulwah Arnaout
   key: loulwah.arnaout
   role: Master student, Bioinformatics (UdS)
@@ -555,7 +575,8 @@
       url: mailto:loar00001@stud.uni-saarland.de
     - icon: linkedin
       text: Linkedin
-      url: https://www.linkedin.com/in/loulwa-arnaout/      
+      url: https://www.linkedin.com/in/loulwa-arnaout/
+      
 # --ALUMNI--
 - name: Alexander Gujarnov
   prefix:
