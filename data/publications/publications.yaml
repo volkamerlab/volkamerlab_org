@@ -26,7 +26,7 @@
 #  Books
 
 buchthal_chemrxiv_2025:
-  key: buchthal_subpocket_2025
+  key: buchthal_chemrxiv_2025
   title: "Novel Kinase Ligand Generation Using Subpocket-Based Docking"
   authors:
     - katharina.buchthal
