@@ -25,6 +25,30 @@
 
 #  Books
 
+buchthal_chemrxiv_2025:
+  key: buchthal_chemrxiv_2025
+  title: "Novel Kinase Ligand Generation Using Subpocket-Based Docking"
+  authors:
+    - katharina.buchthal
+    - paula.kramer
+    - Dominik Hubach
+    - Gina Bach
+    - Naemi Wagner
+    - Johannes Krieger
+    - Moritz Klöpper
+    - Michael Daude
+    - Wibke Diederich
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2025
+  date: "2025-09-25"
+  doi: "10.26434/chemrxiv-2025-f9ctg"
+  kind: article
+  category: "preprint"
+
 andersen_biorxiv_2025:
   key: andersen_biorxiv_2025
   title: "Accelerating ligand discovery by combining Bayesian optimization with MMGBSA-based binding affinity calculations"
