@@ -82,14 +82,14 @@
 - name: Guillermo Pérez Hernández
   prefix: Dr.
   key: guillermo.hernandez
-  role: Einstein BIH PostDoc (Charité)
+  role: PostDoc (UdS)
   status: member
   project: Molecular Dynamics, Kinase Drug Discovery and Software Development
   image: /images/team/guillermohernandez.jpg
   links:
     - icon: envelope
-      text: guillermo.perez@charite.de
-      url: mailto:guillermo.perez@charite.de
+      text: guillermo.perez@uni-saarland.de
+      url: mailto:guillermo.perez@uni-saarland.de
     - icon: github
       text: GitHub
       url: https://github.com/gph82
