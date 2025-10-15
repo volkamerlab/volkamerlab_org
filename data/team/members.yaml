@@ -362,8 +362,6 @@
       text: GitHub
       url: https://github.com/kabu00002
 
-
-
 - name: Fatemeh Moghaddam
   key: fatemeh.moghaddam
   role: Master student, Bioinformatics (UdS)
@@ -576,6 +574,23 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/loulwa-arnaout/
+
+- name: Aditi Lalla
+  key: aditi.lalla
+  role: Master student, Bioinformatics (UdS)
+  status: studentmember
+  project: Improving molecular transformer models through data quality and chemistry awareness
+  image: /images/team/aditilalla.jpg
+  links:
+    - icon: envelope
+      text: aditi.lalla@uni-saarland.de
+      url: mailto:aditi.lalla@uni-saarland.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/aditi-lalla/
+    - icon: github
+      text: GitHub
+      url: https://github.com/adla00004
       
 # --ALUMNI--
 - name: Alexander Gujarnov
