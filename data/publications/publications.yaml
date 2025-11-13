@@ -25,6 +25,30 @@
 
 #  Books
 
+lenhof_zenodo_2025:
+  key: lenhof_zenodo_2025
+  title: "The trustworthiness landscape in machine learning: a conceptual guide with applications in medicine"
+  authors:
+    - Kerstin Lenhof
+    - lisamarie.rolli
+    - Lorina Buhr
+    - Sebastian Roth
+    - Ruta Binkyte
+    - Silke Schicktanz
+    - Mario Fritz
+    - andrea.volkamer
+    - Niko Beerenwinkel
+  journal: "zenodo"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2025
+  date: "2025-11-13"
+  doi: "10.5281/zenodo.17591544"
+  kind: review
+  category: preprint
+
+
 buchthal_chemrxiv_2025:
   key: buchthal_chemrxiv_2025
   title: "Novel Kinase Ligand Generation Using Subpocket-Based Docking"
