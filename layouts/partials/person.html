@@ -3,7 +3,7 @@
     {{ if .image }}
     <span class="image right"><img src="{{ .image }}" /></span>
     {{ end }}
-    <p><strong>{{ .role }}</strong><br />{{ .project }}</p>
+    <p><strong>{{ .role | safeHTML }}</strong><br />{{ .project }}</p>
     {{ if .links }}
     <ul class="icons" style="margin-bottom: 0">
         {{ range .links }}

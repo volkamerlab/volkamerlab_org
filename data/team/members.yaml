@@ -286,7 +286,7 @@
 # --ASSOCIATED--
 - name: Joschka Groß
   key: joschka.gross
-  role: Associated PhD candidate (MoSi chair @ UdS, supervised by Prof. Verena Wolf)
+  role: Associated PhD candidate (<a href="https://mosi.uni-saarland.de/">MoSi chair @ UdS</a>, supervised by Prof. Verena Wolf)
   status: associate
   project: Deep learning for kinase drug discovery
   image: /images/team/joschkagross.jpg
@@ -306,7 +306,7 @@
 
 - name: Mohammad Walid Shahrour
   key: mohammad.shahrour
-  role: Associated PhD candidate (Department of Drug Design and Optimization @ HIPS)
+  role: Associated PhD candidate (<a href="https://www.helmholtz-hips.de/en/research/teams/team/drug-design-and-optimisation/">Department of Drug Design and Optimization @ HIPS </a>)
   status: associate
   project: Computer-aided drug design of novel Elastase B (LasB) inhibitors in Pseudomonas aeruginosa
   image: /images/team/mohammadshahrour.jpg
@@ -323,7 +323,7 @@
 
 - name: Florian Sollinger
   key: florian.sollinger
-  role: Bachelor student, Bioinformatics (UdS & supervised by Dr. Rebekka Burkholz @ CISPA)
+  role: Bachelor student, Bioinformatics (UdS & supervised by <a href="https://cispa.de/de/people/c01rebu" target="_blank">Dr. Rebekka Burkholz @ CISPA</a>)
   status: associate
   project: To be decided ..
   image: /images/team/floriansollinger.jpg
@@ -605,7 +605,7 @@
 
 - name: Zenab Khan
   key: zenab.khan
-  role: Master student, Bioinformatics (UdS & AI Safety Saarland Research Incubator)
+  role: Master student, Bioinformatics (UdS & <a href="https://www.ais-saarland.org/interdisciplinary-research-incubator" target="_blank">AI Safety Saarland Research Incubator</a>)
   status: studentmember
   project: Interpretable ML for Toxicity Prediction Using Random Forest Graphs
   image: /images/team/zenabkhan.jpg
@@ -619,7 +619,7 @@
 
 - name: Mine Caner
   key: mine.caner
-  role: Master student, Bioinformatics (UdS & AI Safety Saarland Research Incubator)
+  role: Master student, Bioinformatics (UdS & <a href="https://www.ais-saarland.org/interdisciplinary-research-incubator" target="_blank">AI Safety Saarland Research Incubator</a>)
   status: studentmember
   project: Interpretable Machine Learning for Toxicity Prediction
   image: /images/team/minecaner.png
