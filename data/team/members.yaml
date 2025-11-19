@@ -286,7 +286,7 @@
 # --ASSOCIATED--
 - name: Joschka Groß
   key: joschka.gross
-  role: Associated PhD candidate (MoSi chair @ UdS, supervised by Prof. Verena Wolf)
+  role: Associated PhD candidate (<a href="https://mosi.uni-saarland.de/">MoSi chair @ UdS</a>, supervised by Prof. Verena Wolf)
   status: associate
   project: Deep learning for kinase drug discovery
   image: /images/team/joschkagross.jpg
@@ -306,7 +306,7 @@
 
 - name: Mohammad Walid Shahrour
   key: mohammad.shahrour
-  role: Associated PhD candidate (Department of Drug Design and Optimization @ HIPS)
+  role: Associated PhD candidate (<a href="https://www.helmholtz-hips.de/en/research/teams/team/drug-design-and-optimisation/">Department of Drug Design and Optimization @ HIPS </a>)
   status: associate
   project: Computer-aided drug design of novel Elastase B (LasB) inhibitors in Pseudomonas aeruginosa
   image: /images/team/mohammadshahrour.jpg
@@ -321,6 +321,17 @@
       text: Linkedin
       url: https://www.linkedin.com/in/walidshahrour/ 
 
+- name: Florian Sollinger
+  key: florian.sollinger
+  role: Bachelor student, Bioinformatics (UdS & supervised by <a href="https://cispa.de/de/people/c01rebu" target="_blank">Dr. Rebekka Burkholz @ CISPA</a>)
+  status: studentmember
+  project: GNNs for toxicity prediction
+  image: /images/team/floriansollinger.jpg
+  links:
+    - icon: envelope
+      text: flso00002@stud.uni-saarland.de
+      url: mailto:flso00002@stud.uni-saarland.de
+      
 # --MASTERS--
 - name: Armin Ariamajd
   key: armin.ariamajd
@@ -591,6 +602,37 @@
     - icon: github
       text: GitHub
       url: https://github.com/adla00004
+
+- name: Zenab Khan
+  key: zenab.khan
+  role: Master student, Bioinformatics (UdS & <a href="https://www.ais-saarland.org/interdisciplinary-research-incubator" target="_blank">AI Safety Saarland Research Incubator</a>)
+  status: studentmember
+  project: Interpretable ML for Toxicity Prediction Using Random Forest Graphs
+  image: /images/team/zenabkhan.jpg
+  links:
+    - icon: envelope
+      text: zekh00001@stud.uni-saarland.de
+      url: mailto:zekh00001@stud.uni-saarland.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/zenab-k
+
+- name: Mine Caner
+  key: mine.caner
+  role: Master student, Bioinformatics (UdS & <a href="https://www.ais-saarland.org/interdisciplinary-research-incubator" target="_blank">AI Safety Saarland Research Incubator</a>)
+  status: studentmember
+  project: Interpretable Machine Learning for Toxicity Prediction
+  image: /images/team/minecaner.png
+  links:
+    - icon: envelope
+      text: mica00002@stud.uni-saarland.de
+      url: mailto:mica00002@stud.uni-saarland.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/minecaner
+    - icon: github
+      text: GitHub
+      url: https://github.com/minecaneer
       
 # --ALUMNI--
 - name: Alexander Gujarnov
