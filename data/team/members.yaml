@@ -321,16 +321,7 @@
       text: Linkedin
       url: https://www.linkedin.com/in/walidshahrour/ 
 
-- name: Florian Sollinger
-  key: florian.sollinger
-  role: Bachelor student, Bioinformatics (UdS & supervised by <a href="https://cispa.de/de/people/c01rebu" target="_blank">Dr. Rebekka Burkholz @ CISPA</a>)
-  status: studentmember
-  project: GNNs for toxicity prediction
-  image: /images/team/floriansollinger.jpg
-  links:
-    - icon: envelope
-      text: flso00002@stud.uni-saarland.de
-      url: mailto:flso00002@stud.uni-saarland.de
+
       
 # --MASTERS--
 - name: Armin Ariamajd
@@ -602,7 +593,18 @@
     - icon: github
       text: GitHub
       url: https://github.com/adla00004
-
+      
+- name: Florian Sollinger
+  key: florian.sollinger
+  role: Bachelor student, Bioinformatics (UdS & supervised by <a href="https://cispa.de/de/people/c01rebu" target="_blank">Dr. Rebekka Burkholz @ CISPA</a>)
+  status: studentmember
+  project: GNNs for toxicity prediction
+  image: /images/team/floriansollinger.jpg
+  links:
+    - icon: envelope
+      text: flso00002@stud.uni-saarland.de
+      url: mailto:flso00002@stud.uni-saarland.de
+      
 - name: Zenab Khan
   key: zenab.khan
   role: Master student, Bioinformatics (UdS & <a href="https://www.ais-saarland.org/interdisciplinary-research-incubator" target="_blank">AI Safety Saarland Research Incubator</a>)
@@ -633,7 +635,9 @@
     - icon: github
       text: GitHub
       url: https://github.com/minecaneer
-      
+
+
+
 # --ALUMNI--
 - name: Alexander Gujarnov
   prefix:
