@@ -325,7 +325,7 @@
   key: florian.sollinger
   role: Bachelor student, Bioinformatics (UdS & supervised by <a href="https://cispa.de/de/people/c01rebu" target="_blank">Dr. Rebekka Burkholz @ CISPA</a>)
   status: associate
-  project: To be decided ..
+  project: GNNs for toxicity prediction
   image: /images/team/floriansollinger.jpg
   links:
     - icon: envelope
