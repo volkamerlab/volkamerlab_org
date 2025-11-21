@@ -471,7 +471,7 @@
 
 - name: Lutz Herrmann
   key: lutz.herrmann
-  role: Master student, Bioinformatics (UdS)
+  role: Master student, Bioinformatics (UdS & co-supervised by <a href="https://bioinformatics.umg.eu/research/workgroups/ki-and-multi-omics-data/" target="_blank">Prof. Dr. Kerstin Lenhof @ UMG</a>)
   status: studentmember
   project: Benchmarking of various neural network approaches for drug sensitivity prediction
   image: /images/team/lutzherrmann.jpg
@@ -531,7 +531,7 @@
 
 - name: Zyad Barghouth
   key: zyad.barghouth
-  role: Master student, Bioinformatics (UdS)
+  role: Master student, Bioinformatics (UdS & co-supervised by <a href="https://bioinformatics.umg.eu/research/workgroups/ki-and-multi-omics-data/" target="_blank">Prof. Dr. Kerstin Lenhof @ UMG</a>)
   status: studentmember
   project: Finding Optimal drug representations for Drug Sensitivity and ADMET prediction
   image: /images/team/zyadbarghouth.jpeg
