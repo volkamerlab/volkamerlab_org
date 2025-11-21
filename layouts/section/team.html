@@ -72,7 +72,7 @@
                     <h2>Alumni</h2>
                 </header>
                 <ul>
-                    {{ range where $.Site.Data.team.members ".status" "alumni" }}
+                    {{ range sort (where $.Site.Data.team.members ".status" "alumni") ".left_date" "desc" }}
                     <li id="{{- .key -}}"><strong>{{ with .prefix }}{{- . }} {{ end }}{{ .name }}</strong> ({{ .role }})
                         <a href="{{ .contact_link }}" target="_blank">{{ with .contact_text }}{{- . }} {{ end }}</a>
                         <br />

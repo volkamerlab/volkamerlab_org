@@ -558,6 +558,7 @@
   key: erika.primavera
   role: Visiting PhD candidate (UniPg)
   status: alumni
+  left_date: "2025-06-01"
   project: Molecular Dynamics and Virtual Screening for novel AKT1 inhibitors/non-conventional degraders. Co-financed by NRRP (EU) and Sibylla Biotech S.p.A.
   image: /images/team/erika.primavera.jpg
   links:
@@ -581,6 +582,7 @@
   key: armin.ariamajd
   role: Master student, Chemistry (FU Berlin)
   status: alumni
+  left_date: "2025-10-01"
   project: Modeling of target-focused dynamic pharmacophores, using molecular dynamics simulations.
   image: /images/team/ArminAriamajd.jpg
   links:
@@ -607,6 +609,7 @@
   key: heshine.gnanasekar
   role: Master student, Bioinformatics (UdS)
   status: alumni
+  left_date: "2025-09-01"
   project: Constant pH Molecular Dynamics Simulations of Abl Kinase and its inhibitors
   image: /images/team/heshinegnanasekar.jpg
   links:
@@ -624,6 +627,7 @@
   key: julien.berthet
   role: Master student, Chemoinformatics (UniStra)
   status: alumni
+  left_date: "2025-08-01"
   project: Optimizing consensus structure-based virtual screening through protein structure similarity analysis
   image: /images/team/julienberthet.jpg
   links:
