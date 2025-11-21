@@ -2636,6 +2636,19 @@
 		position: relative;
 	}
 
+	/* Standardize team member photo sizes to match hamzaibrahim.jpg (4:5 aspect ratio) */
+	.posts article .image.right {
+		max-width: 200px;
+		width: 200px;
+	}
+
+		.posts article .image.right img {
+			width: 200px;
+			height: 250px;
+			object-fit: cover;
+			object-position: center top;
+		}
+
 	a.image {
 		overflow: hidden;
 	}

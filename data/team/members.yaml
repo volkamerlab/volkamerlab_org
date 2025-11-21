@@ -181,29 +181,7 @@
       text: Twitter
       url: https://twitter.com/Flrn_St
 
-- name: Erika Primavera
-  prefix:
-  key: erika.primavera
-  role: Visiting PhD candidate (UniPg)
-  status: associate
-  project: Molecular Dynamics and Virtual Screening for novel AKT1 inhibitors/non-conventional degraders. Co-financed by NRRP (EU) and Sibylla Biotech S.p.A.
-  image: /images/team/erika.primavera.jpg
-  links:
-    - icon: envelope
-      text: erika.primavera@dottorandi.unipg.it
-      url: mailto:erika.primavera@dottorandi.unipg.it
-    - icon: github
-      text: GitHub
-      url: https://github.com/erikaprimavera
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/erika-primavera-a7ba50209/
-    - icon: book
-      text: ORCiD
-      url: https://orcid.org/0009-0000-7065-3128
-    - icon: twitter
-      text: Twitter
-      url: https://twitter.com/erikaprimavera_
+
 
 - name: Afnan Sultan
   prefix:
@@ -320,36 +298,8 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/walidshahrour/ 
-
-
       
 # --MASTERS--
-- name: Armin Ariamajd
-  key: armin.ariamajd
-  role: Master student, Chemistry (FU Berlin)
-  status: studentmember
-  project: Modeling of target-focused dynamic pharmacophores, using molecular dynamics simulations.
-  image: /images/team/ArminAriamajd.jpg
-  links:
-    - icon: envelope
-      text: armin.ariam@fu-berlin.de
-      url: mailto:armin.ariam@fu-berlin.de
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/Armin-Ariamajd
-    - icon: github
-      text: GitHub
-      url: https://github.com/Armin-Ariamajd
-    - icon: graduation-cap
-      text: Google Scholar
-      url: https://scholar.google.com/citations?user=0BOUdo0AAAAJ
-    - icon: book
-      text: ORCiD
-      url: https://orcid.org/0000-0003-1563-6987
-    - icon: twitter
-      text: Twitter
-      url: https://twitter.com/Al___Chemist
-
 - name: Katharina Buchthal
   key: katharina.buchthal
   role: Master student, Bioinformatics (UdS)
@@ -435,23 +385,6 @@
       text: Linkedin
       url: https://www.linkedin.com/in/anjalichoudhary1
       
-- name: Heshine Gnanasekar
-  key: heshine.gnanasekar
-  role: Master student, Bioinformatics (UdS)
-  status: studentmember
-  project: Constant pH Molecular Dynamics Simulations of Abl Kinase and its inhibitors
-  image: /images/team/heshinegnanasekar.jpg
-  links:
-    - icon: envelope
-      text: hege00001@stud.uni-saarland.de
-      url: mailto:hege00001@stud.uni-saarland.de
-    - icon: github
-      text: GitHub
-      url: https://github.com/Heshine-G
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/heshine-gnanasekar-85b787217/
-      
 - name: Sakhawat Hosain Sumit
   key: sakhawat.sumit
   role: Master student, Visual computing (UdS)
@@ -482,23 +415,6 @@
     - icon: github
       text: GitHub
       url: https://github.com/LutzHerrmann
-
-- name: Julien Berthet
-  key: julien.berthet
-  role: Master student, Chemoinformatics (UniStra)
-  status: studentmember
-  project: Optimizing consensus structure-based virtual screening through protein structure similarity analysis
-  image: /images/team/julienberthet.jpg
-  links:
-    - icon: envelope
-      text: berthet.julien@orange.fr
-      url: mailto:berthet.julien@orange.fr
-    - icon: github
-      text: GitHub
-      url: https://github.com/JulienEmileBerthet
-    - icon: linkedin
-      text: Linkedin
-      url: www.linkedin.com/in/julien-berthet-065b1a213
       
 - name: Ritika Bansal
   key: ritika.bansal
@@ -636,14 +552,104 @@
       text: GitHub
       url: https://github.com/minecaneer
 
-
-
 # --ALUMNI--
+
+# --2025--
+- name: Erika Primavera
+  prefix:
+  key: erika.primavera
+  role: Visiting PhD candidate (UniPg)
+  status: alumni
+  left_date: "2025-06-01"
+  project: Molecular Dynamics and Virtual Screening for novel AKT1 inhibitors/non-conventional degraders. Co-financed by NRRP (EU) and Sibylla Biotech S.p.A.
+  image: /images/team/erika.primavera.jpg
+  links:
+    - icon: envelope
+      text: erika.primavera@dottorandi.unipg.it
+      url: mailto:erika.primavera@dottorandi.unipg.it
+    - icon: github
+      text: GitHub
+      url: https://github.com/erikaprimavera
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/erika-primavera-a7ba50209/
+    - icon: book
+      text: ORCiD
+      url: https://orcid.org/0009-0000-7065-3128
+    - icon: twitter
+      text: Twitter
+      url: https://twitter.com/erikaprimavera_
+
+- name: Armin Ariamajd
+  key: armin.ariamajd
+  role: Master student, Chemistry (FU Berlin)
+  status: alumni
+  left_date: "2025-10-01"
+  project: Modeling of target-focused dynamic pharmacophores, using molecular dynamics simulations.
+  image: /images/team/ArminAriamajd.jpg
+  links:
+    - icon: envelope
+      text: armin.ariam@fu-berlin.de
+      url: mailto:armin.ariam@fu-berlin.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/Armin-Ariamajd
+    - icon: github
+      text: GitHub
+      url: https://github.com/Armin-Ariamajd
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?user=0BOUdo0AAAAJ
+    - icon: book
+      text: ORCiD
+      url: https://orcid.org/0000-0003-1563-6987
+    - icon: twitter
+      text: Twitter
+      url: https://twitter.com/Al___Chemist
+      
+- name: Heshine Gnanasekar
+  key: heshine.gnanasekar
+  role: Master student, Bioinformatics (UdS)
+  status: alumni
+  left_date: "2025-09-01"
+  project: Constant pH Molecular Dynamics Simulations of Abl Kinase and its inhibitors
+  image: /images/team/heshinegnanasekar.jpg
+  links:
+    - icon: envelope
+      text: hege00001@stud.uni-saarland.de
+      url: mailto:hege00001@stud.uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/Heshine-G
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/heshine-gnanasekar-85b787217/
+      
+- name: Julien Berthet
+  key: julien.berthet
+  role: Master student, Chemoinformatics (UniStra)
+  status: alumni
+  left_date: "2025-08-01"
+  project: Optimizing consensus structure-based virtual screening through protein structure similarity analysis
+  image: /images/team/julienberthet.jpg
+  links:
+    - icon: envelope
+      text: berthet.julien@orange.fr
+      url: mailto:berthet.julien@orange.fr
+    - icon: github
+      text: GitHub
+      url: https://github.com/JulienEmileBerthet
+    - icon: linkedin
+      text: Linkedin
+      url: www.linkedin.com/in/julien-berthet-065b1a213
+
+# --2024--
 - name: Alexander Gujarnov
   prefix:
   key: alexander.gujarnov
   role: PhD candidate (Bayer)
   status: alumni
+  left_date: "2024-12-01"
   project: Biostatistics and in silico toxicology for development of virtual control groups at Bayer AG
   image: /images/team/GurjanovProfilfoto.jpg
   links:
@@ -656,11 +662,14 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/alexander-gurjanov-4b8035123
+# --2023--
+
 - name: Talia B. Kimber
   prefix:
   key: talia.kimber
   role: PhD candidate
   status: alumni
+  left_date: "2023-12-01"
   project: Machine learning for kinase drug discovery
   contact_link: https://www.taliabkimber.com/
   contact_text: Website
@@ -669,14 +678,18 @@
   key: dominique.sydow
   role: PhD candidate
   status: alumni
+  left_date: "2023-12-01"
   project: Binding site comparison for off-target and polypharmacology prediction
   contact_link: https://www.linkedin.com/in/dominiquesydow/
   contact_text: LinkedIn
+
+  # --2022 PREVIOUS YEARS--
 - name: David Schaller
   prefix: Dr.
   key: david.schaller
   role: Postdoc
   status: alumni
+  left_date: "2022-01-01"
   project: Free energy calculations and machine learning for kinase drug discovery with focus on mutations
   image: /images/team/davidschaller.jpg
   links:
@@ -700,6 +713,7 @@
   key: corey.taylor
   role: Postdoc
   status: alumni
+  left_date: "2022-01-01"
   project: Machine learning and method development for kinase drug discovery
   image: /images/team/coreytaylor.jpg
   links:
@@ -720,6 +734,7 @@
   key: jacqueline.krohn
   role: Master student
   status: alumni
+  left_date: "2022-01-01"
   image:
   project: Data splitting schemes to evaluate the performance of ML-based molecular activity prediction
 - name: Mareike Leja
@@ -727,6 +742,7 @@
   key: mareike.leja
   role: Master student
   status: alumni
+  left_date: "2022-01-01"
   image:
   project: Virtual Screening Pipeline for Drug-Like PPIP5K2 Inhibitors
 - name: Sonja Rothkugel
@@ -734,6 +750,7 @@
   key: sonja.rothkugel
   role: Master student
   status: alumni
+  left_date: "2022-01-01"
   image:
   project: Custom-KinFragLib - Exploring filter strategies to reduce the library size
 - name: Julian Pipart
@@ -741,6 +758,7 @@
   key: julian.pipart
   role: Bachelor student
   status: alumni
+  left_date: "2022-01-01"
   image:
   project: Structural Alignment tool for Python
 - name: Jaime Rodríguez-Guerra
@@ -748,6 +766,7 @@
   key: jaime.rodriguez
   role: Postdoc [NOW - Software Engineer at Quansite]
   status: alumni
+  left_date: "2022-01-01"
   project: Scalable alchemical free energy calculations and machine learning for kinase drug discovery
   image: /images/team/jaimerodriguezguerra.jpg
   links:
@@ -774,6 +793,7 @@
   key: andrea-lilian.morger
   role: PhD candidate
   status: alumni
+  left_date: "2022-01-01"
   image: /images/team/andreamorger.jpg
   project: In silico toxicity prediction and application to external data
   links:
@@ -788,6 +808,7 @@
   role: Dr. med. candidate
   status: alumni
   key: chiara.gosch
+  left_date: "2022-01-01"
   project: Computational and experimental testing of novel EGFR and HDAC inhibitors (co-supervised with Prof. Höpfner)
   links:
     - icon: linkedin
@@ -798,6 +819,7 @@
   key: franziska.fritz
   role: Master student project work
   status: alumni
+  left_date: "2022-01-01"
   image:
   project: "PLIPify: Protein-Ligand Interaction Frequencies across Multiple Structures."
 - name: Michele Wichmann
@@ -805,6 +827,7 @@
   key: michele.wichmann
   role: Master student
   status: alumni
+  left_date: "2022-01-01"
   image:
   project: Dynamic pharmacophore modeling from apo structures
 - name: Allen Dumler
@@ -812,6 +835,7 @@
   key: allen.dumler
   role: Bachelor student
   status: alumni
+  left_date: "2022-01-01"
   image:
   project: Standardization pipelines in computer-aided drug design
 - name: Sakshi Misra
@@ -819,6 +843,7 @@
   key: sakshi.misra
   role: Intern
   status: alumni
+  left_date: "2022-01-01"
   image:
   project: Advancing TeachOpenCADD with machine learning notebooks
 - name: Paula Schmiel
@@ -826,6 +851,7 @@
   key: paula.schmiel
   role: Master student and short term scientist
   status: alumni
+  left_date: "2022-01-01"
   image: /images/team/paulaschmiel.jpg
   project: Subpocket-based fragmentation and recombination of kinase inhibitors
   links:
@@ -837,56 +863,66 @@
   role: Bachelor student
   status: alumni
   key: robert.strothmann
+  left_date: "2022-01-01"
   project: Automatic generation of T²F-Flex pharmacophores based on MD simulations
 - name: Henry Webel
   prefix:
   key: henry.webel
   status: alumni
   role: Scientist
+  left_date: "2022-01-01"
   project: Predicting cytotoxicity using deep neural networks
 - name: Boran Adas
   prefix:
   key: boran.adas
   status: alumni
   role: Master thesis and GoogleSummerOfCode
+  left_date: "2022-01-01"
   project: Robust machine learning pipeline for classification problems in cheminformatics
 - name: Jérémie Mortier
   prefix: Dr.
   key: jeremie.mortier
   status: alumni
   role: Scientist
+  left_date: "2022-01-01"
   project: Truly target-focused pharmacophore modeling (T²F-Pharm)
 - name: Shalini Muralikumar
   prefix:
   key: shalini.muralikumar
   status: alumni
   role: Intern
+  left_date: "2022-01-01"
   project: In silico investigation of protein-protein interactions during sumoylation of Smyd1
 - name: Pratik Dhakal
   prefix:
   key: pratik.dhakal
   status: alumni
   role: Student assistant and Master thesis
+  left_date: "2022-01-01"
   project: Truly target-focused (dynamic) pharmacophore modeling (T²F-Pharm and T²F-Flex)
 - name: Eva Aßmann
   prefix:
   key: eva.assmann
   status: alumni
   role: Bachelor thesis
+  left_date: "2022-01-01"
   project: Predicting kinase similarity using a novel fingerprint-based binding site comparison method
 - name: Jacob Gora
   prefix:
   key: jacob.gora
   status: alumni
   role: Student assistant and Master thesis with Novartis
+  left_date: "2022-01-01"
   project: Machine learning for kinase activity prediction & Active learning for compound optimization
 - name: Maximilian Driller
   key: maximilian.driller
   status: alumni
   role: Master student project work
+  left_date: "2022-01-01"
   project: Computer-aided drug design - an interactive Python pipeline (TeachOpenCADD)
 - name: Angelika Szengel
   key: angelika.szengel
   status: alumni
   role: Master student project work
+  left_date: "2022-01-01"
   project: Structure-based computational target prediction (review)

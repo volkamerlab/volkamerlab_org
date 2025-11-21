@@ -25,6 +25,37 @@
 
 #  Books
 
+castro_livecoms_2025:
+  key: castro_livecoms_2025
+  title: "The Journey of Data: Lessons Learned in Modeling Kinase Affinity, Selectivity, and Resistance"
+  authors:
+    - raquel.castro
+    - jaime.rodriguez
+    - david.schaller
+    - talia.kimber
+    - corey.taylor
+    - Jessica B. White
+    - michael.backenkoehler
+    - joschka.gross
+    - Alexander Payne
+    - Benjamin Kaminow
+    - Ivan Pulido
+    - Sukrit Singh
+    - paula.kramer
+    - guillermo.hernandez
+    - andrea.volkamer
+    - John D. Chodera
+  journal: "Living Journal of Computational Molecular Science"
+  volume: "6"
+  number: "1"
+  pages: "3875"
+  year: 2025
+  date: "2025-11-19"
+  doi: "https://doi.org/10.33011/livecoms.6.1.3875"
+  image: ""
+  pdf: "https://livecomsjournal.org/index.php/livecoms/article/view/v6i1e3875/3181"
+  kind: article
+  
 lenhof_zenodo_2025:
   key: lenhof_zenodo_2025
   title: "The trustworthiness landscape in machine learning: a conceptual guide with applications in medicine"
@@ -338,37 +369,6 @@ sultan_jcim_2024:
   image: ""
   pdf: ""
   kind: article
-
-castro_biorxiv_2024:
-  key: castro_biorxiv_2024
-  title: "Lessons learned during the journey of data: from experiment to model for predicting kinase affinity, selectivity, polypharmacology, and resistance"
-  authors:
-    - raquel.castro
-    - jaime.rodriguez
-    - david.schaller
-    - talia.kimber
-    - corey.taylor
-    - Jessica B. White
-    - michael.backenkoehler
-    - Alexander Payne
-    - Ben Kaminow
-    - Iván Pulido
-    - Sukrit Singh
-    - paula.kramer
-    - guillermo.hernandez
-    - andrea.volkamer
-    - John D. Chodera
-  journal: "bioRxiv"
-  volume: ""
-  number: ""
-  pages: ""
-  year: 2024
-  date: "2024-09-10"
-  doi: "10.1101/2024.09.10.612176"
-  image: ""
-  pdf: "https://www.biorxiv.org/content/early/2024/09/10/2024.09.10.612176.full.pdf"
-  kind: article
-  category: "preprint"
   
 lacour_chemrxiv_2024:
   key: lacour_chemrxiv_2024
