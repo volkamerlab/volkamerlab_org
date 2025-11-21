@@ -84,7 +84,15 @@
 
                 {{ range $years }}
                     {{ $currentYear := . }}
-                    {{ $yearAlumni := where $alumni ".left_date" "like" (printf "%s-*" $currentYear) }}
+                    {{ $yearAlumni := slice }}
+                    {{ range $alumni }}
+                        {{ if .left_date }}
+                            {{ $alumniYear := dateFormat "2006" .left_date }}
+                            {{ if eq $alumniYear $currentYear }}
+                                {{ $yearAlumni = $yearAlumni | append . }}
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
                     {{ if $yearAlumni }}
                         <h3>{{ $currentYear }}</h3>
                         <ul>
