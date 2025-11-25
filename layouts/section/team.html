@@ -71,15 +71,55 @@
                 <header>
                     <h2>Alumni</h2>
                 </header>
-                <ul>
-                    {{ range where $.Site.Data.team.members ".status" "alumni" }}
-                    <li id="{{- .key -}}"><strong>{{ with .prefix }}{{- . }} {{ end }}{{ .name }}</strong> ({{ .role }})
-                        <a href="{{ .contact_link }}" target="_blank">{{ with .contact_text }}{{- . }} {{ end }}</a>
-                        <br />
-                        {{ .project }}
-                    </li>
+
+                {{ $alumni := where $.Site.Data.team.members ".status" "alumni" }}
+                {{ $years := slice }}
+                {{ range $alumni }}
+                    {{ if .left_date }}
+                        {{ $year := dateFormat "2006" .left_date }}
+                        {{ $years = $years | append $year }}
                     {{ end }}
-                </ul>
+                {{ end }}
+                {{ $years = sort (uniq $years) "value" "desc" }}
+
+                {{ range $years }}
+                    {{ $currentYear := . }}
+                    {{ $yearAlumni := slice }}
+                    {{ range $alumni }}
+                        {{ if .left_date }}
+                            {{ $alumniYear := dateFormat "2006" .left_date }}
+                            {{ if eq $alumniYear $currentYear }}
+                                {{ $yearAlumni = $yearAlumni | append . }}
+                            {{ end }}
+                        {{ end }}
+                    {{ end }}
+                    {{ if $yearAlumni }}
+                        <h3>{{ $currentYear }}</h3>
+                        <ul>
+                            {{ range sort $yearAlumni ".left_date" "desc" }}
+                            <li id="{{- .key -}}"><strong>{{ with .prefix }}{{- . }} {{ end }}{{ .name }}</strong> ({{ .role }})
+                                <a href="{{ .contact_link }}" target="_blank">{{ with .contact_text }}{{- . }} {{ end }}</a>
+                                <br />
+                                {{ .project }}
+                            </li>
+                            {{ end }}
+                        </ul>
+                    {{ end }}
+                {{ end }}
+
+                {{ $unknownAlumni := where $alumni ".left_date" "eq" nil }}
+                {{ if $unknownAlumni }}
+                    <h3>Previous Years</h3>
+                    <ul>
+                        {{ range $unknownAlumni }}
+                        <li id="{{- .key -}}"><strong>{{ with .prefix }}{{- . }} {{ end }}{{ .name }}</strong> ({{ .role }})
+                            <a href="{{ .contact_link }}" target="_blank">{{ with .contact_text }}{{- . }} {{ end }}</a>
+                            <br />
+                            {{ .project }}
+                        </li>
+                        {{ end }}
+                    </ul>
+                {{ end }}
             </section>
         </article>
     </div>
