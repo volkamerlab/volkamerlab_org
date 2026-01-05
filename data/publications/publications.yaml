@@ -25,6 +25,24 @@
 
 #  Books
 
+odje_morphological_2026:
+  key: odje_morphological_2026
+  title: "Morphological Data Analysis: From Descriptor Development to Predictive Modeling"
+  authors:
+    - floriane.odje
+    - lisamarie.rolli
+    - andrea.volkamer
+  journal: "Methods in Molecular Biology"
+  volume: "2989"
+  number: ""
+  pages: "151–187"
+  year: 2026
+  date: "2026-01-05"
+  doi: "10.1007/978-1-0716-4985-5_8"
+  image: ""
+  pdf: ""
+  kind: book
+
 castro_livecoms_2025:
   key: castro_livecoms_2025
   title: "The Journey of Data: Lessons Learned in Modeling Kinase Affinity, Selectivity, and Resistance"
