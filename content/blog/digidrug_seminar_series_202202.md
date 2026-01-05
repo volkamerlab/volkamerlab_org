@@ -29,7 +29,7 @@ A second drug discovery seminar, [Struc2Drug](https://volkamerlab.org/outreach/s
 
 Confirmed speakers for the next series include:
 
-* [Dr. Ariane Nunes](https://www.unisyscat.de/people/nunes-alves-ariane.html) (TU Berlin/UniSysCat, Berlin) **"Protein-ligand binding kinetics in drug design: prediction of kinetic rates for kinases"**
+* [Dr. Ariane Nunes](https://www.unisyscat.de/people/current-group-leaders/nunes-alves-ariane) (TU Berlin/UniSysCat, Berlin) **"Protein-ligand binding kinetics in drug design: prediction of kinetic rates for kinases"**
 * [Dr. David Machalz](https://www.linkedin.com/in/david-machalz/) (Nuvisan ICB GmbH, Berlin)) **"Discovery of a potent inhibitor of human CYP4Z1 through mechanistic in-silico modeling"**
 
 Key contacts:
