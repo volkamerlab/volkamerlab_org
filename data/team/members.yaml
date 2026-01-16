@@ -402,19 +402,7 @@
       text: Linkedin
       url: https://de.linkedin.com/in/sakhawathsumit
 
-- name: Lutz Herrmann
-  key: lutz.herrmann
-  role: Master student, Bioinformatics (UdS & co-supervised by <a href="https://bioinformatics.umg.eu/research/workgroups/ki-and-multi-omics-data/" target="_blank">Prof. Dr. Kerstin Lenhof @ UMG</a>)
-  status: studentmember
-  project: Benchmarking of various neural network approaches for drug sensitivity prediction
-  image: /images/team/lutzherrmann.jpg
-  links:
-    - icon: envelope
-      text: luhe00002@stud.uni-saarland.de
-      url: mailto:luhe00002@stud.uni-saarland.de
-    - icon: github
-      text: GitHub
-      url: https://github.com/LutzHerrmann
+
       
 - name: Ritika Bansal
   key: ritika.bansal
@@ -563,6 +551,22 @@
   project: "Metabolic Engineering: Crafting the Perfect Cellular Factory"
 
 # --2025--
+- name: Lutz Herrmann
+  key: lutz.herrmann
+  role: Master student, Bioinformatics (UdS & co-supervised by Prof. Dr. Kerstin Lenhof @ UMG) 
+  status: alumni
+  left_date: "2025-12-17"
+  project: Benchmarking of various neural network approaches for drug sensitivity prediction
+  image: /images/team/lutzherrmann.jpg
+  links:
+    - icon: envelope
+      text: luhe00002@stud.uni-saarland.de
+      url: mailto:luhe00002@stud.uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/LutzHerrmann
+
+
 - name: Erika Primavera
   prefix:
   key: erika.primavera
