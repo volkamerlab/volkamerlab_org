@@ -8,10 +8,11 @@ nav: false
 
 Determining the toxicity of compounds is vital to identify their harmful effects on humans, animals, plants and the environment. We focus on several aspects of machine learning (ML) in the context of toxicity prediction, e.g. investigating into novel descriptors, applicability of models to external data and interpretability of deep learning (DL) models (toxicophore). These investigations aim to come closer to the vision of transforming toxicology into a predictive science and reducing the number of animal testing.
 
+
+
+## BMBF-funded projects 
+
 These projects are part of the BMBF-funded <a href="https://www.bb3r.de/en/index.html" target="_blank" class="external">BB3R initiative</a>. One major goal of the BB3R initiative is the establishment of alternative methods for preclinical drug development and basic research.
-
-## Projects
-
 
 ### [KnowTox](/projects/knowtox/)
 
@@ -27,7 +28,12 @@ These projects are part of the BMBF-funded <a href="https://www.bb3r.de/en/index
 
 {{% intro "projects/cytotox.md" %}}
 
+## EU-funded projects
+
+### [RADAR](/projects/radar/)
+
+{{% intro "projects/radar.md" %}}
 
 ***
 
-[Back to machine-learning based research](/research/machine-learning/)
+[Back to machine learning-based research](/research/machine-learning/)

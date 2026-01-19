@@ -31,12 +31,13 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
 
 <!-- TODO * Protein-ligand interaction fingerprints -->
 
-### [Machine learning based methods](/research/machine-learning)
+### [Machine learning-based methods](/research/machine-learning)
 
 * [ML-based toxic endpoint prediction](/research/machine-learning/toxicity/)
   * [KnowTox](/projects/knowtox)
   * [Cytotoxicity](/projects/cytotox)
   * [Morpheus](/projects/MORPHEUS)
+  * [RADAR](/projects/radar)
   <!-- TODO * CP_Tox21 -->
 * [Deep learning based virtual screening](/projects/deeplearning-vs/)
 * [Data augmentation and deep learning for physico-chemical property prediction](/projects/maxsmi/)
