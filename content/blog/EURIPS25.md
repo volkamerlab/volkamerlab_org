@@ -11,3 +11,5 @@ The first poster presents the ideas laid out in ["Assay-Based Machine Learning: 
 Public datasets are typically aggregates of experimental data originating from multiple laboratories. As a result, inconsistencies in the data are unavoidable. In this work, we investigate how conclusions drawn from standard machine learning workflows change when the assumption of measurement consistency is relaxed.
 
 The second poster, titled “Unified Bayesian Modelling of Bioactivities Across ChEMBL”, showcases a foundational model for in-context learning on diverse types of ChEMBL data.
+
+Both of these works were done together with [Joschka Groß](https://mosi.uni-saarland.de/people/joschka/), who also attended the workshop.
