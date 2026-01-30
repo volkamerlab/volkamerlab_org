@@ -12,6 +12,9 @@ Raquel, Afnan, and Lisa were part of the **organizing team of the pre-conference
 
 In the main conference, both Raquel and Afnan presented their research as oral contributions. Raquel presented her ongoing work titled **“No Pose Left Behind: Integrating Activity and Structural Data with Uncertainty-Aware Multiobjective Learning for Kinase Inhibitor Prediction”**, highlighting methods for combining structural and bioactivity data in predictive modeling. Afnan presented her work on **molecular transformers**, discussing their applications and evaluation for molecular property prediction tasks.
 
+Lisa presented a poster on her work on **benchmarking of different machine learning models, compound representations and dimension reduction methods** on the ToxCast dataset.  
+
+
 We especially enjoyed engaging with the AiChem community and exchanging ideas with researchers working across machine learning, cheminformatics, and data-driven drug discovery.
 
 {{< xfigure src="/images/blogpost/AiChem8_2025.png" imageclass="fit" >}}
