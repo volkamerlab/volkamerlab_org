@@ -7,4 +7,4 @@ Hamza had the opportunity to present part of his PhD research at [IOCB Tech](htt
 
 Following the workshop in Prague, Hamza attended the [RDKit UGM 2025](https://github.com/rdkit/UGM_2025), which took place directly after in Prague as well. The RDKit UGM provided another great opportunity to connect with the cheminformatics community and explore the latest developments in open-source tools for computational chemistry and drug discovery.
 
-{{< xfigure src="/images/blogpost/rdkit_2025.jpg" imageclass="fit" >}}
+{{< xfigure src="/images/blogpost/rdkit_2025.jpg" imageclass="fit" caption="Image was taken from RDKit UGM 2025 discord group." >}}
