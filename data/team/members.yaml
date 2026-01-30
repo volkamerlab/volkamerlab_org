@@ -509,40 +509,30 @@
       text: flso00002@stud.uni-saarland.de
       url: mailto:flso00002@stud.uni-saarland.de
       
-- name: Zenab Khan
-  key: zenab.khan
-  role: Master student, Bioinformatics (UdS & <a href="https://www.ais-saarland.org/interdisciplinary-research-incubator" target="_blank">AI Safety Saarland Research Incubator</a>)
-  status: studentmember
-  project: Interpretable ML for Toxicity Prediction Using Random Forest Graphs
-  image: /images/team/zenabkhan.jpg
-  links:
-    - icon: envelope
-      text: zekh00001@stud.uni-saarland.de
-      url: mailto:zekh00001@stud.uni-saarland.de
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/zenab-k
-
-- name: Mine Caner
-  key: mine.caner
-  role: Master student, Bioinformatics (UdS & <a href="https://www.ais-saarland.org/interdisciplinary-research-incubator" target="_blank">AI Safety Saarland Research Incubator</a>)
-  status: studentmember
-  project: Interpretable Machine Learning for Toxicity Prediction
-  image: /images/team/minecaner.png
-  links:
-    - icon: envelope
-      text: mica00002@stud.uni-saarland.de
-      url: mailto:mica00002@stud.uni-saarland.de
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/minecaner
-    - icon: github
-      text: GitHub
-      url: https://github.com/minecaneer
 
 # --ALUMNI--
 
 # --2026--
+
+- name: Zenab Khan
+  key: zenab.khan
+  role: Master student, Bioinformatics (UdS) 
+  status: alumni
+  contact_link: https://www.ais-saarland.org/interdisciplinary-research-incubator
+  contact_text: AI Safety Saarland Research Incubator
+  project: Interpretable ML for Toxicity Prediction Using Random Forest Graphs
+  left_date: "2026-01-30"
+
+- name: Mine Caner
+  key: mine.caner
+  role: Master student, Bioinformatics (UdS)
+  status: alumni
+  contact_link: https://www.ais-saarland.org/interdisciplinary-research-incubator
+  contact_text: AI Safety Saarland Research Incubator
+  project: Interpretable Machine Learning for Toxicity Prediction
+  left_date: "2026-01-30"
+
+
 - name: Evgeniia (Jackie) Khodzhaeva
   key: jackie.khodzhaeva
   role: Master student, Bioinformatics (UdS)
