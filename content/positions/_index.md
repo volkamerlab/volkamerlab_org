@@ -34,7 +34,7 @@ Please write an email to volkamer[at]cs.uni-saarland.de and the Volkamer Lab mem
 | Paula Linh Kramer (PhD candidate)    | Deep learning, fragment-based drug design, generative AI                                         | SB         |
 | Floriane Odje (PhD candidate)        | Machine learning, image analysis, toxicity and activity prediction, pattern identification                    | SB         |
 | Afnan Sultan (PhD candidate)         | Large language models (LLM), generative AI for non-toxic properties, property prediction, explainable AI | SB         |
-| Yanyuan Zhang (PhD candidate)        | Structure-based, binding site comparison, software development                                   | SB         |
+| Yanyuan Zhang (PhD candidate)        | Structure-based binding site comparison                                   | SB         |
 | Hamza Ibrahim (PhD candidate)        | Virtual screening, physics-based ML                                                              | SB         |
 | Lisa-Marie Rolli (PhD candidate) | Reliable, interpretable, and trustworthy ML methods, drug sensitivity and toxicity prediction | SB |
 | Dr. Guillermo Pérez Hernández (PostDoc)   | Molecular Dynamics, software development                                                         | B          |
