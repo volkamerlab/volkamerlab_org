@@ -23,7 +23,7 @@ If you are interested in pursuing a bachelor’s or a master’s thesis with us,
 - A brief description (3-4 sentences) of what you want to work on in our group
 - Concrete topic and/or field of interest (refer to the table below) - with concrete topic suggestions, if possible - and specify the most fitting supervisor in your email
 
-Please write an email to [volkamer@cs.uni-saarland.de](mailto:volkamer@cs.uni-saarland.de) and the Volkamer Lab member you would like to work with. 
+Please write an email to volkamer[at]cs.uni-saarland.de and the Volkamer Lab member you would like to work with. 
 
 **Important:** Please note that we are often overbooked with supervisions, thus, make sure that you approach us in advance, so we have time to consider your application in our planning.
 
