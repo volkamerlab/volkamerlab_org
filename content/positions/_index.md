@@ -23,24 +23,23 @@ If you are interested in pursuing a bachelor’s or a master’s thesis with us,
 - A brief description (3-4 sentences) of what you want to work on in our group
 - Concrete topic and/or field of interest (refer to the table below) - with concrete topic suggestions, if possible - and specify the most fitting supervisor in your email
 
-Please write an email including the Volkamer Lab member you would like to work with and CC Paula (paula.kramer[at]cs.uni-saarland.de) and Floriane (floriane.odje[at]uni-saarland.de), or our admin (stefanie.wessinger[at]uni-saarland.de). 
+Please write an email to [volkamer@cs.uni-saarland.de](mailto:volkamer@cs.uni-saarland.de) and the Volkamer Lab member you would like to work with. 
 
-**Important:** Do not use volkamer[at]cs.uni-saarland.de for Master’s/Bachelor’s/HiWi position applications and inquiries, we are collecting the information centrally. Also note that we are often overbooked with supervisions, thus, make sure that you approach us in advance, so we have time to consider your application in our planning.
+**Important:** Please note that we are often overbooked with supervisions, thus, make sure that you approach us in advance, so we have time to consider your application in our planning.
 
 **General research fields:**
 
 | Volkamer Lab Member                   | Field                                                                                             | Site       |
 |--------------------------------------|--------------------------------------------------------------------------------------------------|------------|
-| Paula Linh Kramer (PhD candidate)    | Deep learning, Fragment based drug design, generative AI                                         | SB         |
-| Floriane Odje (PhD candidate)        | Machine learning, Image analysis, toxicity and activity prediction, pattern identification                    | SB         |
-| Afnan Sultan (PhD candidate)         | Large language models (LLM), Generative AI for non-toxic properties, property prediction, explainable AI | SB         |
-| Yanyuan Zhang (PhD candidate)        | Structure based, binding site comparison, Software Development                                   | SB         |
+| Paula Linh Kramer (PhD candidate)    | Deep learning, fragment-based drug design, generative AI                                         | SB         |
+| Floriane Odje (PhD candidate)        | Machine learning, image analysis, toxicity and activity prediction, pattern identification                    | SB         |
+| Afnan Sultan (PhD candidate)         | Large language models (LLM), generative AI for non-toxic properties, property prediction, explainable AI | SB         |
+| Yanyuan Zhang (PhD candidate)        | Structure-based, binding site comparison, software development                                   | SB         |
 | Hamza Ibrahim (PhD candidate)        | Virtual screening, physics-based ML                                                              | SB         |
-| Lisa-Marie Rolli (PhD candidate) | reliable, interpretable, and trustworthy ML methods, drug sensitivity and toxicity prediction | SB |
-| Dr. Raquel López-Ríos de Castro (PostDoc) | Molecular Dynamics, Machine learning                                                             | B          |
-| Dr. Guillermo Pérez Hernández (PostDoc)   | Molecular Dynamics, Software Development                                                         | B          |
-| Antoine Lacour (PostDoc)             | Virtual Screening, Software Development                                                          | SB         |
-
+| Lisa-Marie Rolli (PhD candidate) | Reliable, interpretable, and trustworthy ML methods, drug sensitivity and toxicity prediction | SB |
+| Dr. Guillermo Pérez Hernández (PostDoc)   | Molecular Dynamics, software development                                                         | B          |
+| Antoine Lacour (PostDoc)             | Virtual screening, software development                                                          | SB         |
+| Dr. Michael Backenköhler (PostDoc) | Deep learning, binding affinity prediction | SB | 
 
 **Site:**  
 SB - Saarbrücken  
@@ -53,4 +52,4 @@ Our team is expanding quickly, but unfortunately, we currently have no open posi
 
 ## Others
 If you are interested in one of our topics and would like to collaborate, you are welcome to write us an email. 
-Please contact Paula Kramer (paula.kramer[at]cs.uni-saarland.de) or Floriane Odje (floriane.odje[at]uni-saarland.de), and CC our secretary, Stephanie Wessinger, at stefanie.wessinger[at]@uni-saarland.de.
+Please send an email to [volkamer@cs.uni-saarland.de](mailto:volkamer@cs.uni-saarland.de), and CC our secretary, Stefanie Wessinger, at [stefanie.wessinger@uni-saarland.de](mailto:stefanie.wessinger@uni-saarland.de).
