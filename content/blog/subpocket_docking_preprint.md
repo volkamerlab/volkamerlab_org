@@ -8,6 +8,6 @@ A new preprint is out! We developed a new fragment-based pipeline to generate no
 
 Thanks for all the co-authors for a great collaboration on this project: {{< person "katharina.buchthal" >}}, {{< person "paula.kramer" >}}, {{< person "andrea.volkamer" >}} and the Diederich lab from the Phillips University Marburg: Dominik Hubach, Johannes Krieger, Gina Bach, Naemi Wagner, Moritz Klopper, Michael Daude and Wibke E. Diederich.
 
-Read more about the publication [here](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-f9ctg)!
+Read more about the publication [here](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-f9ctg/v2)!
 
 

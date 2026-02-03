@@ -100,7 +100,7 @@ lenhof_zenodo_2025:
 
 buchthal_chemrxiv_2025:
   key: buchthal_chemrxiv_2025
-  title: "Novel Kinase Ligand Generation Using Subpocket-Based Docking"
+  title: "Subpocket-Aware Fragment-Based Docking Pipeline for Kinase Ligand Design: Methodology and PKA Case Study"
   authors:
     - katharina.buchthal
     - paula.kramer
