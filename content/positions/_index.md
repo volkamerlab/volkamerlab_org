@@ -52,4 +52,4 @@ Our team is expanding quickly, but unfortunately, we currently have no open posi
 
 ## Others
 If you are interested in one of our topics and would like to collaborate, you are welcome to write us an email. 
-Please send an email to [volkamer@cs.uni-saarland.de](mailto:volkamer@cs.uni-saarland.de), and CC our secretary, Stefanie Wessinger, at [stefanie.wessinger@uni-saarland.de](mailto:stefanie.wessinger@uni-saarland.de).
+Please send an email to volkamer[at]cs.uni-saarland.de, and CC our secretary, Stefanie Wessinger, at [stefanie.wessinger@uni-saarland.de](mailto:stefanie.wessinger@uni-saarland.de).
