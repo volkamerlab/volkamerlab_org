@@ -37,7 +37,7 @@ Please write an email to volkamer[at]cs.uni-saarland.de and the Volkamer Lab mem
 | Yanyuan Zhang (PhD candidate)        | Structure-based binding site comparison                                   | SB         |
 | Hamza Ibrahim (PhD candidate)        | Virtual screening, physics-based ML                                                              | SB         |
 | Lisa-Marie Rolli (PhD candidate) | Reliable, interpretable, and trustworthy ML methods, drug sensitivity and toxicity prediction | SB |
-| Dr. Guillermo Pérez Hernández (PostDoc)   | Molecular Dynamics, software development                                                         | B          |
+| Dr. Guillermo Pérez Hernández (PostDoc)   | Molecular dynamics simulations, software development                                                         | B          |
 | Antoine Lacour (PostDoc)             | Virtual screening, software development                                                          | SB         |
 | Dr. Michael Backenköhler (PostDoc) | Deep learning, binding affinity prediction | SB | 
 
