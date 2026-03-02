@@ -25,6 +25,43 @@
 
 #  Books
 
+backenkoehler_chemrxiv_2026:
+  key: backenkoehler_chemrxiv_2026
+  title: "Assay-Based Machine Learning: Rethinking Evaluation in Drug Discovery"
+  authors:
+    - michael.backenkoehler
+    - joschka.gross
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: "2026"
+  number: "0223"
+  pages: ""
+  year: 2026
+  date: "2026-02-23"
+  doi: "10.26434/chemrxiv-2025-zsk6d/v2"
+  image: ""
+  pdf: "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv-2025-zsk6d/v2"
+  kind: article
+  category: "preprint"
+
+backenkoehler_chempfn_2026:
+  key: backenkoehler_chempfn_2026
+  title: "ChemPFN: Unified Bayesian Modelling of Bioactivities Across ChEMBL"
+  authors:
+    - michael.backenkoehler
+    - joschka.gross
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: "2026"
+  number: "0222"
+  pages: ""
+  year: 2026
+  date: "2026-02-22"
+  doi: "10.26434/chemrxiv.15000292/v1"
+  image: ""
+  pdf: "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15000292/v1"
+  category: "preprint"
+
 odje_morphological_2026:
   key: odje_morphological_2026
   title: "Morphological Data Analysis: From Descriptor Development to Predictive Modeling"
@@ -198,25 +235,6 @@ gross_chemrxiv_2025:
   year: 2025
   date: "2025-04-28"
   doi: "10.26434/chemrxiv-2025-qsw7v"
-  kind: article
-  category: "preprint"
-  
-backenkoehler_chemrxiv_2025:
-  key: backenkoehler_chemrxiv_2025
-  title: "Assay-Based Machine Learning: Rethinking Evaluation in Drug Discovery"
-  authors:
-    - michael.backenkoehler
-    - joschka.gross
-    - andrea.volkamer
-  journal: "ChemRxiv"
-  volume: ""
-  number: ""
-  pages: ""
-  year: 2025
-  date: "2025-04-22"
-  doi: "10.26434/chemrxiv-2025-zsk6d"
-  image: ""
-  pdf: ""
   kind: article
   category: "preprint"
   
