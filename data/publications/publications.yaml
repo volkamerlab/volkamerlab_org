@@ -179,8 +179,8 @@ andersen_biorxiv_2025:
   kind: article
   category: "preprint"
   
-kramer_chemrxiv_2025:
-  key: kramer_chemrxiv_2025
+kramer_acsomega_2026:
+  key: kramer_acsomega_2026
   title: "CustomKinFragLib: Filtering the Kinase-Focused Fragmentation Library"
   authors:
     - paula.kramer
@@ -188,15 +188,14 @@ kramer_chemrxiv_2025:
     - dominique.sydow
     - Katharina Sonja Leo
     - andrea.volkamer
-  journal: "ChemRxiv"
+  journal: "ACS Omega"
   volume: ""
   number: ""
   pages: ""
-  year: 2025
-  date: "2025-06-10"
-  doi: "10.26434/chemrxiv-2025-3gz92"
+  year: 2026
+  date: "2026-03-06"
+  doi: "10.1021/acsomega.5c12231"
   kind: article
-  category: "preprint"
 
 rolli_chemrxiv_2025:
   key: rolli_chemrxiv_2025
