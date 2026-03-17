@@ -261,6 +261,23 @@
       text: Google Scholar
       url: https://scholar.google.com/citations?user=f7VO_s4AAAAJ&hl=en
 
+- name: Ana Mirandela
+  key: ana.mirandela
+  role: PhD candidate (UdS)
+  status: member
+  project: AI-based design of safe molecules, EU-funded RADAR project
+  image: /images/team/anamirandela.jpeg
+  links:
+    - icon: envelope
+      text: ana.barreiros-mirendela@uni-saarland.de
+      url: mailto:ana.barreiros-mirendela@uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/ana-mirandela
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/ana-mirandela-b13470185
+
 # --ASSOCIATED--
 - name: Joschka Groß
   key: joschka.gross

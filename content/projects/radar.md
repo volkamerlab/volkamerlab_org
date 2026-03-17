@@ -7,6 +7,7 @@ nav: false
 people:
 - key: lisamarie.rolli
 - key: andrea.volkamer
+- key: ana.mirandela
 external_resources:
 - name: radar-project.eu
   link: https://www.radar-project.eu/
