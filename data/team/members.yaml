@@ -317,19 +317,7 @@
       url: https://www.linkedin.com/in/walidshahrour/ 
       
 # --MASTERS--
-- name: Katharina Buchthal
-  key: katharina.buchthal
-  role: Master student, Bioinformatics (UdS)
-  status: studentmember
-  project: Novel kinase ligand generation using subpocket-based docking
-  image: /images/team/katharinabuchthal.jpg
-  links:
-    - icon: envelope
-      text: kabu00002@stud.uni-saarland.de
-      url: mailto:kabu00002@stud.uni-saarland.de
-    - icon: github
-      text: GitHub
-      url: https://github.com/kabu00002
+
 
 - name: Fatemeh Moghaddam
   key: fatemeh.moghaddam
@@ -401,20 +389,7 @@
 
 
       
-- name: Ritika Bansal
-  key: ritika.bansal
-  role: Master student, Bioinformatics (UdS & Microbial Natural Products @ HIPS)
-  status: studentmember
-  project: >
-    Mechanistic insights into the interaction of a novel natural product with transmembrane proteins
-  image: /images/team/ritikabansal.jpg
-  links:
-    - icon: envelope
-      text: riba00001@stud.uni-saarland.de
-      url: mailto:riba00001@stud.uni-saarland.de
-    - icon: github
-      text: GitHub
-      url: https://github.com/Riba00001
+
       
 - name: Pousali Das
   key: pousali.das
@@ -429,20 +404,6 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/pousali-das-a0a2bb1a0
-
-- name: Zyad Barghouth
-  key: zyad.barghouth
-  role: Master student, Bioinformatics (UdS & co-supervised by <a href="https://bioinformatics.umg.eu/research/workgroups/ki-and-multi-omics-data/" target="_blank">Prof. Dr. Kerstin Lenhof @ UMG</a>)
-  status: studentmember
-  project: Finding Optimal drug representations for Drug Sensitivity and ADMET prediction
-  image: /images/team/zyadbarghouth.jpeg
-  links:
-    - icon: envelope
-      text: zyba00001@stud.uni-saarland.de
-      url: mailto:zyba00001@stud.uni-saarland.de
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/zyad-barghouth/
 
 - name: Gilbert El Khoury
   key: gilbert.elkhoury
@@ -511,26 +472,25 @@
 
 # --2026--
 
-- name: Premnath Madanagopal
-  key: premnath.madanagopal
+
+
+- name: Zyad Barghouth
+  key: zyad.barghouth
+  role: Master student, Bioinformatics (UdS) 
+  contact_link: https://bioinformatics.umg.eu/research/workgroups/ki-and-multi-omics-data/ 
+  contact_text:  co-supervised by Prof. Dr. Kerstin Lenhof @ UMG
+  status: alumni
+  project: Finding Optimal drug representations for Drug Sensitivity and ADMET prediction
+  left_date: "2026-02-11"
+
+
+- name: Katharina Buchthal
+  key: katharina.buchthal
   role: Master student, Bioinformatics (UdS)
   status: alumni
-  project: Knowledge-guided metabolic pathway reconstruction (co-supervised by Prof. Wittmann, Systems Biotechnology)
-  image: /images/team/premmadan.jpg
-  left_date: "2025-12-01"
-  links:
-    - icon: envelope
-      text: prma00002@stud.uni-saarland.de
-      url: mailto:prma00002@stud.uni-saarland.de
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/premnath-madan/
-    - icon: graduation-cap
-      text: Google Scholar
-      url: https://scholar.google.com/citations?user=LdL518IAAAAJ&hl=en
-    - icon: github
-      text: GitHub
-      url: https://github.com/prembioinfo
+  project: Novel kinase ligand generation using subpocket-based docking
+  left_date: "2026-02-01"
+
 
 - name: Zenab Khan
   key: zenab.khan
@@ -559,6 +519,14 @@
   project: "Metabolic Engineering: Crafting the Perfect Cellular Factory"
 
 # --2025--
+
+- name: Ritika Bansal
+  key: ritika.bansal
+  role: Master student, Bioinformatics (UdS & Microbial Natural Products @ HIPS)
+  status: alumni
+  project: Mechanistic insights into the interaction of a novel natural product with transmembrane proteins
+  left_date: "2025-12-17"
+
 - name: Lutz Herrmann
   key: lutz.herrmann
   role: Master student, Bioinformatics (UdS)
@@ -576,6 +544,26 @@
       text: GitHub
       url: https://github.com/LutzHerrmann
 
+- name: Premnath Madanagopal
+  key: premnath.madanagopal
+  role: Master student, Bioinformatics (UdS)
+  status: alumni
+  project: Knowledge-guided metabolic pathway reconstruction (co-supervised by Prof. Wittmann, Systems Biotechnology)
+  image: /images/team/premmadan.jpg
+  left_date: "2025-12-01"
+  links:
+    - icon: envelope
+      text: prma00002@stud.uni-saarland.de
+      url: mailto:prma00002@stud.uni-saarland.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/premnath-madan/
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?user=LdL518IAAAAJ&hl=en
+    - icon: github
+      text: GitHub
+      url: https://github.com/prembioinfo
 
 - name: Erika Primavera
   prefix:
