@@ -20,7 +20,7 @@ funding:
 - name: European Union’s Horizon Europe programme under grant agreement n° 101178148
 publications:
 - lenhof_zenodo_2025
-- rolli_chemrxiv_2025
+- rolli_digitaldiscovery_2026
 ---
 
 The EU-funded RADAR (Renewable and safe Aromatic compounDs As Replacements for substances of concern) project is one of the Horizon 2024 projects that focus on the development of materials that are safe and sustainable by design (SSbD). The goal of RADAR is to replace phenol, bisphenol A (BPA), BPA derivatives and alkylphenols that are commonly used in surfactants, flame retardants, and plastics by sustainable alternatives that are created from biomass (lignin oil). Volkamerlab mainly contributes to two RADAR work packages (WPs): WP1 “Molecular Design” and WP2 “Hazard Assessment”. In both WPs, we aim to integrate trustworthy machine learning (ML) pipelines into the workflow to reduce the time, cost, and animal use associated with experimental testing, in line with Safe-and-Sustainable-by-Design (SSbD) principles. 
