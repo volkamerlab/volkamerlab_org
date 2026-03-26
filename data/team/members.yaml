@@ -467,7 +467,19 @@
       text: flso00002@stud.uni-saarland.de
       url: mailto:flso00002@stud.uni-saarland.de
       
-
+- name: Prafful Sharma
+  key: prafful.sharma
+  role: Master student, Bioinformatics (UdS)
+  status: studentmember
+  project: Systematic Analysis of Protein and Binding Pocket Similarity for Predicting Docking Pipeline Performance in Virtual Screening
+  image: /images/team/praffulsharma.jpeg
+  links:
+    - icon: envelope
+      text: prsh00004@uni-saarland.de
+      url: mailto:prsh00004@uni-saarland.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/prafful-sharma/
 # --ALUMNI--
 
 # --2026--
