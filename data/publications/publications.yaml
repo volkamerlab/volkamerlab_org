@@ -25,6 +25,26 @@
 
 #  Books
 
+wang_arxiv_2026:
+  key: wang_arxiv_2026
+  title: "Chemical Language Models for Natural Products: A State-Space Model Approach"
+  authors:
+    - Ho-Hsuan Wang
+    - afnan.sultan
+    - andrea.volkamer
+    - Dietrich Klakow
+  journal: "arXiv"
+  volume: "2026"
+  number: "2602.13958"
+  pages: ""
+  year: 2026
+  date: "2026-02-15"
+  doi: "10.48550/arXiv.2602.13958"
+  image: ""
+  pdf: "https://arxiv.org/pdf/2602.13958"
+  kind: article
+  category: "preprint"
+  
 backenkoehler_chemrxiv_2026:
   key: backenkoehler_chemrxiv_2026
   title: "Assay-Based Machine Learning: Rethinking Evaluation in Drug Discovery"
