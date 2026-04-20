@@ -25,6 +25,29 @@
 
 #  Books
 
+ibrahim_chemrxiv_2026:
+  key: ibrahim_chemrxiv_2026
+  title: "MolDockLab: a data-driven workflow for balanced consensus docking in hit identification"
+  authors:
+    - hamza.ibrahim
+    - Youssef Ibrahim
+    - michael.backenkoehler
+    - lacour.antoine
+    - Mostafa M. Hamed
+    - Anna K. H. Hirsch
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: "2026"
+  number: "0405"
+  pages: ""
+  year: 2026
+  date: "2026-04-05"
+  doi: "10.26434/chemrxiv.15001617/v1"
+  image: ""
+  pdf: "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15001617/v1"
+  kind: article
+  category: "preprint"
+  
 wang_arxiv_2026:
   key: wang_arxiv_2026
   title: "Chemical Language Models for Natural Products: A State-Space Model Approach"

@@ -36,7 +36,7 @@
 - name: Michael Backenköhler
   prefix: Dr.
   key: michael.backenkoehler
-  role: PostDoc (UdS)
+  role: PostDoc (HIPS)
   status: member
   project: Neuro-explicit models for drug discovery
   image: /images/team/michael.jpg
@@ -53,32 +53,7 @@
     - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0002-7913-2932
-- name: Raquel López-Ríos de Castro
-  prefix: Dr.
-  key: raquel.castro
-  role: Einstein BIH PostDoc (Charité)
-  status: member
-  project: Machine learning for kinase drug discovery
-  image: /images/team/raquellopezcastro.jpg
-  links:
-    - icon: envelope
-      text: raquel.lopez-rios-de-castro@charite.de
-      url: mailto:raquel.lopez-rios-de-castro@charite.de
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/raquel-l%C3%B3pez-r%C3%ADos-de-castro-46a7b1177/ 
-    - icon: github
-      text: GitHub
-      url: https://github.com/raquellrios
-    - icon: graduation-cap
-      text: Google Scholar
-      url: https://scholar.google.com/citations?user=f85KzHAAAAAJ&hl=es 
-    - icon: book
-      text: ORCiD
-      url: https://orcid.org/0000-0003-2668-7405
-    - icon: twitter
-      text: Twitter
-      url: https://twitter.com/raquellopezrios
+
 - name: Guillermo Pérez Hernández
   prefix: Dr.
   key: guillermo.hernandez
@@ -105,7 +80,7 @@
 - name: Antoine Lacour
   prefix: 
   key: lacour.antoine
-  role: PostDoc
+  role: PostDoc (UdS)
   status: member
   project: DockM8 Development, Virtual Screening for NEDD, and Machine Learning for Drug Discovery
   image: /images/team/antoinelacour.jpg
@@ -123,23 +98,6 @@
       text: Linkedin
       url: https://www.linkedin.com/in/alacour/
 # --PHDs---
-- name: Yonghui Chen
-  prefix:
-  key: yonghui.chen
-  role: PhD candidate (FU Berlin)
-  status: member
-  project: Virtual screening and deep learning for drug discovery
-  image: /images/team/yonghuichen.jpg
-  links:
-    - icon: envelope
-      text: yonghuic92@zedat.fu-berlin.de
-      url: mailto:yonghuic92@zedat.fu-berlin.de
-    - icon: github
-      text: GitHub
-      url: https://github.com/yonghui-cc
-    - icon: book
-      text: ORCiD
-      url: https://orcid.org/0000-0002-8201-2894
 - name: Paula Linh Kramer
   prefix:
   key: paula.kramer
@@ -369,28 +327,7 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/anjalichoudhary1
-      
-- name: Sakhawat Hosain Sumit
-  key: sakhawat.sumit
-  role: Master student, Visual computing (UdS)
-  status: studentmember
-  project: TeachOpenCADD for Jupyter notebook and interpretable machine learning. 
-  image: /images/team/hosainsakhawat.jpeg
-  links:
-    - icon: envelope
-      text: hosain.sakhawat@uni-saarland.de
-      url: mailto:hosain.sakhawat@uni-saarland.de
-    - icon: github
-      text: GitHub
-      url: https://github.com/sakhawathsumit
-    - icon: linkedin
-      text: Linkedin
-      url: https://de.linkedin.com/in/sakhawathsumit
-
-
-      
-
-      
+  
 - name: Pousali Das
   key: pousali.das
   role: Master student, Bioinformatics (UdS)
@@ -484,8 +421,23 @@
 
 # --2026--
 
-
-
+- name: Yonghui Chen
+  prefix:
+  key: yonghui.chen
+  role: PhD candidate (FU Berlin)
+  status: alumni
+  project: Virtual screening and deep learning for drug discovery
+  left_date: "2026-03-01"
+  
+  
+- name: Sakhawat Hosain Sumit
+  key: sakhawat.sumit
+  role: Master student, Visual computing (UdS)
+  status: alumni
+  project: TeachOpenCADD for Jupyter notebook and interpretable machine learning. 
+  left_date: "2026-03-01"
+  
+  
 - name: Zyad Barghouth
   key: zyad.barghouth
   role: Master student, Bioinformatics (UdS) 
@@ -532,6 +484,14 @@
 
 # --2025--
 
+- name: Raquel López-Ríos de Castro
+  prefix: Dr.
+  key: raquel.castro
+  role: Einstein BIH PostDoc (Charité)
+  status: alumni
+  project: Machine learning for kinase drug discovery
+  left_date: "2025-12-31"
+  
 - name: Ritika Bansal
   key: ritika.bansal
   role: Master student, Bioinformatics (UdS & Microbial Natural Products @ HIPS)
