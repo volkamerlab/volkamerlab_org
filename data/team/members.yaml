@@ -537,6 +537,22 @@
       text: GitHub
       url: https://github.com/prembioinfo
 
+- name: Alejandro Rodríguez Martínez
+  prefix:
+  key: alejandro.rodriguez
+  role: Visiting PhD candidate (UCAM)
+  status: alumni
+  left_date: "2025-08-15"
+  project: Active Learning and Molecular Docking for kinase drug discovery
+  image: 
+  links:
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/al-rodriguezm/
+    - icon: book
+      text: ORCiD
+      url: https://orcid.org/0000-0002-1251-8072
+
 - name: Erika Primavera
   prefix:
   key: erika.primavera
