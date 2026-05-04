@@ -182,24 +182,25 @@ rolli_chemrxiv_2025:
   kind: article
   category: "preprint"
 
-gross_chemrxiv_2025:
-  key: gross_chemrxiv_2025
+gross_ails_2026:
+  key: gross_ails_2026
   title: "Evaluation Beyond Goodness of Fit: Biophysical Alignment of AI Models for Kinase-Centric Drug Discovery"
   authors:
     - joschka.gross
     - michael.backenkoehler
     - paula.kramer
+    - raquel.castro
+    - guillermo.hernandez
     - Verena Wolf
     - andrea.volkamer
-  journal: "ChemRxiv"
-  volume: ""
-  number: ""
+  journal: "Artificial Intelligence in the Life Sciences"
+  volume: "9"
+  number: "100169"
   pages: ""
-  year: 2025
-  date: "2025-04-28"
-  doi: "10.26434/chemrxiv-2025-qsw7v"
+  year: 2026
+  date: "2026-05-02"
+  doi: "https://doi.org/10.1016/j.ailsci.2026.100169"
   kind: article
-  category: "preprint"
   
 backenkoehler_chemrxiv_2025:
   key: backenkoehler_chemrxiv_2025
