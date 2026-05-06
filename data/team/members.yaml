@@ -36,7 +36,7 @@
 - name: Michael Backenköhler
   prefix: Dr.
   key: michael.backenkoehler
-  role: PostDoc (UdS)
+  role: PostDoc (HIPS)
   status: member
   project: Neuro-explicit models for drug discovery
   image: /images/team/michael.jpg
@@ -53,32 +53,7 @@
     - icon: book
       text: ORCiD
       url: https://orcid.org/0000-0002-7913-2932
-- name: Raquel López-Ríos de Castro
-  prefix: Dr.
-  key: raquel.castro
-  role: Einstein BIH PostDoc (Charité)
-  status: member
-  project: Machine learning for kinase drug discovery
-  image: /images/team/raquellopezcastro.jpg
-  links:
-    - icon: envelope
-      text: raquel.lopez-rios-de-castro@charite.de
-      url: mailto:raquel.lopez-rios-de-castro@charite.de
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/raquel-l%C3%B3pez-r%C3%ADos-de-castro-46a7b1177/ 
-    - icon: github
-      text: GitHub
-      url: https://github.com/raquellrios
-    - icon: graduation-cap
-      text: Google Scholar
-      url: https://scholar.google.com/citations?user=f85KzHAAAAAJ&hl=es 
-    - icon: book
-      text: ORCiD
-      url: https://orcid.org/0000-0003-2668-7405
-    - icon: twitter
-      text: Twitter
-      url: https://twitter.com/raquellopezrios
+
 - name: Guillermo Pérez Hernández
   prefix: Dr.
   key: guillermo.hernandez
@@ -105,7 +80,7 @@
 - name: Antoine Lacour
   prefix: 
   key: lacour.antoine
-  role: PostDoc
+  role: PostDoc (UdS)
   status: member
   project: DockM8 Development, Virtual Screening for NEDD, and Machine Learning for Drug Discovery
   image: /images/team/antoinelacour.jpg
@@ -123,23 +98,6 @@
       text: Linkedin
       url: https://www.linkedin.com/in/alacour/
 # --PHDs---
-- name: Yonghui Chen
-  prefix:
-  key: yonghui.chen
-  role: PhD candidate (FU Berlin)
-  status: member
-  project: Virtual screening and deep learning for drug discovery
-  image: /images/team/yonghuichen.jpg
-  links:
-    - icon: envelope
-      text: yonghuic92@zedat.fu-berlin.de
-      url: mailto:yonghuic92@zedat.fu-berlin.de
-    - icon: github
-      text: GitHub
-      url: https://github.com/yonghui-cc
-    - icon: book
-      text: ORCiD
-      url: https://orcid.org/0000-0002-8201-2894
 - name: Paula Linh Kramer
   prefix:
   key: paula.kramer
@@ -261,6 +219,23 @@
       text: Google Scholar
       url: https://scholar.google.com/citations?user=f7VO_s4AAAAJ&hl=en
 
+- name: Ana Mirandela
+  key: ana.mirandela
+  role: PhD candidate (UdS)
+  status: member
+  project: AI-based design of safe molecules, EU-funded RADAR project
+  image: /images/team/anamirandela.jpeg
+  links:
+    - icon: envelope
+      text: ana.barreiros-mirendela@uni-saarland.de
+      url: mailto:ana.barreiros-mirendela@uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/ana-mirandela
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/ana-mirandela-b13470185
+
 # --ASSOCIATED--
 - name: Joschka Groß
   key: joschka.gross
@@ -300,19 +275,7 @@
       url: https://www.linkedin.com/in/walidshahrour/ 
       
 # --MASTERS--
-- name: Katharina Buchthal
-  key: katharina.buchthal
-  role: Master student, Bioinformatics (UdS)
-  status: studentmember
-  project: Novel kinase ligand generation using subpocket-based docking
-  image: /images/team/katharinabuchthal.jpg
-  links:
-    - icon: envelope
-      text: kabu00002@stud.uni-saarland.de
-      url: mailto:kabu00002@stud.uni-saarland.de
-    - icon: github
-      text: GitHub
-      url: https://github.com/kabu00002
+
 
 - name: Fatemeh Moghaddam
   key: fatemeh.moghaddam
@@ -333,26 +296,6 @@
     - icon: book
       text: ORCiD
       url: https://orcid.org/0009-0004-1310-7621
-
-- name: Premnath Madanagopal
-  key: premnath.madanagopal
-  role: Master student, Bioinformatics (UdS)
-  status: studentmember
-  project: Knowledge-guided metabolic pathway reconstruction (co-supervised by Prof. Wittmann, Systems Biotechnology)
-  image: /images/team/premmadan.jpg
-  links:
-    - icon: envelope
-      text: prma00002@stud.uni-saarland.de
-      url: mailto:prma00002@stud.uni-saarland.de
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/premnath-madan/
-    - icon: graduation-cap
-      text: Google Scholar
-      url: https://scholar.google.com/citations?user=LdL518IAAAAJ&hl=en
-    - icon: github
-      text: GitHub
-      url: https://github.com/prembioinfo
 
 - name: Maximilian Bähr
   key: maximilian.baehr
@@ -384,53 +327,7 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/anjalichoudhary1
-      
-- name: Sakhawat Hosain Sumit
-  key: sakhawat.sumit
-  role: Master student, Visual computing (UdS)
-  status: studentmember
-  project: TeachOpenCADD for Jupyter notebook and interpretable machine learning. 
-  image: /images/team/hosainsakhawat.jpeg
-  links:
-    - icon: envelope
-      text: hosain.sakhawat@uni-saarland.de
-      url: mailto:hosain.sakhawat@uni-saarland.de
-    - icon: github
-      text: GitHub
-      url: https://github.com/sakhawathsumit
-    - icon: linkedin
-      text: Linkedin
-      url: https://de.linkedin.com/in/sakhawathsumit
-
-- name: Lutz Herrmann
-  key: lutz.herrmann
-  role: Master student, Bioinformatics (UdS & co-supervised by <a href="https://bioinformatics.umg.eu/research/workgroups/ki-and-multi-omics-data/" target="_blank">Prof. Dr. Kerstin Lenhof @ UMG</a>)
-  status: studentmember
-  project: Benchmarking of various neural network approaches for drug sensitivity prediction
-  image: /images/team/lutzherrmann.jpg
-  links:
-    - icon: envelope
-      text: luhe00002@stud.uni-saarland.de
-      url: mailto:luhe00002@stud.uni-saarland.de
-    - icon: github
-      text: GitHub
-      url: https://github.com/LutzHerrmann
-      
-- name: Ritika Bansal
-  key: ritika.bansal
-  role: Master student, Bioinformatics (UdS & Microbial Natural Products @ HIPS)
-  status: studentmember
-  project: >
-    Mechanistic insights into the interaction of a novel natural product with transmembrane proteins
-  image: /images/team/ritikabansal.jpg
-  links:
-    - icon: envelope
-      text: riba00001@stud.uni-saarland.de
-      url: mailto:riba00001@stud.uni-saarland.de
-    - icon: github
-      text: GitHub
-      url: https://github.com/Riba00001
-      
+  
 - name: Pousali Das
   key: pousali.das
   role: Master student, Bioinformatics (UdS)
@@ -444,20 +341,6 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/pousali-das-a0a2bb1a0
-
-- name: Zyad Barghouth
-  key: zyad.barghouth
-  role: Master student, Bioinformatics (UdS & co-supervised by <a href="https://bioinformatics.umg.eu/research/workgroups/ki-and-multi-omics-data/" target="_blank">Prof. Dr. Kerstin Lenhof @ UMG</a>)
-  status: studentmember
-  project: Finding Optimal drug representations for Drug Sensitivity and ADMET prediction
-  image: /images/team/zyadbarghouth.jpeg
-  links:
-    - icon: envelope
-      text: zyba00001@stud.uni-saarland.de
-      url: mailto:zyba00001@stud.uni-saarland.de
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/zyad-barghouth/
 
 - name: Gilbert El Khoury
   key: gilbert.elkhoury
@@ -521,40 +404,77 @@
       text: flso00002@stud.uni-saarland.de
       url: mailto:flso00002@stud.uni-saarland.de
       
-- name: Zenab Khan
-  key: zenab.khan
-  role: Master student, Bioinformatics (UdS & <a href="https://www.ais-saarland.org/interdisciplinary-research-incubator" target="_blank">AI Safety Saarland Research Incubator</a>)
+- name: Prafful Sharma
+  key: prafful.sharma
+  role: Master student, Bioinformatics (UdS)
   status: studentmember
-  project: Interpretable ML for Toxicity Prediction Using Random Forest Graphs
-  image: /images/team/zenabkhan.jpg
+  project: Systematic Analysis of Protein and Binding Pocket Similarity for Predicting Docking Pipeline Performance in Virtual Screening
+  image: /images/team/praffulsharma.jpeg
   links:
     - icon: envelope
-      text: zekh00001@stud.uni-saarland.de
-      url: mailto:zekh00001@stud.uni-saarland.de
+      text: prsh00004@uni-saarland.de
+      url: mailto:prsh00004@uni-saarland.de
     - icon: linkedin
       text: Linkedin
-      url: https://www.linkedin.com/in/zenab-k
-
-- name: Mine Caner
-  key: mine.caner
-  role: Master student, Bioinformatics (UdS & <a href="https://www.ais-saarland.org/interdisciplinary-research-incubator" target="_blank">AI Safety Saarland Research Incubator</a>)
-  status: studentmember
-  project: Interpretable Machine Learning for Toxicity Prediction
-  image: /images/team/minecaner.png
-  links:
-    - icon: envelope
-      text: mica00002@stud.uni-saarland.de
-      url: mailto:mica00002@stud.uni-saarland.de
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/minecaner
-    - icon: github
-      text: GitHub
-      url: https://github.com/minecaneer
-
+      url: https://www.linkedin.com/in/prafful-sharma/
 # --ALUMNI--
 
 # --2026--
+
+- name: Yonghui Chen
+  prefix:
+  key: yonghui.chen
+  role: PhD candidate (FU Berlin)
+  status: alumni
+  project: Virtual screening and deep learning for drug discovery
+  left_date: "2026-03-01"
+  
+  
+- name: Sakhawat Hosain Sumit
+  key: sakhawat.sumit
+  role: Master student, Visual computing (UdS)
+  status: alumni
+  project: TeachOpenCADD for Jupyter notebook and interpretable machine learning. 
+  left_date: "2026-03-01"
+  
+  
+- name: Zyad Barghouth
+  key: zyad.barghouth
+  role: Master student, Bioinformatics (UdS) 
+  contact_link: https://bioinformatics.umg.eu/research/workgroups/ki-and-multi-omics-data/ 
+  contact_text:  co-supervised by Prof. Dr. Kerstin Lenhof @ UMG
+  status: alumni
+  project: Finding Optimal drug representations for Drug Sensitivity and ADMET prediction
+  left_date: "2026-02-11"
+
+
+- name: Katharina Buchthal
+  key: katharina.buchthal
+  role: Master student, Bioinformatics (UdS)
+  status: alumni
+  project: Novel kinase ligand generation using subpocket-based docking
+  left_date: "2026-02-01"
+
+
+- name: Zenab Khan
+  key: zenab.khan
+  role: Master student, Bioinformatics (UdS) 
+  status: alumni
+  contact_link: https://www.ais-saarland.org/interdisciplinary-research-incubator
+  contact_text: AI Safety Saarland Research Incubator
+  project: Interpretable ML for Toxicity Prediction Using Random Forest Graphs
+  left_date: "2026-01-30"
+
+- name: Mine Caner
+  key: mine.caner
+  role: Master student, Bioinformatics (UdS)
+  status: alumni
+  contact_link: https://www.ais-saarland.org/interdisciplinary-research-incubator
+  contact_text: AI Safety Saarland Research Incubator
+  project: Interpretable Machine Learning for Toxicity Prediction
+  left_date: "2026-01-30"
+
+
 - name: Evgeniia (Jackie) Khodzhaeva
   key: jackie.khodzhaeva
   role: Master student, Bioinformatics (UdS)
@@ -563,6 +483,76 @@
   project: "Metabolic Engineering: Crafting the Perfect Cellular Factory"
 
 # --2025--
+
+- name: Raquel López-Ríos de Castro
+  prefix: Dr.
+  key: raquel.castro
+  role: Einstein BIH PostDoc (Charité)
+  status: alumni
+  project: Machine learning for kinase drug discovery
+  left_date: "2025-12-31"
+  
+- name: Ritika Bansal
+  key: ritika.bansal
+  role: Master student, Bioinformatics (UdS & Microbial Natural Products @ HIPS)
+  status: alumni
+  project: Mechanistic insights into the interaction of a novel natural product with transmembrane proteins
+  left_date: "2025-12-17"
+
+- name: Lutz Herrmann
+  key: lutz.herrmann
+  role: Master student, Bioinformatics (UdS)
+  status: alumni
+  left_date: "2025-12-17"
+  project: Benchmarking of various neural network approaches for drug sensitivity prediction
+  contact_link: https://bioinformatics.umg.eu/research/workgroups/ki-and-multi-omics-data/ 
+  contact_text:  co-supervised by Prof. Dr. Kerstin Lenhof @ UMG
+  image: /images/team/lutzherrmann.jpg
+  links:
+    - icon: envelope
+      text: luhe00002@stud.uni-saarland.de
+      url: mailto:luhe00002@stud.uni-saarland.de
+    - icon: github
+      text: GitHub
+      url: https://github.com/LutzHerrmann
+
+- name: Premnath Madanagopal
+  key: premnath.madanagopal
+  role: Master student, Bioinformatics (UdS)
+  status: alumni
+  project: Knowledge-guided metabolic pathway reconstruction (co-supervised by Prof. Wittmann, Systems Biotechnology)
+  image: /images/team/premmadan.jpg
+  left_date: "2025-12-01"
+  links:
+    - icon: envelope
+      text: prma00002@stud.uni-saarland.de
+      url: mailto:prma00002@stud.uni-saarland.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/premnath-madan/
+    - icon: graduation-cap
+      text: Google Scholar
+      url: https://scholar.google.com/citations?user=LdL518IAAAAJ&hl=en
+    - icon: github
+      text: GitHub
+      url: https://github.com/prembioinfo
+
+- name: Alejandro Rodríguez Martínez
+  prefix:
+  key: alejandro.rodriguez
+  role: Visiting PhD candidate (UCAM)
+  status: alumni
+  left_date: "2025-08-15"
+  project: Active Learning and Molecular Docking for kinase drug discovery
+  image: 
+  links:
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/al-rodriguezm/
+    - icon: book
+      text: ORCiD
+      url: https://orcid.org/0000-0002-1251-8072
+
 - name: Erika Primavera
   prefix:
   key: erika.primavera

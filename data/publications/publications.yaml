@@ -25,6 +25,86 @@
 
 #  Books
 
+ibrahim_chemrxiv_2026:
+  key: ibrahim_chemrxiv_2026
+  title: "MolDockLab: a data-driven workflow for balanced consensus docking in hit identification"
+  authors:
+    - hamza.ibrahim
+    - Youssef Ibrahim
+    - michael.backenkoehler
+    - lacour.antoine
+    - Mostafa M. Hamed
+    - Anna K. H. Hirsch
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: "2026"
+  number: "0405"
+  pages: ""
+  year: 2026
+  date: "2026-04-05"
+  doi: "10.26434/chemrxiv.15001617/v1"
+  image: ""
+  pdf: "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15001617/v1"
+  kind: article
+  category: "preprint"
+  
+wang_arxiv_2026:
+  key: wang_arxiv_2026
+  title: "Chemical Language Models for Natural Products: A State-Space Model Approach"
+  authors:
+    - Ho-Hsuan Wang
+    - afnan.sultan
+    - andrea.volkamer
+    - Dietrich Klakow
+  journal: "arXiv"
+  volume: "2026"
+  number: "2602.13958"
+  pages: ""
+  year: 2026
+  date: "2026-02-15"
+  doi: "10.48550/arXiv.2602.13958"
+  image: ""
+  pdf: "https://arxiv.org/pdf/2602.13958"
+  kind: article
+  category: "preprint"
+  
+backenkoehler_chemrxiv_2026:
+  key: backenkoehler_chemrxiv_2026
+  title: "Assay-Based Machine Learning: Rethinking Evaluation in Drug Discovery"
+  authors:
+    - michael.backenkoehler
+    - joschka.gross
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: "2026"
+  number: "0223"
+  pages: ""
+  year: 2026
+  date: "2026-02-23"
+  doi: "10.26434/chemrxiv-2025-zsk6d/v2"
+  image: ""
+  pdf: "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv-2025-zsk6d/v2"
+  kind: article
+  category: "preprint"
+
+backenkoehler_chempfn_2026:
+  key: backenkoehler_chempfn_2026
+  title: "ChemPFN: Unified Bayesian Modelling of Bioactivities Across ChEMBL"
+  authors:
+    - michael.backenkoehler
+    - joschka.gross
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: "2026"
+  number: "0222"
+  pages: ""
+  year: 2026
+  date: "2026-02-22"
+  doi: "10.26434/chemrxiv.15000292/v1"
+  image: ""
+  pdf: "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15000292/v1"
+  category: "preprint"
+
 odje_morphological_2026:
   key: odje_morphological_2026
   title: "Morphological Data Analysis: From Descriptor Development to Predictive Modeling"
@@ -100,7 +180,7 @@ lenhof_zenodo_2025:
 
 buchthal_chemrxiv_2025:
   key: buchthal_chemrxiv_2025
-  title: "Novel Kinase Ligand Generation Using Subpocket-Based Docking"
+  title: "Subpocket-Aware Fragment-Based Docking Pipeline for Kinase Ligand Design: Methodology and PKA Case Study"
   authors:
     - katharina.buchthal
     - paula.kramer
@@ -142,8 +222,8 @@ andersen_biorxiv_2025:
   kind: article
   category: "preprint"
   
-kramer_chemrxiv_2025:
-  key: kramer_chemrxiv_2025
+kramer_acsomega_2026:
+  key: kramer_acsomega_2026
   title: "CustomKinFragLib: Filtering the Kinase-Focused Fragmentation Library"
   authors:
     - paula.kramer
@@ -151,74 +231,56 @@ kramer_chemrxiv_2025:
     - dominique.sydow
     - Katharina Sonja Leo
     - andrea.volkamer
-  journal: "ChemRxiv"
+  journal: "ACS Omega"
   volume: ""
   number: ""
   pages: ""
-  year: 2025
-  date: "2025-06-10"
-  doi: "10.26434/chemrxiv-2025-3gz92"
+  year: 2026
+  date: "2026-03-06"
+  doi: "10.1021/acsomega.5c12231"
   kind: article
-  category: "preprint"
 
-rolli_chemrxiv_2025:
-  key: rolli_chemrxiv_2025
+rolli_digitaldiscovery_2026:
+  key: rolli_digitaldiscovery_2026
   title: "Increasing trustworthiness of machine learning-based drug sensitivity prediction with a multivariate random forest approach"
   authors:
     - lisamarie.rolli
     - Lea Eckhart
+    - lutz.herrmann
     - andrea.volkamer
     - Hans-Peter Lenhof
     - Kerstin Lenhof
-  journal: "ChemRxiv"
+  journal: "Digital Discovery"
   volume: ""
   number: ""
   pages: ""
-  year: 2025
-  date: "2025-06-02"
-  doi: "10.26434/chemrxiv-2025-ml78s"
+  year: 2026
+  date: "2026-03-25"
+  doi: "https://doi.org/10.1039/D5DD00284B"
   image: ""
   pdf: ""
   kind: article
-  category: "preprint"
 
-gross_chemrxiv_2025:
-  key: gross_chemrxiv_2025
+
+gross_ails_2026:
+  key: gross_ails_2026
   title: "Evaluation Beyond Goodness of Fit: Biophysical Alignment of AI Models for Kinase-Centric Drug Discovery"
   authors:
     - joschka.gross
     - michael.backenkoehler
     - paula.kramer
+    - raquel.castro
+    - guillermo.hernandez
     - Verena Wolf
     - andrea.volkamer
-  journal: "ChemRxiv"
-  volume: ""
-  number: ""
+  journal: "Artificial Intelligence in the Life Sciences"
+  volume: "9"
+  number: "100169"
   pages: ""
-  year: 2025
-  date: "2025-04-28"
-  doi: "10.26434/chemrxiv-2025-qsw7v"
+  year: 2026
+  date: "2026-05-02"
+  doi: "https://doi.org/10.1016/j.ailsci.2026.100169"
   kind: article
-  category: "preprint"
-  
-backenkoehler_chemrxiv_2025:
-  key: backenkoehler_chemrxiv_2025
-  title: "Assay-Based Machine Learning: Rethinking Evaluation in Drug Discovery"
-  authors:
-    - michael.backenkoehler
-    - joschka.gross
-    - andrea.volkamer
-  journal: "ChemRxiv"
-  volume: ""
-  number: ""
-  pages: ""
-  year: 2025
-  date: "2025-04-22"
-  doi: "10.26434/chemrxiv-2025-zsk6d"
-  image: ""
-  pdf: ""
-  kind: article
-  category: "preprint"
   
 sowa_medchem_2025:
   key: sowa_medchem_2025
