@@ -6,7 +6,7 @@ author = "Volkamer Lab"
   pagerSize = 5
 
 [permalinks]
-  blog = "/:year/:month/:filename/"
+  blog = "/:year/:month/:contentbasename/"
 
 # This is needed to allow HTML in our markdown files
 [markup.goldmark.renderer]
