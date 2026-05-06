@@ -2,6 +2,7 @@ baseURL = "https://volkamerlab.org/"
 languageCode = "en-us"
 title = "Volkamer Lab"
 author = "Volkamer Lab"
+disableKinds = ["taxonomy", "term"]
 [pagination]
   pagerSize = 5
 
