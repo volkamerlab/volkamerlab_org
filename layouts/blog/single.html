@@ -6,7 +6,7 @@
                 <h1>{{ .Title }}</h1>
             <p class="small">{{ .Date.Format "2006.01.02" }}
                 {{- if isset .Params "author" }}
-                &middot; By {{- partial "personlink" (dict "data" .Site.Data "person" .Params.author ) -}}
+                &middot; By {{- partial "personlink" (dict "data" hugo.Data "person" .Params.author ) -}}
                 {{- end -}}
             </p>
             </header>

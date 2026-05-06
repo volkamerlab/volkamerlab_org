@@ -40,6 +40,6 @@ Machine learning (ML) algorithms, and more recently deep learning (DL) methods, 
 
 * [KinoML](/projects/kinoml/)
 
-## [ MORPHology-based Endocrine DisrUptor Screening](/projects/MORPHEUS/)
+## [ MORPHology-based Endocrine DisrUptor Screening](/projects/morpheus/)
 
 {{% intro "/projects/MORPHEUS.md" %}}
