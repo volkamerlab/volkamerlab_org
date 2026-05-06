@@ -36,7 +36,7 @@ At the Volkamer Lab, we develop novel methods at the interface between structura
 * [ML-based toxic endpoint prediction](/research/machine-learning/toxicity/)
   * [KnowTox](/projects/knowtox)
   * [Cytotoxicity](/projects/cytotox)
-  * [Morpheus](/projects/MORPHEUS)
+  * [Morpheus](/projects/morpheus)
   <!-- TODO * CP_Tox21 -->
 * [Deep learning based virtual screening](/projects/deeplearning-vs/)
 * [Data augmentation and deep learning for physico-chemical property prediction](/projects/maxsmi/)
