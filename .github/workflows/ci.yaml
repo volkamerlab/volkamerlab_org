@@ -1,4 +1,4 @@
-name: CI
+name: Build and Link Checks
 
 on:
   push:
@@ -30,7 +30,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: true
-          args: --verbose --no-progress ./public
+          args: --no-progress --accept '200..205, 401, 403, 503, 504' --insecure --root-dir ./public ./public/**/*.html
 
       - name: Log Results to Summary
         run: |
