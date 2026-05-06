@@ -2,47 +2,40 @@ name: CI
 
 on:
   push:
-    branches:
-      - "master"
+    branches: ["master", "hugo-updates"]
   pull_request:
-    branches:
-      - "master"
+    branches: ["master"]
   schedule:
-    # Run tests Tuesdays on master by default:
-    #   Scheduled workflows run on the latest commit on the default or base branch.
-    #   (from https://help.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events-schedule)
     - cron: "0 3 * * 2"
 
 jobs:
   broken-links:
-    name: Check 404s
+    name: Check links
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v6
+
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "0.65.3"
+          hugo-version: "latest"
           extended: true
-      - name: Build & check
+
+      - name: Build site
+        run: hugo --minify
+
+      - name: Check links with lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: true
+          args: --verbose --no-progress ./public
+
+      - name: Log Results to Summary
         run: |
-          hugo
-          npx linkinator ./public --recurse --retry --timeout=5000 --concurrency 10 --skip \
-            'https://github.com/volkamerlab/CADDCourse2020,
-             https://github.com/volkamerlab/CADDSeminar_2020,
-             https://github.com/volkamerlab/CADDSeminar_2019,
-             https://www.einsteinfoundation.de/en/people-projects/einstein-bih-visiting-fellows/john-chodera/,
-             https://www.einsteinfoundation.de/en/programmes/einstein-bih-visiting-fellow/,
-             https://systemsbiology.columbia.edu/faculty/mohammed-alquraishi,
-             https://systemsbiology.columbia.edu/,
-             https://www.bayer.com/,
-             linkedin.com,
-             html5up.net,
-             gepris.dfg.de,
-             dx.doi.org,
-             doi.org,
-             pubs.acs.org,
-             twitter.com,
-             https://www.csc.edu.cn/,
-             https://www.biorxiv.org/content/10.1101/2020.10.29.339317v2'
+          if [ -f lychee/report.md ]; then
+            echo "## Link Check Results" >> $GITHUB_STEP_SUMMARY
+            cat lychee/report.md >> $GITHUB_STEP_SUMMARY
+          fi
+
