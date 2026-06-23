@@ -25,6 +25,38 @@
 
 #  Books
 
+exapicheidou_medchem_2026:
+  key: exapicheidou_jmedchem_2026
+  title: "Hit-to-Lead Optimization of Energy-Coupling Factor (ECF) Transporter Inhibitors as Novel Antibiotic"
+  authors:
+    - Ioulia Exapicheidou
+    - Aleksei Tsarenko
+    - Lena Zeller
+    - hamza.ibrahim
+    - Carole Baumann
+    - Atanaz Shams
+    - Patrick A. Hoffmann
+    - Yue Li
+    - Andreas M. Kany
+    - Jennifer Hermann
+    - Dirk J. Slotboom
+    - Rolf Müller
+    - andrea.volkamer
+    - Mostafa M. Hamed
+    - Eleonora Diamanti
+    - Anna K. H. Hirsch
+  journal: "Journal of Medicinal Chemistry"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2026
+  date: "2026-06-06"
+  doi: "10.1021/acs.jmedchem.5c02721"
+  image: ""
+  pdf: "https://doi.org/10.1021/acs.jmedchem.5c02721"
+  kind: article
+
+
 ibrahim_chemrxiv_2026:
   key: ibrahim_chemrxiv_2026
   title: "MolDockLab: a data-driven workflow for balanced consensus docking in hit identification"
