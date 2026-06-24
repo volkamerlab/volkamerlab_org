@@ -2,11 +2,12 @@ baseURL = "https://volkamerlab.org/"
 languageCode = "en-us"
 title = "Volkamer Lab"
 author = "Volkamer Lab"
+disableKinds = ["taxonomy", "term"]
 [pagination]
   pagerSize = 5
 
 [permalinks]
-  blog = "/:year/:month/:filename/"
+  blog = "/:year/:month/:contentbasename/"
 
 # This is needed to allow HTML in our markdown files
 [markup.goldmark.renderer]
