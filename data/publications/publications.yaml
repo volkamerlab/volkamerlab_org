@@ -255,26 +255,6 @@ buchthal_chemrxiv_2025:
   kind: article
   category: "preprint"
 
-andersen_biorxiv_2025:
-  key: andersen_biorxiv_2025
-  title: "Accelerating ligand discovery by combining Bayesian optimization with MMGBSA-based binding affinity calculations"
-  authors:
-    - Lucas Andersen
-    - Max Rausch-Dupont
-    - Alejandro Martínez León
-    - andrea.volkamer
-    - Jochen S. Hub
-    - Dietrich Klakow
-  journal: "bioRxiv"
-  volume: ""
-  number: ""
-  pages: ""
-  year: 2025
-  date: "2025-06-27"
-  doi: "10.1101/2025.06.22.660936"
-  kind: article
-  category: "preprint"
-  
 kramer_acsomega_2026:
   key: kramer_acsomega_2026
   title: "CustomKinFragLib: Filtering the Kinase-Focused Fragmentation Library"
