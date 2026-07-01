@@ -24,7 +24,27 @@
 #     kind: article, review, book
 
 #  Books
-
+lopezrios_chemrxiv_2026:
+  key: lopezrios_chemrxiv_2026
+  title: "No Pose Left Behind: Integrating Activity and Structural Data with Uncertainty-Aware Multi-objective Learning for Kinase Inhibitor Prediction"
+  authors:
+    - raquel.castro
+    - michael.backenkoehler
+    - joschka.gross
+    - John D Chodera
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: "2026"
+  number: "0602"
+  pages: ""
+  year: 2026
+  date: "2026-06-02"
+  doi: "10.26434/chemrxiv.15004181/v1"
+  image: ""
+  pdf: "https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15004181/v1"
+  kind: article
+  category: "preprint"
+  
 andersen_digitaldiscovery_2026:
   key: andersen_digitaldiscovery_2026
   title: "Accelerating ligand discovery by combining Bayesian optimization with MMGBSA-based binding affinity calculations"
