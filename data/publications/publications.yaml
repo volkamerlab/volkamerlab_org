@@ -24,6 +24,25 @@
 #     kind: article, review, book
 
 #  Books
+rolli_researchsquare_2026:
+  key: rolli_researchsquare_2026
+  title: "A Comprehensive Evaluation of Machine Learning Pipelines for Toxic Endpoint Prediction"
+  authors:
+    - lisamarie.rolli
+    - loulwah.arnaout
+    - andrea.volkamer
+  journal: "Research Square"
+  volume: "2026"
+  number: ""
+  pages: ""
+  year: 2026
+  date: "2026-30-07"
+  doi: "10.21203/rs.3.rs-10470980/v1"
+  image: ""
+  kind: article
+  category: "preprint"
+
+
 lopezrios_chemrxiv_2026:
   key: lopezrios_chemrxiv_2026
   title: "No Pose Left Behind: Integrating Activity and Structural Data with Uncertainty-Aware Multi-objective Learning for Kinase Inhibitor Prediction"

@@ -19,6 +19,7 @@ external_resources:
 funding:
 - name: European Union’s Horizon Europe programme under grant agreement n° 101178148
 publications:
+- rolli_researchsquare_2026
 - lenhof_zenodo_2025
 - rolli_digitaldiscovery_2026
 ---
