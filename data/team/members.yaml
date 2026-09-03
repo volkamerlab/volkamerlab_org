@@ -176,11 +176,21 @@
       text: Linkedin
       url: https://www.linkedin.com/in/yanyuan-zhang/
 
+# Stub for the former name: keeps pre-2026 publications (printed byline "Ibrahim")
+# rendering as a link labelled "Hamza Ibrahim". `status: hidden` means no card is drawn;
+# the link resolves to the "hamza.agha" card below via its `aka` anchor.
 - name: Hamza Ibrahim
   key: hamza.ibrahim
+  status: hidden
+
+- name: Hamza Agha
+  card_name: Hamza (Ibrahim) Agha
+  key: hamza.agha
+  aka:
+    - hamza.ibrahim
   role: PhD candidate (UdS)
   status: member
-  project: Structure-based Machine Learning 
+  project: Structure-based Machine Learning
   image: /images/team/hamzaibrahim.jpg
   links:
     - icon: envelope
