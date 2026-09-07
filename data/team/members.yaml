@@ -268,11 +268,11 @@
       url: https://mosi.uni-saarland.de/people/
 
 - name: Mohammad Walid Shahrour
-  key: mohammad.shahrour
+  key: mohammadwalid.shahrour
   role: Associated PhD candidate (<a href="https://www.helmholtz-hips.de/en/research/teams/team/drug-design-and-optimisation/">Department of Drug Design and Optimization @ HIPS </a>)
   status: associate
   project: Computer-aided drug design of novel Elastase B (LasB) inhibitors in Pseudomonas aeruginosa
-  image: /images/team/mohammadshahrour.jpg
+  image: /images/team/mohammadwalidshahrour.jpg
   links:
     - icon: envelope
       text: mohammadwalid.shahrour@helmholtz-hips.de
@@ -427,6 +427,20 @@
     - icon: linkedin
       text: Linkedin
       url: https://www.linkedin.com/in/prafful-sharma/
+      
+- name: Ahmed Lamloum
+  key: ahmed.lamloum
+  role: Master student, Bioinformatics (UdS)
+  status: studentmember
+  project: Pharmacophore-based screening strategies
+  image: /images/team/ahmedlamloum.png
+  links:
+    - icon: envelope
+      text: ahla00001@stud.uni-saarland.de
+      url: mailto:ahla00001@stud.uni-saarland.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/ahlamloum    
 # --ALUMNI--
 
 # --2026--
