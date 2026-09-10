@@ -24,6 +24,481 @@
 #     kind: article, review, book
 
 #  Books
+agha_npjdrugdiscov_2026:
+  key: agha_npjdrugdiscov_2026
+  title: "Data-driven selection of consensus docking pipelines for structure-based hit identification"
+  authors:
+    - hamza.agha
+    - Youssef Ibrahim
+    - michael.backenkoehler
+    - lacour.antoine
+    - Mostafa M. Hamed
+    - Anna K. H. Hirsch
+    - andrea.volkamer
+  journal: "npj Drug Discovery"
+  volume: "3"
+  number: "37"
+  pages: "37"
+  year: 2026
+  date: "2026-09-02"
+  doi: "10.1038/s44386-026-00063-4"
+  image: ""
+  pdf: "https://www.nature.com/articles/s44386-026-00063-4.pdf"
+  kind: article
+
+rolli_researchsquare_2026:
+  key: rolli_researchsquare_2026
+  title: "A Comprehensive Evaluation of Machine Learning Pipelines for Toxic Endpoint Prediction"
+  authors:
+    - lisamarie.rolli
+    - loulwah.arnaout
+    - andrea.volkamer
+  journal: "Research Square"
+  volume: "2026"
+  number: ""
+  pages: ""
+  year: 2026
+  date: "2026-30-07"
+  doi: "10.21203/rs.3.rs-10470980/v1"
+  image: ""
+  kind: article
+  category: "preprint"
+
+
+lopezrios_chemrxiv_2026:
+  key: lopezrios_chemrxiv_2026
+  title: "No Pose Left Behind: Integrating Activity and Structural Data with Uncertainty-Aware Multi-objective Learning for Kinase Inhibitor Prediction"
+  authors:
+    - raquel.castro
+    - michael.backenkoehler
+    - joschka.gross
+    - John D Chodera
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: "2026"
+  number: "0602"
+  pages: ""
+  year: 2026
+  date: "2026-06-02"
+  doi: "10.26434/chemrxiv.15004181/v1"
+  image: ""
+  pdf: "https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15004181/v1"
+  kind: article
+  category: "preprint"
+  
+andersen_digitaldiscovery_2026:
+  key: andersen_digitaldiscovery_2026
+  title: "Accelerating ligand discovery by combining Bayesian optimization with MMGBSA-based binding affinity calculations"
+  authors:
+    - Lucas Andersen
+    - Max Rausch-Dupont
+    - Alejandro Martínez León
+    - andrea.volkamer
+    - Jochen S. Hub
+    - Dietrich Klakow
+  journal: "Digital Discovery"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2026
+  date: "2026-06-08"
+  doi: "https://doi.org/10.1039/D5DD00522A"
+  image: ""
+  pdf: ""
+  kind: article
+  
+exapicheidou_medchem_2026:
+  key: exapicheidou_jmedchem_2026
+  title: "Hit-to-Lead Optimization of Energy-Coupling Factor (ECF) Transporter Inhibitors as Novel Antibiotic"
+  authors:
+    - Ioulia Exapicheidou
+    - Aleksei Tsarenko
+    - Lena Zeller
+    - hamza.ibrahim
+    - Carole Baumann
+    - Atanaz Shams
+    - Patrick A. Hoffmann
+    - Yue Li
+    - Andreas M. Kany
+    - Jennifer Hermann
+    - Dirk J. Slotboom
+    - Rolf Müller
+    - andrea.volkamer
+    - Mostafa M. Hamed
+    - Eleonora Diamanti
+    - Anna K. H. Hirsch
+  journal: "Journal of Medicinal Chemistry"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2026
+  date: "2026-06-06"
+  doi: "10.1021/acs.jmedchem.5c02721"
+  image: ""
+  pdf: "https://doi.org/10.1021/acs.jmedchem.5c02721"
+  kind: article
+  
+wang_arxiv_2026:
+  key: wang_arxiv_2026
+  title: "Chemical Language Models for Natural Products: A State-Space Model Approach"
+  authors:
+    - Ho-Hsuan Wang
+    - afnan.sultan
+    - andrea.volkamer
+    - Dietrich Klakow
+  journal: "arXiv"
+  volume: "2026"
+  number: "2602.13958"
+  pages: ""
+  year: 2026
+  date: "2026-02-15"
+  doi: "10.48550/arXiv.2602.13958"
+  image: ""
+  pdf: "https://arxiv.org/pdf/2602.13958"
+  kind: article
+  category: "preprint"
+  
+backenkoehler_chemrxiv_2026:
+  key: backenkoehler_chemrxiv_2026
+  title: "Assay-Based Machine Learning: Rethinking Evaluation in Drug Discovery"
+  authors:
+    - michael.backenkoehler
+    - joschka.gross
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: "2026"
+  number: "0223"
+  pages: ""
+  year: 2026
+  date: "2026-02-23"
+  doi: "10.26434/chemrxiv-2025-zsk6d/v2"
+  image: ""
+  pdf: "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv-2025-zsk6d/v2"
+  kind: article
+  category: "preprint"
+
+backenkoehler_chempfn_2026:
+  key: backenkoehler_chempfn_2026
+  title: "ChemPFN: Unified Bayesian Modelling of Bioactivities Across ChEMBL"
+  authors:
+    - michael.backenkoehler
+    - joschka.gross
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: "2026"
+  number: "0222"
+  pages: ""
+  year: 2026
+  date: "2026-02-22"
+  doi: "10.26434/chemrxiv.15000292/v1"
+  image: ""
+  pdf: "https://chemrxiv.org/doi/pdf/10.26434/chemrxiv.15000292/v1"
+  category: "preprint"
+
+odje_morphological_2026:
+  key: odje_morphological_2026
+  title: "Morphological Data Analysis: From Descriptor Development to Predictive Modeling"
+  authors:
+    - floriane.odje
+    - lisamarie.rolli
+    - andrea.volkamer
+  journal: "Methods in Molecular Biology"
+  volume: "2989"
+  number: ""
+  pages: "151–187"
+  year: 2026
+  date: "2026-01-05"
+  doi: "10.1007/978-1-0716-4985-5_8"
+  image: ""
+  pdf: ""
+  kind: book
+
+castro_livecoms_2025:
+  key: castro_livecoms_2025
+  title: "The Journey of Data: Lessons Learned in Modeling Kinase Affinity, Selectivity, and Resistance"
+  authors:
+    - raquel.castro
+    - jaime.rodriguez
+    - david.schaller
+    - talia.kimber
+    - corey.taylor
+    - Jessica B. White
+    - michael.backenkoehler
+    - joschka.gross
+    - Alexander Payne
+    - Benjamin Kaminow
+    - Ivan Pulido
+    - Sukrit Singh
+    - paula.kramer
+    - guillermo.hernandez
+    - andrea.volkamer
+    - John D. Chodera
+  journal: "Living Journal of Computational Molecular Science"
+  volume: "6"
+  number: "1"
+  pages: "3875"
+  year: 2025
+  date: "2025-11-19"
+  doi: "https://doi.org/10.33011/livecoms.6.1.3875"
+  image: ""
+  pdf: "https://livecomsjournal.org/index.php/livecoms/article/view/v6i1e3875/3181"
+  kind: article
+  
+lenhof_zenodo_2025:
+  key: lenhof_zenodo_2025
+  title: "The trustworthiness landscape in machine learning: a conceptual guide with applications in medicine"
+  authors:
+    - Kerstin Lenhof
+    - lisamarie.rolli
+    - Lorina Buhr
+    - Sebastian Roth
+    - Ruta Binkyte
+    - Silke Schicktanz
+    - Mario Fritz
+    - andrea.volkamer
+    - Niko Beerenwinkel
+  journal: "zenodo"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2025
+  date: "2025-11-12"
+  doi: "10.5281/zenodo.17591544"
+  kind: review
+  category: preprint
+
+
+buchthal_chemrxiv_2025:
+  key: buchthal_chemrxiv_2025
+  title: "Subpocket-Aware Fragment-Based Docking Pipeline for Kinase Ligand Design: Methodology and PKA Case Study"
+  authors:
+    - katharina.buchthal
+    - paula.kramer
+    - Dominik Hubach
+    - Gina Bach
+    - Naemi Wagner
+    - Johannes Krieger
+    - Moritz Klöpper
+    - Michael Daude
+    - Wibke Diederich
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2025
+  date: "2025-09-25"
+  doi: "10.26434/chemrxiv-2025-f9ctg"
+  kind: article
+  category: "preprint"
+
+kramer_acsomega_2026:
+  key: kramer_acsomega_2026
+  title: "CustomKinFragLib: Filtering the Kinase-Focused Fragmentation Library"
+  authors:
+    - paula.kramer
+    - katharina.buchthal
+    - dominique.sydow
+    - Katharina Sonja Leo
+    - andrea.volkamer
+  journal: "ACS Omega"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2026
+  date: "2026-03-06"
+  doi: "10.1021/acsomega.5c12231"
+  kind: article
+
+rolli_digitaldiscovery_2026:
+  key: rolli_digitaldiscovery_2026
+  title: "Increasing trustworthiness of machine learning-based drug sensitivity prediction with a multivariate random forest approach"
+  authors:
+    - lisamarie.rolli
+    - Lea Eckhart
+    - lutz.herrmann
+    - andrea.volkamer
+    - Hans-Peter Lenhof
+    - Kerstin Lenhof
+  journal: "Digital Discovery"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2026
+  date: "2026-03-25"
+  doi: "https://doi.org/10.1039/D5DD00284B"
+  image: ""
+  pdf: ""
+  kind: article
+
+
+gross_ails_2026:
+  key: gross_ails_2026
+  title: "Evaluation Beyond Goodness of Fit: Biophysical Alignment of AI Models for Kinase-Centric Drug Discovery"
+  authors:
+    - joschka.gross
+    - michael.backenkoehler
+    - paula.kramer
+    - raquel.castro
+    - guillermo.hernandez
+    - Verena Wolf
+    - andrea.volkamer
+  journal: "Artificial Intelligence in the Life Sciences"
+  volume: "9"
+  number: "100169"
+  pages: ""
+  year: 2026
+  date: "2026-05-02"
+  doi: "https://doi.org/10.1016/j.ailsci.2026.100169"
+  kind: article
+  
+sowa_medchem_2025:
+  key: sowa_medchem_2025
+  title: "Deconstruction of Dual-Site Tankyrase Inhibitors Provides Insights into Binding Energetics and Suggests Critical Hotspots for Ligand Optimization"
+  authors:
+    - Sven T. Sowa
+    - Murat Kücükdisli
+    - Yelena Mostinski
+    - david.schaller
+    - Carolina S. Vinagreiro
+    - Davide Cirillo
+    - Chiara Bosetti
+    - Shoshy Alam Brinch
+    - Kirsten van Laar
+    - Anita Wegert
+    - Ruben G. G. Leenders
+    - Stefan Krauss
+    - Jo Waaler
+    - andrea.volkamer
+    - Lari Lehtiö
+    - Marc Nazaré
+  journal: "Journal of Medicinal Chemistry"
+  volume: "68"
+  number: "7"
+  pages: "7263-7279"
+  year: 2025
+  date: "2025-04-10"
+  doi: "10.1021/acs.jmedchem.4c02845"
+  image: ""
+  pdf: ""
+  kind: article
+
+singh_jpcb_2025:
+  key: singh_jpcb_2025
+  title: "Prospective Evaluation of Structure-Based Simulations Reveal Their Ability to Predict the Impact of Kinase Mutations on Inhibitor Binding"
+  authors:
+    - Sukrit Singh
+    - Vytautas Gapsys
+    - Matteo Aldeghi
+    - david.schaller
+    - Aziz M. Rangwala
+    - Jessica B. White
+    - Joseph P. Bluck
+    - Jenke Scheen
+    - William G. Glass
+    - Jiaye Guo
+    - Sikander Hayat
+    - Bert L. de Groot
+    - andrea.volkamer
+    - Clara D. Christ
+    - Markus A. Seeliger
+    - John D. Chodera
+  journal: "The Journal of Physical Chemistry B"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2025
+  date: "2025-03-07"
+  doi: "https://doi.org/10.1021/acs.jpcb.4c07794"
+  image: ""
+  pdf: ""
+  kind: "article"
+
+ariamajd_arxiv_2025:
+  key: ariamajd_pypackit_2025
+  title: "PyPackIT: Automated Research Software Engineering for Scientific Python Applications on GitHub"
+  authors:
+    - armin.ariamajd
+    - raquel.castro
+    - andrea.volkamer
+  journal: "arXiv"
+  year: 2025
+  date: "2025-03-06"
+  eprint: "2503.04921"
+  doi: "https://doi.org/10.48550/arXiv.2503.04921"
+  image: ""
+  pdf: ""
+  category: "preprint"
+
+sultan_jchem_2026:
+  key: sultan_jchem_2026
+  title: "Transformers for molecular property prediction: Domain adaptation efficiently improves performance"
+  authors:
+    - afnan.sultan
+    - Max Rausch-Dupont
+    - Shahrukh Khan
+    - Olga Kalinina
+    - andrea.volkamer
+    - Dietrich Klakow
+  journal: "Journal of Cheminformatics"
+  volume: "18"
+  number: "1"
+  pages: "107"
+  year: 2026
+  date: "2026-07-29"
+  doi: " https://doi.org/10.1186/s13321-026-01252-z"
+  image: ""
+  pdf: ""
+  kind: "article"
+
+
+fung_chem_2024:
+  key: fung_chem_2024
+  title: "Chemical education in digital chemistry"
+  authors:
+    - Fun Man Fung
+    - Magdalena Lederbauer
+    - Yvonne S.L. Choo
+    - Timo Gehring
+    - Kevin Maik Jablonka
+    - Kjell Jorner
+    - Philippe Schwaller
+    - Michael B. Sullivan
+    - andrea.volkamer
+    - Matthew S. Sigman
+    - Kuangbiao Liao
+    - Charles Windle
+  journal: "Chem"
+  volume: "10"
+  number: "12"
+  pages: "3519–3525"
+  year: 2024
+  date: "2024-12-12"
+  doi: "https://doi.org/10.1016/j.chempr.2024.10.010"
+  image: ""
+  pdf: ""
+  kind: "article"
+
+
+schaller_jcim_2024:
+  key: schaller_jcim_2024
+  title: "Benchmarking Cross-Docking Strategies in Kinase Drug Discovery"
+  authors:
+    - david.schaller
+    - Clara D Christ
+    - John D Chodera
+    - andrea.volkamer
+  journal: "Journal of Chemical Information and Modeling"
+  volume: ""
+  number: ""
+  pages: ""
+  year: 2024
+  date: "2024-11-18"
+  doi: "10.1021/acs.jcim.4c00905"
+  image: ""
+  pdf: ""
+  kind: "article"
+
 
 sultan_jcim_2024:
   key: sultan_jcim_2024
@@ -132,7 +607,7 @@ castro_chemrxiv_2024:
   title: "Analyzing Interfaces, Interactions and Self-Assembly in Soft Matter Simulations with PySoftK"
   authors:
     - raquel.castro
-    - Alejandro Santana-Bonilla 
+    - Alejandro Santana-Bonilla
     - Robert M. Ziolek
     - Christian D. Lorenz
   journal: "ChemRxiv"
@@ -224,7 +699,7 @@ boby_science_2023:
      image: ""
      pdf: ""
      kind: article
-     
+
 schaller_biorxiv_2023:
      key: schaller_biorxiv_2023
      title: "Benchmarking Cross-Docking Strategies for Structure-Informed Machine Learning in Kinase Drug Discovery"
