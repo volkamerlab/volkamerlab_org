@@ -430,8 +430,8 @@ ariamajd_arxiv_2025:
   pdf: ""
   category: "preprint"
 
-sultan_arxiv_2025:
-  key: sultan_arxiv_2025
+sultan_jchem_2026:
+  key: sultan_jchem_2026
   title: "Transformers for molecular property prediction: Domain adaptation efficiently improves performance"
   authors:
     - afnan.sultan
@@ -440,17 +440,16 @@ sultan_arxiv_2025:
     - Olga Kalinina
     - andrea.volkamer
     - Dietrich Klakow
-  journal: "arXiv"
-  volume: ""
-  number: ""
-  pages: ""
-  year: 2025
-  date: "2025-03-05"
-  eprint: "2503.03360"
-  doi: "https://doi.org/10.48550/arXiv.2503.03360"
+  journal: "Journal of Cheminformatics"
+  volume: "18"
+  number: "1"
+  pages: "107"
+  year: 2026
+  date: "2026-07-29"
+  doi: "https://doi.org/10.1186/s13321-026-01252-z"
   image: ""
   pdf: ""
-  category: "preprint"
+  kind: "article"
 
 
 fung_chem_2024:
