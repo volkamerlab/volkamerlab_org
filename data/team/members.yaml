@@ -309,9 +309,9 @@
 
 - name: Maximilian Bähr
   key: maximilian.baehr
-  role: Bachelor student, Bioinformatics (UdS)
+  role: Masters student, Bioinformatics (UdS)
   status: studentmember
-  project: Active Learning
+  project: Shape & Pharmacophore Biased Docking
   image: /images/team/maxbaehr.jpg
   links:
     - icon: envelope
