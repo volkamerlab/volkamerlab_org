@@ -446,8 +446,8 @@
   key: ben.horvath
   role: Master student, Bioinformatics (UdS)
   status: studentmember
-  project: PLIPify: Protein-Ligand Interaction Frequencies across Multiple Structures
-  image: /images/team/benhorvath.png
+  project: "PLIPify: Protein-Ligand Interaction Frequencies across Multiple Structures"
+  image: /images/team/benhorvath.jpg
   links:
     - icon: envelope
       text: beho00003@uni-saarland.de
