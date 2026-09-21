@@ -403,16 +403,7 @@
       text: GitHub
       url: https://github.com/adla00004
       
-- name: Florian Sollinger
-  key: florian.sollinger
-  role: Bachelor student, Bioinformatics (UdS & supervised by <a href="https://cispa.de/de/people/c01rebu" target="_blank">Dr. Rebekka Burkholz @ CISPA</a>)
-  status: studentmember
-  project: GNNs for toxicity prediction
-  image: /images/team/floriansollinger.jpg
-  links:
-    - icon: envelope
-      text: flso00002@stud.uni-saarland.de
-      url: mailto:flso00002@stud.uni-saarland.de
+
       
 - name: Prafful Sharma
   key: prafful.sharma
@@ -461,6 +452,15 @@
 # --ALUMNI--
 
 # --2026--
+
+- name: Florian Sollinger
+  key: florian.sollinger
+  role: Bachelor student, Bioinformatics (UdS)
+  contact_link: https://cispa.de/de/people/c01rebu 
+  contact_text:  co-supervised by Dr. Rebekka Burkholz @ CISPA
+  status: alumni
+  project: GNNs for toxicity prediction
+  left_date: "2026-07-22"
 
 - name: Yonghui Chen
   prefix:
