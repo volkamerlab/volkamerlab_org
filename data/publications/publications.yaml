@@ -540,25 +540,24 @@ sultan_jcim_2024:
   pdf: ""
   kind: article
   
-lacour_chemrxiv_2024:
-  key: lacour_chemrxiv_2024
-  title: "DockM8: An All-in-One Open-Source Platform for Consensus Virtual Screening in Drug Design"
+lacour_jcheminform_2026:
+  key: lacour_jcheminform_2026
+  title: "DockM8: an all-in-one open-source platform for consensus virtual screening in drug design"
   authors:
     - lacour.antoine
-    - hamza.ibrahim
-    - andrea.volkamer
+    - hamza.agha
     - Anna K. H. Hirsch
-  journal: "ChemRxiv"
+    - andrea.volkamer
+  journal: "Journal of Cheminformatics"
   volume: ""
   number: ""
   pages: ""
-  year: 2024
-  date: "2024-07-23"
-  doi: "10.26434/chemrxiv-2024-17k46"
+  year: 2026
+  date: "2026-09-18"
+  doi: "10.1186/s13321-026-01287-2"
   image: ""
   pdf: ""
   kind: article
-  category: "preprint"
   
 odje_fronintox_2024:
      key: odje_fronintox_2024
