@@ -507,7 +507,7 @@
 
 - name: Mine Caner
   key: mine.caner
-  role: Master student, Bioinformatics (UdS)
+  role: Master student, Bioinformatics (UdS), Intern AI Safety Saarland
   status: alumni
   contact_text: AI Safety Saarland
   project: Interpretable Machine Learning for Toxicity Prediction
