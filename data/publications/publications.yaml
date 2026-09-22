@@ -24,6 +24,27 @@
 #     kind: article, review, book
 
 #  Books
+agha_chemrxiv_2026:
+  key: agha_chemrxiv_2026
+  title: "Explainable ML force-field for evaluating protein–ligand binding energy using SO3LR"
+  authors:
+    - hamza.agha
+    - Sergio Suárez-Dou
+    - Adil Kabylda
+    - Alexandre Tkatchenko
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: "2026"
+  number: "0908"
+  pages: ""
+  year: 2026
+  date: "2026-09-08"
+  doi: "10.26434/chemrxiv.15008482/v1"
+  image: ""
+  pdf: "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008482/v1"
+  kind: article
+  category: "preprint"
+
 agha_npjdrugdiscov_2026:
   key: agha_npjdrugdiscov_2026
   title: "Data-driven selection of consensus docking pipelines for structure-based hit identification"
@@ -58,7 +79,7 @@ rolli_researchsquare_2026:
   number: ""
   pages: ""
   year: 2026
-  date: "2026-30-07"
+  date: "2026-07-30"
   doi: "10.21203/rs.3.rs-10470980/v1"
   image: ""
   kind: article
