@@ -4,7 +4,7 @@
   key: andrea.volkamer
   role: Group leader
   status: teamleader
-  image: /images/team/andreavolkamer.jpg
+  image: /images/team/andreavolkamer.png
   links:
     # `icon` refers to a FontAwesome v4 icon, sans the prefix `fa-`.
     - icon: envelope
