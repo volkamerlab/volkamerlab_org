@@ -124,11 +124,11 @@
   role: PhD candidate (UdS)
   status: member
   project: Development of DL models based on morphological and molecular data. BMBF-funded MORPHEUS project
-  image: /images/team/florianeodje.JPEG
+  image: /images/team/florianeodje.jpg
   links:
     - icon: envelope
-      text: floriane.odje@gmail.com
-      url: mailto:floriane.odje@gmail.com
+      text: floriane.odje@uni-saarland.de
+      url: mailto:floriane.odje@uni-saarland.de
     - icon: github
       text: GitHub
       url: https://github.com/f-sod
