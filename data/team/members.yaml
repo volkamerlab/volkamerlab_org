@@ -4,7 +4,7 @@
   key: andrea.volkamer
   role: Group leader
   status: teamleader
-  image: /images/team/andreavolkamer.jpg
+  image: /images/team/andreavolkamer.png
   links:
     # `icon` refers to a FontAwesome v4 icon, sans the prefix `fa-`.
     - icon: envelope
@@ -201,7 +201,7 @@
       url: https://github.com/hamzaibrahim21
     - icon: linkedin
       text: Linkedin
-      url: https://www.linkedin.com/in/hamza-ibrahim-3648aa111/
+      url: https://www.linkedin.com/in/hamza-agha-3648aa111/
     - icon: graduation-cap
       text: Google Scholar
       url: https://scholar.google.com/citations?user=J0EUa7gAAAAJ&hl=en
@@ -309,9 +309,9 @@
 
 - name: Maximilian Bähr
   key: maximilian.baehr
-  role: Bachelor student, Bioinformatics (UdS)
+  role: Master student, Bioinformatics (UdS)
   status: studentmember
-  project: Active Learning
+  project: Shape & Pharmacophore Biased Docking
   image: /images/team/maxbaehr.jpg
   links:
     - icon: envelope
@@ -355,22 +355,9 @@
 - name: Gilbert El Khoury
   key: gilbert.elkhoury
   role: Master student, Bioinformatics (UdS)
-  status: studentmember
+  status: alumni
+  left_date: "2026-08-01"
   project: DataM8 development - Python library for registry integration to accelerate ensemble docking workflows
-  image: /images/team/gilbertelkhoury.jpeg
-  links:
-    - icon: envelope
-      text: giel00001@uni-saarland.de
-      url: mailto:giel00001@uni-saarland.de
-    - icon: linkedin
-      text: Linkedin
-      url: https://www.linkedin.com/in/gilbert-el-khoury-a79116162/
-    - icon: github
-      text: GitHub
-      url: https://github.com/gilbert-elkhoury
-    - icon: graduation-cap
-      text: Google Scholar
-      url: https://scholar.google.com/citations?hl=en&user=s_epwCMAAAAJ
 
 - name: Loulwah Arnaout
   key: loulwah.arnaout
@@ -403,16 +390,7 @@
       text: GitHub
       url: https://github.com/adla00004
       
-- name: Florian Sollinger
-  key: florian.sollinger
-  role: Bachelor student, Bioinformatics (UdS & supervised by <a href="https://cispa.de/de/people/c01rebu" target="_blank">Dr. Rebekka Burkholz @ CISPA</a>)
-  status: studentmember
-  project: GNNs for toxicity prediction
-  image: /images/team/floriansollinger.jpg
-  links:
-    - icon: envelope
-      text: flso00002@stud.uni-saarland.de
-      url: mailto:flso00002@stud.uni-saarland.de
+
       
 - name: Prafful Sharma
   key: prafful.sharma
@@ -462,6 +440,15 @@
 
 # --2026--
 
+- name: Florian Sollinger
+  key: florian.sollinger
+  role: Bachelor student, Bioinformatics (UdS)
+  contact_link: https://cispa.de/de/people/c01rebu 
+  contact_text:  co-supervised by Dr. Rebekka Burkholz @ CISPA
+  status: alumni
+  project: GNNs for toxicity prediction
+  left_date: "2026-07-22"
+
 - name: Yonghui Chen
   prefix:
   key: yonghui.chen
@@ -499,19 +486,15 @@
 
 - name: Zenab Khan
   key: zenab.khan
-  role: Master student, Bioinformatics (UdS) 
+  role: Master student, Bioinformatics (UdS), Intern AI Safety Saarland 
   status: alumni
-  contact_link: https://www.ais-saarland.org/
-  contact_text: AI Safety Saarland
   project: Interpretable ML for Toxicity Prediction Using Random Forest Graphs
   left_date: "2026-01-30"
 
 - name: Mine Caner
   key: mine.caner
-  role: Master student, Bioinformatics (UdS)
+  role: Master student, Bioinformatics (UdS), Intern AI Safety Saarland
   status: alumni
-  contact_link: https://www.ais-saarland.org/
-  contact_text: AI Safety Saarland
   project: Interpretable Machine Learning for Toxicity Prediction
   left_date: "2026-01-30"
 

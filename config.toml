@@ -1,5 +1,5 @@
 baseURL = "https://volkamerlab.org/"
-languageCode = "en-us"
+locale = "en-us"
 title = "Volkamer Lab"
 author = "Volkamer Lab"
 disableKinds = ["taxonomy", "term"]
