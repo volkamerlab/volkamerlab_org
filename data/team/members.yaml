@@ -442,6 +442,23 @@
     - icon: github
       text: GitHub
       url: https://github.com/b-horvath
+
+- name: Lakshana Bakthavachalam
+  key: lakshana.bakthavachalam
+  role: Master student, Bioinformatics (UdS)
+  status: studentmember
+  project: "Benchmarking deep learning-based docking tools"
+  image: /images/team/Lakshana.jpg
+  links:
+    - icon: envelope
+      text: laba00016@stud.uni-saarland.de
+      url: mailto:laba00016@stud.uni-saarland.de
+    - icon: linkedin
+      text: Linkedin
+      url: https://www.linkedin.com/in/lakshana-bakthavachalam-/
+    - icon: github
+      text: GitHub
+      url: https://github.com/BLakshana
 # --ALUMNI--
 
 # --2026--
