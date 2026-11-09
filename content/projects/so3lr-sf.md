@@ -22,7 +22,7 @@ collaborators:
   more: University of Luxembourg
 ---
 
-Accurate estimation of protein–ligand binding affinities is central to structure-based drug design. Classical force fields neglect important quantum-mechanical effects, while quantum-mechanical methods remain impractical for large biomolecular systems. To bridge this gap, we introduce SO3LR-SF, a fast and explainable physics-based scoring function built on the pretrained SO3LR machine-learned force field (MLFF) and its SO3LR-Tauri variants (SO3LR-T-S, SO3LR-T-M, SO3LR-T-L). Since it requires no training on binding-affinity data, it avoids the inflated performance that can arise for MLFFs trained on protein–ligand complexes.
+Accurate estimation of protein–ligand binding affinities is central to structure-based drug design. Classical force fields neglect important quantum-mechanical effects, while quantum-mechanical methods remain impractical for large biomolecular systems. To bridge this gap, we introduce SO3LR-SF, a fast and explainable physics-based scoring function built on the pretrained SO3LR machine-learned force field (MLFF) and its SO3LR-Tauri variants (SO3LR-T-S, SO3LR-T-M, SO3LR-T-L).
 
 <!--more-->
 <figure style="width: 92%; max-width: 1100px; margin: 2.5em auto;">
