@@ -24,6 +24,27 @@
 #     kind: article, review, book
 
 #  Books
+
+kramer_chemrxiv_2026:
+  key: kramer_chemrxiv_2026
+  title: "Active Learning for Fragment-Based Kinase Inhibitor Discovery using Docking"
+  authors:
+    - paula.kramer
+    - michael.backenkoehler
+    - andrea.volkamer
+  journal: "ChemRxiv"
+  volume: "2026"
+  number: ""
+  pages: ""
+  year: 2026
+  date: "2026-11-05"
+  doi: "10.26434/chemrxiv.15011770/v1"
+  image: ""
+  pdf: "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15011770/v1"
+  kind: article
+  category: "preprint"
+
+
 agha_chemrxiv_2026:
   key: agha_chemrxiv_2026
   title: "Explainable ML force-field for evaluating protein–ligand binding energy using SO3LR"
